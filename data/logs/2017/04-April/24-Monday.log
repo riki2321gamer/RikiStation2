@@ -1,0 +1,2671 @@
+
+
+Starting up. 13:18:50
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode clockwork cult (clockwork_cult) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode Devil Agents (devil_agents) to configuration.
+Adding game mode devil (devil) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode secret extended (secret extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: malfunction.
+Unknown continuous configuration definition: malfunction.
+Unknown midround antagonist configuration definition: malfunction.
+Saved mode is 'sandbox'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[13:18:50]ADMIN: Loading Banlist
+[13:19:24]GAME: Crashed Shuttle loaded at at 36,69,5
+[13:19:24]GAME: The Wishgranter Cube loaded at at 194,72,5
+[13:19:24]GAME: Survival Capsule Ruins loaded at at 216,87,5
+[13:19:24]GAME: Ruined Pizza Party loaded at at 87,104,5
+[13:19:25]GAME: Syndicate Lava Base loaded at at 127,108,5
+[13:19:26]GAME: Authorship loaded at at 154,167,8
+[13:19:26]GAME: Sky Bulge Tomb loaded at at 152,33,8
+[13:19:27]GAME: Abandoned Telecommunications Satellite loaded at at 143,47,3
+[13:19:27]GAME: Derelict 3 loaded at at 104,65,10
+[13:19:27]GAME: Aesthetic Outpost loaded at at 76,84,8
+[13:19:27]GAME: DJ Station loaded at at 122,151,3
+[13:19:34]GAME: Syndicate Ambush loaded at at 27,99,10
+[13:19:34]GAME: Asteroid 4 loaded at at 52,212,3
+[13:19:35]GAME: Biological Storage Facility loaded at at 213,203,8
+[13:19:35]GAME: DK Excavator 453 loaded at at 174,81,9
+[13:19:35]GAME: Detached Teleporter loaded at at 94,89,4
+[13:19:35]GAME: Salvation loaded at at 113,40,10
+[13:19:35]GAME: Unnamed Turreted Outpost loaded at at 25,201,3
+[13:19:35]GAME: A Giant Ball of Paper in Space loaded at at 179,105,10
+[13:19:37]GAME: The Twin-Nexus Hotel loaded at at 69,152,10
+[13:19:37]GAME: Asteroid 2 loaded at at 150,99,10
+[13:20:44]ACCESS: Login: Guest-3622605515 from 127.0.0.1-3622605515 || BYOND v511
+[13:20:44]ACCESS: Mob Login: Guest-3622605515/(Guest-3622605515) was assigned to a /mob/dead/new_player
+[13:20:53]ACCESS: Logout: Guest-3622605515/(Guest-3622605515)
+[13:26:57]ACCESS: Login: Riki2321gamer from 127.0.0.1-3622605515 || BYOND v511
+[13:26:57]ACCESS: Mob Login: Riki2321gamer/(Riki2321gamer) was assigned to a /mob/dead/new_player
+[13:27:10]ACCESS: Logout: Riki2321gamer/(Riki2321gamer)
+
+
+Starting up. 15:24:01
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode clockwork cult (clockwork_cult) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode Devil Agents (devil_agents) to configuration.
+Adding game mode devil (devil) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode secret extended (secret extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: malfunction.
+Unknown continuous configuration definition: malfunction.
+Unknown midround antagonist configuration definition: malfunction.
+Saved mode is 'sandbox'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[15:24:01]ADMIN: Loading Banlist
+[15:24:32]GAME: Survival Capsule Ruins loaded at at 216,114,5
+[15:24:33]GAME: Hierophant's Arena loaded at at 89,197,5
+[15:24:33]GAME: Ruin of Envy loaded at at 42,162,5
+[15:24:33]GAME: Ruin of Pride loaded at at 184,54,5
+[15:24:33]GAME: Seed Vault loaded at at 167,89,5
+[15:24:33]GAME: Biodome Clown Planet loaded at at 152,31,5
+[15:24:34]GAME: Xenomorph Nest loaded at at 41,65,5
+[15:24:35]GAME: A Giant Ball of Paper in Space loaded at at 95,160,7
+[15:24:35]GAME: CF Corsair loaded at at 206,62,10
+[15:24:35]GAME: Aesthetic Outpost loaded at at 171,215,8
+[15:24:35]GAME: Asteroid 5 loaded at at 89,139,10
+[15:24:35]GAME: Sky Bulge Tomb loaded at at 186,117,9
+[15:24:35]GAME: Asteroid 1 loaded at at 83,139,9
+[15:24:36]GAME: Derelict 3 loaded at at 113,32,4
+[15:24:36]GAME: Abandoned Telecommunications Satellite loaded at at 115,53,8
+[15:24:37]GAME: Salvation loaded at at 165,74,8
+[15:24:37]GAME: Asteroid 3 loaded at at 192,185,8
+[15:24:37]GAME: Asteroid 2 loaded at at 170,63,9
+[15:24:37]GAME: Empty Shell loaded at at 51,202,4
+[15:24:37]GAME: Derelict Tradepost loaded at at 149,28,6
+[15:24:37]GAME: Crashed Clown Ship loaded at at 133,108,8
+[15:24:37]GAME: Abandoned Teleporter loaded at at 50,109,6
+[15:24:38]GAME: Syndicate Listening Station loaded at at 151,48,4
+[15:30:52]ACCESS: Login: Riki2321gamer from 127.0.0.1-3622605515 || BYOND v511
+[15:30:52]ACCESS: Mob Login: Riki2321gamer/(Riki2321gamer) was assigned to a /mob/dead/new_player
+[15:31:20]ADMIN: Riki2321gamer has started the game.
+[15:31:21]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/living/carbon/human
+[15:31:24]SAY: mouse/ : Squeek?
+[15:31:24]SAY: mouse/ : SQUEEK!
+[15:31:24]SAY: Mjor the Creative/ : Rise, my creations! Jump off your pages and into this realm!
+[15:31:26]SAY: Officer Beepsky/ : Engaging patrol mode.
+[15:31:26]SAY: Prison Ofitser/ : Engaging patrol mode.
+[15:31:26]SAY: Prison Ofitser/ : Disengaging patrol mode.
+[15:31:28]SAY: Medibot/ : Radar, put a mask on!
+[15:31:38]SAY: Runtime/ : Purr!
+[15:31:42]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[15:31:44]EMOTE: *no key*/(Clown) : <b>Clown</b> honks
+[15:31:44]SAY: Mjor the Creative/ : Rise, my creations! Jump off your pages and into this realm!
+[15:31:48]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> waves her tail.
+[15:31:57]SAY: Poly/ : Sophie Teagarden has signed up as Assistant
+[15:31:57]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> jumps!
+[15:31:57]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[15:31:58]EMOTE: *no key*/(Ian) : <b>Ian</b> yaps.
+[15:32:00]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> yawns.
+[15:32:06]ADMIN: Riki2321gamer/(Riki) admin ghosted.
+[15:32:06]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/dead/observer
+[15:32:06]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[15:32:06]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> scratches.
+[15:32:12]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/living/carbon/human
+[15:32:17]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Power-ON cartridge's direction and takes flight.
+[15:32:27]ADMIN: Riki2321gamer/(Riki) spawned /obj/vehicle/space/speedbike/speedwagon at (76,142,1)
+[15:32:27]SAY: grey baby slime (566)/ : Blorble...
+[15:32:29]SAY: Clown/ : HONK
+[15:32:31]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[15:32:37]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[15:32:41]EMOTE: *no key*/(Pete) : <b>Pete</b> brays.
+[15:32:43]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> rolls.
+[15:32:46]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> waves its tail.
+[15:32:51]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> jumps!
+[15:32:52]SAY: Mjor the Creative/ : Rise, my creations! Jump off your pages and into this realm!
+[15:32:53]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> vibrates!
+[15:32:53]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> rolls.
+[15:32:53]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> scratches.
+[15:33:03]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[15:33:03]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> scratches.
+[15:33:11]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Power-ON cartridge's direction and takes flight.
+[15:33:13]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[15:33:19]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[15:33:21]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> jumps!
+[15:33:31]SAY: Clown/ : Welcome to clown planet!
+[15:33:33]EMOTE: *no key*/(Pete) : <b>Pete</b> shakes its head.
+[15:33:53]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> rolls.
+[15:33:53]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[15:33:55]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[15:33:55]SAY: Clown/ : Honk!
+[15:33:57]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> jiggles!
+[15:33:59]SAY: mouse/ : Squeek?
+[15:34:05]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Power-ON cartridge's direction and takes flight.
+[15:34:11]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[15:34:11]SAY: Poly/ : Come get your eggs!
+[15:34:19]SAY: mouse/ : Squeek?
+[15:34:19]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> waves her tail.
+[15:34:31]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[15:34:31]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[15:34:35]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> scratches.
+[15:34:39]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> jumps!
+[15:34:45]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[15:34:47]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[15:34:59]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the BreatheDeep cartridge's direction and takes flight.
+[15:34:59]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> scratches.
+[15:34:59]EMOTE: *no key*/(Ian) : <b>Ian</b> woofs!
+[15:35:01]SAY: mouse/ : Squeek?
+[15:35:01]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> jumps!
+[15:35:09]SAY: Clown/ : Welcome to clown planet!
+[15:35:11]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[15:35:15]SAY: Clown/ : Welcome to clown planet!
+[15:35:15]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> jumps!
+[15:35:17]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[15:35:23]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[15:35:25]SAY: mouse/ : SQUEEK!
+[15:35:25]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> jumps!
+[15:35:29]SAY: Clown/ : HONK
+[15:35:33]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> scratches.
+[15:35:38]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> jumps!
+[15:35:46]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[15:35:48]SAY: Clown/ : HONK
+[15:35:54]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Space Cigarettes packet's direction and takes flight.
+[15:35:54]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> waves her tail.
+[15:36:02]SAY: mouse/ : Squeek!
+[15:36:04]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[15:36:05]SAY: mouse/ : SQUEEK!
+[15:36:12]SAY: Poly/ : Don&#39;t believe the reports - smoke today!
+[15:36:18]SAY: Poly/ : Hello its captain here
+[15:36:19]SAY: mouse/ : Squeek?
+[15:36:20]EMOTE: *no key*/(Ian) : <b>Ian</b> pants.
+[15:36:24]SAY: Medibot/ : Delicious!
+[15:36:37]SAY: mouse/ : Squeek?
+[15:36:38]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> jumps!
+[15:36:42]SAY: Clown/ : HONK
+[15:36:50]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the monitor decryption key's direction and takes flight.
+[15:37:00]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[15:37:10]SAY: mouse/ : SQUEEK!
+[15:37:10]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[15:37:18]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> scratches.
+[15:37:24]EMOTE: *no key*/(Ian) : <b>Ian</b> shakes its head.
+[15:37:27]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[15:37:28]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> lights up for a bit, then stops.
+[15:37:36]SAY: Clown/ : Welcome to clown planet!
+[15:37:36]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> scratches.
+[15:37:36]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> waves her tail.
+[15:37:40]SAY: Clown/ : Honk!
+[15:37:42]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> rolls.
+[15:37:43]SAY: mouse/ : Squeek?
+[15:37:46]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the monitor decryption key's direction and takes flight.
+[15:37:53]SAY: mouse/ : Squeek?
+[15:37:58]EMOTE: *no key*/(Runtime) : <b>Runtime</b> lies down.
+[15:38:00]SAY: Poly/ : Traitorous until proven pretty!
+[15:38:04]SAY: Clown/ : Honk!
+[15:38:12]SAY: Tom/ : Squeek!
+[15:38:14]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> rolls.
+[15:38:34]EMOTE: *no key*/(Clown) : <b>Clown</b> honks
+[15:38:42]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Zippo lighter's direction and takes flight.
+[15:38:46]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[15:38:48]EMOTE: *no key*/(butterfly) : <b>The butterfly</b> stops moving...
+[15:38:56]SAY: Poly/ : Traitorous until proven pretty!
+[15:39:00]SAY: Clown/ : Welcome to clown planet!
+[15:39:00]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> jumps!
+[15:39:01]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[15:39:08]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> waves her tail.
+[15:39:17]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[15:39:18]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[15:39:18]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> rolls.
+[15:39:24]SAY: mouse/ : SQUEEK!
+[15:39:24]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[15:39:26]EMOTE: *no key*/(Clown) : <b>Clown</b> honks
+[15:39:26]SAY: Pete/ : EHEHEHEHEH
+[15:39:32]EMOTE: *no key*/(Clown) : <b>Clown</b> squeaks
+[15:39:44]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Zippo lighter's direction and takes flight.
+[15:39:44]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[15:39:46]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> rolls.
+[15:39:56]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[15:39:59]SAY: mouse/ : Squeek?
+[15:40:00]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> rolls.
+[15:40:20]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> scratches.
+[15:40:28]EMOTE: *no key*/(Ian) : <b>Ian</b> woofs!
+[15:40:30]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> waves her tail.
+[15:40:32]SAY: Poly/ : Traitorous until proven pretty!
+[15:40:34]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> scratches.
+[15:40:38]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> waves her tail.
+[15:40:40]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the chief engineer's rubber stamp's direction and takes flight.
+[15:40:40]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[15:40:41]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[15:40:42]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> rolls.
+[15:40:48]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> jiggles!
+[15:40:48]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[15:40:54]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[15:41:00]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[15:41:00]EMOTE: *no key*/(Pete) : <b>Pete</b> shakes its head.
+[15:41:02]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> rolls.
+[15:41:04]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> waves his tail.
+[15:41:04]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> rolls.
+[15:41:08]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> waves its tail.
+[15:41:18]SAY: Poly/ : Come get your eggs!
+[15:41:32]EMOTE: *no key*/(Clown) : <b>Clown</b> squeaks
+[15:41:38]SAY: mouse/ : Squeek!
+[15:41:42]SAY: mouse/ : Squeek!
+[15:41:52]EMOTE: *no key*/(Tom) : <b>Tom</b> squeeks.
+[15:41:54]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[15:41:54]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the chief engineer's rubber stamp's direction and takes flight.
+[15:42:04]SAY: mouse/ : SQUEEK!
+[15:42:04]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[15:42:06]SAY: mouse/ : Squeek?
+[15:42:08]SAY: Medibot/ : Radar, put a mask on!
+[15:42:08]SAY: Clown/ : Welcome to clown planet!
+[15:42:14]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shivers
+[15:42:20]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> scratches.
+[15:42:22]SAY: mouse/ : Squeek?
+[15:42:24]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> lights up for a bit, then stops.
+[15:42:32]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stretches out for a belly rub.
+[15:42:36]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> jumps!
+[15:42:46]SAY: Clown/ : Honk!
+[15:42:48]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> rolls.
+[15:42:50]SAY: mouse/ : SQUEEK!
+[15:42:50]SAY: Poly/ : Sophie Teagarden has signed up as Chief Engineer
+[15:42:50]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> waves her tail.
+[15:42:52]SAY: Poly/ : Sophie Teagarden has signed up as Chief Engineer
+[15:43:00]SAY: Clown/ : Welcome to clown planet!
+[15:43:04]EMOTE: *no key*/(Tom) : <b>Tom</b> squeeks.
+[15:43:06]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[15:43:12]SAY: grey baby slime (877)/ : Blorble...
+[15:43:14]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> waves her tail.
+[15:43:20]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> rolls.
+[15:43:26]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[15:43:28]EMOTE: *no key*/(Clown) : <b>Clown</b> squeaks
+[15:43:30]SAY: Tom/ : SQUEEK!
+[15:43:32]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> bounces in place.
+[15:43:34]EMOTE: *no key*/(Clown) : <b>Clown</b> squeaks
+[15:43:36]EMOTE: *no key*/(Ian) : <b>Ian</b> pants.
+[15:43:44]EMOTE: *no key*/(Pete) : <b>Pete</b> shakes its head.
+[15:43:50]SAY: mouse/ : SQUEEK!
+[15:43:58]EMOTE: *no key*/(Runtime) : <b>Runtime</b> walks around.
+[15:44:06]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> rolls.
+[15:44:10]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[15:44:12]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> waves her tail.
+[15:44:14]SAY: Tom/ : SQUEEK!
+[15:44:18]SAY: Clown/ : Honk!
+[15:44:20]SAY: Poly/ : I&#39;d rather toolbox than switch.
+[15:44:20]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> waves his tail.
+[15:44:28]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[15:44:30]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[15:44:36]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stretches out for a belly rub.
+[15:44:36]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> rolls.
+[15:44:40]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> waves her tail.
+[15:44:42]EMOTE: *no key*/(Runtime) : <b>Runtime</b> mews
+[15:45:02]SAY: Tom/ : Squeek?
+[15:45:04]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> waves her tail.
+[15:45:11]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> scratches.
+[15:45:13]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[15:45:15]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> rolls.
+[15:45:21]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[15:45:25]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> vibrates!
+[15:45:25]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> jumps!
+[15:45:42]SAY: mouse/ : Squeek?
+[15:45:45]SAY: Clown/ : Honk!
+[15:45:45]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[15:45:47]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[15:45:57]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> scratches.
+[15:46:01]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> lights up for a bit, then stops.
+[15:46:02]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[15:46:04]SAY: Medibot/ : Delicious!
+[15:46:05]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> jumps!
+[15:46:05]SAY: Pete/ : Eh?
+[15:46:15]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[15:46:21]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> scratches.
+[15:46:29]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> yawns.
+[15:46:37]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> scratches.
+[15:46:45]EMOTE: *no key*/(Ian) : <b>Ian</b> yaps.
+[15:46:47]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> scratches.
+[15:46:55]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[15:46:55]EMOTE: *no key*/(Ian) : <b>Ian</b> shivers.
+[15:46:57]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> waves her tail.
+[15:46:59]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> dozes off.
+[15:47:09]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[15:47:19]SAY: Poly/ : Honk until proven ugly!
+[15:47:23]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[15:47:27]EMOTE: *no key*/(Clown) : <b>Clown</b> squeaks
+[15:47:29]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[15:47:33]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stops resting.
+[15:47:41]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[15:47:41]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> waves her tail.
+[15:47:43]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> jiggles!
+[15:47:43]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> waves her tail.
+[15:47:43]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[15:47:47]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> scratches.
+[15:47:49]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> scratches.
+[15:47:53]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> waves her tail.
+[15:47:55]SAY: Clown/ : Welcome to clown planet!
+[15:47:55]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[15:48:05]SAY: Poly/ : Come get your eggs!
+[15:48:09]SAY: Pete/ : EHEHEHEHEH
+[15:48:17]SAY: Tom/ : Squeek?
+[15:48:18]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[15:48:25]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[15:48:38]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[15:48:41]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[15:48:47]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[15:48:47]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> waves her tail.
+[15:48:48]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[15:48:50]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[15:48:51]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> jumps!
+[15:49:07]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[15:49:13]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[15:49:15]EMOTE: *no key*/(Clown) : <b>Clown</b> squeaks
+[15:49:17]EMOTE: *no key*/(Runtime) : <b>Runtime</b> lies down.
+[15:49:31]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[15:49:33]SAY: Clown/ : Welcome to clown planet!
+[15:49:33]SAY: Tom/ : SQUEEK!
+[15:49:39]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> rolls.
+[15:49:43]SAY: Medibot/ : Delicious!
+[15:50:05]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> bounces in place.
+[15:50:07]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> bounces in place.
+[15:50:18]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[15:50:21]SAY: Poly/ : Come get your eggs!
+[15:50:26]SAY: mouse/ : Squeek!
+[15:50:27]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> rolls.
+[15:50:35]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[15:50:40]SAY: mouse/ : Squeek?
+[15:50:43]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[15:50:57]EMOTE: *no key*/(Runtime) : <b>Runtime</b> walks around.
+[15:51:03]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> scratches.
+[15:51:03]SAY: Nobody's Perfect/ : Delicious!
+[15:51:11]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[15:51:21]EMOTE: *no key*/(Runtime) : <b>Runtime</b> twitches its whiskers.
+[15:51:21]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> waves her tail.
+[15:51:33]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[15:51:33]SAY: Medibot/ : Radar, put a mask on!
+[15:51:33]EMOTE: *no key*/(Clown) : <b>Clown</b> squeaks
+[15:51:33]SAY: Ian/ : Woof!
+[15:51:35]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[15:51:37]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> rolls.
+[15:51:43]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[15:51:53]EMOTE: *no key*/(Tom) : <b>Tom</b> runs in a circle.
+[15:51:57]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> rolls.
+[15:51:59]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> rolls.
+[15:52:05]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[15:52:07]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[15:52:13]SAY: Poly/ : Engaging patrol mode.
+[15:52:23]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> jiggles!
+[15:52:27]SAY: Clown/ : Honk!
+[15:52:33]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> scratches.
+[15:52:35]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[15:52:39]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> waves its tail.
+[15:52:42]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[15:52:43]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[15:52:45]SAY: Poly/ : Riki has signed up as Geneticist
+[15:52:45]SAY: grey baby slime (566)/ : Rawr...
+[15:52:49]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stops resting.
+[15:52:53]SAY: Pete/ : Eh?
+[15:52:55]SAY: Poly/ : Traitorous until proven pretty!
+[15:52:55]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> jiggles!
+[15:53:03]EMOTE: *no key*/(Tom) : <b>Tom</b> runs in a circle.
+[15:53:05]EMOTE: *no key*/(Runtime) : <b>Runtime</b> grooms its fur.
+[15:53:11]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> rolls.
+[15:53:13]SAY: Poly/ : I&#39;d rather toolbox than switch.
+[15:53:17]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> scratches.
+[15:53:21]SAY: Medibot/ : Radar, put a mask on!
+[15:53:21]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> scratches.
+[15:53:29]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> scratches.
+[15:53:31]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> jumps!
+[15:53:37]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[15:53:41]SAY: mouse/ : Squeek?
+[15:53:45]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[15:54:05]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> rolls.
+[15:54:11]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[15:54:13]EMOTE: *no key*/(Clown) : <b>Clown</b> squeaks
+[15:54:21]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[15:54:24]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> scratches.
+[15:54:27]EMOTE: *no key*/(Runtime) : <b>Runtime</b> mews
+[15:54:42]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> scratches.
+[15:54:46]EMOTE: *no key*/(Runtime) : <b>Runtime</b> lies down.
+[15:54:47]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[15:54:55]SAY: mouse/ : SQUEEK!
+[15:54:56]EMOTE: *no key*/(Tom) : <b>Tom</b> squeeks.
+[15:54:57]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[15:55:02]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stops resting.
+[15:55:02]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> scratches.
+[15:55:04]EMOTE: *no key*/(Ian) : <b>Ian</b> shivers.
+[15:55:13]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[15:55:30]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[15:55:30]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> jumps!
+[15:55:32]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shakes out its coat.
+[15:55:34]SAY: Clown/ : Welcome to clown planet!
+[15:55:34]EMOTE: *no key*/(Runtime) : <b>Runtime</b> mews
+[15:55:36]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> waves his tail.
+[15:55:36]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[15:55:40]EMOTE: *no key*/(Pete) : <b>Pete</b> glares around.
+[15:55:54]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shivers
+[15:56:02]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> rolls.
+[15:56:06]SAY: Pete/ : Eh?
+[15:56:18]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shakes its head
+[15:56:26]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> dozes off.
+[15:56:31]SAY: mouse/ : SQUEEK!
+[15:56:36]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> waves her tail.
+[15:56:40]SAY: Poly/ : Staph
+[15:56:41]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[15:56:42]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> rolls.
+[15:57:03]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[15:57:18]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[15:57:21]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[15:57:33]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[15:57:38]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> vibrates!
+[15:57:54]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> jumps!
+[15:58:01]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[15:58:06]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> rolls.
+[15:58:08]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> waves his tail.
+[15:58:16]EMOTE: *no key*/(Clown) : <b>Clown</b> honks
+[15:58:18]SAY: Poly/ : Sophie Teagarden has signed up as Assistant
+[15:58:26]SAY: Nobody's Perfect/ : Delicious!
+[15:58:30]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> rolls.
+[15:58:48]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> vibrates!
+[15:58:48]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> rolls.
+[15:59:02]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[15:59:12]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> scratches.
+[15:59:16]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> waves her tail.
+[15:59:24]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[15:59:30]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[15:59:38]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> scratches.
+[15:59:40]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[15:59:42]SAY: mouse/ : SQUEEK!
+[15:59:42]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[15:59:52]SAY: Clown/ : HONK
+[15:59:56]SAY: Poly/ : Hello its captain here
+[16:00:00]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[16:00:10]SAY: mouse/ : SQUEEK!
+[16:00:14]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[16:00:24]SAY: Medibot/ : Radar, put a mask on!
+[16:00:44]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> rolls.
+[16:00:45]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> jumps!
+[16:00:50]EMOTE: *no key*/(Ian) : <b>Ian</b> shakes its head.
+[16:00:56]SAY: Clown/ : Honk!
+[16:00:58]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> scratches.
+[16:00:58]SAY: Runtime/ : Purr!
+[16:01:12]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[16:01:14]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[16:01:18]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> jiggles!
+[16:01:19]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> waves her tail.
+[16:01:21]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> scratches.
+[16:01:22]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> rolls.
+[16:01:34]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> scratches.
+[16:01:34]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> scratches.
+[16:01:37]SAY: Runtime/ : Esp!
+[16:01:57]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> waves its tail.
+[16:01:57]EMOTE: *no key*/(Pete) : <b>Pete</b> brays.
+[16:02:09]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[16:02:18]SAY: mouse/ : Squeek!
+[16:02:21]SAY: Clown/ : Welcome to clown planet!
+[16:02:22]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> waves her tail.
+[16:02:24]EMOTE: *no key*/(Runtime) : <b>Runtime</b> lies down.
+[16:02:27]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[16:02:28]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> lights up for a bit, then stops.
+[16:02:52]SAY: Clown/ : Honk!
+[16:02:52]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> rolls.
+[16:03:11]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> jiggles!
+[16:03:14]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> rolls.
+[16:03:16]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[16:03:22]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> scratches.
+[16:03:22]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[16:03:26]SAY: mouse/ : Squeek!
+[16:03:26]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[16:03:28]EMOTE: *no key*/(Runtime) : <b>Runtime</b> walks around.
+[16:03:30]SAY: mouse/ : Squeek?
+[16:03:30]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[16:03:32]SAY: Medibot/ : Delicious!
+[16:03:36]SAY: grey baby slime (566)/ : Lonely...
+[16:03:36]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> waves her tail.
+[16:03:36]SAY: Pete/ : EHEHEHEHEH
+[16:03:39]EMOTE: *no key*/(Pete) : <b>Pete</b> stamps a foot.
+[16:04:20]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[16:04:22]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> scratches.
+[16:04:32]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[16:04:34]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> scratches.
+[16:04:40]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> rolls.
+[16:05:16]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[16:05:25]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> waves her tail.
+[16:05:38]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[16:05:40]SAY: Runtime/ : HSSSSS
+[16:05:42]SAY: Medibot/ : Delicious!
+[16:05:47]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> jumps!
+[16:05:48]SAY: mouse/ : Squeek!
+[16:05:51]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stops resting.
+[16:05:54]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[16:05:54]SAY: mouse/ : SQUEEK!
+[16:06:06]EMOTE: *no key*/(Runtime) : <b>Runtime</b> twitches its whiskers.
+[16:06:27]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> jumps!
+[16:06:34]SAY: mouse/ : SQUEEK!
+[16:06:39]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> rolls.
+[16:06:41]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> lights up for a bit, then stops.
+[16:06:43]EMOTE: *no key*/(Clown) : <b>Clown</b> squeaks
+[16:06:45]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> scratches.
+[16:06:54]SAY: mouse/ : SQUEEK!
+[16:07:06]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> jumps!
+[16:07:10]EMOTE: *no key*/(Clown) : <b>Clown</b> honks
+[16:07:16]EMOTE: *no key*/(Runtime) : <b>Runtime</b> lies down.
+[16:07:22]SAY: Poly/ : I am cak.
+[16:07:34]SAY: Medibot/ : Radar, put a mask on!
+[16:07:37]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> waves her tail.
+[16:07:41]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> scratches.
+[16:07:45]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> jumps!
+[16:07:47]SAY: Runtime/ : HSSSSS
+[16:07:55]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[16:07:55]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[16:08:10]SAY: Nobody's Perfect/ : Delicious!
+[16:08:13]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[16:08:19]EMOTE: *no key*/(Clown) : <b>Clown</b> squeaks
+[16:08:30]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[16:08:30]SAY: Medibot/ : Delicious!
+[16:08:33]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> scratches.
+[16:08:34]SAY: mouse/ : Squeek!
+[16:08:39]EMOTE: *no key*/(Tom) : <b>Tom</b> runs in a circle.
+[16:08:41]EMOTE: *no key*/(Tom) : <b>Tom</b> shakes.
+[16:08:48]SAY: grey baby slime (877)/ : Blop...
+[16:09:01]GAME: Random Event triggering: Random Human-level Intelligence (/datum/round_event/ghost_role/sentience)
+[16:09:08]SAY: mouse/ : SQUEEK!
+[16:09:09]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> vibrates!
+[16:09:10]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[16:09:23]EMOTE: *no key*/(Pete) : <b>Pete</b> glares around.
+[16:09:27]SAY: Poly/ : Come get your eggs!
+[16:09:37]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> rolls.
+[16:09:43]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> vibrates!
+[16:09:45]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> jumps!
+[16:09:49]EMOTE: *no key*/(Ian) : <b>Ian</b> shivers.
+[16:09:51]SAY: Ian/ : AUUUUUU
+[16:10:01]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[16:10:01]EMOTE: *no key*/(Tom) : <b>Tom</b> squeeks.
+[16:10:03]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> rolls.
+[16:10:12]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[16:10:18]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[16:10:19]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> jiggles!
+[16:10:27]SAY: Pete/ : EHEHEHEHEH
+[16:10:29]EMOTE: *no key*/(Runtime) : <b>Runtime</b> meows
+[16:10:31]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> jumps!
+[16:10:42]SAY: mouse/ : Squeek?
+[16:10:47]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[16:10:49]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> jiggles!
+[16:10:53]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[16:10:59]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[16:11:03]SAY: mouse/ : Squeek!
+[16:11:07]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> scratches.
+[16:11:09]EMOTE: *no key*/(Runtime) : <b>Runtime</b> lies down.
+[16:11:19]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> lights up for a bit, then stops.
+[16:11:31]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[16:11:57]SAY: mouse/ : SQUEEK!
+[16:11:59]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> waves her tail.
+[16:11:59]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[16:12:03]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[16:12:03]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> jumps!
+[16:12:13]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail.
+[16:12:15]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> jiggles!
+[16:12:21]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> jumps!
+[16:12:27]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> jumps!
+[16:12:41]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> dozes off.
+[16:12:55]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[16:12:55]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[16:13:13]SAY: Poly/ : Come get your eggs!
+[16:13:29]EMOTE: *no key*/(Tom) : <b>Tom</b> shakes.
+[16:13:31]SAY: mouse/ : SQUEEK!
+[16:13:33]SAY: Medibot/ : Delicious!
+[16:13:35]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> rolls.
+[16:13:35]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> scratches.
+[16:13:39]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> waves her tail.
+[16:13:41]EMOTE: *no key*/(Ian) : <b>Ian</b> shivers.
+[16:13:59]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> waves her tail.
+[16:14:01]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> scratches.
+[16:14:01]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[16:14:05]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> waves his tail.
+[16:14:07]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> scratches.
+[16:14:17]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stretches out for a belly rub.
+[16:14:19]SAY: mouse/ : Squeek!
+[16:14:23]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[16:14:23]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> scratches.
+[16:14:23]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[16:14:25]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[16:14:37]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> scratches.
+[16:14:43]SAY: Clown/ : HONK
+[16:14:49]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[16:14:49]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[16:15:01]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[16:15:03]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> lights up for a bit, then stops.
+[16:15:09]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> rolls.
+[16:15:17]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> waves her tail.
+[16:15:31]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[16:15:33]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[16:15:37]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[16:15:39]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> jumps!
+[16:15:45]SAY: Medibot/ : Radar, put a mask on!
+[16:15:53]SAY: Tom/ : Squeek?
+[16:15:55]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[16:15:55]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> scratches.
+[16:15:59]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[16:16:03]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> lights up for a bit, then stops.
+[16:16:03]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[16:16:05]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> jiggles!
+[16:16:05]EMOTE: *no key*/(Pete) : <b>Pete</b> glares around.
+[16:16:07]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[16:16:09]EMOTE: *no key*/(Runtime) : <b>Runtime</b> mews
+[16:16:13]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> rolls.
+[16:16:15]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> bounces in place.
+[16:16:21]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> rolls.
+[16:16:27]SAY: Pete/ : Eh?
+[16:16:29]SAY: mouse/ : Squeek!
+[16:16:29]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> rolls.
+[16:16:33]SAY: mouse/ : Squeek?
+[16:16:33]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> waves her tail.
+[16:16:35]SAY: Medibot/ : Radar, put a mask on!
+[16:16:35]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[16:16:44]GAME: Random Event triggering: Shuttle loan (/datum/round_event/shuttle_loan)
+[16:16:57]EMOTE: *no key*/(Runtime) : <b>Runtime</b> gets up and meows.
+[16:16:59]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[16:17:01]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> waves his tail.
+[16:17:03]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[16:17:07]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> rolls.
+[16:17:11]SAY: Nobody's Perfect/ : Delicious!
+[16:17:23]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[16:17:25]SAY: Poly/ : Honk until proven ugly!
+[16:17:25]EMOTE: *no key*/(Ian) : <b>Ian</b> woofs!
+[16:17:25]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> dozes off.
+[16:17:27]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> scratches.
+[16:17:35]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[16:17:37]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> scratches.
+[16:17:41]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> scratches.
+[16:17:53]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[16:17:57]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> vibrates!
+[16:17:59]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[16:18:01]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> bounces in place.
+[16:18:07]SAY: mouse/ : SQUEEK!
+[16:18:07]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[16:18:19]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stops resting.
+[16:18:23]SAY: grey baby slime (877)/ : I want to eat...
+[16:18:25]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> jumps!
+[16:18:39]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> scratches.
+[16:18:41]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shakes its head
+[16:18:43]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> scratches.
+[16:18:49]SAY: mouse/ : Squeek!
+[16:18:55]SAY: mouse/ : SQUEEK!
+[16:19:07]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[16:19:07]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[16:19:11]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> jumps!
+[16:19:15]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stops resting.
+[16:19:27]SAY: mouse/ : SQUEEK!
+[16:19:27]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> rolls.
+[16:19:33]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[16:19:33]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> jumps!
+[16:19:41]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[16:19:43]SAY: Poly/ : FI&#39;RAN DADISKO
+[16:19:45]SAY: mouse/ : SQUEEK!
+[16:19:53]EMOTE: *no key*/(Tom) : <b>Tom</b> squeeks.
+[16:20:07]SAY: mouse/ : Squeek!
+[16:20:11]SAY: mouse/ : SQUEEK!
+[16:20:19]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> waves her tail.
+[16:20:29]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[16:20:29]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> rolls.
+[16:20:37]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> rolls.
+[16:20:57]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> rolls.
+[16:21:01]SAY: Poly/ : Riki has signed up as Geneticist
+[16:21:03]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stretches out for a belly rub.
+[16:21:13]SAY: mouse/ : Squeek!
+[16:21:19]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> scratches.
+[16:21:19]EMOTE: *no key*/(Ian) : <b>Ian</b> barks!
+[16:21:27]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[16:21:35]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> waves his tail.
+[16:21:51]SAY: Medibot/ : Delicious!
+[16:21:51]EMOTE: *no key*/(Pete) : <b>Pete</b> shakes its head.
+[16:21:59]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> waves his tail.
+[16:22:01]EMOTE: *no key*/(Clown) : <b>Clown</b> honks
+[16:22:03]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> rolls.
+[16:22:11]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[16:22:11]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[16:22:15]SAY: mouse/ : SQUEEK!
+[16:22:17]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[16:22:19]SAY: Tom/ : SQUEEK!
+[16:22:23]SAY: mouse/ : SQUEEK!
+[16:22:47]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[16:23:09]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[16:23:09]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> scratches.
+[16:23:17]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> jumps!
+[16:23:25]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[16:23:25]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[16:23:29]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[16:23:37]EMOTE: *no key*/(Tom) : <b>Tom</b> shakes.
+[16:23:39]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> scratches.
+[16:23:43]SAY: grey baby slime (877)/ : Blorble...
+[16:23:47]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> waves his tail.
+[16:23:47]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> jumps!
+[16:23:49]SAY: Poly/ : Traitorous until proven pretty!
+[16:23:51]EMOTE: *no key*/(Ian) : <b>Ian</b> pants.
+[16:23:57]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> scratches.
+[16:23:59]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[16:24:03]SAY: mouse/ : Squeek!
+[16:24:07]EMOTE: *no key*/(Runtime) : <b>Runtime</b> meows
+[16:24:11]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[16:24:15]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[16:24:15]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> rolls.
+[16:24:17]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[16:24:17]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> rolls.
+[16:24:19]SAY: Poly/ : Don&#39;t believe the reports - smoke today!
+[16:24:27]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> jumps!
+[16:24:31]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[16:24:33]SAY: Poly/ : Don&#39;t believe the reports - smoke today!
+[16:24:37]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[16:24:37]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> jumps!
+[16:24:41]SAY: mouse/ : Squeek!
+[16:24:41]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> scratches.
+[16:24:45]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> rolls.
+[16:24:51]SAY: mouse/ : Squeek?
+[16:24:52]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[16:24:58]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[16:25:05]SAY: Poly/ : Hello its captain here
+[16:25:11]SAY: mouse/ : Squeek!
+[16:25:23]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[16:25:28]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> rolls.
+[16:25:28]SAY: Tom/ : Squeek?
+[16:25:34]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> rolls.
+[16:25:38]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> bounces in place.
+[16:25:38]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> rolls.
+[16:25:40]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[16:25:43]GAME: Random Event triggering: Clogged Vents (/datum/round_event/vent_clog)
+[16:25:44]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[16:25:48]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> jumps!
+[16:26:08]SAY: Clown/ : Honk!
+[16:26:12]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[16:26:14]SAY: mouse/ : SQUEEK!
+[16:26:14]SAY: Runtime/ : Purr!
+[16:26:24]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[16:26:28]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> waves her tail.
+[16:26:34]SAY: mouse/ : SQUEEK!
+[16:26:34]SAY: Poly/ : Traitorous until proven pretty!
+[16:26:36]SAY: mouse/ : Squeek!
+[16:26:40]SAY: mouse/ : Squeek!
+[16:26:42]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> rolls.
+[16:26:48]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[16:27:08]SAY: mouse/ : SQUEEK!
+[16:27:10]EMOTE: *no key*/(Tom) : <b>Tom</b> squeeks.
+[16:27:12]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[16:27:18]SAY: Poly/ : Don&#39;t believe the reports - smoke today!
+[16:27:26]SAY: mouse/ : Squeek?
+[16:27:28]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[16:27:30]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> jiggles!
+[16:27:30]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[16:27:53]SAY: Ian/ : YAP
+[16:28:03]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[16:28:23]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> rolls.
+[16:28:33]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> waves her tail.
+[16:28:40]SAY: mouse/ : SQUEEK!
+[16:28:41]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stops resting.
+[16:28:41]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> jumps!
+[16:28:51]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[16:28:55]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> waves her tail.
+[16:29:01]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> waves his tail.
+[16:29:03]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> rolls.
+[16:29:19]SAY: Runtime/ : Purr!
+[16:29:29]EMOTE: *no key*/(Clown) : <b>Clown</b> honks
+[16:29:37]SAY: Poly/ : I&#39;d rather toolbox than switch.
+[16:29:45]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[16:29:53]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> jiggles!
+[16:29:55]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> scratches.
+[16:29:59]SAY: Poly/ : I&#39;d rather toolbox than switch.
+[16:30:11]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> jumps!
+[16:30:19]GAME: Random Event triggering: Communications Blackout (/datum/round_event/communications_blackout)
+[16:30:31]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[16:30:37]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[16:30:37]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> rolls.
+[16:30:41]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> rolls.
+[16:30:45]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[16:30:45]EMOTE: *no key*/(Clown) : <b>Clown</b> honks
+[16:30:47]SAY: Clown/ : Honk!
+[16:30:47]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> dozes off.
+[16:30:49]EMOTE: *no key*/(Runtime) : <b>Runtime</b> grooms its fur.
+[16:31:07]SAY: Runtime/ : Meow!
+[16:31:11]EMOTE: *no key*/(Runtime) : <b>Runtime</b> twitches its whiskers.
+[16:31:11]SAY: Ian/ : Woof!
+[16:31:17]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> jumps!
+[16:31:25]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> waves her tail.
+[16:31:29]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> rolls.
+[16:31:49]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> waves its tail.
+[16:31:51]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> waves his tail.
+[16:31:57]SAY: Poly/ : Sophie Teagarden has signed up as Chief Engineer
+[16:32:13]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[16:32:29]SAY: Tom/ : Squeek!
+[16:32:31]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> jumps!
+[16:32:33]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[16:32:37]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stops resting.
+[16:32:39]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> jumps!
+[16:32:39]EMOTE: *no key*/(Runtime) : <b>Runtime</b> grooms its fur.
+[16:32:47]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> jumps!
+[16:32:47]EMOTE: *no key*/(Pete) : <b>Pete</b> glares around.
+[16:32:49]SAY: grey baby slime (877)/ : Hungry...
+[16:32:51]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[16:32:57]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> jumps!
+[16:33:05]SAY: mouse/ : Squeek?
+[16:33:15]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[16:33:17]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> waves his tail.
+[16:33:19]SAY: Ian/ : Woof!
+[16:33:27]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[16:33:27]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[16:33:37]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> scratches.
+[16:33:39]SAY: mouse/ : Squeek?
+[16:33:39]SAY: Tom/ : Squeek?
+[16:33:41]EMOTE: *no key*/(Runtime) : <b>Runtime</b> twitches its whiskers.
+[16:33:41]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> scratches.
+[16:34:07]SAY: grey baby slime (877)/ : Lonely...
+[16:34:11]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[16:34:25]SAY: Tom/ : Squeek?
+[16:34:37]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[16:34:41]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> scratches.
+[16:34:45]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[16:34:55]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> scratches.
+[16:34:55]SAY: Pete/ : Eh?
+[16:34:57]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> scratches.
+[16:34:57]EMOTE: *no key*/(Pete) : <b>Pete</b> brays.
+[16:35:03]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> jumps!
+[16:35:13]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> scratches.
+[16:35:19]EMOTE: *no key*/(Clown) : <b>Clown</b> squeaks
+[16:35:33]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[16:35:35]SAY: mouse/ : Squeek!
+[16:35:35]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> jumps!
+[16:35:37]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[16:35:39]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[16:35:57]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[16:36:05]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[16:36:05]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> waves her tail.
+[16:36:07]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[16:36:11]EMOTE: *no key*/(Clown) : <b>Clown</b> squeaks
+[16:36:25]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[16:36:25]SAY: mouse/ : Squeek?
+[16:36:37]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> jumps!
+[16:36:39]SAY: Pete/ : Eh?
+[16:36:41]EMOTE: *no key*/(Angry Stick Man) : <b>Angry Stick Man</b> stops moving...
+[16:36:41]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> jiggles!
+[16:36:53]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[16:37:13]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[16:37:17]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> rolls.
+[16:37:21]SAY: grey baby slime (566)/ : I want to eat...
+[16:37:23]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[16:37:35]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[16:37:39]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[16:37:39]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[16:37:41]EMOTE: *no key*/(Clown) : <b>Clown</b> squeaks
+[16:37:45]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> waves his tail.
+[16:37:49]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> scratches.
+[16:37:51]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[16:37:51]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> scratches.
+[16:37:57]SAY: grey baby slime (877)/ : Blop...
+[16:38:02]GAME: Random Event triggering: False Alarm (/datum/round_event/falsealarm)
+[16:38:03]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> rolls.
+[16:38:21]SAY: mouse/ : SQUEEK!
+[16:38:23]SAY: mouse/ : Squeek!
+[16:38:31]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> vibrates!
+[16:38:37]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> jumps!
+[16:38:39]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[16:38:53]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[16:38:53]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> waves its tail.
+[16:38:55]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[16:38:55]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[16:38:57]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> dozes off.
+[16:39:01]SAY: Poly/ : Hullbreach!
+[16:39:09]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[16:39:11]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> scratches.
+[16:39:13]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[16:39:17]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[16:39:17]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[16:39:19]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stops resting.
+[16:39:23]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[16:39:23]SAY: Poly/ : FI&#39;RAN DADISKO
+[16:39:23]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[16:39:31]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[16:39:51]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> jiggles!
+[16:39:55]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> scratches.
+[16:40:07]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[16:40:21]SAY: mouse/ : Squeek!
+[16:40:31]EMOTE: *no key*/(Ian) : <b>Ian</b> yaps.
+[16:40:47]SAY: mouse/ : Squeek!
+[16:40:47]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[16:40:51]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> scratches.
+[16:40:53]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> waves his tail.
+[16:40:57]EMOTE: *no key*/(Runtime) : <b>Runtime</b> mews
+[16:41:05]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> waves his tail.
+[16:41:07]SAY: mouse/ : Squeek!
+[16:41:09]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[16:41:10]SAY: Runtime/ : Meow!
+[16:41:18]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> rolls.
+[16:41:40]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> jumps!
+[16:41:57]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail.
+[16:41:59]SAY: mouse/ : Squeek!
+[16:42:00]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> scratches.
+[16:42:00]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> rolls.
+[16:42:03]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[16:42:05]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[16:42:06]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[16:42:06]SAY: Tom/ : Squeek!
+[16:42:07]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[16:42:08]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> jumps!
+[16:42:12]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail.
+[16:42:20]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> rolls.
+[16:42:22]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> scratches.
+[16:42:28]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> waves her tail.
+[16:42:32]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[16:42:40]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> waves his tail.
+[16:42:44]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[16:42:46]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[16:42:46]SAY: Ian/ : AUUUUUU
+[16:42:56]SAY: Poly/ : Hello its captain here
+[16:42:57]GAME: Random Event triggering: Camera Failure (/datum/round_event/camera_failure)
+[16:42:58]SAY: Pete/ : Eh?
+[16:43:06]SAY: Poly/ : Traitorous until proven pretty!
+[16:43:08]SAY: Poly/ : Hello its captain here
+[16:43:10]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[16:43:11]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[16:43:14]SAY: Runtime/ : Purr!
+[16:43:16]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> waves his tail.
+[16:43:36]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> scratches.
+[16:43:36]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> rolls.
+[16:43:42]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> waves her tail.
+[16:43:44]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> jumps!
+[16:44:02]SAY: Runtime/ : HSSSSS
+[16:44:02]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> scratches.
+[16:44:07]ADMIN: Riki2321gamer/(Riki) made all areas powered
+[16:44:09]ADMIN: Riki2321gamer/(Riki) used secret power
+[16:44:09]ADMIN: Riki2321gamer/(Riki) used secret whiteout
+[16:44:12]SAY: Poly/ : Sophie Teagarden has signed up as Assistant
+[16:44:12]ADMIN: Riki2321gamer/(Riki) made all SMESs powered
+[16:44:12]ADMIN: Riki2321gamer/(Riki) used secret quickpower
+[16:44:24]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[16:44:38]SAY: Medibot/ : Delicious!
+[16:44:56]SAY: Poly/ : Sophie Teagarden has signed up as Assistant
+[16:44:57]ADMIN: Riki2321gamer/(Riki) spawned /obj/item/weapon/reagent_containers/food/snacks/pizza/sassysage at (73,134,1)
+[16:44:58]EMOTE: *no key*/(Runtime) : <b>Runtime</b> twitches its whiskers.
+[16:45:06]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> waves his tail.
+[16:45:12]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> scratches.
+[16:45:16]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> waves her tail.
+[16:45:24]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> rolls.
+[16:45:24]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> jumps!
+[16:45:26]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> rolls.
+[16:45:26]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> scratches.
+[16:45:32]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> jumps!
+[16:45:34]SAY: Poly/ : Don&#39;t believe the reports - smoke today!
+[16:45:38]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[16:45:40]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> jumps!
+[16:45:42]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[16:45:44]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> scratches.
+[16:45:48]SAY: mouse/ : Squeek!
+[16:45:48]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[16:45:52]SAY: mouse/ : Squeek?
+[16:45:52]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> waves his tail.
+[16:45:58]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> waves its tail.
+[16:46:02]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[16:46:04]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[16:46:12]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[16:46:16]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[16:46:20]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> waves her tail.
+[16:46:22]SAY: mouse/ : Squeek?
+[16:46:34]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[16:46:39]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> jumps!
+[16:46:44]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[16:46:52]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[16:47:02]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[16:47:11]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stretches out for a belly rub.
+[16:47:17]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> waves her tail.
+[16:47:21]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> scratches.
+[16:47:43]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[16:47:45]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> scratches.
+[16:47:46]SAY: Poly/ : I am cak.
+[16:47:49]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[16:47:51]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> rolls.
+[16:47:53]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> rolls.
+[16:47:54]SAY: mouse/ : Squeek?
+[16:47:55]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[16:47:56]SAY: mouse/ : Squeek!
+[16:47:57]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> scratches.
+[16:47:57]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> scratches.
+[16:47:59]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> jumps!
+[16:48:03]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shakes its head
+[16:48:03]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> waves her tail.
+[16:48:11]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> vibrates!
+[16:48:11]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> scratches.
+[16:48:13]EMOTE: *no key*/(Tom) : <b>Tom</b> shakes.
+[16:48:21]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[16:48:33]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> waves his tail.
+[16:48:49]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> rolls.
+[16:48:51]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> waves her tail.
+[16:48:57]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[16:49:17]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> lights up for a bit, then stops.
+[16:49:19]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[16:49:21]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[16:49:25]SAY: mouse/ : Squeek?
+[16:49:29]SAY: grey baby slime (877)/ : I want to eat...
+[16:49:31]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> waves her tail.
+[16:49:37]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> waves his tail.
+[16:49:55]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> rolls.
+[16:49:59]SAY: mouse/ : Squeek?
+[16:50:07]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shakes its head
+[16:50:25]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[16:50:35]SAY: mouse/ : Squeek!
+[16:50:37]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[16:50:53]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> scratches.
+[16:50:55]SAY: mouse/ : SQUEEK!
+[16:51:05]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> jumps!
+[16:51:07]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[16:51:13]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> waves her tail.
+[16:51:17]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail.
+[16:51:23]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[16:51:25]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[16:51:27]SAY: grey baby slime (566)/ : Blop...
+[16:51:27]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stops resting.
+[16:51:38]GAME: Random Event triggering: Camera Failure (/datum/round_event/camera_failure)
+[16:51:39]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[16:51:43]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> scratches.
+[16:51:45]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[16:51:49]SAY: Poly/ : I am cak.
+[16:51:57]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[16:51:59]SAY: mouse/ : SQUEEK!
+[16:51:59]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> jumps!
+[16:51:59]EMOTE: *no key*/(Tom) : <b>Tom</b> squeeks.
+[16:52:15]SAY: mouse/ : Squeek?
+[16:52:17]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> scratches.
+[16:52:19]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[16:52:36]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> waves her tail.
+[16:52:44]SAY: Pete/ : EHEHEHEHEH
+[16:52:46]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[16:52:48]ADMIN: Riki2321gamer/(Riki) spawned /obj/item/weapon/gun/energy/laser/infinite at (99,112,1)
+[16:52:54]ADMIN: Riki2321gamer/(Riki) spawned /mob/living/carbon/human/interactive/friendly at (97,112,1)
+[16:53:02]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[16:53:08]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> jumps!
+[16:53:10]SAY: Riki/Riki2321gamer : What
+[16:53:22]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[16:53:34]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[16:53:46]SAY: Poly/ : Engaging patrol mode.
+[16:53:54]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> rolls.
+[16:53:54]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[16:53:58]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> scratches.
+[16:54:00]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[16:54:02]ADMIN: Riki2321gamer/(Riki) deleted Martin Adams at (107,112,1)
+[16:54:04]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> jumps!
+[16:54:08]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> dozes off.
+[16:54:10]ADMIN: Riki2321gamer/(Riki) spawned /obj/effect/explosion at (108,113,1)
+[16:54:12]EMOTE: *no key*/(Runtime) : <b>Runtime</b> gets up and meows.
+[16:54:14]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shakes out its coat.
+[16:54:28]EMOTE: *no key*/(Runtime) : <b>Runtime</b> grooms its fur.
+[16:54:30]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> rolls.
+[16:54:32]SAY: mouse/ : SQUEEK!
+[16:54:36]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> rolls.
+[16:54:46]SAY: mouse/ : Squeek?
+[16:54:46]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> vibrates!
+[16:54:58]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> bounces in place.
+[16:55:02]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[16:55:04]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> rolls.
+[16:55:10]SAY: mouse/ : Squeek!
+[16:55:16]EMOTE: *no key*/(Pete) : <b>Pete</b> stamps a foot.
+[16:55:20]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> scratches.
+[16:55:24]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> lights up for a bit, then stops.
+[16:55:26]SAY: Tom/ : Squeek!
+[16:55:28]SAY: grey baby slime (566)/ : I want to eat...
+[16:55:30]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[16:55:54]SAY: Poly/ : Engaging patrol mode.
+[16:55:54]SAY: Pete/ : Eh?
+[16:55:58]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> scratches.
+[16:56:18]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> vibrates!
+[16:56:18]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> waves his tail.
+[16:56:34]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[16:56:36]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[16:56:38]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> rolls.
+[16:56:44]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[16:56:46]SAY: mouse/ : Squeek!
+[16:56:48]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> waves her tail.
+[16:56:52]SAY: Medibot/ : Radar, put a mask on!
+[16:56:52]EMOTE: *no key*/(Tom) : <b>Tom</b> shakes.
+[16:56:56]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> waves her tail.
+[16:57:12]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> rolls.
+[16:57:16]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> scratches.
+[16:57:24]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[16:57:24]EMOTE: *no key*/(Runtime) : <b>Runtime</b> grooms its fur.
+[16:57:28]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[16:57:28]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> jumps!
+[16:57:32]SAY: Tom/ : SQUEEK!
+[16:57:34]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> rolls.
+[16:57:38]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[16:57:59]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[16:58:02]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> jumps!
+[16:58:02]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stretches out for a belly rub.
+[16:58:20]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> bounces in place.
+[16:58:22]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[16:58:28]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[16:58:36]SAY: mouse/ : Squeek!
+[16:58:42]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[16:58:44]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[16:58:44]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[16:58:54]SAY: Medibot/ : Delicious!
+[16:58:58]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> waves his tail.
+[16:58:58]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> waves her tail.
+[16:59:00]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[16:59:00]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> scratches.
+[16:59:18]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[16:59:18]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> jumps!
+[16:59:22]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shivers
+[16:59:28]EMOTE: *no key*/(Runtime) : <b>Runtime</b> walks around.
+[16:59:30]EMOTE: *no key*/(Tom) : <b>Tom</b> squeeks.
+[16:59:42]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> jumps!
+[16:59:46]SAY: grey baby slime (877)/ : Blop...
+[17:00:00]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> jumps!
+[17:00:14]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[17:00:16]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[17:00:18]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[17:00:20]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[17:00:24]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[17:00:30]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[17:00:34]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:00:42]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> bounces in place.
+[17:00:42]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> waves his tail.
+[17:00:48]SAY: grey baby slime (877)/ : Hungry...
+[17:00:52]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> jiggles!
+[17:01:06]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> waves her tail.
+[17:01:12]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> scratches.
+[17:01:18]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shakes its head
+[17:01:30]SAY: Medibot/ : Delicious!
+[17:01:30]EMOTE: *no key*/(Runtime) : <b>Runtime</b> gets up and meows.
+[17:01:36]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[17:01:38]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> waves its tail.
+[17:01:44]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> scratches.
+[17:01:48]SAY: mouse/ : Squeek!
+[17:01:48]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> scratches.
+[17:01:48]SAY: Nobody's Perfect/ : Delicious!
+[17:01:54]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[17:02:02]SAY: mouse/ : Squeek?
+[17:02:02]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> scratches.
+[17:02:04]SAY: mouse/ : Squeek!
+[17:02:18]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[17:02:20]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> jumps!
+[17:02:24]SAY: grey baby slime (877)/ : Hungry...
+[17:02:24]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> scratches.
+[17:02:24]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[17:02:30]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> scratches.
+[17:02:38]SAY: mouse/ : Squeek!
+[17:02:42]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> waves his tail.
+[17:02:46]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[17:02:48]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> rolls.
+[17:02:52]EMOTE: *no key*/(Tom) : <b>Tom</b> squeeks.
+[17:02:58]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[17:03:26]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> rolls.
+[17:03:34]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> rolls.
+[17:03:38]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> waves her tail.
+[17:03:42]SAY: mouse/ : SQUEEK!
+[17:03:48]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> scratches.
+[17:03:48]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> dozes off.
+[17:03:50]EMOTE: *no key*/(Pete) : <b>Pete</b> brays.
+[17:03:56]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[17:04:02]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> scratches.
+[17:04:02]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stretches out for a belly rub.
+[17:04:04]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> waves his tail.
+[17:04:18]SAY: Runtime/ : Meow!
+[17:04:22]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> scratches.
+[17:04:26]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> rolls.
+[17:04:34]SAY: mouse/ : SQUEEK!
+[17:04:37]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[17:04:38]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[17:04:38]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> scratches.
+[17:04:40]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> scratches.
+[17:04:58]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> scratches.
+[17:05:02]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[17:05:06]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> jumps!
+[17:05:10]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[17:05:10]EMOTE: *no key*/(Runtime) : <b>Runtime</b> gets up and meows.
+[17:05:12]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[17:05:14]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> waves his tail.
+[17:05:16]SAY: mouse/ : Squeek?
+[17:05:16]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[17:05:32]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:05:32]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> scratches.
+[17:05:34]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> waves her tail.
+[17:05:40]SAY: Medibot/ : Radar, put a mask on!
+[17:05:40]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> waves her tail.
+[17:05:48]SAY: Medibot/ : Radar, put a mask on!
+[17:05:50]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[17:05:52]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:05:52]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[17:05:54]EMOTE: *no key*/(Runtime) : <b>Runtime</b> twitches its whiskers.
+[17:06:08]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> jumps!
+[17:06:20]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> dozes off.
+[17:06:28]SAY: Medibot/ : Delicious!
+[17:06:30]SAY: mouse/ : Squeek!
+[17:06:32]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[17:06:36]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[17:06:40]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[17:06:40]SAY: Ian/ : YAP
+[17:06:46]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> scratches.
+[17:06:54]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[17:06:58]SAY: mouse/ : SQUEEK!
+[17:07:02]SAY: mouse/ : SQUEEK!
+[17:07:02]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[17:07:06]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> scratches.
+[17:07:12]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[17:07:18]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> bounces in place.
+[17:07:18]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> rolls.
+[17:07:22]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> jumps!
+[17:07:28]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> lights up for a bit, then stops.
+[17:07:28]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[17:07:30]SAY: Pete/ : EHEHEHEHEH
+[17:07:32]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> lights up for a bit, then stops.
+[17:07:36]SAY: Ian/ : YAP
+[17:07:36]EMOTE: *no key*/(Tom) : <b>Tom</b> shakes.
+[17:07:50]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[17:08:08]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[17:08:10]SAY: grey baby slime (566)/ : Hungry...
+[17:08:10]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> scratches.
+[17:08:12]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> scratches.
+[17:08:18]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[17:08:26]SAY: mouse/ : Squeek!
+[17:08:26]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> scratches.
+[17:08:28]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:08:36]EMOTE: *no key*/(Runtime) : <b>Runtime</b> lies down.
+[17:08:40]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> scratches.
+[17:08:46]SAY: mouse/ : SQUEEK!
+[17:08:56]SAY: mouse/ : Squeek?
+[17:08:56]SAY: mouse/ : SQUEEK!
+[17:09:00]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> waves his tail.
+[17:09:06]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:09:08]SAY: Pete/ : Eh?
+[17:09:14]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[17:09:18]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[17:09:20]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[17:09:24]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:09:24]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> scratches.
+[17:09:28]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[17:09:34]SAY: mouse/ : Squeek?
+[17:09:44]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[17:10:00]SAY: mouse/ : Squeek?
+[17:10:02]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[17:10:02]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[17:10:16]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> lights up for a bit, then stops.
+[17:10:18]SAY: mouse/ : Squeek?
+[17:10:18]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> scratches.
+[17:10:22]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> jumps!
+[17:10:22]EMOTE: *no key*/(Ian) : <b>Ian</b> shivers.
+[17:10:26]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> jumps!
+[17:10:44]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:10:52]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> scratches.
+[17:11:02]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[17:11:02]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> waves his tail.
+[17:11:02]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[17:11:08]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[17:11:24]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[17:11:24]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> jumps!
+[17:11:28]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> scratches.
+[17:11:41]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[17:11:48]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[17:12:12]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> jiggles!
+[17:12:12]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> rolls.
+[17:12:12]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> waves her tail.
+[17:12:16]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[17:12:18]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stops resting.
+[17:12:18]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> jumps!
+[17:12:20]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> bounces in place.
+[17:12:24]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> rolls.
+[17:12:38]SAY: mouse/ : Squeek?
+[17:12:42]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[17:13:20]SAY: mouse/ : Squeek?
+[17:13:24]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> scratches.
+[17:13:28]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[17:13:32]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[17:13:42]SAY: mouse/ : SQUEEK!
+[17:13:44]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:13:50]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> waves her tail.
+[17:13:52]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[17:13:52]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> scratches.
+[17:14:08]SAY: mouse/ : SQUEEK!
+[17:14:08]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> rolls.
+[17:14:12]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[17:14:14]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:14:14]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> scratches.
+[17:14:14]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> scratches.
+[17:14:18]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[17:14:22]SAY: mouse/ : Squeek?
+[17:14:24]SAY: grey baby slime (877)/ : Lonely...
+[17:14:40]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:15:00]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> jumps!
+[17:15:08]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> waves her tail.
+[17:15:10]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> rolls.
+[17:15:14]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> vibrates!
+[17:15:18]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> scratches.
+[17:15:20]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> bounces in place.
+[17:15:24]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[17:15:28]SAY: Poly/ : Hullbreach!
+[17:15:32]SAY: grey baby slime (566)/ : I want to eat...
+[17:15:50]SAY: grey baby slime (877)/ : Blop...
+[17:15:56]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> jumps!
+[17:15:56]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> waves her tail.
+[17:16:02]SAY: mouse/ : Squeek?
+[17:16:06]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shivers
+[17:16:10]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> scratches.
+[17:16:30]SAY: Ian/ : Bark!
+[17:16:36]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> jumps!
+[17:16:42]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> jumps!
+[17:16:42]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> rolls.
+[17:16:50]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> rolls.
+[17:16:56]SAY: mouse/ : SQUEEK!
+[17:16:56]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> rolls.
+[17:17:02]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> scratches.
+[17:17:04]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> rolls.
+[17:17:08]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[17:17:12]SAY: Poly/ : Sophie Teagarden has signed up as Assistant
+[17:17:14]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> jumps!
+[17:17:26]SAY: Pete/ : EHEHEHEHEH
+[17:17:28]SAY: Tom/ : Squeek!
+[17:17:30]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> waves her tail.
+[17:17:32]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> lights up for a bit, then stops.
+[17:17:38]EMOTE: *no key*/(Ian) : <b>Ian</b> woofs!
+[17:17:44]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> scratches.
+[17:17:44]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[17:17:50]EMOTE: *no key*/(Tom) : <b>Tom</b> squeeks.
+[17:17:56]EMOTE: *no key*/(Tom) : <b>Tom</b> shakes.
+[17:17:58]SAY: mouse/ : Squeek?
+[17:18:14]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> scratches.
+[17:18:16]SAY: mouse/ : Squeek?
+[17:18:16]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[17:18:24]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:18:26]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> jumps!
+[17:18:42]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[17:18:59]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shakes its head
+[17:19:01]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> jiggles!
+[17:19:05]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> jumps!
+[17:19:09]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> jiggles!
+[17:19:13]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:19:19]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[17:19:33]EMOTE: *no key*/(Runtime) : <b>Runtime</b> lies down.
+[17:19:33]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[17:19:35]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[17:19:37]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> waves her tail.
+[17:19:41]SAY: Poly/ : Riki has signed up as Geneticist
+[17:19:59]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> rolls.
+[17:20:01]SAY: mouse/ : SQUEEK!
+[17:20:03]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> bounces in place.
+[17:20:11]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> scratches.
+[17:20:15]SAY: mouse/ : SQUEEK!
+[17:20:17]SAY: Runtime/ : Purr!
+[17:20:17]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> jumps!
+[17:20:19]SAY: Poly/ : Sophie Teagarden has signed up as Chief Engineer
+[17:20:29]GAME: Random Event triggering: Camera Failure (/datum/round_event/camera_failure)
+[17:20:37]SAY: Pete/ : EHEHEHEHEH
+[17:20:39]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[17:20:43]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[17:20:53]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[17:20:55]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[17:20:59]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> waves her tail.
+[17:21:05]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> jiggles!
+[17:21:17]SAY: mouse/ : Squeek!
+[17:21:17]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> scratches.
+[17:21:41]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> scratches.
+[17:21:47]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[17:21:49]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[17:21:50]EMOTE: *no key*/(hatchling) : <b>The hatchling</b> stops moving...
+[17:21:51]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[17:21:53]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> jumps!
+[17:21:57]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[17:22:03]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> scratches.
+[17:22:03]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> waves her tail.
+[17:22:09]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:22:15]SAY: mouse/ : Squeek?
+[17:22:17]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> jumps!
+[17:22:25]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[17:22:27]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[17:22:37]SAY: Medibot/ : Radar, put a mask on!
+[17:22:41]SAY: Poly/ : Engaging patrol mode.
+[17:22:49]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stops resting.
+[17:22:51]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:22:51]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> scratches.
+[17:22:51]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[17:22:51]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[17:22:53]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[17:22:53]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> jumps!
+[17:23:03]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> waves his tail.
+[17:23:05]SAY: Pete/ : EHEHEHEHEH
+[17:23:09]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[17:23:19]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[17:23:19]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> jumps!
+[17:23:31]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[17:23:35]SAY: Medibot/ : Delicious!
+[17:23:37]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[17:23:39]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> waves her tail.
+[17:23:45]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[17:23:45]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> scratches.
+[17:23:45]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[17:23:51]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> bounces in place.
+[17:23:59]SAY: Medibot/ : Radar, put a mask on!
+[17:23:59]EMOTE: *no key*/(Runtime) : <b>Runtime</b> lies down.
+[17:24:03]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> jumps!
+[17:24:13]SAY: Poly/ : Come get your eggs!
+[17:24:13]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> waves her tail.
+[17:24:19]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> jumps!
+[17:24:21]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> jumps!
+[17:24:21]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[17:24:26]EMOTE: *no key*/(goliath) : <b>The goliath</b> stops moving...
+[17:24:31]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> waves her tail.
+[17:24:43]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> waves her tail.
+[17:24:43]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> waves his tail.
+[17:24:47]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[17:24:49]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> scratches.
+[17:24:53]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> waves her tail.
+[17:25:11]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> waves his tail.
+[17:25:25]SAY: mouse/ : Squeek?
+[17:25:25]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[17:25:27]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> waves her tail.
+[17:25:39]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[17:25:41]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> scratches.
+[17:25:41]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shivers
+[17:25:43]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[17:25:45]SAY: grey baby slime (566)/ : Must... eat...
+[17:25:51]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[17:25:53]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> vibrates!
+[17:26:03]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> scratches.
+[17:26:05]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[17:26:05]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> scratches.
+[17:26:17]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> rolls.
+[17:26:19]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[17:26:25]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[17:26:27]SAY: Poly/ : Hello its captain here
+[17:26:27]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[17:26:45]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> jumps!
+[17:26:47]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> scratches.
+[17:26:49]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[17:26:53]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> rolls.
+[17:26:55]SAY: grey baby slime (877)/ : Blorble...
+[17:27:07]SAY: mouse/ : SQUEEK!
+[17:27:09]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stretches out for a belly rub.
+[17:27:21]SAY: Pete/ : Eh?
+[17:27:27]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[17:27:33]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> rolls.
+[17:27:43]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> jiggles!
+[17:27:45]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[17:27:47]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[17:27:51]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[17:27:53]SAY: mouse/ : SQUEEK!
+[17:28:01]SAY: Poly/ : Don&#39;t believe the reports - smoke today!
+[17:28:05]EMOTE: *no key*/(Runtime) : <b>Runtime</b> gets up and meows.
+[17:28:07]SAY: mouse/ : SQUEEK!
+[17:28:13]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[17:28:13]SAY: grey baby slime (566)/ : Blop...
+[17:28:19]SAY: Poly/ : Hello its captain here
+[17:28:35]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[17:28:35]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> jumps!
+[17:28:37]EMOTE: *no key*/(Pete) : <b>Pete</b> glares around.
+[17:28:39]SAY: Poly/ : Hello its captain here
+[17:28:39]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> jumps!
+[17:28:43]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stretches out for a belly rub.
+[17:28:49]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> waves his tail.
+[17:28:51]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> scratches.
+[17:28:57]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[17:29:03]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> rolls.
+[17:29:07]SAY: Medibot/ : Delicious!
+[17:29:19]SAY: Medibot/ : Delicious!
+[17:29:19]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[17:29:21]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> waves its tail.
+[17:29:23]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> jumps!
+[17:29:29]SAY: grey baby slime (566)/ : Must... eat...
+[17:29:35]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> waves its tail.
+[17:29:42]GAME: Random Event triggering: Random Human-level Intelligence (/datum/round_event/ghost_role/sentience)
+[17:29:45]SAY: Poly/ : Come get your eggs!
+[17:29:59]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> jumps!
+[17:29:59]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[17:30:07]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[17:30:09]SAY: grey baby slime (877)/ : Blorble...
+[17:30:13]SAY: mouse/ : SQUEEK!
+[17:30:19]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[17:30:21]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[17:30:21]SAY: grey baby slime (566)/ : Need... food...
+[17:30:21]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> waves her tail.
+[17:30:23]SAY: grey baby slime (566)/ : Rawr...
+[17:30:25]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> scratches.
+[17:30:27]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> jumps!
+[17:30:27]SAY: Ian/ : Bark!
+[17:30:33]SAY: grey baby slime (566)/ : Need... food...
+[17:30:33]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[17:30:39]SAY: Ian/ : YAP
+[17:30:41]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[17:30:51]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> rolls.
+[17:30:59]SAY: Tom/ : Squeek!
+[17:31:03]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[17:31:07]SAY: Poly/ : Hello its captain here
+[17:31:09]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[17:31:19]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> scratches.
+[17:31:39]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[17:31:39]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> rolls.
+[17:31:51]SAY: Medibot/ : Radar, put a mask on!
+[17:31:55]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> lights up for a bit, then stops.
+[17:31:59]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> waves her tail.
+[17:32:07]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> jumps!
+[17:32:07]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> waves her tail.
+[17:32:15]EMOTE: *no key*/(Pete) : <b>Pete</b> shakes its head.
+[17:32:29]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> waves her tail.
+[17:32:35]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> vibrates!
+[17:32:39]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[17:32:41]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> scratches.
+[17:32:43]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> rolls.
+[17:32:45]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> jumps!
+[17:32:59]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[17:32:59]SAY: Pete/ : EHEHEHEHEH
+[17:33:01]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[17:33:07]SAY: grey baby slime (566)/ : Blorble...
+[17:33:11]SAY: Pete/ : Eh?
+[17:33:13]EMOTE: *no key*/(Runtime) : <b>Runtime</b> lies down.
+[17:33:15]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> rolls.
+[17:33:15]EMOTE: *no key*/(Runtime) : <b>Runtime</b> walks around.
+[17:33:15]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> scratches.
+[17:33:19]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> waves his tail.
+[17:33:35]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> waves her tail.
+[17:33:37]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> waves her tail.
+[17:33:39]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[17:33:39]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[17:33:47]SAY: mouse/ : Squeek?
+[17:33:49]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[17:33:49]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> jumps!
+[17:33:57]SAY: grey baby slime (566)/ : Rawr...
+[17:34:02]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[17:34:03]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[17:34:21]EMOTE: *no key*/(Tom) : <b>Tom</b> shakes.
+[17:34:29]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[17:34:33]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[17:34:39]SAY: mouse/ : Squeek!
+[17:34:39]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[17:34:40]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[17:34:43]EMOTE: *no key*/(Tom) : <b>Tom</b> shakes.
+[17:34:45]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> waves his tail.
+[17:34:45]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> rolls.
+[17:34:47]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> yawns.
+[17:34:49]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> rolls.
+[17:34:51]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[17:34:51]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> vibrates!
+[17:35:11]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> rolls.
+[17:35:17]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:35:34]SAY: Pete/ : EHEHEHEHEH
+[17:35:40]SAY: Pete/ : EHEHEHEHEH
+[17:35:46]EMOTE: *no key*/(Runtime) : <b>Runtime</b> mews
+[17:35:48]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[17:35:49]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[17:35:52]SAY: grey baby slime (566)/ : Must... eat...
+[17:36:07]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[17:36:08]EMOTE: *no key*/(Ian) : <b>Ian</b> shivers.
+[17:36:11]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[17:36:19]SAY: Poly/ : Come get your eggs!
+[17:36:32]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> jumps!
+[17:36:35]SAY: Poly/ : Hello its captain here
+[17:36:35]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> waves her tail.
+[17:36:39]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[17:36:41]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> lights up for a bit, then stops.
+[17:36:52]SAY: mouse/ : SQUEEK!
+[17:36:54]EMOTE: *no key*/(Runtime) : <b>Runtime</b> gets up and meows.
+[17:36:58]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stretches out for a belly rub.
+[17:37:04]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> jumps!
+[17:37:06]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> scratches.
+[17:37:08]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> scratches.
+[17:37:08]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[17:37:22]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[17:37:22]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> dozes off.
+[17:37:22]EMOTE: *no key*/(Pete) : <b>Pete</b> brays.
+[17:37:30]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[17:37:36]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> scratches.
+[17:37:36]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[17:37:44]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[17:37:44]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> scratches.
+[17:37:48]SAY: Ian/ : Bark!
+[17:37:54]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> jumps!
+[17:38:00]SAY: Runtime/ : Esp!
+[17:38:02]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[17:38:08]SAY: grey baby slime (877)/ : Need... food...
+[17:38:28]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[17:38:28]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> vibrates!
+[17:38:34]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> jumps!
+[17:38:38]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[17:38:44]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> scratches.
+[17:38:46]EMOTE: *no key*/(Runtime) : <b>Runtime</b> gets up and meows.
+[17:38:50]SAY: Medibot/ : Delicious!
+[17:38:50]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[17:38:50]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> waves her tail.
+[17:38:56]SAY: mouse/ : Squeek?
+[17:39:00]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[17:39:04]SAY: mouse/ : Squeek?
+[17:39:04]EMOTE: *no key*/(Pete) : <b>Pete</b> glares around.
+[17:39:05]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[17:39:08]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> rolls.
+[17:39:10]EMOTE: *no key*/(Runtime) : <b>Runtime</b> walks around.
+[17:39:20]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[17:39:22]EMOTE: *no key*/(Runtime) : <b>Runtime</b> twitches its whiskers.
+[17:39:48]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[17:39:50]SAY: grey baby slime (566)/ : Lonely...
+[17:39:50]EMOTE: *no key*/(Runtime) : <b>Runtime</b> mews
+[17:40:00]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> jumps!
+[17:40:04]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> scratches.
+[17:40:04]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> scratches.
+[17:40:08]EMOTE: *no key*/(Runtime) : <b>Runtime</b> grooms its fur.
+[17:40:20]EMOTE: *no key*/(Tom) : <b>Tom</b> squeeks.
+[17:40:22]SAY: mouse/ : Squeek!
+[17:40:26]SAY: mouse/ : Squeek!
+[17:40:38]EMOTE: *no key*/(Pete) : <b>Pete</b> brays.
+[17:40:46]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> bounces in place.
+[17:40:52]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:40:54]SAY: grey baby slime (877)/ : Must... eat...
+[17:40:58]SAY: Poly/ : TITS
+[17:40:59]ADMIN: Riki2321gamer/(Riki) has triggered an event. (Station-wide Human-level Intelligence)
+[17:41:00]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[17:41:06]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> vibrates!
+[17:41:08]SAY: grey baby slime (877)/ : Blop...
+[17:41:17]GAME: <a href='?priv_msg=riki2321gamer'>Riki2321gamer</a>/(Riki) checked the player panel while in game.
+[17:41:19]ADMIN: Riki2321gamer/(Riki) attempting to monkeyize Riki2321gamer/(Riki).
+[17:41:21]ACCESS: Mob Login: Riki2321gamer/(monkey (372)) was assigned to a /mob/living/carbon/monkey
+[17:41:24]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> jumps!
+[17:41:32]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[17:41:32]ADMIN: Riki2321gamer/(monkey (372)) spawned /obj/item/clothing/mask/breath at (137,128,1)
+[17:41:39]ADMIN: Riki2321gamer/(monkey (372)) spawned /obj/item/clothing/neck/cloak/cmo at (138,128,1)
+[17:41:44]ADMIN: Riki2321gamer/(monkey (372)) spawned /obj/item/weapon/tank/internals/oxygen/yellow at (139,128,1)
+[17:41:44]SAY: Poly/ : Hello its captain here
+[17:41:48]SAY: Tom/ : Squeek?
+[17:41:50]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[17:41:54]ADMIN: Riki2321gamer/(monkey (372)) has triggered an event. (Station-wide Human-level Intelligence)
+[17:42:04]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[17:42:06]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> rolls.
+[17:42:16]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[17:42:18]SAY: Medibot/ : Delicious!
+[17:42:22]ADMIN: Riki2321gamer/(monkey (372)) granted the language Galactic Common to Riki2321gamer/(monkey (372)).
+[17:42:29]ADMIN: Riki2321gamer/(monkey (372)) enabled the ability to speak all languages (that_they know) of Riki2321gamer/(monkey (372)).
+[17:42:30]ADMIN: Riki2321gamer/(monkey (372)) granted the language Drone to Riki2321gamer/(monkey (372)).
+[17:42:30]SAY: Ian/ : YAP
+[17:42:30]ADMIN: Riki2321gamer/(monkey (372)) granted the language Encoded Audio Language to Riki2321gamer/(monkey (372)).
+[17:42:31]ADMIN: Riki2321gamer/(monkey (372)) granted the language Ratvarian to Riki2321gamer/(monkey (372)).
+[17:42:32]ADMIN: Riki2321gamer/(monkey (372)) granted the language Slime to Riki2321gamer/(monkey (372)).
+[17:42:32]EMOTE: *no key*/(Runtime) : <b>Runtime</b> lies down.
+[17:42:33]ADMIN: Riki2321gamer/(monkey (372)) granted the language Swarmer to Riki2321gamer/(monkey (372)).
+[17:42:33]ADMIN: Riki2321gamer/(monkey (372)) granted the language Xenomorph to Riki2321gamer/(monkey (372)).
+[17:42:34]EMOTE: *no key*/(Tom) : <b>Tom</b> runs in a circle.
+[17:42:36]SAY: mouse/ : Squeek?
+[17:42:46]SAY: grey baby slime (877)/ : Need... food...
+[17:42:52]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[17:42:57]GAME: Random Event triggering: Camera Failure (/datum/round_event/camera_failure)
+[17:43:04]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> scratches.
+[17:43:22]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> yawns.
+[17:43:24]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[17:43:42]SAY: grey baby slime (877)/ : Very... hungry...
+[17:43:52]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> scratches.
+[17:43:54]EMOTE: *no key*/(Ian) : <b>Ian</b> barks!
+[17:43:56]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[17:44:02]SAY: Poly/ : Honk until proven ugly!
+[17:44:02]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> bounces in place.
+[17:44:08]EMOTE: *no key*/(Runtime) : <b>Runtime</b> gets up and meows.
+[17:44:12]SAY: Poly/ : TITS
+[17:44:14]SAY: grey baby slime (566)/ : Lonely...
+[17:44:14]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[17:44:26]SAY: grey baby slime (566)/ : Lonely...
+[17:44:32]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> waves his tail.
+[17:44:34]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> rolls.
+[17:44:36]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> waves his tail.
+[17:44:38]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:44:38]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[17:44:44]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> jumps!
+[17:44:48]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:45:04]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[17:45:06]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[17:45:08]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> rolls.
+[17:45:16]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> yawns.
+[17:45:20]EMOTE: *no key*/(Ian) : <b>Ian</b> yaps.
+[17:45:30]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[17:45:36]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> rolls.
+[17:45:36]SAY: Pete/ : EHEHEHEHEH
+[17:45:38]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[17:45:40]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> waves her tail.
+[17:45:48]SAY: grey baby slime (566)/ : Very... hungry...
+[17:45:48]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stretches out for a belly rub.
+[17:45:48]SAY: Runtime/ : Meow!
+[17:45:54]SAY: grey baby slime (877)/ : Very... hungry...
+[17:45:58]SAY: mouse/ : Squeek!
+[17:46:02]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> bounces in place.
+[17:46:04]EMOTE: *no key*/(Tom) : <b>Tom</b> shakes.
+[17:46:08]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> rolls.
+[17:46:14]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> lights up for a bit, then stops.
+[17:46:14]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> scratches.
+[17:46:20]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[17:46:24]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[17:46:26]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:46:26]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[17:46:28]SAY: grey baby slime (877)/ : Blop...
+[17:46:30]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[17:46:34]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> waves his tail.
+[17:46:52]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> rolls.
+[17:47:14]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[17:47:18]SAY: mouse/ : Squeek!
+[17:47:42]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> rolls.
+[17:47:50]SAY: Poly/ : Don&#39;t believe the reports - smoke today!
+[17:48:08]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[17:48:14]SAY: Runtime/ : Purr!
+[17:48:34]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> jumps!
+[17:48:38]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> jumps!
+[17:48:44]SAY: mouse/ : Squeek?
+[17:48:46]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> lights up for a bit, then stops.
+[17:48:58]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[17:49:02]SAY: mouse/ : SQUEEK!
+[17:49:04]SAY: Ian/ : YAP
+[17:49:06]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> waves his tail.
+[17:49:06]SAY: Pete/ : Eh?
+[17:49:14]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[17:49:22]SAY: Poly/ : Come get your eggs!
+[17:49:24]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> rolls.
+[17:49:38]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> rolls.
+[17:50:02]EMOTE: *no key*/(Runtime) : <b>Runtime</b> mews
+[17:50:06]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> jumps!
+[17:50:12]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> waves her tail.
+[17:50:16]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[17:50:20]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[17:50:32]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[17:50:34]SAY: Medibot/ : Radar, put a mask on!
+[17:50:34]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> rolls.
+[17:50:36]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[17:50:36]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> scratches.
+[17:50:42]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:50:43]GAME: Random Event triggering: False Alarm (/datum/round_event/falsealarm)
+[17:50:50]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> scratches.
+[17:50:54]SAY: Medibot/ : Delicious!
+[17:51:06]SAY: Medibot/ : Delicious!
+[17:51:12]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[17:51:20]EMOTE: *no key*/(Runtime) : <b>Runtime</b> lies down.
+[17:51:30]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> scratches.
+[17:51:38]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> waves her tail.
+[17:51:40]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> lights up for a bit, then stops.
+[17:51:42]SAY: grey baby slime (566)/ : Lonely...
+[17:51:46]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> waves his tail.
+[17:51:54]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> jumps!
+[17:52:02]SAY: grey baby slime (877)/ : So... hungry...
+[17:52:04]EMOTE: *no key*/(Ian) : <b>Ian</b> woofs!
+[17:52:16]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> waves her tail.
+[17:52:24]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> scratches.
+[17:52:42]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> rolls.
+[17:52:44]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[17:52:44]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> scratches.
+[17:52:50]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[17:52:56]EMOTE: *no key*/(Ian) : <b>Ian</b> barks!
+[17:52:58]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> rolls.
+[17:53:00]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> waves her tail.
+[17:53:04]SAY: mouse/ : Squeek!
+[17:53:04]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> jiggles!
+[17:53:04]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> jumps!
+[17:53:10]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> rolls.
+[17:53:16]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> scratches.
+[17:53:18]SAY: grey baby slime (877)/ : Must... eat...
+[17:53:20]SAY: Nobody's Perfect/ : Delicious!
+[17:53:24]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[17:53:32]SAY: mouse/ : Squeek!
+[17:53:32]SAY: Medibot/ : Radar, put a mask on!
+[17:53:38]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> vibrates!
+[17:53:46]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> jumps!
+[17:53:58]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> waves her tail.
+[17:54:02]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> scratches.
+[17:54:08]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[17:54:10]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> rolls.
+[17:54:12]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[17:54:12]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[17:54:12]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[17:54:12]SAY: Tom/ : Squeek?
+[17:54:20]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[17:54:22]EMOTE: *no key*/(Pete) : <b>Pete</b> shakes its head.
+[17:54:24]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> scratches.
+[17:54:24]EMOTE: *no key*/(Pete) : <b>Pete</b> glares around.
+[17:54:32]SAY: Medibot/ : Delicious!
+[17:54:32]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> rolls.
+[17:54:40]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> vibrates!
+[17:54:42]SAY: grey baby slime (566)/ : Blorble...
+[17:54:46]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[17:54:50]SAY: Poly/ : Riki has signed up as Geneticist
+[17:55:02]SAY: Medibot/ : Radar, put a mask on!
+[17:55:12]EMOTE: *no key*/(Runtime) : <b>Runtime</b> lies down.
+[17:55:16]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[17:55:16]SAY: grey baby slime (566)/ : Blop...
+[17:55:22]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> bounces in place.
+[17:55:22]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> scratches.
+[17:55:30]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> rolls.
+[17:55:36]EMOTE: *no key*/(Pete) : <b>Pete</b> stamps a foot.
+[17:55:42]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> waves its tail.
+[17:55:48]SAY: Tom/ : Squeek!
+[17:55:50]SAY: Poly/ : Traitorous until proven pretty!
+[17:56:00]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> jumps!
+[17:56:00]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> scratches.
+[17:56:01]ADMIN: Riki2321gamer/(monkey (372)) spawned /mob/living/simple_animal/bot/secbot/beepsky at (115,112,1)
+[17:56:04]SAY: THOT-PATROLV2.0/ : Engaging patrol mode.
+[17:56:04]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> vibrates!
+[17:56:04]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[17:56:14]SAY: Medibot/ : Delicious!
+[17:56:16]SAY: monkey (372)/Riki2321gamer : AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEEEEEEEEEEEEEEEEEEEEEOOOOOOOOOOFAIESIF-FF-FEAAW-W-WEK-K-KIEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE!!!!!!!!!!!
+[17:56:16]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[17:56:18]SAY: Poly/ : Sophie Teagarden has signed up as Chief Engineer
+[17:56:24]GAME: <a href='?priv_msg=riki2321gamer'>Riki2321gamer</a>/(monkey (372)) checked the player panel while in game.
+[17:56:25]ADMIN: Riki2321gamer/(monkey (372)) healed / Revived Riki2321gamer/(monkey (372)).
+[17:56:30]SAY: mouse/ : Squeek?
+[17:56:32]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[17:56:38]ACCESS: Logout: Riki2321gamer/(monkey (372))
+[18:18:33]ACCESS: Login: Riki2321gamer from 127.0.0.1-3622605515 || BYOND v511
+[18:18:33]ACCESS: Mob Login: Riki2321gamer/(monkey (372)) was assigned to a /mob/living/carbon/monkey
+[18:18:35]SAY: mouse/ : Squeek!
+[18:18:35]EMOTE: *no key*/(Runtime) : <b>Runtime</b> meows
+[18:18:41]EMOTE: *no key*/(Runtime) : <b>Runtime</b> lies down.
+[18:18:41]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[18:18:43]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> rolls.
+[18:18:49]SAY: mouse/ : SQUEEK!
+[18:18:55]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> waves her tail.
+[18:19:09]SAY: Poly/ : Sophie Teagarden has signed up as Chief Engineer
+[18:19:19]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> scratches.
+[18:19:19]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> scratches.
+[18:19:21]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> vibrates!
+[18:19:23]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[18:19:31]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> scratches.
+[18:19:33]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[18:19:37]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> rolls.
+[18:19:39]SAY: grey baby slime (566)/ : Need... food...
+[18:19:43]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[18:19:49]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[18:19:53]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> jumps!
+[18:19:57]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> jumps!
+[18:20:01]EMOTE: *no key*/(Tom) : <b>Tom</b> shakes.
+[18:20:05]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> waves its tail.
+[18:20:13]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> rolls.
+[18:20:22]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[18:20:24]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[18:20:30]SAY: Runtime/ : HSSSSS
+[18:20:41]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[18:20:44]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> waves her tail.
+[18:20:45]EMOTE: *no key*/(Runtime) : <b>Runtime</b> walks around.
+[18:20:54]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> jumps!
+[18:21:03]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> scratches.
+[18:21:05]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[18:21:17]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> vibrates!
+[18:21:25]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[18:21:27]SAY: grey baby slime (877)/ : Very... hungry...
+[18:21:35]GAME: Random Event triggering: Clogged Vents (/datum/round_event/vent_clog)
+[18:21:37]EMOTE: *no key*/(Runtime) : <b>Runtime</b> meows
+[18:21:43]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> rolls.
+[18:21:53]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[18:21:59]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[18:22:01]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[18:22:03]EMOTE: *no key*/(Ian) : <b>Ian</b> shakes its head.
+[18:22:11]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> waves his tail.
+[18:22:13]SAY: mouse/ : Squeek!
+[18:22:13]SAY: Poly/ : Hullbreach!
+[18:22:13]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> jiggles!
+[18:22:19]SAY: Ian/ : AUUUUUU
+[18:22:27]EMOTE: *no key*/(grey baby slime (566)) : <b>The grey baby slime (566)</b> vibrates!
+[18:22:29]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[18:22:31]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> jumps!
+[18:22:31]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[18:22:35]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> rolls.
+[18:22:39]EMOTE: *no key*/(Pete) : <b>Pete</b> glares around.
+[18:22:45]SAY: mouse/ : SQUEEK!
+[18:23:07]SAY: grey baby slime (877)/ : Must... eat...
+[18:23:23]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> waves her tail.
+[18:23:27]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[18:23:37]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[18:23:39]EMOTE: *no key*/(Tom) : <b>Tom</b> squeeks.
+[18:23:57]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[18:24:03]SAY: Poly/ : TITS
+[18:24:05]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[18:24:15]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> rolls.
+[18:24:27]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[18:24:43]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> jumps!
+[18:24:43]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> jumps!
+[18:24:45]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> dozes off.
+[18:24:49]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[18:24:53]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> scratches.
+[18:25:13]SAY: Medibot/ : Delicious!
+[18:25:19]SAY: mouse/ : Squeek?
+[18:25:27]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[18:25:35]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[18:25:35]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> rolls.
+[18:25:55]EMOTE: *no key*/(Ian) : <b>Ian</b> yaps.
+[18:25:57]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> scratches.
+[18:25:59]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[18:26:05]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> rolls.
+[18:26:07]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> bounces in place.
+[18:26:15]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[18:26:17]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> waves her tail.
+[18:26:19]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[18:26:23]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> waves her tail.
+[18:26:25]SAY: Tom/ : SQUEEK!
+[18:26:43]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> waves her tail.
+[18:26:45]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> jumps!
+[18:26:45]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[18:26:59]EMOTE: *no key*/(grey baby slime (877)) : <b>The grey baby slime (877)</b> lights up for a bit, then stops.
+[18:27:05]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shivers
+[18:27:15]SAY: Poly/ : I&#39;d rather toolbox than switch.
+[18:27:23]EMOTE: *no key*/(Pete) : <b>Pete</b> shakes its head.
+[18:27:35]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> scratches.
+[18:27:39]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[18:27:41]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[18:27:49]SAY: Poly/ : Traitorous until proven pretty!
+[18:27:57]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[18:27:59]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> scratches.
+[18:28:07]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> jumps!
+[18:28:19]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> scratches.
+[18:28:27]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stretches out for a belly rub.
+[18:28:43]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> scratches.
+[18:28:47]EMOTE: *no key*/(Runtime) : <b>Runtime</b> gets up and meows.
+[18:28:47]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shivers
+[18:28:53]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[18:28:55]SAY: Medibot/ : Radar, put a mask on!
+[18:29:07]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[18:29:07]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> rolls.
+[18:29:09]SAY: mouse/ : SQUEEK!
+[18:29:13]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> scratches.
+[18:29:17]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> scratches.
+[18:29:25]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> scratches.
+[18:29:29]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[18:29:29]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[18:29:35]SAY: Medibot/ : Radar, put a mask on!
+[18:29:35]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> rolls.
+[18:29:37]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[18:29:41]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> jumps!
+[18:29:43]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> scratches.
+[18:29:45]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> rolls.
+[18:29:55]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[18:30:01]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[18:30:13]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> dozes off.
+[18:30:15]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> waves her tail.
+[18:30:17]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> scratches.
+[18:30:19]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> jumps!
+[18:30:31]ADMIN: Riki2321gamer/(monkey (372)) spawned /obj/item/weapon/soap at (103,142,1)
+[18:30:37]ADMIN: Riki2321gamer/(monkey (372)) spawned /obj/item/weapon/bikehorn at (103,142,1)
+[18:30:39]EMOTE: *no key*/(Runtime) : <b>Runtime</b> gets up and meows.
+[18:30:49]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[18:30:49]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[18:30:49]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> waves her tail.
+[18:31:01]SAY: mouse/ : Squeek!
+[18:31:11]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[18:31:15]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[18:31:15]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[18:31:17]EMOTE: *no key*/(Ian) : <b>Ian</b> barks!
+[18:31:18]GAME: Random Event triggering: False Alarm (/datum/round_event/falsealarm)
+[18:31:19]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[18:31:19]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> scratches.
+[18:31:21]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[18:31:21]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> jumps!
+Ban database connection failure. Key weezyfdende not checked
+[18:31:29]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[18:31:29]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shakes its head
+[18:31:35]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[18:31:37]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[18:31:39]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[18:31:39]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> waves her tail.
+[18:31:47]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[18:31:55]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[18:31:59]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[18:32:01]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> rolls.
+[18:32:06]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> scratches.
+[18:32:07]ACCESS: Login: Weezy F Dende from 162.234.226.193-2332709432 || BYOND v511
+[18:32:07]ACCESS: Mob Login: Weezy F Dende/(Weezy F Dende) was assigned to a /mob/dead/new_player
+[18:32:07]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[18:32:19]ADMIN: Riki2321gamer/(monkey (372)) has triggered an event. (LDA Syndicate attack)
+[18:32:22]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> jumps!
+[18:32:22]SAY: Allie Newton/ : F-FUCK-K-K
+[18:32:25]ADMIN: Riki2321gamer/(monkey (372)) has triggered an event. (Alien drone ship explosion)
+[18:32:30]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> yawns.
+[18:32:30]SAY: Rylie Guess/ : Your mum is banned
+[18:32:30]SAY: Greyson Kelley/ : M-MOT-TH-H-HER-R-R-RF-F-FUC-CKER-R!!
+[18:32:32]SAY: Rylie Hook/ : I am cak.
+[18:32:36]GAME: Explosion with size (-1, -1, 10, 4) in area Auxillary Base Construction (34,169,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (37,172,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (37,172,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (37,171,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (37,171,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (37,171,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (37,171,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (37,173,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (37,173,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (37,173,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (37,173,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (37,173,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (38,173,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (38,173,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (38,173,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (38,171,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (38,171,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (38,171,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (38,172,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (38,172,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (38,172,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (39,171,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (39,171,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (39,172,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (39,172,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (39,172,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (39,172,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (39,173,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (40,173,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (40,173,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (40,173,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (40,173,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (40,173,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (40,173,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (40,173,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (40,173,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (40,173,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (40,173,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (40,173,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (40,173,1)
+[18:32:36]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (40,173,1)
+[18:32:37]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (40,173,1)
+[18:32:37]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (40,173,1)
+[18:32:37]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (40,173,1)
+[18:32:37]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (40,173,1)
+[18:32:37]GAME: Explosion with size (-1, -1, 2, 4) in area Auxillary Base Construction (40,173,1)
+[18:32:37]GAME: Explosion with size (-1, -1, 10, 4) in area Auxillary Base Construction (34,175,1)
+[18:32:38]GAME: Explosion with size (-1, -1, 10, 4) in area Space (33,183,1)
+[18:32:39]GAME: Explosion with size (-1, -1, 10, 4) in area Auxillary Base Construction (39,189,1)
+[18:32:40]GAME: Explosion with size (-1, -1, 10, 4) in area Space (31,198,1)
+[18:32:41]GAME: Explosion with size (-1, -1, 20, 4) in area Auxillary Base Construction (31,205,1)
+[18:32:42]EMOTE: *no key*/(Runtime) : <b>Runtime</b> twitches its whiskers.
+[18:32:48]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> waves his tail.
+[18:32:50]EMOTE: *no key*/(Pete) : <b>Pete</b> stamps a foot.
+[18:32:53]SAY: Rylie Guess/ : P-PIS-S-S-SS-S-S!!
+[18:32:58]SAY: Poly/ : Honk until proven ugly!
+[18:33:02]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> scratches.
+[18:33:13]GAME: Explosion with size (-1, -1, 10, 4) in area Bar (136,136,1)
+[18:33:13]SAY: Bryant Martins/ : Hey jerk, why dont you go wank shit jerk bitch bitch , you cluwne!
+[18:33:16]EMOTE: *no key*/(alien drone (102)) : <b>The alien drone (102)</b> gasps!
+[18:33:16]EMOTE: *no key*/(alien drone (102)) : <b>The alien drone (102)</b> lets out a waning guttural screech, green blood bubbling from its maw...
+[18:33:16]EMOTE: *no key*/(alien drone (456)) : <b>The alien drone (456)</b> gasps!
+[18:33:18]EMOTE: *no key*/(alien drone (456)) : <b>The alien drone (456)</b> lets out a waning guttural screech, green blood bubbling from its maw...
+[18:33:18]EMOTE: *no key*/(alien sentinel (349)) : <b>The alien sentinel (349)</b> lets out a waning guttural screech, green blood bubbling from its maw...
+[18:33:20]SAY: Poly/ : I&#39;d rather toolbox than switch.
+[18:33:24]GAME: Explosion with size (-1, -1, 10, 4) in area Escape Shuttle Hallway (194,134,1)
+[18:33:26]SAY: Allie Newton/ : PIS!!
+[18:33:30]EMOTE: *no key*/(Runtime) : <b>Runtime</b> meows
+[18:33:32]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> rolls.
+[18:33:39]ADMIN: Riki2321gamer/(monkey (372)) spawned /mob/living/carbon/human/interactive/angry at (112,142,1)
+[18:33:40]ADMIN: Riki2321gamer/(monkey (372)) spawned /mob/living/carbon/human/interactive/angry at (112,142,1)
+[18:33:40]SAY: Poly/ : FI&#39;RAN DADISKO
+[18:33:40]ADMIN: Riki2321gamer/(monkey (372)) spawned /mob/living/carbon/human/interactive/angry at (112,142,1)
+[18:33:40]ADMIN: Riki2321gamer/(monkey (372)) spawned /mob/living/carbon/human/interactive/angry at (112,142,1)
+[18:33:41]ADMIN: Riki2321gamer/(monkey (372)) spawned /mob/living/carbon/human/interactive/angry at (112,142,1)
+[18:33:41]ADMIN: Riki2321gamer/(monkey (372)) spawned /mob/living/carbon/human/interactive/angry at (112,142,1)
+[18:33:41]ADMIN: Riki2321gamer/(monkey (372)) spawned /mob/living/carbon/human/interactive/angry at (112,142,1)
+[18:33:41]ADMIN: Riki2321gamer/(monkey (372)) spawned /mob/living/carbon/human/interactive/angry at (112,142,1)
+[18:33:42]ADMIN: Riki2321gamer/(monkey (372)) spawned /mob/living/carbon/human/interactive/angry at (112,142,1)
+[18:33:42]ADMIN: Riki2321gamer/(monkey (372)) spawned /mob/living/carbon/human/interactive/angry at (112,142,1)
+[18:33:42]ADMIN: Riki2321gamer/(monkey (372)) spawned /mob/living/carbon/human/interactive/angry at (112,142,1)
+[18:33:42]ADMIN: Riki2321gamer/(monkey (372)) spawned /mob/living/carbon/human/interactive/angry at (112,142,1)
+[18:33:43]ADMIN: Riki2321gamer/(monkey (372)) spawned /mob/living/carbon/human/interactive/angry at (112,142,1)
+[18:33:43]ADMIN: Riki2321gamer/(monkey (372)) spawned /mob/living/carbon/human/interactive/angry at (112,142,1)
+[18:33:43]ADMIN: Riki2321gamer/(monkey (372)) spawned /mob/living/carbon/human/interactive/angry at (112,142,1)
+[18:33:43]ADMIN: Riki2321gamer/(monkey (372)) spawned /mob/living/carbon/human/interactive/angry at (112,142,1)
+[18:33:44]ADMIN: Riki2321gamer/(monkey (372)) spawned /mob/living/carbon/human/interactive/angry at (112,142,1)
+[18:33:44]ADMIN: Riki2321gamer/(monkey (372)) spawned /mob/living/carbon/human/interactive/angry at (112,142,1)
+[18:33:44]ADMIN: Riki2321gamer/(monkey (372)) spawned /mob/living/carbon/human/interactive/angry at (112,142,1)
+[18:33:45]ADMIN: Riki2321gamer/(monkey (372)) spawned /mob/living/carbon/human/interactive/angry at (112,142,1)
+[18:33:46]SAY: Saul Clarke/ : Danger! Crystal hyperstructure instability! Instability: 5%
+[18:33:46]ADMIN: Riki2321gamer/(monkey (372)) admin ghosted.
+[18:33:46]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/dead/observer
+[18:33:48]EMOTE: @Riki2321gamer[DC]/(monkey (372)) : <b>The monkey (372)</b> gasps!
+[18:33:49]SAY: Kingston Foster/ : WATCH OUT FROM THIS MONKEY
+[18:33:54]ADMIN: Riki2321gamer/(Riki) spawned /mob/living/carbon/human/interactive/friendly at (111,141,1)
+[18:33:54]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> jumps!
+[18:33:55]ADMIN: Riki2321gamer/(Riki) spawned /mob/living/carbon/human/interactive/friendly at (111,141,1)
+[18:33:55]ADMIN: Riki2321gamer/(Riki) spawned /mob/living/carbon/human/interactive/friendly at (111,141,1)
+[18:33:55]ADMIN: Riki2321gamer/(Riki) spawned /mob/living/carbon/human/interactive/friendly at (111,141,1)
+[18:33:55]ADMIN: Riki2321gamer/(Riki) spawned /mob/living/carbon/human/interactive/friendly at (111,141,1)
+[18:33:56]ADMIN: Riki2321gamer/(Riki) spawned /mob/living/carbon/human/interactive/friendly at (111,141,1)
+[18:33:56]ADMIN: Riki2321gamer/(Riki) spawned /mob/living/carbon/human/interactive/friendly at (111,141,1)
+[18:33:56]ADMIN: Riki2321gamer/(Riki) spawned /mob/living/carbon/human/interactive/friendly at (111,141,1)
+[18:33:56]ADMIN: Riki2321gamer/(Riki) spawned /mob/living/carbon/human/interactive/friendly at (111,141,1)
+[18:33:57]ADMIN: Riki2321gamer/(Riki) spawned /mob/living/carbon/human/interactive/friendly at (111,141,1)
+[18:33:57]ADMIN: Riki2321gamer/(Riki) spawned /mob/living/carbon/human/interactive/friendly at (111,141,1)
+[18:33:57]ADMIN: Riki2321gamer/(Riki) spawned /mob/living/carbon/human/interactive/friendly at (111,141,1)
+[18:33:57]ADMIN: Riki2321gamer/(Riki) spawned /mob/living/carbon/human/interactive/friendly at (111,141,1)
+[18:33:58]ADMIN: Riki2321gamer/(Riki) spawned /mob/living/carbon/human/interactive/friendly at (111,141,1)
+[18:33:58]EMOTE: @Riki2321gamer[DC]/(monkey (372)) : <b>The monkey (372)</b> gasps!
+[18:34:04]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> scratches.
+[18:34:10]ACCESS: Mob Login: Riki2321gamer/(monkey (372)) was assigned to a /mob/living/carbon/monkey
+[18:34:14]GAME: <a href='?priv_msg=riki2321gamer'>Riki2321gamer</a>/(monkey (372)) checked the player panel while in game.
+[18:34:14]SAY: Diamond Clewett/ : Oh wank, leg it!
+[18:34:15]ADMIN: Riki2321gamer/(monkey (372)) healed / Revived Riki2321gamer/(monkey (372)).
+[18:34:16]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> scratches.
+[18:34:17]SAY: Shawn Leslie/ : ONE OF THE MONKEYS HAS A HOMERUN
+[18:34:17]SAY: Rylie Hook/ : S-SHIT-T-T-T!!
+[18:34:19]SAY: Lalla Bousum/ : COC-CKS-SUC-CK-K-KER!!
+[18:34:19]SAY: Rylie Hook/ : C-COCKS-S-SUK-KER-R-R!!
+[18:34:22]SAY: Shawn Leslie/ : M-MOTH-HER-RF-FUC-CK-KER-R-R!!
+[18:34:23]ADMIN: Riki2321gamer/(monkey (372)) spawned /obj/item/weapon/gun/energy/laser/infinite at (116,142,1)
+[18:34:26]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[18:34:28]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> scratches.
+[18:34:30]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[18:34:36]SAY: Royce Lowe/ : FUC-CK!!
+[18:34:38]SAY: Shawn Leslie/ : F-F-FUC-CK
+[18:34:39]SAY: Jacquetta Prevatt/ : PIS-SS-S-S!!
+[18:34:39]SAY: Lalla Bousum/ : C-COC-C-C-CK-KS-SUC-CK-KER-R
+[18:34:44]SAY: Allie Newton/ : M-MOT-THER-RF-FUC-CKER!!
+[18:34:46]SAY: Luis Greenwood/ : C-COC-C-C-CK-KSUC-C-C-CK-K-K-KER-R!!
+[18:34:48]SAY: Cliff Lacon/ : C-COC-CK-KS-S-SUCK-K-KER-R!!
+[18:34:50]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> scratches.
+[18:35:03]SAY: Trinity Richards/ : TIS-S-S!!
+[18:35:05]SAY: Cliff Lacon/ : P-PIS-S-SS-S-S-S
+[18:35:06]SAY: mouse/ : Squeek!
+[18:35:08]EMOTE: *no key*/(Runtime) : <b>Runtime</b> twitches its whiskers.
+[18:35:10]SAY: Dylan Stocker/ : P-PIS-SS-S-S-S!!
+[18:35:10]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> rolls.
+[18:35:17]ACCESS: Mob Login: Weezy F Dende/(Gray Seven) was assigned to a /mob/living/carbon/human
+[18:35:20]SAY: Seth Harris/ : C-COC-CK-KS-S-SUC-C-CK-K-KER-R!!
+[18:35:21]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[18:35:22]ADMIN: Weezy F Dende/(Gray Seven) admin ghosted.
+[18:35:22]ACCESS: Mob Login: Weezy F Dende/(Gray Seven) was assigned to a /mob/dead/observer
+[18:35:31]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> scratches.
+[18:35:32]ACCESS: Mob Login: Weezy F Dende/(Gray Seven) was assigned to a /mob/living/carbon/human
+[18:35:33]SAY: Beckett Weisgarber/ : PISS!!
+[18:35:35]SAY: Grendel Kirkson/ : CUN-N-N-NT-T-T!!
+[18:35:36]EMOTE: *no key*/(Runtime) : <b>Runtime</b> grooms its fur.
+[18:35:37]SAY: Grendel Kirkson/ : MOTHERFUCKER
+[18:35:38]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> jumps!
+[18:35:40]SAY: Hugo Shick/ : C-COC-CK-KS-S-SUC-CK-K-KER-R
+[18:35:41]SAY: Jeannine McDonohugh/ : Riki has signed up as Captain
+[18:35:48]SAY: Valeria Burkett/ : Rend and choke, rend and poke!
+[18:35:48]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> rolls.
+[18:35:50]SAY: Grendel Kirkson/ : IT-TS!!
+[18:35:56]EMOTE: *no key*/(Runtime) : <b>Runtime</b> lies down.
+[18:35:56]EMOTE: Riki2321gamer/(monkey (372)) : <b>The monkey (372)</b> gasps!
+[18:36:04]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> jumps!
+[18:36:09]SAY: Jayla Hincken/ : M-M-MOT-THER-R-R-RF-FUCK-KER-R-R!!
+[18:36:10]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[18:36:12]SAY: Jacquetta Prevatt/ : YAP
+[18:36:18]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[18:36:20]SAY: Valeria Burkett/ : C-COCK-KS-S-SUC-CKER-R!!
+[18:36:20]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[18:36:20]EMOTE: Riki2321gamer/(monkey (372)) : <b>The monkey (372)</b> gasps!
+[18:36:22]EMOTE: Riki2321gamer/(monkey (372)) : <b>The monkey (372)</b> gasps!
+[18:36:30]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[18:36:32]ADMIN: Riki2321gamer/(monkey (372)) admin ghosted.
+[18:36:32]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/dead/observer
+[18:36:34]SAY: Ian/ : AUUUUUU
+[18:36:40]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> waves her tail.
+[18:36:40]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> scratches.
+[18:36:42]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[18:36:44]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[18:36:45]SAY: Zack Ali/ : P-P-PIS-SS-S
+[18:36:55]SAY: Runtime/ : Esp!
+[18:36:55]SAY: Greyson Kelley/ : C-COC-C-C-CK-KSUC-C-C-CK-K-K-KER-R!!
+[18:36:59]SAY: mouse/ : SQUEEK!
+[18:37:00]SAY: Jeannine McDonohugh/ : C-COC-CK-KSUKER-R
+[18:37:03]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[18:37:07]EMOTE: @Riki2321gamer[DC]/(monkey (372)) : <b>The monkey (372)</b> gasps!
+[18:37:09]SAY: mouse/ : SQUEEK!
+[18:37:09]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> scratches.
+[18:37:17]SAY: mouse/ : Squeek!
+[18:37:19]EMOTE: @Riki2321gamer[DC]/(monkey (372)) : <b>The monkey (372)</b> gasps!
+[18:37:21]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[18:37:28]ADMIN: Weezy F Dende/(Gray Seven) jumped to *no key*/(Cherette Picard)
+[18:37:37]EMOTE: *no key*/(Pete) : <b>Pete</b> stamps a foot.
+[18:37:37]EMOTE: @Riki2321gamer[DC]/(monkey (372)) : <b>The monkey (372)</b> gasps!
+[18:37:41]EMOTE: @Riki2321gamer[DC]/(monkey (372)) : <b>The monkey (372)</b> gasps!
+[18:37:45]EMOTE: @Riki2321gamer[DC]/(monkey (372)) : <b>The monkey (372)</b> gasps!
+[18:37:53]EMOTE: @Riki2321gamer[DC]/(monkey (372)) : <b>The monkey (372)</b> gasps!
+[18:38:01]SAY: Bryant Martins/ : I like it
+[18:38:07]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[18:38:11]SAY: Dylan Stocker/ : Not So Talkative has signed up as Mime
+[18:38:11]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[18:38:11]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[18:38:17]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> waves her tail.
+[18:38:19]EMOTE: @Riki2321gamer[DC]/(monkey (372)) : <b>The monkey (372)</b> gasps!
+[18:38:21]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> scratches.
+[18:38:23]EMOTE: @Riki2321gamer[DC]/(monkey (372)) : <b>The monkey (372)</b> gasps!
+[18:38:27]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[18:38:29]SAY: mouse/ : Squeek?
+[18:38:29]EMOTE: @Riki2321gamer[DC]/(monkey (372)) : <b>The monkey (372)</b> gasps!
+[18:38:33]EMOTE: @Riki2321gamer[DC]/(monkey (372)) : <b>The monkey (372)</b> gasps!
+[18:38:41]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> jumps!
+[18:38:43]SAY: Rylie Hook/ : SHIT
+[18:38:43]EMOTE: @Riki2321gamer[DC]/(monkey (372)) : <b>The monkey (372)</b> gasps!
+[18:38:47]EMOTE: @Riki2321gamer[DC]/(monkey (372)) : <b>The monkey (372)</b> lets out a faint chimper as it collapses and stops moving...
+[18:38:51]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stops resting.
+[18:38:51]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[18:38:53]EMOTE: *no key*/(Tom) : <b>Tom</b> squeeks.
+[18:38:54]ACCESS: Mob Login: Riki2321gamer/(monkey (372)) was assigned to a /mob/living/carbon/monkey
+[18:38:55]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/dead/observer
+[18:39:00]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> yawns.
+[18:39:02]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> waves her tail.
+[18:39:03]GAME: Riki/Riki2321gamer used abandon mob.
+[18:39:03]ACCESS: Mob Login: Riki2321gamer/(new player) was assigned to a /mob/dead/new_player
+[18:39:08]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/living/carbon/human
+[18:39:17]SAY: Allie Newton/ : SHIT
+[18:39:17]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[18:39:17]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> waves her tail.
+[18:39:17]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> rolls.
+[18:39:21]EMOTE: *no key*/(Lalla Bousum) : <b>Lalla Bousum</b> seizes up and falls limp, her eyes dead and lifeless...
+[18:39:23]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[18:39:23]EMOTE: *no key*/(Beckett Weisgarber) : <b>Beckett Weisgarber</b> seizes up and falls limp, his eyes dead and lifeless...
+[18:39:25]EMOTE: *no key*/(Seth Harris) : <b>Seth Harris</b> seizes up and falls limp, his eyes dead and lifeless...
+[18:39:27]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[18:39:27]EMOTE: *no key*/(Luis Greenwood) : <b>Luis Greenwood</b> seizes up and falls limp, his eyes dead and lifeless...
+[18:39:31]EMOTE: *no key*/(Shawn Leslie) : <b>Shawn Leslie</b> seizes up and falls limp, his eyes dead and lifeless...
+[18:39:33]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> waves his tail.
+[18:39:35]EMOTE: *no key*/(Jacquetta Prevatt) : <b>Jacquetta Prevatt</b> seizes up and falls limp, her eyes dead and lifeless...
+[18:39:37]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> waves her tail.
+[18:39:39]EMOTE: *no key*/(Claribel Stocker) : <b>Claribel Stocker</b> seizes up and falls limp, her eyes dead and lifeless...
+[18:39:41]EMOTE: *no key*/(Sergio Cook) : <b>Sergio Cook</b> seizes up and falls limp, his eyes dead and lifeless...
+[18:39:45]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> scratches.
+[18:39:45]EMOTE: *no key*/(Miles Philips) : <b>Miles Philips</b> seizes up and falls limp, his eyes dead and lifeless...
+[18:39:45]EMOTE: *no key*/(Mariah Power) : <b>Mariah Power</b> seizes up and falls limp, her eyes dead and lifeless...
+[18:39:47]EMOTE: *no key*/(Royce Lowe) : <b>Royce Lowe</b> seizes up and falls limp, his eyes dead and lifeless...
+[18:39:49]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[18:39:51]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> scratches.
+[18:39:53]EMOTE: *no key*/(Phillip Osterweis) : <b>Phillip Osterweis</b> seizes up and falls limp, his eyes dead and lifeless...
+[18:39:53]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[18:39:53]EMOTE: *no key*/(Grendel Kirkson) : <b>Grendel Kirkson</b> seizes up and falls limp, his eyes dead and lifeless...
+[18:39:55]EMOTE: *no key*/(Hugo Shick) : <b>Hugo Shick</b> seizes up and falls limp, his eyes dead and lifeless...
+[18:39:55]EMOTE: *no key*/(Cliff Lacon) : <b>Cliff Lacon</b> seizes up and falls limp, his eyes dead and lifeless...
+[18:39:59]EMOTE: *no key*/(Star Laurenzi) : <b>Star Laurenzi</b> seizes up and falls limp, her eyes dead and lifeless...
+[18:40:01]EMOTE: *no key*/(Lexus Bluetenberger) : <b>Lexus Bluetenberger</b> seizes up and falls limp, her eyes dead and lifeless...
+[18:40:01]ADMIN: Weezy F Dende/(Gray Seven) created a /obj/item/weapon/gun/energy/meteorgun
+[18:40:01]EMOTE: *no key*/(Jamari Bratton) : <b>Jamari Bratton</b> seizes up and falls limp, his eyes dead and lifeless...
+[18:40:05]EMOTE: *no key*/(Jordan Noton) : <b>Jordan Noton</b> seizes up and falls limp, her eyes dead and lifeless...
+[18:40:05]EMOTE: *no key*/(Diamond Clewett) : <b>Diamond Clewett</b> seizes up and falls limp, her eyes dead and lifeless...
+[18:40:07]EMOTE: *no key*/(Saul Clarke) : <b>Saul Clarke</b> seizes up and falls limp, his eyes dead and lifeless...
+[18:40:11]EMOTE: *no key*/(Trinity Richards) : <b>Trinity Richards</b> seizes up and falls limp, her eyes dead and lifeless...
+[18:40:11]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> jumps!
+[18:40:11]EMOTE: *no key*/(Kingston Foster) : <b>Kingston Foster</b> seizes up and falls limp, his eyes dead and lifeless...
+[18:40:11]EMOTE: *no key*/(Jayla Hincken) : <b>Jayla Hincken</b> seizes up and falls limp, her eyes dead and lifeless...
+[18:40:17]EMOTE: *no key*/(Valeria Burkett) : <b>Valeria Burkett</b> seizes up and falls limp, her eyes dead and lifeless...
+[18:40:23]SAY: Rylie Guess/ : MOTHERFUCKER
+[18:40:23]EMOTE: *no key*/(Danica Donkin) : <b>Danica Donkin</b> seizes up and falls limp, her eyes dead and lifeless...
+[18:40:26]EMOTE: *no key*/(Dylan Stocker) : <b>Dylan Stocker</b> seizes up and falls limp, his eyes dead and lifeless...
+[18:40:27]EMOTE: *no key*/(Walter Wile) : <b>Walter Wile</b> seizes up and falls limp, his eyes dead and lifeless...
+[18:40:29]EMOTE: *no key*/(Noah Rose) : <b>Noah Rose</b> seizes up and falls limp, his eyes dead and lifeless...
+[18:40:35]ADMIN: Riki2321gamer/(Riki) made all areas powered
+[18:40:37]ADMIN: Riki2321gamer/(Riki) used secret power
+[18:40:37]ADMIN: Riki2321gamer/(Riki) made all SMESs powered
+[18:40:37]ADMIN: Riki2321gamer/(Riki) used secret quickpower
+[18:40:37]ADMIN: Riki2321gamer/(Riki) used secret whiteout
+[18:40:42]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> scratches.
+[18:40:42]SAY: Ian/ : Bark!
+[18:40:44]EMOTE: Riki2321gamer/(Riki) : <b>Riki</b> gasps!
+[18:40:51]SAY: Allie Newton/ : M-MOTH-HER-RF-FUC-CK-KER-R-R!!
+[18:40:54]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> waves her tail.
+[18:40:56]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[18:41:02]EMOTE: Weezy F Dende/(Gray Seven) : <b>Gray Seven</b> gasps!
+[18:41:06]EMOTE: *no key*/(Zack Ali) : <b>Zack Ali</b> seizes up and falls limp, his eyes dead and lifeless...
+[18:41:06]EMOTE: *no key*/(Minnie Foster) : <b>Minnie Foster</b> seizes up and falls limp, her eyes dead and lifeless...
+[18:41:08]EMOTE: Weezy F Dende/(Gray Seven) : <b>Gray Seven</b> gasps!
+[18:41:14]EMOTE: *no key*/(Star Wible) : <b>Star Wible</b> seizes up and falls limp, her eyes dead and lifeless...
+[18:41:16]EMOTE: *no key*/(Janette Osteen) : <b>Janette Osteen</b> seizes up and falls limp, her eyes dead and lifeless...
+[18:41:24]GAME: <a href='?priv_msg=riki2321gamer'>Riki2321gamer</a>/(Riki) checked the player panel while in game.
+[18:41:25]ADMIN: Riki2321gamer/(Riki) healed / Revived Riki2321gamer/(Riki).
+[18:41:25]EMOTE: Weezy F Dende/(Gray Seven) : <b>Gray Seven</b> teabags Riki.
+[18:41:28]ADMIN: Riki2321gamer/(Riki) healed / Revived Riki2321gamer/(Riki).
+[18:41:42]ADMIN: Riki2321gamer/(Riki) spawned /obj/item/clothing/mask/breath at (54,202,1)
+[18:41:54]SAY: mouse/ : Squeek?
+[18:41:55]ADMIN: Riki2321gamer/(Riki) spawned /obj/item/clothing/suit/space/hardsuit/captain at (57,203,1)
+[18:41:56]GAME: <a href='?priv_msg=weezyfdende'>Weezy F Dende</a>/(Gray Seven) checked the player panel while in game.
+[18:41:57]ADMIN: Weezy F Dende/(Gray Seven) healed / Revived Riki2321gamer/(Riki).
+[18:42:02]SAY: mouse/ : SQUEEK!
+[18:42:06]SAY: Pete/ : EHEHEHEHEH
+[18:42:14]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> scratches.
+[18:42:20]SAY: Nobody's Perfect/ : Delicious!
+[18:42:22]ADMIN: Riki2321gamer/(Riki) spawned /obj/item/clothing/under/color/random at (58,203,1)
+[18:42:28]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[18:42:37]ADMIN: Riki2321gamer/(Riki) spawned /obj/item/clothing/neck/cloak/cmo at (58,202,1)
+[18:42:38]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[18:42:40]SAY: Abigail Marcotte/ : I WANNA DIE
+[18:42:46]ADMIN: Riki2321gamer/(Riki) spawned /obj/item/weapon/tank/internals/oxygen/yellow at (57,202,1)
+[18:42:52]SAY: Ian/ : AUUUUUU
+[18:42:53]ADMIN: Riki2321gamer/(Riki) spawned /obj/item/weapon/tank/jetpack/suit at (58,202,1)
+[18:42:56]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[18:42:57]SAY: Bryant Martins/ : DON&#39;T KNOW!!
+[18:43:00]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stops resting.
+[18:43:04]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> waves its tail.
+[18:43:08]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[18:43:12]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[18:43:13]ADMIN: Riki2321gamer/(Riki) spawned /obj/item/weapon/tank/internals/oxygen/yellow at (58,201,1)
+[18:43:14]SAY: Medibot/ : Delicious!
+[18:43:22]SAY: mouse/ : SQUEEK!
+[18:43:22]ADMIN: Riki2321gamer/(Riki) spawned /obj/item/clothing/glasses/meson/night at (59,201,1)
+[18:43:32]SAY: Tom/ : Squeek!
+[18:43:32]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> jumps!
+[18:43:36]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[18:43:38]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[18:43:46]EMOTE: Weezy F Dende/(Gray Seven) : <b>Gray Seven</b> gasps!
+[18:43:48]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[18:43:48]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[18:43:50]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[18:43:56]SAY: Poly/ : Engaging patrol mode.
+[18:43:56]ADMIN: Weezy F Dende/(Gray Seven) used gibself.
+[18:43:56]ACCESS: Mob Login: Weezy F Dende/(Gray Seven) was assigned to a /mob/dead/observer
+[18:44:14]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> waves her tail.
+[18:44:14]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> rolls.
+[18:44:14]SAY: Medibot/ : Delicious!
+[18:44:14]ACCESS: Logout: Weezy F Dende/(Gray Seven)
+[18:44:16]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> scratches.
+[18:44:22]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[18:44:22]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[18:44:30]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> rolls.
+[18:44:32]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> waves his tail.
+[18:44:44]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[18:44:46]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> jumps!
+[18:44:50]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> rolls.
+[18:44:56]SAY: Poly/ : Come get your eggs!
+[18:44:56]SAY: Pete/ : Eh?
+[18:44:57]ADMIN: Riki2321gamer/(Riki) admin ghosted.
+[18:44:57]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/dead/observer
+[18:44:58]EMOTE: *no key*/(Runtime) : <b>Runtime</b> lies down.
+[18:45:02]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[18:45:03]ADMIN: Riki2321gamer/(Riki) teleported @Riki2321gamer[DC]/(Riki)
+[18:45:04]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/living/carbon/human
+[18:45:08]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[18:45:13]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> waves his tail.
+[18:45:17]SAY: Poly/ : Riki has signed up as Captain
+[18:45:17]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> waves her tail.
+[18:45:17]EMOTE: *no key*/(alien hunter (276)) : <b>The alien hunter (276)</b> gasps!
+[18:45:20]SAY: Rylie Guess/ : C-CUNT
+[18:45:30]SAY: Abigail Marcotte/ : PIS-S-S-SS-S!!
+[18:45:41]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[18:45:43]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> jumps!
+[18:45:45]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> scratches.
+[18:45:45]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[18:45:51]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[18:45:53]SAY: Jeannine McDonohugh/ : S-SIT-T-T-T
+[18:45:57]ADMIN: Riki2321gamer/(Riki) admin ghosted.
+[18:45:57]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/dead/observer
+[18:46:04]ADMIN: Riki2321gamer/(Riki) teleported @Riki2321gamer[DC]/(Riki)
+[18:46:06]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/living/carbon/human
+[18:46:21]SAY: Medibot/ : Radar, put a mask on!
+[18:46:22]ADMIN: Riki2321gamer/(Riki) admin ghosted.
+[18:46:22]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/dead/observer
+[18:46:27]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[18:46:32]ADMIN: Riki2321gamer/(Riki) teleported @Riki2321gamer[DC]/(Riki)
+[18:46:33]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/living/carbon/human
+[18:46:35]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> waves her tail.
+[18:46:37]SAY: Rylie Hook/ : F-FUC-C
+[18:46:42]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> jumps!
+[18:46:46]SAY: mouse/ : SQUEEK!
+[18:46:58]GAME: Random Event triggering: Camera Failure (/datum/round_event/camera_failure)
+[18:47:03]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[18:47:06]SAY: Jeannine McDonohugh/ : F-FUC-CK-K-K!!
+[18:47:11]EMOTE: *no key*/(Tom) : <b>Tom</b> squeeks.
+[18:47:13]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[18:47:13]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> waves her tail.
+[18:47:21]SAY: Poly/ : I&#39;d rather toolbox than switch.
+[18:47:23]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[18:47:23]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> rolls.
+[18:47:25]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[18:47:33]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> jumps!
+[18:47:35]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> waves her tail.
+[18:47:45]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> waves her tail.
+[18:47:57]SAY: Medibot/ : Delicious!
+[18:47:59]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> waves its tail.
+[18:48:05]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> waves her tail.
+[18:48:10]EMOTE: *no key*/(hatchling) : <b>The hatchling</b> stops moving...
+[18:48:11]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> rolls.
+[18:48:15]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> waves her tail.
+[18:48:27]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> rolls.
+[18:48:41]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> scratches.
+[18:48:49]SAY: Medibot/ : Delicious!
+[18:48:56]SAY: Jeannine McDonohugh/ : M-MOT-TH-HERFUC-CKER-R!!
+[18:49:01]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[18:49:01]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> scratches.
+[18:49:03]EMOTE: *no key*/(alien hunter (276)) : <b>The alien hunter (276)</b> gasps!
+[18:49:07]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> rolls.
+[18:49:15]SAY: Abigail Marcotte/ : COC-CK-K-K-KS-SUC-C-CK-KER!!
+[18:49:19]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> jumps!
+[18:49:20]SAY: Rylie Guess/ : C-C-C-COC-CK-KS-SUC-CK-K-K-KER-R!!
+[18:49:23]SAY: Bryant Martins/ : S-SH-H-HIT-T-T-T!!
+[18:49:24]SAY: Rylie Guess/ : P-PISS-S!!
+[18:49:27]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[18:49:43]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[18:49:48]SAY: Bryant Martins/ : I WILL NEVER USE MAGIC AGAIN
+[18:49:49]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> scratches.
+[18:49:53]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> scratches.
+[18:49:55]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> scratches.
+[18:49:59]EMOTE: *no key*/(alien hunter (276)) : <b>The alien hunter (276)</b> gasps!
+[18:50:03]SAY: Nobody's Perfect/ : Delicious!
+[18:50:07]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[18:50:22]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> jumps!
+[18:50:41]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> jumps!
+[18:50:46]SAY: Jeannine McDonohugh/ : M-MOH-H-HERF-FUC-CKER-R-R-R!!
+[18:50:49]SAY: Poly/ : Hello its captain here
+[18:50:55]SAY: Runtime/ : Esp!
+[18:50:59]SAY: Poly/ : Sophie Teagarden has signed up as Chief Engineer
+[18:51:01]SAY: Poly/ : Don&#39;t believe the reports - smoke today!
+[18:51:05]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[18:51:05]EMOTE: *no key*/(Ian) : <b>Ian</b> shivers.
+[18:51:09]SAY: Jeannine McDonohugh/ : I am cak.
+[18:51:15]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> rolls.
+[18:51:17]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[18:51:21]EMOTE: *no key*/(Pete) : <b>Pete</b> brays.
+[18:51:21]EMOTE: *no key*/(alien hunter (276)) : <b>The alien hunter (276)</b> gasps!
+[18:51:31]SAY: Poly/ : Don&#39;t believe the reports - smoke today!
+[18:51:31]EMOTE: *no key*/(Pete) : <b>Pete</b> glares around.
+[18:51:39]SAY: Tom/ : Squeek!
+[18:51:57]GAME: Random Event triggering: Communications Blackout (/datum/round_event/communications_blackout)
+[18:52:19]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> scratches.
+[18:52:21]EMOTE: *no key*/(Pete) : <b>Pete</b> shakes its head.
+[18:52:21]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> scratches.
+[18:52:27]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[18:52:37]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[18:52:37]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> scratches.
+[18:52:51]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[18:52:51]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> rolls.
+[18:53:05]EMOTE: *no key*/(alien hunter (276)) : <b>The alien hunter (276)</b> gasps!
+[18:53:11]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> jumps!
+[18:53:15]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[18:53:31]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> scratches.
+[18:53:35]EMOTE: *no key*/(Pete) : <b>Pete</b> glares around.
+[18:53:42]GAME: <a href='?priv_msg=riki2321gamer'>Riki2321gamer</a>/(Riki) checked the player panel while in game.
+[18:53:43]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[18:53:47]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[18:53:49]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> scratches.
+[18:53:51]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[18:53:53]ADMIN: Riki2321gamer/(Riki) modified Riki's age to 1
+[18:53:58]OOC: Riki/Riki2321gamer : LOL
+[18:53:59]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> waves his tail.
+[18:53:59]SAY: Ian/ : Bark!
+[18:54:03]ADMIN: Riki2321gamer/(Riki) jumped to Emergency Shuttle
+[18:54:05]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> dozes off.
+[18:54:25]SAY: Runtime/ : Purr!
+[18:54:29]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> rolls.
+[18:54:29]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> jumps!
+[18:54:31]EMOTE: *no key*/(Pete) : <b>Pete</b> glares around.
+[18:54:33]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[18:54:39]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> rolls.
+[18:54:41]SAY: Abigail Marcotte/ : Hey person, why dont you go shit damn jerk arse wank , you gaylord!
+[18:54:41]EMOTE: *no key*/(Pete) : <b>Pete</b> stamps a foot.
+[18:54:41]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> jumps!
+[18:54:45]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[18:54:47]SAY: Tom/ : Squeek!
+[18:55:01]SAY: mouse/ : Squeek?
+[18:55:01]SAY: Medibot/ : Radar, put a mask on!
+[18:55:03]SAY: Tom/ : SQUEEK!
+[18:55:05]EMOTE: *no key*/(alien hunter (276)) : <b>The alien hunter (276)</b> gasps!
+[18:55:20]SAY: Poly/ : C-COC-CK-KSUKER-R
+[18:55:26]GAME: Random Event triggering: Camera Failure (/datum/round_event/camera_failure)
+[18:55:30]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> rolls.
+[18:55:32]SAY: Poly/ : I&#39;d rather toolbox than switch.
+[18:55:39]EMOTE: *no key*/(alien hunter (276)) : <b>The alien hunter (276)</b> gasps!
+[18:55:46]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[18:55:48]SAY: Jeannine McDonohugh/ : M-M-MOT-THER-RUC-CK-KE!!
+[18:55:48]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> jumps!
+[18:55:51]SAY: Greyson Kelley/ : PIS-SS-S!!
+[18:55:52]SAY: Poly/ : Hello its captain here
+[18:56:04]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> jumps!
+[18:56:06]SAY: Jeannine McDonohugh/ : P-P-P-PIS-SS-S!!
+[18:56:06]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> scratches.
+[18:56:10]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shakes its head
+[18:56:10]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[18:56:18]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shakes its head
+[18:56:24]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> waves her tail.
+[18:56:37]SAY: Rylie Guess/ : COK-KS-S-SUCK-KER-R!!
+[18:56:45]EMOTE: *no key*/(monkey (883)) : <b>The monkey (883)</b> scratches.
+[18:56:47]SAY: Rylie Guess/ : C-COC-C-C-CK-K-KSUCK-KER-R!!
+[18:56:48]EMOTE: *no key*/(Runtime) : <b>Runtime</b> lies down.
+[18:56:48]SAY: mouse/ : Squeek!
+[18:56:49]SAY: Medibot/ : Radar, put a mask on!
+[18:56:53]EMOTE: *no key*/(hatchling) : <b>The hatchling</b> stops moving...
+[18:56:53]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> jumps!
+[18:56:55]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> waves his tail.
+[18:57:13]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> waves his tail.
+[18:57:15]SAY: Abigail Marcotte/ : T-TIT-T-TS-S!!
+[18:57:17]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> scratches.
+[18:57:23]EMOTE: *no key*/(alien hunter (276)) : <b>The alien hunter (276)</b> gasps!
+[18:57:25]EMOTE: *no key*/(Runtime) : <b>Runtime</b> gets up and meows.
+[18:57:25]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[18:57:41]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[18:57:46]SAY: Jeannine McDonohugh/ : S-SH-H-HIT-T
+[18:57:49]EMOTE: *no key*/(Runtime) : <b>Runtime</b> twitches its whiskers.
+[18:57:53]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shivers
+[18:57:55]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[18:57:56]SAY: Allie Newton/ : F-FUCK-K
+[18:57:57]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> scratches.
+[18:58:01]SAY: Poly/ : Hullbreach!
+[18:58:05]SAY: Poly/ : I&#39;d rather toolbox than switch.
+[18:58:05]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> scratches.
+[18:58:13]SAY: Medibot/ : Delicious!
+[18:58:15]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[18:58:37]EMOTE: *no key*/(Pete) : <b>Pete</b> stamps a foot.
+[18:58:42]SAY: Rylie Hook/ : P-PISS-S-S-S!!
+[18:58:47]SAY: Poly/ : TITS
+[18:59:01]SAY: Allie Newton/ : AND A ALARM HELMET
+[18:59:01]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[18:59:14]SAY: Rylie Guess/ : Oh jerk, that whorelord was one hell of an childish arms.
+[18:59:29]SAY: Allie Newton/ : C-COC-C-CK-KS-SUCK-KER-R
+[18:59:33]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[18:59:50]EMOTE: *no key*/(Runtime) : <b>Runtime</b> lies down.
+[18:59:55]SAY: Tom/ : Squeek?
+[19:00:00]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[19:00:04]SAY: mouse/ : Squeek!
+[19:00:06]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> rolls.
+[19:00:08]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[19:00:18]SAY: Allie Newton/ : Hands down the best seed selection on the station!
+[19:00:20]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> rolls.
+[19:00:26]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[19:00:28]EMOTE: *no key*/(alien hunter (276)) : <b>The alien hunter (276)</b> gasps!
+[19:00:32]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[19:00:32]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> scratches.
+[19:00:34]SAY: Greyson Kelley/ : S-SH-HIT-T-T-T!!
+[19:00:36]SAY: mouse/ : Squeek!
+[19:00:38]EMOTE: *no key*/(Ian) : <b>Ian</b> pants.
+[19:00:42]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[19:00:50]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> jumps!
+[19:00:50]SAY: Bryant Martins/ : F-FUC-C
+[19:00:52]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> jumps!
+[19:00:54]SAY: Poly/ : Hullbreach!
+[19:00:56]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> waves her tail.
+[19:01:00]SAY: mouse/ : Squeek!
+[19:01:02]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> waves her tail.
+[19:01:12]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> waves her tail.
+[19:01:24]SAY: Runtime/ : HSSSSS
+[19:01:32]EMOTE: *no key*/(alien hunter (276)) : <b>The alien hunter (276)</b> gasps!
+[19:01:36]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[19:01:44]EMOTE: *no key*/(Tom) : <b>Tom</b> runs in a circle.
+[19:01:46]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[19:01:48]SAY: mouse/ : Squeek!
+[19:01:50]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> waves his tail.
+[19:01:52]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> waves his tail.
+[19:01:54]SAY: Allie Newton/ : C-C-CUN-N-NT-T!!
+[19:02:02]SAY: Runtime/ : Purr!
+[19:02:07]GAME: Random Event triggering: Communications Blackout (/datum/round_event/communications_blackout)
+[19:02:08]SAY: Poly/ : Come get your eggs!
+[19:02:18]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[19:02:34]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> waves his tail.
+[19:02:46]EMOTE: *no key*/(Runtime) : <b>Runtime</b> walks around.
+[19:02:46]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[19:02:50]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[19:02:58]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> rolls.
+[19:03:00]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[19:03:04]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> waves her tail.
+[19:03:10]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shakes its head
+[19:03:10]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> rolls.
+[19:03:10]SAY: Medibot/ : Delicious!
+[19:03:16]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> dozes off.
+[19:03:24]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> rolls.
+[19:03:28]EMOTE: *no key*/(monkey (816)) : <b>The monkey (816)</b> rolls.
+[19:03:36]EMOTE: *no key*/(monkey (609)) : <b>The monkey (609)</b> waves her tail.
+[19:04:02]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> dozes off.
+[19:04:24]SAY: Poly/ : Hullbreach!
+[19:04:26]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> scratches.
+[19:04:31]ADMIN: Riki2321gamer/(Riki) jumped to Gravity Generator Room
+[19:04:34]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[19:04:34]SAY: Medibot/ : Delicious!
+[19:04:38]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[19:04:40]SAY: mouse/ : SQUEEK!
+[19:04:44]SAY: Jeannine McDonohugh/ : PISS
+[19:04:50]EMOTE: *no key*/(monkey (588)) : <b>The monkey (588)</b> jumps!
+[19:04:54]SAY: Runtime/ : Purr!
+[19:05:02]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> waves her tail.
+[19:05:16]SAY: Riki/Riki2321gamer : Internals settings being changed.
+[19:05:16]EMOTE: *no key*/(alien hunter (276)) : <b>The alien hunter (276)</b> gasps!
+[19:05:30]SAY: Rylie Hook/ : C-C-C-CUN-NT-T-T!!
+[19:05:30]SAY: Ian/ : Woof!
+[19:05:36]EMOTE: *no key*/(Runtime) : <b>Runtime</b> meows
+[19:05:42]SAY: Rylie Guess/ : Imani Wolff has signed up as Captain
+[19:05:44]SAY: Riki/Riki2321gamer : Internals settings being changed.
+[19:05:54]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stretches out for a belly rub.
+[19:05:57]ACCESS: Logout: Riki2321gamer/(Riki)
+Ban database connection failure. Key furtech884 not checked
+[20:02:09]SAY: mouse/ : Squeek?
+[20:02:15]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[20:02:22]EMOTE: *no key*/(Runtime) : <b>Runtime</b> walks around.
+[20:02:28]SAY: Poly/ : Sophie Teagarden has signed up as Chief Engineer
+[20:02:40]EMOTE: *no key*/(monkey (55)) : <b>The monkey (55)</b> waves her tail.
+[20:02:48]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> waves his tail.
+[20:03:04]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[20:03:16]EMOTE: *no key*/(Runtime) : <b>Runtime</b> twitches its whiskers.
+[20:03:18]EMOTE: *no key*/(Tom) : <b>Tom</b> runs in a circle.
+[20:03:24]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[20:03:25]SAY: Rylie Guess/ : M-MOT-TH-HEF-FUCER-R
+[20:03:28]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> waves her tail.
+[20:03:30]SAY: Abigail Marcotte/ : F-F-FUC-CK!!
+[20:03:49]SAY: Rylie Guess/ : C-C-C-COC-CK-KS-SUC-CK-K-K-KER-R!!
+[20:03:52]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[20:03:56]SAY: Medibot/ : Radar, put a mask on!
+[20:04:02]EMOTE: *no key*/(Runtime) : <b>Runtime</b> grooms its fur.
+[20:04:02]EMOTE: *no key*/(alien hunter (276)) : <b>The alien hunter (276)</b> gasps!
+[20:04:08]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[20:04:16]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> waves his tail.
+[20:04:18]SAY: Bryant Martins/ : M-MOT-T-THERF-FUCER-R!!
+[20:04:26]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[20:04:32]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[20:04:40]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> rolls.
+[20:04:42]EMOTE: *no key*/(monkey (68)) : <b>The monkey (68)</b> scratches.
+[20:04:48]SAY: Poly/ : F-F-FUC-CK!!
+[20:04:54]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> scratches.
+[20:05:09]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shivers
+[20:05:13]SAY: Jeannine McDonohugh/ : M-M-MOT-TH-HER-RF-FUC-C-C-CER!!
+[20:05:16]EMOTE: *no key*/(alien hunter (276)) : <b>The alien hunter (276)</b> gasps!
+[20:05:17]EMOTE: *no key*/(Norbit XIX) : <b>Norbit XIX</b> rolls.
+[20:05:21]SAY: Greyson Kelley/ : Yes i am
+[20:05:21]EMOTE: *no key*/(monkey (368)) : <b>The monkey (368)</b> waves her tail.
+[20:05:37]EMOTE: *no key*/(monkey (856)) : <b>The monkey (856)</b> waves his tail.
+[20:05:48]SAY: Bryant Martins/ : C-COC-CK-KS-S-S-SUC-CK-K-K-KER-R!!
+[20:05:49]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[20:05:56]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[20:05:57]EMOTE: *no key*/(monkey (559)) : <b>The monkey (559)</b> rolls.
+[20:06:03]EMOTE: *no key*/(monkey (50)) : <b>The monkey (50)</b> waves her tail.
+[20:06:09]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[20:06:13]ACCESS: Login: Furtech884 from 190.138.86.163-3413569954 || BYOND v511
+[20:06:13]ACCESS: Mob Login: Furtech884/(Furtech884) was assigned to a /mob/dead/new_player
+[20:06:25]SAY: Allie Newton/ : C-C-C-COC-C-CK-KS-SUC-CK-K-K-KER-R-R-R!!
+[20:06:32]EMOTE: *no key*/(monkey (660)) : <b>The monkey (660)</b> rolls.
+[20:06:44]ACCESS: Logout: Furtech884/(Furtech884)

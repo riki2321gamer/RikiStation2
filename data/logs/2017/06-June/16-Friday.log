@@ -1,0 +1,2113 @@
+
+
+Starting up. 13:05:58
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode clockwork cult (clockwork_cult) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode Devil Agents (devil_agents) to configuration.
+Adding game mode devil (devil) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode secret extended (secret extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: malfunction.
+Unknown continuous configuration definition: malfunction.
+Unknown midround antagonist configuration definition: malfunction.
+Saved mode is 'sandbox'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[13:05:58]ADMIN: Loading Banlist
+[13:06:45]GAME: Wishgranter Vault loaded at at 87,128,5
+[13:06:46]GAME: Seed Vault loaded at at 33,94,5
+[13:06:46]GAME: Fountain Hall loaded at at 93,118,5
+[13:06:46]GAME: Ruin of Gluttony loaded at at 205,39,5
+[13:06:46]GAME: Makeshift Shelter loaded at at 52,172,5
+[13:06:46]GAME: Fountain Hall loaded at at 203,123,5
+[13:06:46]GAME: Asteroid 1 loaded at at 112,177,7
+[13:06:47]GAME: A Giant Ball of Paper in Space loaded at at 174,28,7
+[13:06:49]GAME: Kosmicheskaya Stantsiya 13 loaded at at 86,101,8
+[13:06:50]GAME: The Twin-Nexus Hotel loaded at at 86,72,7
+[13:06:51]GAME: Unnamed Turreted Outpost loaded at at 34,56,6
+[13:06:51]GAME: Ordinary Space Tile loaded at at 139,78,3
+[13:06:51]GAME: Aesthetic Outpost loaded at at 138,170,3
+[13:06:51]GAME: Asteroid 4 loaded at at 70,95,4
+[13:06:51]GAME: Abandoned Teleporter loaded at at 128,214,3
+[13:06:51]GAME: Detached Teleporter loaded at at 194,26,6
+[13:06:51]GAME: DJ Station loaded at at 115,54,4
+[13:06:51]GAME: Strange Ship loaded at at 162,66,3
+[13:06:51]GAME: Derelict 3 loaded at at 22,169,4
+[13:06:51]GAME: Empty Shell loaded at at 91,179,6
+[13:06:52]GAME: Sky Bulge Tomb loaded at at 138,176,9
+[13:06:52]GAME: Asteroid 5 loaded at at 70,147,7
+[13:07:32]ACCESS: Login: Riki2321gamer from 127.0.0.1-3622605515 || BYOND v511
+[13:07:32]ACCESS: Mob Login: Riki2321gamer/(Riki2321gamer) was assigned to a /mob/dead/new_player
+[13:07:36]ADMIN: Riki2321gamer/(Riki2321gamer) stopped all currently playing sounds.
+[13:09:37]SAY: Mjor the Creative/ : Rise, my creations! Jump off your pages and into this realm!
+[13:09:38]SAY: Officer Beepsky/ : Engaging patrol mode.
+[13:09:38]SAY: Prison Ofitser/ : Engaging patrol mode.
+[13:09:38]SAY: Prison Ofitser/ : Disengaging patrol mode.
+[13:09:40]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[13:09:40]EMOTE: *no key*/(monkey (443)) : <b>The monkey (443)</b> scratches.
+[13:09:46]EMOTE: *no key*/(Poly) : <b>Poly</b> turns and flies towards the Space Cigarettes packet.
+[13:09:56]ACCESS: Mob Login: Riki2321gamer/(Riki Alejandro) was assigned to a /mob/living/carbon/human
+[13:10:00]SAY: Mjor the Creative/ : Rise, my creations! Jump off your pages and into this realm!
+[13:10:09]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[13:10:15]EMOTE: *no key*/(monkey (696)) : <b>The monkey (696)</b> scratches.
+[13:10:18]SAY: Accidents Happen/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:10:23]SAY: mouse/ : SQUEEK!
+[13:10:31]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[13:10:35]EMOTE: *no key*/(Persephone) : <b>Persephone</b> crouches on its hind legs.
+[13:10:36]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[13:10:37]SAY: corgi/ : AUUUUUU
+[13:10:39]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[13:10:40]EMOTE: *no key*/(monkey (467)) : <b>The monkey (467)</b> rolls.
+[13:10:40]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[13:10:40]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[13:10:41]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[13:10:41]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[13:10:41]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[13:10:41]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[13:10:42]EMOTE: *no key*/(monkey (617)) : <b>The monkey (617)</b> scratches.
+[13:10:44]SAY: Accidents Happen/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:10:44]EMOTE: *no key*/(Persephone) : <b>Persephone</b> gets up and meows.
+[13:10:46]EMOTE: *no key*/(monkey (777)) : <b>The monkey (777)</b> scratches.
+[13:10:57]SAY: Poly/ : This isn&#39;t parrot heaven!
+[13:11:08]EMOTE: *no key*/(Siris) : <b>Siris</b> stretches out for a belly rub.
+[13:11:10]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[13:11:15]EMOTE: *no key*/(Persephone) : <b>Persephone</b> looks alert.
+[13:11:17]SAY: Poly/ : Shuttle departing. Please stand away from the doors.
+[13:11:21]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[13:11:27]SAY: Mjor the Creative/ : Rise, my creations! Jump off your pages and into this realm!
+[13:11:28]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the monitor decryption key's direction and takes flight.
+[13:11:34]EMOTE: *no key*/(Persephone) : <b>Persephone</b> shakes out its coat.
+[13:11:36]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> yawns.
+[13:11:40]SAY: mouse/ : Squeek!
+[13:11:41]SAY: Persephone/ : HSSSSS
+[13:11:41]EMOTE: *no key*/(Siris) : <b>Siris</b> stops resting.
+[13:11:43]EMOTE: *no key*/(monkey (299)) : <b>The monkey (299)</b> scratches.
+[13:11:57]EMOTE: *no key*/(Ian) : <b>Ian</b> nibbles away at the burger
+[13:12:06]EMOTE: *no key*/(Ian) : <b>Ian</b> woofs!
+[13:12:11]SAY: Poly/ : Hello its captain here
+[13:12:11]EMOTE: *no key*/(Ian) : <b>Ian</b> nibbles away at the burger
+[13:12:20]EMOTE: *no key*/(monkey (777)) : <b>The monkey (777)</b> jumps!
+[13:12:26]EMOTE: *no key*/(Ian) : <b>Ian</b> nibbles away at the burger
+[13:12:30]SAY: mouse/ : Squeek?
+[13:12:32]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Zippo lighter's direction and takes flight.
+[13:12:32]EMOTE: *no key*/(grey baby slime (836)) : <b>The grey baby slime (836)</b> vibrates!
+[13:12:32]EMOTE: *no key*/(monkey (306)) : <b>The monkey (306)</b> rolls.
+[13:12:35]EMOTE: *no key*/(Persephone) : <b>Persephone</b> shakes its head
+[13:12:40]EMOTE: *no key*/(Ian) : <b>Ian</b> nibbles away at the burger
+[13:12:41]EMOTE: *no key*/(Persephone) : <b>Persephone</b> wags its tail.
+[13:12:44]EMOTE: *no key*/(Tom) : <b>Tom</b> squeeks.
+[13:12:49]SAY: Siris/ : Esp!
+[13:12:54]EMOTE: *no key*/(Ian) : <b>Ian</b> nibbles away at the burger
+[13:12:54]EMOTE: *no key*/(Ian) : <b>Ian</b> woofs twice
+[13:12:56]SAY: mouse/ : Squeek?
+[13:12:58]EMOTE: *no key*/(monkey (443)) : <b>The monkey (443)</b> waves her tail.
+[13:13:03]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> yawns.
+[13:13:06]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[13:13:06]EMOTE: *no key*/(Ian) : <b>Ian</b> woofs!
+[13:13:13]EMOTE: *no key*/(monkey (736)) : <b>The monkey (736)</b> jumps!
+[13:13:20]EMOTE: *no key*/(Persephone) : <b>Persephone</b> twitches its whiskers.
+[13:13:20]EMOTE: *no key*/(monkey (696)) : <b>The monkey (696)</b> scratches.
+[13:13:23]EMOTE: *no key*/(monkey (403)) : <b>The monkey (403)</b> waves her tail.
+[13:13:25]EMOTE: *no key*/(Persephone) : <b>Persephone</b> stops resting.
+[13:13:34]EMOTE: *no key*/(monkey (299)) : <b>The monkey (299)</b> waves his tail.
+[13:13:36]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[13:13:39]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the chief engineer's rubber stamp's direction and takes flight.
+[13:13:44]EMOTE: *no key*/(monkey (424)) : <b>The monkey (424)</b> jumps!
+[13:13:46]SAY: corgi/ : Woof!
+[13:13:48]EMOTE: *no key*/(monkey (443)) : <b>The monkey (443)</b> jumps!
+[13:13:56]EMOTE: *no key*/(monkey (617)) : <b>The monkey (617)</b> rolls.
+[13:13:56]EMOTE: *no key*/(monkey (180)) : <b>The monkey (180)</b> rolls.
+[13:13:58]EMOTE: *no key*/(monkey (762)) : <b>The monkey (762)</b> rolls.
+[13:14:11]EMOTE: *no key*/(Ian) : <b>Ian</b> shakes its head.
+[13:14:11]EMOTE: *no key*/(monkey (467)) : <b>The monkey (467)</b> rolls.
+[13:14:12]SAY: Accidents Happen/ : Delicious!
+[13:14:13]EMOTE: *no key*/(monkey (749)) : <b>The monkey (749)</b> waves her tail.
+[13:14:16]EMOTE: *no key*/(monkey (617)) : <b>The monkey (617)</b> jumps!
+[13:14:18]EMOTE: *no key*/(Persephone) : <b>Persephone</b> sits down.
+[13:14:20]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[13:14:22]EMOTE: *no key*/(monkey (380)) : <b>The monkey (380)</b> rolls.
+[13:14:26]EMOTE: *no key*/(grey baby slime (456)) : <b>The grey baby slime (456)</b> lights up for a bit, then stops.
+[13:14:30]EMOTE: *no key*/(monkey (306)) : <b>The monkey (306)</b> jumps!
+[13:14:34]EMOTE: *no key*/(monkey (696)) : <b>The monkey (696)</b> scratches.
+[13:14:37]EMOTE: *no key*/(monkey (380)) : <b>The monkey (380)</b> scratches.
+[13:14:42]EMOTE: *no key*/(monkey (306)) : <b>The monkey (306)</b> scratches.
+[13:14:43]EMOTE: *no key*/(monkey (180)) : <b>The monkey (180)</b> waves her tail.
+[13:14:43]EMOTE: *no key*/(Persephone) : <b>Persephone</b> shivers
+[13:14:45]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the chief engineer's rubber stamp's direction and takes flight.
+[13:14:45]EMOTE: *no key*/(monkey (749)) : <b>The monkey (749)</b> jumps!
+[13:14:45]EMOTE: *no key*/(Ian) : <b>Ian</b> pants.
+[13:14:49]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> yawns.
+[13:14:50]EMOTE: *no key*/(Persephone) : <b>Persephone</b> grooms its fur.
+[13:14:52]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[13:14:54]EMOTE: *no key*/(Persephone) : <b>Persephone</b> sits down.
+[13:14:55]SAY: mouse/ : Squeek!
+[13:14:57]EMOTE: *no key*/(grey baby slime (456)) : <b>The grey baby slime (456)</b> vibrates!
+[13:14:57]EMOTE: *no key*/(Siris) : <b>Siris</b> crouches on its hind legs.
+[13:14:57]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> rolls.
+[13:15:03]EMOTE: *no key*/(Persephone) : <b>Persephone</b> looks alert.
+[13:15:07]EMOTE: *no key*/(monkey (777)) : <b>The monkey (777)</b> rolls.
+[13:15:09]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[13:15:11]EMOTE: *no key*/(monkey (982)) : <b>The monkey (982)</b> scratches.
+[13:15:20]SAY: mouse/ : Squeek!
+[13:15:20]EMOTE: *no key*/(monkey (424)) : <b>The monkey (424)</b> jumps!
+[13:15:20]EMOTE: *no key*/(Ian) : <b>Ian</b> barks!
+[13:15:26]SAY: Persephone/ : Esp!
+[13:15:26]EMOTE: *no key*/(Siris) : <b>Siris</b> gets up and meows.
+[13:15:26]EMOTE: *no key*/(monkey (696)) : <b>The monkey (696)</b> waves her tail.
+[13:15:30]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[13:15:30]EMOTE: *no key*/(monkey (749)) : <b>The monkey (749)</b> jumps!
+[13:15:35]EMOTE: *no key*/(Siris) : <b>Siris</b> shakes out its coat.
+[13:15:39]EMOTE: *no key*/(monkey (762)) : <b>The monkey (762)</b> jumps!
+[13:15:41]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Power-ON cartridge's direction and takes flight.
+[13:15:50]EMOTE: *no key*/(monkey (14)) : <b>The monkey (14)</b> jumps!
+[13:15:54]EMOTE: *no key*/(monkey (467)) : <b>The monkey (467)</b> jumps!
+[13:16:01]EMOTE: *no key*/(monkey (982)) : <b>The monkey (982)</b> waves her tail.
+[13:16:01]EMOTE: *no key*/(monkey (446)) : <b>The monkey (446)</b> jumps!
+[13:16:03]SAY: Accidents Happen/ : I knew it, I should&#39;ve been a plastic surgeon.
+[13:16:03]EMOTE: *no key*/(grey baby slime (456)) : <b>The grey baby slime (456)</b> jiggles!
+[13:16:03]SAY: Nobody's Perfect/ : Delicious!
+[13:16:05]EMOTE: *no key*/(monkey (446)) : <b>The monkey (446)</b> waves his tail.
+[13:16:07]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[13:16:07]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail.
+[13:16:11]SAY: Medibot/ : Delicious!
+[13:16:12]EMOTE: *no key*/(monkey (749)) : <b>The monkey (749)</b> scratches.
+[13:16:14]SAY: Ian/ : Woof!
+[13:16:19]EMOTE: *no key*/(monkey (736)) : <b>The monkey (736)</b> rolls.
+[13:16:21]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[13:16:23]EMOTE: *no key*/(monkey (424)) : <b>The monkey (424)</b> waves his tail.
+[13:16:25]EMOTE: *no key*/(monkey (202)) : <b>The monkey (202)</b> scratches.
+[13:16:25]EMOTE: *no key*/(monkey (403)) : <b>The monkey (403)</b> waves her tail.
+[13:16:29]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[13:16:34]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[13:16:38]EMOTE: *no key*/(Pun Pun XXX) : <b>Pun Pun XXX</b> jumps!
+[13:16:40]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[13:16:42]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Power-ON cartridge's direction and takes flight.
+[13:16:42]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[13:16:53]SAY: mouse/ : SQUEEK!
+[13:17:04]SAY: Medibot/ : Radar, put a mask on!
+[13:17:06]EMOTE: *no key*/(Persephone) : <b>Persephone</b> crouches on its hind legs.
+[13:17:06]EMOTE: *no key*/(Pete) : <b>Pete</b> stamps a foot.
+[13:17:09]SAY: Persephone/ : Purr!
+[13:17:09]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> scratches.
+[13:17:10]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[13:17:18]EMOTE: *no key*/(Persephone) : <b>Persephone</b> mews
+[13:17:20]EMOTE: *no key*/(monkey (299)) : <b>The monkey (299)</b> waves his tail.
+[13:17:23]EMOTE: *no key*/(Siris) : <b>Siris</b> looks alert.
+[13:17:23]EMOTE: *no key*/(Siris) : <b>Siris</b> shivers
+[13:17:27]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[13:17:28]EMOTE: *no key*/(monkey (380)) : <b>The monkey (380)</b> jumps!
+[13:17:30]SAY: mouse/ : Squeek!
+[13:17:33]EMOTE: *no key*/(monkey (762)) : <b>The monkey (762)</b> scratches.
+[13:17:37]SAY: Poly/ : C-CUN-N-NT-T-T!!
+[13:17:37]EMOTE: *no key*/(Persephone) : <b>Persephone</b> stretches out for a belly rub.
+[13:17:37]EMOTE: *no key*/(monkey (274)) : <b>The monkey (274)</b> jumps!
+[13:17:38]SAY: Medibot/ : Delicious!
+[13:17:41]EMOTE: *no key*/(Siris) : <b>Siris</b> sits down.
+[13:17:43]ADMIN: Riki2321gamer/(Riki Alejandro) deleted the maintenance access at (53,203,1)
+[13:17:44]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[13:17:49]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Power-ON cartridge's direction and takes flight.
+[13:17:52]EMOTE: *no key*/(Persephone) : <b>Persephone</b> sits down.
+[13:17:53]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[13:18:02]EMOTE: *no key*/(monkey (762)) : <b>The monkey (762)</b> waves her tail.
+[13:18:04]EMOTE: *no key*/(monkey (777)) : <b>The monkey (777)</b> scratches.
+[13:18:05]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[13:18:06]EMOTE: *no key*/(Siris) : <b>Siris</b> gets up and meows.
+[13:18:08]SAY: Medibot/ : Delicious!
+[13:18:08]SAY: Poly/ : IVAN.
+[13:18:25]EMOTE: *no key*/(Pun Pun XXX) : <b>Pun Pun XXX</b> rolls.
+[13:18:31]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[13:18:33]SAY: mouse/ : SQUEEK!
+[13:18:35]EMOTE: *no key*/(monkey (306)) : <b>The monkey (306)</b> rolls.
+[13:18:40]EMOTE: *no key*/(Persephone) : <b>Persephone</b> lies down.
+[13:18:47]EMOTE: *no key*/(monkey (617)) : <b>The monkey (617)</b> scratches.
+[13:18:49]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> yawns.
+[13:18:51]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Power-ON cartridge's direction and takes flight.
+[13:18:51]EMOTE: *no key*/(Siris) : <b>Siris</b> stretches out for a belly rub.
+[13:18:51]EMOTE: *no key*/(monkey (274)) : <b>The monkey (274)</b> waves her tail.
+[13:18:55]EMOTE: *no key*/(monkey (973)) : <b>The monkey (973)</b> scratches.
+[13:19:00]SAY: mouse/ : Squeek!
+[13:19:06]EMOTE: *no key*/(monkey (982)) : <b>The monkey (982)</b> jumps!
+[13:19:09]EMOTE: *no key*/(Siris) : <b>Siris</b> crouches on its hind legs.
+[13:19:11]EMOTE: *no key*/(Ian) : <b>Ian</b> shivers.
+[13:19:13]SAY: Poly/ : IVAN.
+[13:19:18]EMOTE: *no key*/(monkey (973)) : <b>The monkey (973)</b> waves her tail.
+[13:19:22]EMOTE: *no key*/(monkey (306)) : <b>The monkey (306)</b> waves her tail.
+[13:19:26]EMOTE: *no key*/(grey baby slime (836)) : <b>The grey baby slime (836)</b> bounces in place.
+[13:19:26]EMOTE: *no key*/(monkey (443)) : <b>The monkey (443)</b> scratches.
+[13:19:32]EMOTE: *no key*/(monkey (202)) : <b>The monkey (202)</b> rolls.
+[13:19:36]SAY: mouse/ : SQUEEK!
+[13:19:40]SAY: grey baby slime (456)/ : Blorble...
+[13:19:45]EMOTE: *no key*/(monkey (443)) : <b>The monkey (443)</b> rolls.
+[13:19:48]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[13:19:48]EMOTE: *no key*/(Persephone) : <b>Persephone</b> walks around.
+[13:19:50]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the BreatheDeep cartridge's direction and takes flight.
+[13:20:01]EMOTE: *no key*/(Ian) : <b>Ian</b> yaps.
+[13:20:09]EMOTE: *no key*/(monkey (180)) : <b>The monkey (180)</b> scratches.
+[13:20:09]EMOTE: *no key*/(monkey (380)) : <b>The monkey (380)</b> rolls.
+[13:20:12]SAY: mouse/ : Squeek!
+[13:20:13]EMOTE: *no key*/(Pun Pun XXX) : <b>Pun Pun XXX</b> scratches.
+[13:20:15]EMOTE: *no key*/(grey baby slime (836)) : <b>The grey baby slime (836)</b> vibrates!
+[13:20:19]EMOTE: *no key*/(Siris) : <b>Siris</b> sits down.
+[13:20:21]SAY: Medibot/ : Delicious!
+[13:20:23]EMOTE: *no key*/(Persephone) : <b>Persephone</b> stretches out for a belly rub.
+[13:20:27]EMOTE: *no key*/(monkey (202)) : <b>The monkey (202)</b> jumps!
+[13:20:29]EMOTE: *no key*/(monkey (749)) : <b>The monkey (749)</b> scratches.
+[13:20:31]SAY: Medibot/ : Radar, put a mask on!
+[13:20:33]EMOTE: *no key*/(monkey (446)) : <b>The monkey (446)</b> waves his tail.
+[13:20:34]EMOTE: *no key*/(monkey (180)) : <b>The monkey (180)</b> scratches.
+[13:20:38]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[13:20:38]ADMIN: Riki2321gamer/(Riki Alejandro) jumped to Xenobiology Lab
+[13:20:46]EMOTE: *no key*/(monkey (403)) : <b>The monkey (403)</b> scratches.
+[13:20:50]EMOTE: *no key*/(Pun Pun XXX) : <b>Pun Pun XXX</b> waves its tail.
+[13:20:52]EMOTE: *no key*/(grey baby slime (836)) : <b>The grey baby slime (836)</b> lights up for a bit, then stops.
+[13:21:02]ADMIN: Riki2321gamer/(Riki Alejandro) spawned /obj/item/slimepotion/docility at (166,93,1)
+[13:21:02]SAY: Nobody's Perfect/ : Delicious!
+[13:21:05]EMOTE: *no key*/(monkey (424)) : <b>The monkey (424)</b> waves his tail.
+[13:21:07]EMOTE: *no key*/(corgi) : <b>The corgi</b> shakes its head.
+[13:21:07]EMOTE: *no key*/(grey baby slime (836)) : <b>The grey baby slime (836)</b> bounces in place.
+[13:21:07]SAY: Siris/ : Esp!
+[13:21:13]EMOTE: *no key*/(monkey (617)) : <b>The monkey (617)</b> jumps!
+[13:21:17]ADMIN: Riki2321gamer/(Riki Alejandro) spawned /obj/item/slimepotion/docility at (175,94,1)
+[13:21:23]SAY: Persephone/ : HSSSSS
+[13:21:27]SAY: grey baby slime (836)/ : Blop...
+[13:21:29]EMOTE: *no key*/(Persephone) : <b>Persephone</b> wags its tail.
+[13:21:29]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[13:21:30]ADMIN: Riki2321gamer/(Riki Alejandro) jumped to Bar
+[13:21:33]SAY: Poly/ : Engaging patrol mode.
+[13:21:34]SAY: mouse/ : SQUEEK!
+[13:21:36]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[13:21:39]EMOTE: *no key*/(Your Boi GS1029) : <b>Your Boi GS1029</b> vibrates!
+[13:21:39]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> jumps!
+[13:21:44]EMOTE: *no key*/(monkey (403)) : <b>The monkey (403)</b> rolls.
+[13:21:53]EMOTE: *no key*/(Persephone) : <b>Persephone</b> sits down.
+[13:21:56]EMOTE: *no key*/(monkey (777)) : <b>The monkey (777)</b> rolls.
+[13:22:09]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[13:22:15]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> jumps!
+[13:22:17]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:22:19]EMOTE: *no key*/(monkey (973)) : <b>The monkey (973)</b> jumps!
+[13:22:21]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[13:22:28]SAY: mouse/ : Squeek!
+[13:22:28]EMOTE: *no key*/(monkey (973)) : <b>The monkey (973)</b> waves her tail.
+[13:22:28]EMOTE: *no key*/(Persephone) : <b>Persephone</b> meows
+[13:22:32]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:22:37]EMOTE: *no key*/(monkey (202)) : <b>The monkey (202)</b> scratches.
+[13:22:37]EMOTE: *no key*/(Persephone) : <b>Persephone</b> lies down.
+[13:22:48]EMOTE: *no key*/(monkey (973)) : <b>The monkey (973)</b> scratches.
+[13:22:48]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> dozes off.
+[13:22:50]SAY: Tom/ : SQUEEK!
+[13:22:54]EMOTE: *no key*/(monkey (736)) : <b>The monkey (736)</b> jumps!
+[13:22:55]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[13:22:58]EMOTE: *no key*/(monkey (982)) : <b>The monkey (982)</b> waves her tail.
+[13:23:03]EMOTE: *no key*/(monkey (424)) : <b>The monkey (424)</b> rolls.
+[13:23:03]EMOTE: *no key*/(Siris) : <b>Siris</b> crouches on its hind legs.
+[13:23:07]EMOTE: *no key*/(Persephone) : <b>Persephone</b> sits down.
+[13:23:09]EMOTE: *no key*/(Persephone) : <b>Persephone</b> shakes its head
+[13:23:11]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[13:23:11]SAY: grey baby slime (836)/ : Blorble...
+[13:23:20]EMOTE: *no key*/(Persephone) : <b>Persephone</b> stretches out for a belly rub.
+[13:23:22]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> dozes off.
+[13:23:24]EMOTE: *no key*/(monkey (403)) : <b>The monkey (403)</b> waves her tail.
+[13:23:24]EMOTE: *no key*/(Ian) : <b>Ian</b> shivers.
+[13:23:28]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> yawns.
+[13:23:37]SAY: Medibot/ : Radar, put a mask on!
+[13:23:38]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:23:42]EMOTE: *no key*/(monkey (777)) : <b>The monkey (777)</b> jumps!
+[13:23:42]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail.
+[13:23:42]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[13:23:44]EMOTE: *no key*/(Siris) : <b>Siris</b> sits down.
+[13:23:46]EMOTE: *no key*/(Persephone) : <b>Persephone</b> stops resting.
+[13:24:00]SAY: Accidents Happen/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[13:24:02]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[13:24:03]EMOTE: *no key*/(Persephone) : <b>Persephone</b> wags its tail.
+[13:24:05]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[13:24:16]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail.
+[13:24:20]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[13:24:25]EMOTE: *no key*/(monkey (762)) : <b>The monkey (762)</b> waves her tail.
+[13:24:27]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[13:24:47]SAY: Medibot/ : Delicious!
+[13:24:49]EMOTE: *no key*/(monkey (306)) : <b>The monkey (306)</b> scratches.
+[13:24:53]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[13:24:56]EMOTE: *no key*/(Persephone) : <b>Persephone</b> walks around.
+[13:24:58]EMOTE: *no key*/(Pun Pun XXX) : <b>Pun Pun XXX</b> jumps!
+[13:24:59]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:25:00]SAY: Yeah Boiiiiiiiiiiiiiiiii/ : Blorble...
+[13:25:00]EMOTE: *no key*/(monkey (446)) : <b>The monkey (446)</b> jumps!
+[13:25:01]SAY: Accidents Happen/ : I knew it, I should&#39;ve been a plastic surgeon.
+[13:25:03]ADMIN: Riki2321gamer/(Riki Alejandro) jumped to Riki2321gamer/(Riki Alejandro)
+[13:25:03]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[13:25:06]SAY: Persephone/ : HSSSSS
+[13:25:07]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:25:14]EMOTE: *no key*/(monkey (14)) : <b>The monkey (14)</b> waves her tail.
+[13:25:17]ADMIN: Riki2321gamer/(Riki Alejandro) modified Save General Ectoplasm's icon to Eating_Pizza_Dance.gif
+[13:25:18]EMOTE: *no key*/(corgi) : <b>The corgi</b> pants.
+[13:25:20]EMOTE: *no key*/(Pete) : <b>Pete</b> stamps a foot.
+[13:25:22]ADMIN: Riki2321gamer/(Riki Alejandro) modified Save General Ectoplasm's icon to screencapture-youtube-channel-UC_cKUyX5na8_IOqc8L3ohkw-1487710965291.png
+[13:25:24]EMOTE: *no key*/(Spaceman) : <b>Spaceman</b> stops moving...
+[13:25:26]EMOTE: *no key*/(monkey (696)) : <b>The monkey (696)</b> jumps!
+[13:25:31]SAY: mouse/ : SQUEEK!
+[13:25:34]EMOTE: *no key*/(Persephone) : <b>Persephone</b> stretches out for a belly rub.
+[13:25:35]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[13:25:39]ADMIN: Riki2321gamer/(Riki Alejandro) modified Save General Ectoplasm's icon to fbb94705-3171-47b6-a86f-c7ebb96bb0eb.png
+[13:25:42]SAY: Tom/ : Squeek!
+[13:25:45]SAY: mouse/ : Squeek?
+[13:25:51]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[13:25:52]EMOTE: *no key*/(Persephone) : <b>Persephone</b> mews
+[13:25:54]EMOTE: *no key*/(Siris) : <b>Siris</b> walks around.
+[13:25:56]EMOTE: *no key*/(monkey (380)) : <b>The monkey (380)</b> jumps!
+[13:26:00]EMOTE: *no key*/(Persephone) : <b>Persephone</b> wags its tail.
+[13:26:02]EMOTE: *no key*/(Yeah Boiiiiiiiiiiiiiiiii) : <b>Yeah Boiiiiiiiiiiiiiiiii</b> vibrates!
+[13:26:04]SAY: mouse/ : Squeek!
+[13:26:09]EMOTE: *no key*/(Siris) : <b>Siris</b> wags its tail.
+[13:26:11]EMOTE: *no key*/(Siris) : <b>Siris</b> crouches on its hind legs.
+[13:26:15]EMOTE: *no key*/(Your Boi GS1029) : <b>Your Boi GS1029</b> jiggles!
+[13:26:15]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> jumps!
+[13:26:16]SAY: mouse/ : Squeek?
+[13:26:25]SAY: Persephone/ : Purr!
+[13:26:27]SAY: mouse/ : Squeek!
+[13:26:29]EMOTE: *no key*/(monkey (736)) : <b>The monkey (736)</b> rolls.
+[13:26:38]EMOTE: *no key*/(Ian) : <b>Ian</b> woofs!
+[13:26:41]EMOTE: *no key*/(monkey (749)) : <b>The monkey (749)</b> jumps!
+[13:26:41]SAY: grey baby slime (836)/ : Purr...
+[13:26:45]EMOTE: *no key*/(monkey (446)) : <b>The monkey (446)</b> rolls.
+[13:26:56]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> jumps!
+[13:26:58]EMOTE: *no key*/(Ian) : <b>Ian</b> yaps.
+[13:27:13]EMOTE: *no key*/(monkey (403)) : <b>The monkey (403)</b> waves her tail.
+[13:27:15]SAY: Tom/ : Squeek?
+[13:27:17]SAY: mouse/ : SQUEEK!
+[13:27:18]EMOTE: *no key*/(monkey (274)) : <b>The monkey (274)</b> jumps!
+[13:27:23]EMOTE: *no key*/(monkey (777)) : <b>The monkey (777)</b> rolls.
+[13:27:27]EMOTE: *no key*/(monkey (617)) : <b>The monkey (617)</b> waves his tail.
+[13:27:29]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> jumps!
+[13:27:31]EMOTE: *no key*/(Persephone) : <b>Persephone</b> stretches out for a belly rub.
+[13:27:36]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[13:27:40]SAY: Poly/ : Colton Sanders has signed up as Shaft Miner
+[13:27:40]EMOTE: *no key*/(monkey (762)) : <b>The monkey (762)</b> scratches.
+[13:27:40]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:27:42]SAY: Ian/ : AUUUUUU
+[13:27:46]EMOTE: *no key*/(monkey (749)) : <b>The monkey (749)</b> waves her tail.
+[13:27:52]EMOTE: *no key*/(Siris) : <b>Siris</b> gets up and meows.
+[13:27:54]EMOTE: *no key*/(monkey (14)) : <b>The monkey (14)</b> rolls.
+[13:27:58]SAY: Ian/ : Woof!
+[13:27:58]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> jumps!
+[13:28:00]EMOTE: *no key*/(Persephone) : <b>Persephone</b> walks around.
+[13:28:00]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[13:28:05]EMOTE: *no key*/(monkey (424)) : <b>The monkey (424)</b> rolls.
+[13:28:07]EMOTE: *no key*/(monkey (299)) : <b>The monkey (299)</b> waves his tail.
+[13:28:13]EMOTE: *no key*/(Persephone) : <b>Persephone</b> meows
+[13:28:15]EMOTE: *no key*/(Persephone) : <b>Persephone</b> lies down.
+[13:28:20]EMOTE: *no key*/(Persephone) : <b>Persephone</b> lies down.
+[13:28:20]SAY: Persephone/ : HSSSSS
+[13:28:22]EMOTE: *no key*/(Tom) : <b>Tom</b> runs in a circle.
+[13:28:24]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> jumps!
+[13:28:28]EMOTE: *no key*/(monkey (14)) : <b>The monkey (14)</b> waves her tail.
+[13:28:32]SAY: Your Boi GS1029/ : Lonely...
+[13:28:32]EMOTE: *no key*/(monkey (403)) : <b>The monkey (403)</b> rolls.
+[13:28:32]EMOTE: *no key*/(monkey (982)) : <b>The monkey (982)</b> rolls.
+[13:28:32]EMOTE: *no key*/(monkey (446)) : <b>The monkey (446)</b> waves his tail.
+[13:28:34]EMOTE: *no key*/(monkey (274)) : <b>The monkey (274)</b> waves her tail.
+[13:28:36]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[13:28:37]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[13:28:37]EMOTE: *no key*/(monkey (777)) : <b>The monkey (777)</b> scratches.
+[13:28:39]EMOTE: *no key*/(Persephone) : <b>Persephone</b> stretches out for a belly rub.
+[13:28:47]EMOTE: *no key*/(monkey (274)) : <b>The monkey (274)</b> waves her tail.
+[13:28:48]EMOTE: *no key*/(monkey (696)) : <b>The monkey (696)</b> jumps!
+[13:28:52]EMOTE: *no key*/(monkey (446)) : <b>The monkey (446)</b> scratches.
+[13:28:55]SAY: Poly/ : Breaking news from Station Announcements!
+[13:29:06]EMOTE: *no key*/(monkey (617)) : <b>The monkey (617)</b> jumps!
+[13:29:06]EMOTE: *no key*/(Persephone) : <b>Persephone</b> stretches out for a belly rub.
+[13:29:10]EMOTE: *no key*/(Persephone) : <b>Persephone</b> lies down.
+[13:29:11]EMOTE: *no key*/(Pun Pun XXX) : <b>Pun Pun XXX</b> waves its tail.
+[13:29:17]EMOTE: *no key*/(Siris) : <b>Siris</b> crouches on its hind legs.
+[13:29:22]EMOTE: *no key*/(Persephone) : <b>Persephone</b> stops resting.
+[13:29:22]EMOTE: *no key*/(Pun Pun XXX) : <b>Pun Pun XXX</b> jumps!
+[13:29:22]SAY: grey baby slime (836)/ : Purr...
+[13:29:27]SAY: Tom/ : Squeek?
+[13:29:34]SAY: Nobody's Perfect/ : Delicious!
+[13:29:38]SAY: Medibot/ : Delicious!
+[13:29:48]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[13:29:48]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> waves her tail.
+[13:29:48]EMOTE: *no key*/(monkey (299)) : <b>The monkey (299)</b> scratches.
+[13:29:56]EMOTE: *no key*/(monkey (180)) : <b>The monkey (180)</b> waves her tail.
+[13:29:56]EMOTE: *no key*/(monkey (424)) : <b>The monkey (424)</b> jumps!
+[13:30:00]EMOTE: *no key*/(monkey (617)) : <b>The monkey (617)</b> waves his tail.
+[13:30:00]EMOTE: *no key*/(Persephone) : <b>Persephone</b> twitches its whiskers.
+[13:30:04]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:30:14]EMOTE: *no key*/(grey baby slime (836)) : <b>The grey baby slime (836)</b> lights up for a bit, then stops.
+[13:30:20]EMOTE: *no key*/(monkey (180)) : <b>The monkey (180)</b> rolls.
+[13:30:24]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> rolls.
+Ban database connection failure. Key firesho not checked
+[13:30:40]SAY: Tom/ : Squeek!
+[13:30:42]EMOTE: *no key*/(monkey (617)) : <b>The monkey (617)</b> scratches.
+[13:30:46]EMOTE: *no key*/(Persephone) : <b>Persephone</b> stops resting.
+[13:30:52]SAY: corgi/ : YAP
+[13:30:56]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[13:30:56]EMOTE: *no key*/(grey baby slime (836)) : <b>The grey baby slime (836)</b> lights up for a bit, then stops.
+[13:30:56]SAY: Siris/ : Esp!
+[13:30:59]EMOTE: *no key*/(monkey (380)) : <b>The monkey (380)</b> rolls.
+[13:30:59]EMOTE: *no key*/(monkey (14)) : <b>The monkey (14)</b> scratches.
+[13:31:03]SAY: Ian/ : AUUUUUU
+[13:31:07]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[13:31:07]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> rolls.
+[13:31:10]EMOTE: *no key*/(Persephone) : <b>Persephone</b> crouches on its hind legs.
+[13:31:15]GAME: <a href='?priv_msg=riki2321gamer'>Riki2321gamer</a>/(Riki Alejandro) checked the player panel while in game.
+[13:31:17]SAY: Accidents Happen/ : I knew it, I should&#39;ve been a plastic surgeon.
+[13:31:18]EMOTE: *no key*/(monkey (749)) : <b>The monkey (749)</b> rolls.
+[13:31:20]ADMIN: Riki2321gamer/(Riki Alejandro) admin ghosted.
+[13:31:20]ACCESS: Mob Login: Riki2321gamer/(Riki Alejandro) was assigned to a /mob/dead/observer
+[13:31:22]EMOTE: *no key*/(corgi) : <b>The corgi</b> barks!
+[13:31:22]EMOTE: *no key*/(Your Boi GS1029) : <b>Your Boi GS1029</b> jiggles!
+[13:31:23]GAME: Riki Alejandro/Riki2321gamer used abandon mob.
+[13:31:23]ACCESS: Mob Login: Riki2321gamer/(new player) was assigned to a /mob/dead/new_player
+[13:31:33]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[13:31:33]EMOTE: *no key*/(Persephone) : <b>Persephone</b> shakes out its coat.
+[13:31:33]EMOTE: *no key*/(monkey (982)) : <b>The monkey (982)</b> scratches.
+[13:31:33]ADMIN: Riki2321gamer/(new player) modified Space Station 13's icon to no.png
+[13:31:43]EMOTE: *no key*/(Ian) : <b>Ian</b> shivers.
+[13:31:47]EMOTE: *no key*/(monkey (617)) : <b>The monkey (617)</b> scratches.
+[13:31:47]EMOTE: *no key*/(monkey (762)) : <b>The monkey (762)</b> rolls.
+[13:31:55]EMOTE: *no key*/(monkey (306)) : <b>The monkey (306)</b> waves her tail.
+[13:31:59]EMOTE: *no key*/(monkey (736)) : <b>The monkey (736)</b> jumps!
+[13:32:02]EMOTE: *no key*/(Pete) : <b>Pete</b> brays.
+[13:32:06]EMOTE: *no key*/(Yeah Boiiiiiiiiiiiiiiiii) : <b>Yeah Boiiiiiiiiiiiiiiiii</b> vibrates!
+[13:32:08]EMOTE: *no key*/(Persephone) : <b>Persephone</b> grooms its fur.
+[13:32:08]EMOTE: *no key*/(monkey (424)) : <b>The monkey (424)</b> jumps!
+[13:32:10]EMOTE: *no key*/(Persephone) : <b>Persephone</b> shivers
+[13:32:12]EMOTE: *no key*/(monkey (306)) : <b>The monkey (306)</b> waves her tail.
+[13:32:12]EMOTE: *no key*/(monkey (467)) : <b>The monkey (467)</b> rolls.
+[13:32:13]SAY: Medibot/ : Radar, put a mask on!
+[13:32:17]EMOTE: *no key*/(Persephone) : <b>Persephone</b> wags its tail.
+[13:32:21]SAY: mouse/ : SQUEEK!
+[13:32:34]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail.
+[13:32:34]EMOTE: *no key*/(Siris) : <b>Siris</b> crouches on its hind legs.
+[13:32:39]SAY: mouse/ : SQUEEK!
+[13:32:40]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[13:32:42]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[13:32:55]SAY: Medibot/ : Radar, put a mask on!
+[13:32:56]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[13:32:58]EMOTE: *no key*/(monkey (14)) : <b>The monkey (14)</b> waves her tail.
+[13:33:00]EMOTE: *no key*/(corgi) : <b>The corgi</b> chases its tail.
+[13:33:02]SAY: mouse/ : Squeek?
+[13:33:11]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:33:11]EMOTE: *no key*/(Persephone) : <b>Persephone</b> wags its tail.
+[13:33:11]EMOTE: *no key*/(monkey (380)) : <b>The monkey (380)</b> jumps!
+[13:33:25]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[13:33:27]EMOTE: *no key*/(monkey (446)) : <b>The monkey (446)</b> waves his tail.
+[13:33:29]EMOTE: *no key*/(monkey (443)) : <b>The monkey (443)</b> rolls.
+[13:33:40]SAY: Persephone/ : Meow!
+[13:33:47]ACCESS: Mob Login: Riki2321gamer/(Riki Alejandro) was assigned to a /mob/living/carbon/human
+[13:33:50]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[13:33:56]ADMIN: Riki2321gamer/(Riki Alejandro) activated a nuke at (127,149,1).
+[13:34:00]EMOTE: *no key*/(monkey (380)) : <b>The monkey (380)</b> scratches.
+[13:34:04]EMOTE: *no key*/(monkey (299)) : <b>The monkey (299)</b> rolls.
+[13:34:06]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[13:34:12]GAME: Explosion with size (0, 0, 10, 0) in area Dormitory Toilets (127,149,1)
+[13:34:13]GAME: Antagonists at round end were...
+[13:34:42]ACCESS: Mob Login: Riki2321gamer/(Riki Alejandro) was assigned to a /mob/living/brain
+[13:34:42]GAME: Explosion with size (-1, -1, 2, 4) in area Central Primary Hallway (124,112,1)
+[13:34:47]ACCESS: Mob Login: Riki2321gamer/(Riki Alejandro) was assigned to a /mob/dead/observer
+[13:34:49]GAME: Riki Alejandro/Riki2321gamer used abandon mob.
+[13:34:49]ACCESS: Mob Login: Riki2321gamer/(new player) was assigned to a /mob/dead/new_player
+[13:35:04]ADMIN: Riki2321gamer/(new player) stopped all currently playing sounds.
+[13:35:08]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:35:08]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:35:19]ACCESS: Login: Firesho from 98.28.199.161-533351237 || BYOND v511
+[13:35:19]ACCESS: Mob Login: Firesho/(Firesho) was assigned to a /mob/dead/new_player
+[13:35:30]SAY: Nobody's Perfect/ : Delicious!
+[13:35:32]OOC: Firesho/Firesho : Ahh there we go
+[13:35:38]SAY: Accidents Happen/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:35:41]ACCESS: Mob Login: Firesho/(ghost) was assigned to a /mob/dead/observer
+[13:36:07]OOC: new player/Riki2321gamer : d a b 
+[13:36:17]ACCESS: Mob Login: Riki2321gamer/(ghost) was assigned to a /mob/dead/observer
+[13:36:22]ADMIN: Riki2321gamer/(Riki Alejandro) has used rudimentary transformation on Riki2321gamer/(Riki Alejandro). Transforming to human.; deletemob=1
+[13:36:22]ACCESS: Mob Login: Riki2321gamer/(Riki Alejandro) was assigned to a /mob/living/carbon/human
+[13:36:23]ADMIN: Firesho/(Flamescale Zakuto) has used rudimentary transformation on Firesho/(Flamescale Zakuto). Transforming to human.; deletemob=1
+[13:36:23]ACCESS: Mob Login: Firesho/(Flamescale Zakuto) was assigned to a /mob/living/carbon/human
+[13:36:29]SAY: Medibot/ : Delicious!
+[13:36:29]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[13:36:33]ADMIN: Riki2321gamer/(Riki Alejandro) jumped to Firesho/(Flamescale Zakuto)
+[13:36:34]ADMIN: Firesho/(Flamescale Zakuto) changed the equipment of Firesho/(Flamescale Zakuto) to /datum/outfit/spec_ops.
+[13:36:36]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[13:37:07]ADMIN: Firesho/(Flamescale Zakuto) gave Firesho/(Flamescale Zakuto) the spell targeted/shapeshift/dragon.
+[13:37:17]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[13:37:53]ADMIN: Riki2321gamer/(Riki Alejandro) modified Riki Alejandro's icon to Eating_Pizza_Dance.gif
+[13:37:58]ADMIN: Riki2321gamer/(Riki Alejandro) spawned /obj/machinery/light at (196,224,4)
+[13:38:04]OOC: Flamescale Zakuto/Firesho : Lol
+[13:38:15]ADMIN: Riki2321gamer/(Riki Alejandro) modified Riki Alejandro's icon to no.png
+[13:38:21]OOC: Riki Alejandro/Riki2321gamer : perfect
+[13:38:34]EMOTE: Riki2321gamer/(Riki Alejandro) : <b>Riki Alejandro</b> dabs
+[13:39:02]ADMIN: Riki2321gamer/(Riki Alejandro) modified Riki Alejandro's icon to 1a5f88b4a69641fbe04dc26bd817b681.jpg
+[13:39:17]OOC: Flamescale Zakuto/Firesho : Lol
+[13:39:27]SAY: Accidents Happen/ : I knew it, I should&#39;ve been a plastic surgeon.
+[13:39:29]SAY: Nobody's Perfect/ : Delicious!
+[13:39:37]ADMIN: Riki2321gamer/(Riki Alejandro) modified Riki Alejandro's pixel_x to -16
+[13:39:39]ADMIN: Riki2321gamer/(Riki Alejandro) modified Riki Alejandro's pixel_x to -32
+[13:39:42]ADMIN: Riki2321gamer/(Riki Alejandro) modified Riki Alejandro's pixel_y to -32
+[13:39:50]ADMIN: Riki2321gamer/(Riki Alejandro) modified Riki Alejandro's name to Annoying Dog
+[13:39:51]ADMIN: Riki2321gamer/(Annoying Dog) modified Riki Alejandro's real_name to Annoying Dog
+[13:40:00]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:40:05]ADMIN: Firesho/(Flamescale Zakuto) punished Riki2321gamer/(Annoying Dog) with Lightning bolt.
+[13:40:15]OOC: Flamescale Zakuto/Firesho : Lol Shocking
+[13:40:16]ADMIN: Riki2321gamer/(Annoying Dog) modified Annoying Dog's pixel_y to 32
+[13:40:18]ADMIN: Riki2321gamer/(Annoying Dog) modified Annoying Dog's pixel_y to -32
+[13:40:29]GAME: <a href='?priv_msg=riki2321gamer'>Riki2321gamer</a>/(Annoying Dog) checked the player panel while in game.
+[13:40:30]ADMIN: Riki2321gamer/(Annoying Dog) healed / Revived Riki2321gamer/(Annoying Dog).
+[13:40:44]ADMIN: Riki2321gamer/(Annoying Dog) jumped to Firesho/(Flamescale Zakuto)
+[13:40:47]ADMIN: Firesho/(Flamescale Zakuto) has entered build mode.
+[13:40:47]SAY: Annoying Dog/Riki2321gamer : Bark
+[13:40:51]ADMIN: Riki2321gamer/(Annoying Dog) spawned /obj/machinery/light at (7,146,1)
+[13:40:52]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) deleted the area power controller at (4,142,1)
+[13:40:54]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) deleted the terminal at (4,142,1)
+[13:40:59]ADMIN: Riki2321gamer/(Annoying Dog) jumped to Firesho/(Flamescale Zakuto)
+[13:41:02]SAY: Annoying Dog/Riki2321gamer : Bork.
+[13:41:06]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:41:07]ADMIN: Firesho/(Flamescale Zakuto) jumped to 49,147,1 in Arrival Shuttle Hallway
+[13:41:09]ADMIN: Riki2321gamer/(Annoying Dog) admin ghosted.
+[13:41:09]ACCESS: Mob Login: Riki2321gamer/(Riki Alejandro) was assigned to a /mob/dead/observer
+[13:41:15]EMOTE: *no key*/(butterfly) : <b>The butterfly</b> stops moving...
+[13:41:21]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:41:25]OOC: Riki Alejandro/Riki2321gamer : have you seen the new slimes yet
+[13:41:27]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[13:41:35]OOC: Flamescale Zakuto/Firesho : Not sure I want to.....
+[13:41:43]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[13:41:47]OOC: Riki Alejandro/Riki2321gamer : also whomst killed everything
+[13:41:50]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[13:41:56]ADMIN: Riki2321gamer/(Riki Alejandro) has deleted all (1482) instances of /obj/effect/decal/cleanable.
+[13:42:15]ADMIN: Riki2321gamer/(Riki Alejandro) jumped to Firesho/(Flamescale Zakuto)
+[13:42:20]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[13:42:30]ADMIN: Riki2321gamer/(Riki Alejandro) spawned /mob/living/simple_animal/slime/random at (175,115,1)
+[13:42:37]ADMIN: Riki2321gamer/(Riki Alejandro) spawned /mob/living/simple_animal/slime/random at (171,94,1)
+[13:42:42]OOC: Riki Alejandro/Riki2321gamer : you don&#39;t wanna touch them
+[13:42:45]OOC: Riki Alejandro/Riki2321gamer : if you will lower your volume
+[13:42:48]OOC: Riki Alejandro/Riki2321gamer : and at the same time hide
+[13:42:51]ADMIN: Riki2321gamer/(Riki Alejandro) spawned /mob/living/carbon/human/dummy at (171,93,1)
+[13:42:53]ADMIN: Riki2321gamer/(Riki Alejandro) stuffed riki2321gamer into Nettie White.
+[13:42:53]ACCESS: Mob Login: riki2321gamer/(Nettie White) was assigned to a /mob/living/carbon/human/dummy
+[13:43:00]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[13:43:04]ADMIN: riki2321gamer/(Nettie White) admin ghosted.
+[13:43:04]ACCESS: Mob Login: riki2321gamer/(Nettie White) was assigned to a /mob/dead/observer
+[13:43:05]ACCESS: Mob Login: riki2321gamer/(Nettie White) was assigned to a /mob/living/carbon/human/dummy
+[13:43:23]GAME: <a href='?priv_msg=riki2321gamer'>riki2321gamer</a>/(Nettie White) checked the player panel while in game.
+[13:43:26]ADMIN: riki2321gamer/(Nettie White) teleported *no key*/(red baby slime (525))
+[13:43:32]OOC: Flamescale Zakuto/Firesho : Heh time for the slie to take a chill pill
+[13:43:33]ADMIN: riki2321gamer/(Nettie White) deleted the red baby slime (525) at (170,86,1)
+[13:43:45]OOC: Nettie White/Riki2321gamer : deleted just in time
+[13:43:46]ADMIN: Riki2321gamer/(Nettie White) stopped all currently playing sounds.
+[13:43:51]OOC: Nettie White/Riki2321gamer : before he got extremely mad
+[13:44:04]OOC: Nettie White/Riki2321gamer : his health would go to 99999 and destroy the entire station in less than asec iirc
+[13:44:13]ADMIN: riki2321gamer/(Nettie White) spawned /mob/living/simple_animal/slime/random at (174,102,1)
+[13:44:15]SAY: metal adult slime (589)/ : Blop...
+[13:44:20]SAY: Nettie White/riki2321gamer : Fuck you blop
+Ban database connection failure. Key athirson not checked
+[13:44:38]EMOTE: *no key*/(metal adult slime (589)) : <b>The metal adult slime (589)</b> jiggles!
+[13:44:46]OOC: Flamescale Zakuto/Firesho : Lol I have it stored
+[13:44:49]SAY: Accidents Happen/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[13:45:03]SAY: Medibot/ : Radar, put a mask on!
+[13:45:08]EMOTE: *no key*/(metal adult slime (589)) : <b>The metal adult slime (589)</b> bounces in place.
+[13:45:18]OOC: Flamescale Zakuto/Firesho : But by doing this you have renderd slimes too dangerous to work with.
+[13:45:55]OOC: Nettie White/Riki2321gamer : do you want to see their actual behaviour
+[13:46:18]SAY: Medibot/ : Delicious!
+[13:46:45]OOC: Nettie White/Riki2321gamer : probs in lavaland
+[13:47:04]OOC: Nettie White/Riki2321gamer : what to heck
+[13:47:09]OOC: Flamescale Zakuto/Firesho : Heh There we go safely destroyed em
+[13:47:30]ADMIN: riki2321gamer/(Nettie White) spawned /mob/living/simple_animal/slime/random at (172,99,1)
+[13:47:38]OOC: Nettie White/Riki2321gamer : lower your volume and watch
+[13:47:40]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:47:44]OOC: Nettie White/Riki2321gamer : i&#39;m just going to reset round if someting goes wrong
+[13:47:46]ADMIN: riki2321gamer/(Nettie White) spawned /mob/living/simple_animal/slime/random at (171,99,1)
+[13:47:52]SAY: grey baby slime (699)/ : WHAT THE FUCK NIBBA!?!?!?!?!?
+[13:47:56]ADMIN: riki2321gamer/(Nettie White) deleted the dark blue baby slime (750) at (171,97,1)
+[13:47:59]ADMIN: Riki2321gamer/(Nettie White) stopped all currently playing sounds.
+[13:47:59]SAY: grey baby slime (699)/ : ..I AM.. MAD!!!!!!!!!!!!!!!
+[13:48:12]ADMIN: Firesho/(Flamescale Zakuto) healed / revived Firesho/(Flamescale Zakuto)
+[13:48:27]OOC: Flamescale Zakuto/Firesho : Heh the slime pick up still works
+[13:48:28]EMOTE: *no key*/(grey baby slime (699)) : <b>The grey baby slime (699)</b> lights up for a bit, then stops.
+[13:48:37]ACCESS: Login: Athirson from 200.180.58.209-4037137831 || BYOND v511
+[13:48:37]ACCESS: Mob Login: Athirson/(Athirson) was assigned to a /mob/dead/new_player
+[13:48:45]SAY: grey baby slime (699)/ : REEEEEEEEEE!!!!!!!!!!!!!!....
+[13:48:46]EMOTE: *no key*/(metal adult slime (893)) : <b>The metal adult slime (893)</b> lights up for a bit, then stops.
+[13:48:51]SAY: grey baby slime (699)/ : WHAT THE FUCK NIBBA!?!?!?!?!?
+[13:48:58]ADMIN: Riki2321gamer/(Nettie White) stopped all currently playing sounds.
+[13:48:58]SAY: grey baby slime (699)/ : ..I AM.. MAD!!!!!!!!!!!!!!!
+[13:49:09]GAME: Explosion with size (0, 0, 5, 5) in area Science Maintenance (180,80,1)
+[13:49:09]ADMIN: riki2321gamer/(Nettie White) admin ghosted.
+[13:49:09]ACCESS: Mob Login: riki2321gamer/(Nettie White) was assigned to a /mob/dead/observer
+[13:49:11]ADMIN: Firesho/(Flamescale Zakuto) has entered build mode.
+[13:49:13]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the wall at (168,99,1)
+[13:49:13]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (168,99,1)
+[13:49:13]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (168,99,1)
+[13:49:13]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (168,99,1)
+[13:49:13]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (168,99,1)
+[13:49:13]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (168,99,1)
+[13:49:14]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (168,99,1)
+[13:49:14]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the wall at (168,99,1)
+[13:49:14]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (168,99,1)
+[13:49:14]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the wall at (168,99,1)
+[13:49:15]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the wall at (168,99,1)
+[13:49:15]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (168,99,1)
+[13:49:15]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (168,99,1)
+[13:49:15]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (168,99,1)
+[13:49:15]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (168,99,1)
+[13:49:16]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (168,99,1)
+[13:49:16]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the wall at (168,99,1)
+[13:49:16]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (168,99,1)
+[13:49:16]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the wall at (168,99,1)
+[13:49:17]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the wall at (168,99,1)
+[13:49:18]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the wall at (168,99,1)
+[13:49:18]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (168,99,1)
+[13:49:18]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (168,99,1)
+[13:49:18]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (168,99,1)
+[13:49:18]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (168,99,1)
+[13:49:19]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (168,99,1)
+[13:49:19]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (168,99,1)
+[13:49:21]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) deleted Flamescale Zakuto at (171,101,1)
+[13:49:26]OOC: Nettie White/Riki2321gamer : just dont get a slime near atmos or else you&#39;re fcuk--
+[13:49:26]ADMIN: Firesho/(Flamescale Zakuto) healed / revived Firesho/(Flamescale Zakuto)
+[13:49:27]SAY: grey baby slime (699)/ : Nhuu...
+[13:49:27]OOC: Nettie White/Riki2321gamer : oH SHIT
+[13:49:30]OOC: Nettie White/Riki2321gamer : ATMOS LEAKING
+[13:49:33]ADMIN: riki2321gamer/(Nettie White) spawned /mob/living/simple_animal/slime/random at (131,94,1)
+[13:49:36]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[13:49:37]ADMIN: riki2321gamer/(Nettie White) spawned /mob/living/carbon/human/dummy at (131,95,1)
+[13:49:39]ADMIN: riki2321gamer/(Nettie White) stuffed riki2321gamer into Tessa Margaret.
+[13:49:39]ACCESS: Mob Login: riki2321gamer/(Tessa Margaret) was assigned to a /mob/living/carbon/human/dummy
+[13:49:40]SAY: red baby slime (918)/ : WHAT THE FUCK NIBBA!?!?!?!?!?
+[13:49:45]SAY: grey baby slime (699)/ : REEEEEEEEEE!!!!!!!!!!!!!!....
+[13:49:46]ACCESS: Mob Login: Athirson/(ghost) was assigned to a /mob/dead/observer
+[13:49:47]ADMIN: Riki2321gamer/(Tessa Margaret) stopped all currently playing sounds.
+[13:49:47]SAY: red baby slime (918)/ : ..I AM.. MAD!!!!!!!!!!!!!!!
+[13:49:52]ADMIN: riki2321gamer/(Tessa Margaret) admin ghosted.
+[13:49:52]ACCESS: Mob Login: riki2321gamer/(Tessa Margaret) was assigned to a /mob/dead/observer
+[13:49:55]GAME: Explosion with size (0, 0, 5, 5) in area Atmospherics (128,94,1)
+[13:49:59]ADMIN: Firesho/(Flamescale Zakuto) jumped to 171,94,1 in Xenobiology Lab
+[13:50:04]GAME: Explosion with size (0, 0, 5, 5) in area Medbay Maintenance (149,92,1)
+[13:50:04]GAME: Explosion with size (0, 0, 5, 5) in area Medbay Maintenance (124,104,1)
+[13:50:06]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[13:50:06]ADMIN: Firesho/(Flamescale Zakuto) jumped to 170,75,1 in Space
+[13:50:12]ADMIN: Firesho/(Flamescale Zakuto) teleported *no key*/(grey baby slime (699))
+[13:50:14]GAME: Explosion with size (0, 0, 5, 5) in area Medbay Maintenance (157,80,1)
+[13:50:16]ADMIN: Firesho/(Flamescale Zakuto) jumped to 166,75,1 in Space
+[13:50:16]EMOTE: *no key*/(grey baby slime (699)) : <b>The grey baby slime (699)</b> bounces in place.
+[13:50:20]SAY: Ghost/Athirson : animuu
+[13:50:21]ADMIN: Riki2321gamer/(Tessa Margaret) has created a command report: atmos are leaking wach the fuck out
+[13:50:24]ADMIN: Firesho/(Flamescale Zakuto) healed / revived Firesho/(Flamescale Zakuto)
+[13:50:25]SAY: Ghost/Athirson : kawaii
+[13:50:30]OOC: Tessa Margaret/Riki2321gamer : EBIC SLIME
+[13:50:32]OOC: Tessa Margaret/Riki2321gamer : EBIC SLIME FIGHT
+[13:50:33]SAY: red baby slime (918)/ : REEEEEEEEEE!!!!!!!!!!!!!!....
+[13:50:36]ADMIN: riki2321gamer/(Tessa Margaret) jumped to Athirson/(Colton Sanders)
+[13:50:36]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[13:50:37]GAME: Explosion with size (0, 0, 5, 5) in area Incinerator (145,82,1)
+[13:50:39]ADMIN: Firesho/(Flamescale Zakuto) jumped to Flamescale Zakuto's ship
+[13:50:44]ADMIN: riki2321gamer/(Tessa Margaret) spawned /mob/living/carbon/human/dummy at (129,89,1)
+[13:50:49]ADMIN: riki2321gamer/(Tessa Margaret) stuffed riki2321gamer into Amelia McDonohugh.
+[13:50:49]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/living/carbon/human/dummy
+[13:50:55]SAY: red baby slime (918)/ : WHAT THE FUCK NIBBA!?!?!?!?!?
+[13:51:02]SAY: red baby slime (918)/ : ..I AM.. MAD!!!!!!!!!!!!!!!
+[13:51:19]GAME: Explosion with size (0, 0, 5, 5) in area Medbay Maintenance (164,111,1)
+[13:51:20]OOC: Flamescale Zakuto/Firesho : Ship departing for deep space!
+[13:51:29]OOC: Amelia McDonohugh/Riki2321gamer : your fucked even in deep space
+[13:51:45]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:51:46]GAME: Explosion with size (0, 0, 5, 5) in area Engineering (100,69,1)
+[13:51:48]OOC: Flamescale Zakuto/Firesho : Heh I wanted to keep it from getting damaged
+[13:51:48]SAY: red baby slime (918)/ : REEEEEEEEEE!!!!!!!!!!!!!!....
+[13:51:49]ADMIN: Athirson/(Colton Sanders) has used rudimentary transformation on Athirson/(Colton Sanders). Transforming to human.; deletemob=1
+[13:51:49]ACCESS: Mob Login: Athirson/(Colton Sanders) was assigned to a /mob/living/carbon/human
+[13:52:07]ADMIN: Athirson/(Colton Sanders) has toggled Athirson/(Colton Sanders)'s nodamage to On
+[13:52:10]OOC: Amelia McDonohugh/Riki2321gamer : this is how dangerous slimes are now
+[13:52:11]EMOTE: *no key*/(metal adult slime (893)) : <b>The metal adult slime (893)</b> lights up for a bit, then stops.
+[13:52:15]ADMIN: riki2321gamer/(Amelia McDonohugh) admin ghosted.
+[13:52:15]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/dead/observer
+[13:52:19]ADMIN: Firesho/(Flamescale Zakuto) admin ghosted.
+[13:52:19]ACCESS: Mob Login: Firesho/(Flamescale Zakuto) was assigned to a /mob/dead/observer
+[13:52:21]OOC: Amelia McDonohugh/Riki2321gamer : ebic update tho
+[13:52:22]EMOTE: @Riki2321gamer[DC]/(Amelia McDonohugh) : <b>Amelia McDonohugh</b> screams.
+[13:52:23]OOC: Amelia McDonohugh/Riki2321gamer : right
+[13:52:37]GAME: Explosion with size (0, 0, 5, 5) in area Engineering Maintenance (79,94,1)
+[13:52:40]GAME: Explosion with size (0, 0, 5, 5) in area Engineering Maintenance (95,77,1)
+[13:52:47]GAME: A grenade detonated at Technical Storage (110, 106, 1)
+[13:52:47]GAME: A grenade detonated at Technical Storage (110, 106, 1)
+[13:52:47]GAME: A grenade detonated at Technical Storage (110, 106, 1)
+[13:52:51]GAME: Explosion with size (0, 0, 5, 5) in area Science Maintenance (183,74,1)
+[13:52:52]GAME: Radiation pulse with size (4, 10) and severity 500 in area Supermatter Engine 
+[13:52:52]GAME: Radiation pulse with size (4, 10) and severity 500 in area Supermatter Engine 
+[13:52:52]GAME: Radiation pulse with size (4, 10) and severity 500 in area Supermatter Engine 
+[13:52:52]GAME: Radiation pulse with size (4, 10) and severity 500 in area Supermatter Engine 
+[13:52:52]GAME: Radiation pulse with size (4, 10) and severity 500 in area Supermatter Engine 
+[13:52:52]GAME: Radiation pulse with size (4, 10) and severity 500 in area Supermatter Engine 
+[13:52:54]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /obj/machinery/light at (48,64,6)
+[13:52:56]ADMIN: Athirson/(Colton Sanders) spawned /obj/item/clothing/glasses/godeye at (48,64,6)
+[13:52:58]GAME: Radiation pulse with size (4, 10) and severity 500 in area Supermatter Engine 
+[13:52:58]GAME: Radiation pulse with size (4, 10) and severity 500 in area Supermatter Engine 
+[13:52:58]GAME: Radiation pulse with size (4, 10) and severity 500 in area Supermatter Engine 
+[13:52:58]GAME: Radiation pulse with size (4, 10) and severity 500 in area Supermatter Engine 
+[13:52:58]GAME: Radiation pulse with size (4, 10) and severity 500 in area Supermatter Engine 
+[13:53:02]GAME: Explosion with size (0, 0, 5, 5) in area Science Maintenance (192,79,1)
+[13:53:03]ADMIN: riki2321gamer/(Amelia McDonohugh) has used rudimentary transformation on riki2321gamer/(Amelia McDonohugh). Transforming to hunter.; deletemob=1
+[13:53:03]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/living/carbon/alien/humanoid/hunter
+[13:53:04]ADMIN: Athirson/(Colton Sanders) spawned /obj/item/clothing/glasses/godeye at (48,64,6)
+[13:53:12]ADMIN: Riki2321gamer/(Amelia McDonohugh) modified Amelia McDonohugh's has_fine_manipulation to 1
+[13:53:15]SAY: Medibot/ : Delicious!
+[13:53:17]SAY: Medibot/ : Delicious!
+[13:53:19]GAME: Explosion with size (0, 0, 5, 5) in area Science Maintenance (194,103,1)
+[13:53:20]ADMIN: Riki2321gamer/(Amelia McDonohugh) modified Amelia McDonohugh's name to Cayenne
+[13:53:21]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's real_name to Cayenne
+[13:53:23]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[13:53:25]EMOTE: *no key*/(red baby slime (918)) : <b>The red baby slime (918)</b> jiggles!
+[13:53:38]ADMIN: riki2321gamer/(Cayenne) spawned /mob/living/carbon/alien/larva at (53,64,6)
+[13:53:39]SAY: Colton Sanders/Athirson : One sec
+[13:53:44]ADMIN: riki2321gamer/(Cayenne) granted the language Galactic Common to riki2321gamer/(Cayenne).
+[13:53:45]SAY: Medibot/ : Delicious!
+[13:53:46]ADMIN: riki2321gamer/(Cayenne) removed the language Xenomorph to riki2321gamer/(Cayenne).
+[13:53:51]ADMIN: riki2321gamer/(Cayenne) deleted the bedsheet at (0,0,0)
+[13:54:01]ADMIN: Firesho/(Flamescale Zakuto) has activated Admin AI Interact
+[13:54:02]GAME: Explosion with size (0, 0, 5, 5) in area Flamescale Zakuto's ship (175,225,4)
+[13:54:10]ADMIN: Athirson/(Colton Sanders) spawned /obj/item/clothing/under/color/black at (51,67,6)
+[13:54:14]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's icon_state to alienq
+[13:54:18]GAME: Explosion with size (0, 0, 5, 5) in area Testing Lab (185,92,1)
+[13:54:18]GAME: Explosion with size (0, 0, 5, 5) in area Testing Lab (185,91,1)
+[13:54:19]EMOTE: *no key*/(metal adult slime (893)) : <b>The metal adult slime (893)</b> bounces in place.
+[13:54:22]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's icon to Eating_Pizza_Dance.gif
+[13:54:30]SAY: Colton Sanders/Athirson : OH GOD
+[13:54:35]SAY: Colton Sanders/Athirson : CLUB PENGUIN
+[13:54:38]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[13:54:41]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's icon to no.png
+[13:54:44]SAY: Colton Sanders/Athirson : I-I THINKED YOU WERE DED
+[13:54:51]SAY: Colton Sanders/Athirson : Oh
+[13:54:56]SAY: Colton Sanders/Athirson : Shit
+[13:55:04]SAY: Cayenne/riki2321gamer : Loud music in the background*
+[13:55:10]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[13:55:10]EMOTE: riki2321gamer/(Cayenne) : <b>Cayenne</b> is preparing to dab!
+[13:55:14]EMOTE: riki2321gamer/(Cayenne) : <b>Cayenne</b> dabs
+[13:55:22]SAY: Medibot/ : Radar, put a mask on!
+[13:55:23]GAME: Explosion with size (0, 0, 5, 5) in area Robotics Lab (170,118,1)
+[13:55:26]ADMIN: Athirson/(Colton Sanders) spawned /obj/item/clothing/shoes/magboots/syndie at (51,67,6)
+[13:55:29]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's icon to noobio.png
+[13:55:40]ADMIN: Athirson/(Colton Sanders) spawned /obj/item/clothing/suit/space/hardsuit/shielded/syndi at (51,67,6)
+[13:55:43]OOC: Cayenne/Riki2321gamer : what to heck
+[13:55:46]OOC: Cayenne/Riki2321gamer : i&#39;m a fucking robloxian
+[13:56:01]ADMIN: Athirson/(Colton Sanders) spawned /obj/item/clothing/gloves/color/red/insulated at (51,67,6)
+[13:56:16]ADMIN: Athirson/(Colton Sanders) spawned /obj/item/device/radio/headset/syndicate/alt/leader at (51,67,6)
+[13:56:21]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's icon to icons/mob/alien.dmi
+[13:56:27]SAY: Cayenne/riki2321gamer : I am back
+[13:56:35]SAY: Unknown/Athirson : Good
+[13:56:35]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's icon_state to alienp
+[13:56:37]ADMIN: Athirson/(Colton Sanders) spawned /obj/item/weapon/storage/backpack/holding at (51,67,6)
+[13:56:40]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's icon_state to alienq
+[13:56:50]ADMIN: Riki2321gamer/(Cayenne) modified The alien larva (325)'s max_grown to 75
+[13:56:50]ADMIN: Athirson/(Colton Sanders) spawned /obj/item/weapon/card/id/captains_spare at (51,67,6)
+[13:56:52]SAY: metal adult slime (893)/ : Blop...
+[13:56:54]ADMIN: Riki2321gamer/(Cayenne) modified The alien larva (325)'s amount_grown to 75
+[13:57:07]SAY: Cayenne/riki2321gamer : Larva is ok
+[13:57:09]SAY: Cayenne/riki2321gamer : And sleeping
+[13:57:10]SAY: Cayenne/riki2321gamer : Good
+[13:57:15]GAME: Explosion with size (0, 0, 5, 5) in area Mining Dock (83,104,1)
+[13:57:16]SAY: Captain/Athirson : Yeah
+[13:57:24]ADMIN: Athirson/(Colton Sanders) spawned /obj/item/weapon/storage/belt/military/abductor/full at (51,67,6)
+[13:57:25]ADMIN: Riki2321gamer/(Cayenne) modified The alien larva (325)'s pixel_x to 5
+[13:57:27]SAY: Medibot/ : Delicious!
+[13:57:40]ADMIN: Riki2321gamer/(Cayenne) modified The alien larva (325)'s pixel_y to 2
+[13:57:41]ADMIN: Riki2321gamer/(Cayenne) modified The alien larva (325)'s pixel_y to 2
+[13:57:43]ADMIN: Riki2321gamer/(Cayenne) modified The alien larva (325)'s pixel_y to 3
+[13:57:55]ADMIN: Riki2321gamer/(Cayenne) modified The alien larva (325)'s dir to 4
+[13:58:05]EMOTE: *no key*/(red baby slime (918)) : <b>The red baby slime (918)</b> bounces in place.
+[13:58:22]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[13:58:22]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/dead/observer
+[13:58:24]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/hunter
+[13:58:27]GAME: Random Event triggering: Spawn Morph (/datum/round_event/ghost_role/morph)
+[13:58:30]SAY: Cayenne/riki2321gamer : As you may have known
+[13:58:34]SAY: Cayenne/riki2321gamer : A angry slime
+[13:58:35]EMOTE: *no key*/(red baby slime (918)) : <b>The red baby slime (918)</b> jiggles!
+[13:58:36]SAY: Cayenne/riki2321gamer : Sperged out
+[13:58:39]SAY: Cayenne/riki2321gamer : And made a huge plasma lea
+[13:58:41]SAY: Cayenne/riki2321gamer : Leak
+[13:58:41]SAY: Captain/Athirson : Yup
+[13:58:44]SAY: Cayenne/riki2321gamer : It&#39;s leaked to all space.
+[13:58:45]EMOTE: *no key*/(metal adult slime (893)) : <b>The metal adult slime (893)</b> bounces in place.
+[13:58:47]SAY: Cayenne/riki2321gamer : All the universe.
+[13:58:49]SAY: Accidents Happen/ : Delicious!
+[13:58:54]ADMIN: Athirson/(Colton Sanders) spawned /obj/item/weapon/gun/magic/hook at (51,67,6)
+[13:58:57]SAY: Cayenne/riki2321gamer : Is now full of plasma
+[13:58:58]ACCESS: Mob Login: Firesho/(morph) was assigned to a /mob/living/simple_animal/hostile/morph
+[13:58:58]GAME: Firesho/(morph) was spawned as a morph by an event.
+[13:59:00]SAY: Cayenne/riki2321gamer : Because of our fault
+[13:59:01]SAY: Cayenne/riki2321gamer : Lol
+[13:59:07]SAY: Captain/Athirson : Oh welp
+[13:59:20]ADMIN: riki2321gamer/(Cayenne) spawned /obj/item/weapon/stock_parts/cell/infinite at (49,67,6)
+[13:59:23]SAY: Cayenne/riki2321gamer : Oh also have this cell
+[13:59:29]SAY: Cayenne/riki2321gamer : Put it on the apc
+[13:59:41]SAY: Cayenne/riki2321gamer : Open it
+[13:59:43]SAY: Cayenne/riki2321gamer : With a crowbar
+[14:00:06]SAY: Captain/Athirson : Oh god..
+[14:00:07]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's icon_state to alienq
+[14:00:14]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:00:17]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's alt_icon to icons/mob/alienqueen.dmi
+[14:00:17]ADMIN: Firesho/(morph) jumped to AI Chamber
+[14:00:18]EMOTE: *no key*/(metal adult slime (893)) : <b>The metal adult slime (893)</b> vibrates!
+[14:00:28]ADMIN: Firesho/(morph) admin ghosted.
+[14:00:29]ACCESS: Mob Login: Firesho/(morph) was assigned to a /mob/dead/observer
+[14:00:30]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's icon to icons/mob/alien.dmi
+[14:00:35]EMOTE: *no key*/(grey baby slime (699)) : <b>The grey baby slime (699)</b> lights up for a bit, then stops.
+[14:00:35]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's alt_icon to icons/mob/alien.dmi
+[14:00:38]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's icon_state to alienq
+[14:00:58]SAY: Cayenne/riki2321gamer : My boy sleeping
+[14:01:00]SAY: Cayenne/riki2321gamer : Lol
+[14:01:05]SAY: Captain/Athirson : Heh
+[14:01:11]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[14:01:11]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/dead/observer
+[14:01:15]ADMIN: riki2321gamer/(Amelia McDonohugh) stuffed riki2321gamer into alien larva (325).
+[14:01:15]ACCESS: Mob Login: riki2321gamer/(alien larva (325)) was assigned to a /mob/living/carbon/alien/larva
+[14:01:25]SAY: alien larva (325)/riki2321gamer : Shaq fu thots woke
+[14:01:29]ADMIN: riki2321gamer/(alien larva (325)) granted the language Galactic Common to riki2321gamer/(alien larva (325)).
+[14:01:30]ADMIN: riki2321gamer/(alien larva (325)) removed the language Xenomorph to riki2321gamer/(alien larva (325)).
+[14:01:32]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[14:01:34]SAY: Medibot/ : Delicious!
+[14:01:34]SAY: alien larva (325)/riki2321gamer : Shaq Fu thots woke
+[14:01:36]ADMIN: riki2321gamer/(alien larva (325)) admin ghosted.
+[14:01:36]ACCESS: Mob Login: riki2321gamer/(alien larva (325)) was assigned to a /mob/dead/observer
+[14:01:39]ADMIN: riki2321gamer/(alien larva (325)) stuffed riki2321gamer into Cayenne.
+[14:01:39]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/hunter
+[14:01:39]SAY: Captain/Athirson : Heya youg fella
+[14:01:44]SAY: Cayenne/riki2321gamer : Oh no
+[14:01:49]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[14:01:49]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/dead/observer
+[14:01:51]ADMIN: riki2321gamer/(Amelia McDonohugh) stuffed riki2321gamer into alien larva (325).
+[14:01:51]ACCESS: Mob Login: riki2321gamer/(alien larva (325)) was assigned to a /mob/living/carbon/alien/larva
+[14:01:56]ADMIN: riki2321gamer/(alien larva (325)) admin ghosted.
+[14:01:56]ACCESS: Mob Login: riki2321gamer/(alien larva (325)) was assigned to a /mob/dead/observer
+[14:01:57]SAY: Accidents Happen/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:01:58]ADMIN: riki2321gamer/(alien larva (325)) stuffed riki2321gamer into Cayenne.
+[14:01:58]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/hunter
+[14:02:14]SAY: metal adult slime (893)/ : Where food?
+[14:02:25]SAY: Medibot/ : Radar, put a mask on!
+[14:02:31]SAY: Accidents Happen/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:02:32]ADMIN: Riki2321gamer/(Cayenne) modified The toggle leap's icon to icons/mob/alcaro.dmi
+[14:02:38]ADMIN: Riki2321gamer/(Cayenne) modified The toggle leap's icon_state to alcaro1
+[14:02:48]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:02:51]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:02:54]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:02:57]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:03:01]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:03:04]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:03:09]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:03:14]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:03:15]ADMIN: Riki2321gamer/(Cayenne) modified The toggle leap's name to alcaro attack (epic!!!!!!!!!!!!)
+[14:03:16]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:03:19]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:03:22]OOC: Captain/Athirson : fuck, brb
+[14:03:22]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:03:23]GAME: Random Event triggering: Camera Failure (/datum/round_event/camera_failure)
+[14:03:24]SAY: metal adult slime (893)/ : Hungry...
+[14:03:26]EMOTE: *no key*/(red baby slime (918)) : <b>The red baby slime (918)</b> vibrates!
+[14:03:27]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[14:03:28]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:03:30]SAY: Medibot/ : Delicious!
+[14:03:34]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:03:38]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:03:44]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:03:47]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:03:51]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:03:55]OOC: Captain/Athirson : nevermind..
+[14:03:56]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:04:03]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:04:09]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:04:11]EMOTE: *no key*/(metal adult slime (893)) : <b>The metal adult slime (893)</b> vibrates!
+[14:04:15]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:04:20]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:04:22]ADMIN: riki2321gamer/(Cayenne) spawned /obj/machinery/hydroponics at (42,65,6)
+[14:04:27]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:04:32]SAY: Captain/Athirson : I hate life
+[14:04:33]ADMIN: riki2321gamer/(Cayenne) spawned /obj/item/weapon/watertank at (43,64,6)
+[14:04:36]ADMIN: riki2321gamer/(Cayenne) deleted the backpack water tank at (43,64,6)
+[14:04:37]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:04:41]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:04:47]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:04:54]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:04:59]ADMIN: riki2321gamer/(Cayenne) spawned /obj/structure/reagent_dispensers/watertank/high at (43,64,6)
+[14:05:03]ADMIN: riki2321gamer/(Cayenne) deleted the glass airlock at (44,64,6)
+[14:05:07]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:05:09]ADMIN: riki2321gamer/(Cayenne) spawned /turf/closed/wall/r_wall at (44,64,6)
+[14:05:13]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:05:18]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[14:05:18]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:05:25]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:05:36]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's icon_state to alienq
+[14:05:52]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:06:00]EMOTE: *no key*/(grey baby slime (699)) : <b>The grey baby slime (699)</b> lights up for a bit, then stops.
+[14:06:02]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[14:06:02]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/dead/observer
+[14:06:08]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /obj/structure/window/reinforced at (53,64,6)
+[14:06:12]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /obj/structure/window/reinforced at (52,64,6)
+[14:06:13]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:06:16]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:06:16]SAY: Medibot/ : Delicious!
+[14:06:19]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:06:21]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /obj/machinery/door/window/westleft at (52,64,6)
+[14:06:22]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/hunter
+[14:06:25]ADMIN: Athirson/(Colton Sanders) spawned /obj/item/weapon/reagent_containers/food/snacks/grown/mushroom/angel at (50,63,6)
+[14:06:26]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[14:06:26]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/dead/observer
+[14:06:29]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/water_vapor
+[14:06:31]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /obj/structure/alien/weeds at (53,64,6)
+[14:06:39]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /obj/structure/alien/weeds at (52,64,6)
+[14:06:41]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/toxins
+[14:06:41]EMOTE: *no key*/(red baby slime (918)) : <b>The red baby slime (918)</b> jiggles!
+[14:06:45]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/toxins
+[14:06:46]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/toxins
+[14:06:47]ADMIN: Firesho/(morph) created 10ea /obj/machinery/portable_atmospherics/canister/toxins
+[14:06:48]ADMIN: Riki2321gamer/(Amelia McDonohugh) modified The reinforced window's dir to 2
+[14:06:51]ADMIN: Riki2321gamer/(Amelia McDonohugh) modified The reinforced window's dir to 1
+[14:06:56]ADMIN: Riki2321gamer/(Amelia McDonohugh) modified The reinforced window's y to 63
+[14:07:03]ADMIN: Riki2321gamer/(Amelia McDonohugh) modified The reinforced window's dir to 1
+[14:07:06]ADMIN: Riki2321gamer/(Amelia McDonohugh) modified The reinforced window's y to 63
+[14:07:08]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/hunter
+[14:07:16]ADMIN: Firesho/(morph) opened a canister that contains the following at 122, 93, 1:
+[14:07:16]ADMIN: Plasma
+[14:07:17]ADMIN: riki2321gamer/(Cayenne) deleted the bed at (53,64,6)
+[14:07:18]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:07:24]ADMIN: riki2321gamer/(Cayenne) spawned /obj/structure/bed/alien at (53,64,6)
+[14:07:30]ADMIN: riki2321gamer/(Cayenne) deleted the bedsheet at (53,64,6)
+[14:07:31]ADMIN: Firesho/(morph) opened a canister that contains the following at 117, 93, 1:
+[14:07:31]ADMIN: Plasma
+[14:07:41]ADMIN: Firesho/(morph) opened a canister that contains the following at 117, 97, 1:
+[14:07:41]ADMIN: Plasma
+[14:07:42]ADMIN: Riki2321gamer/(Cayenne) modified The alien larva (325)'s pixel_y to 5
+[14:07:42]EMOTE: *no key*/(grey baby slime (699)) : <b>The grey baby slime (699)</b> vibrates!
+[14:07:45]ADMIN: Riki2321gamer/(Cayenne) modified The alien larva (325)'s pixel_x to 0
+[14:07:48]SAY: Accidents Happen/ : Delicious!
+[14:07:49]ADMIN: Riki2321gamer/(Cayenne) modified The alien larva (325)'s pixel_y to 8
+[14:07:58]EMOTE: *no key*/(red baby slime (918)) : <b>The red baby slime (918)</b> lights up for a bit, then stops.
+[14:07:59]ADMIN: Firesho/(morph) opened a canister that contains the following at 103, 95, 1:
+[14:07:59]ADMIN: Plasma
+[14:08:19]ADMIN: Athirson/(Colton Sanders) spawned /obj/machinery/reagentgrinder at (45,62,6)
+[14:08:24]ADMIN: riki2321gamer/(Cayenne) spawned /obj/item/weapon/reagent_containers/food/snacks/pizza/sassysage at (48,63,6)
+[14:08:26]ADMIN: riki2321gamer/(Cayenne) deleted the light fixture at (48,64,6)
+[14:08:32]ADMIN: riki2321gamer/(Cayenne) spawned /obj/item/weapon/kitchen/knife/butcher at (48,63,6)
+[14:08:46]EMOTE: *no key*/(metal adult slime (893)) : <b>The metal adult slime (893)</b> lights up for a bit, then stops.
+[14:08:51]ADMIN: Athirson/(Colton Sanders) spawned /obj/item/weapon/kitchen/rollingpin at (46,64,6)
+[14:08:52]SAY: Nobody's Perfect/ : Delicious!
+[14:08:55]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:08:56]EMOTE: *no key*/(red baby slime (918)) : <b>The red baby slime (918)</b> jiggles!
+[14:08:59]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's icon_state to alienq
+[14:09:04]EMOTE: *no key*/(Spaceman) : <b>Spaceman</b> stops moving...
+[14:09:06]ADMIN: Athirson/(Colton Sanders) spawned /obj/structure/closet/chefcloset at (45,64,6)
+[14:09:07]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's icon_state to alienq
+[14:09:09]EMOTE: *no key*/(grey baby slime (699)) : <b>The grey baby slime (699)</b> lights up for a bit, then stops.
+[14:09:21]SAY: Medibot/ : Radar, put a mask on!
+[14:09:30]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's icon_state to alienq
+[14:09:37]ADMIN: Athirson/(Colton Sanders) spawned /obj/structure/closet/crate/trashcart at (53,69,6)
+[14:09:45]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's type to /mob/living/carbon/alien/humanoid/hunter
+[14:09:46]OOC: morph/Firesho : Ugh this is hopeless
+[14:10:01]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's parent_type to /mob/living/carbon/alien/humanoid
+[14:10:14]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:10:38]GAME: <a href='?priv_msg=riki2321gamer'>riki2321gamer</a>/(Cayenne) checked the player panel while in game.
+[14:10:39]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:10:49]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:10:50]EMOTE: *no key*/(red baby slime (918)) : <b>The red baby slime (918)</b> jiggles!
+[14:10:50]ADMIN: riki2321gamer/(Cayenne) has used rudimentary transformation on riki2321gamer/(Cayenne). Transforming to sentinel.; deletemob=1
+[14:10:50]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/sentinel
+[14:10:58]GAME: <a href='?priv_msg=riki2321gamer'>riki2321gamer</a>/(Cayenne) checked the player panel while in game.
+[14:11:01]ADMIN: riki2321gamer/(Cayenne) has used rudimentary transformation on riki2321gamer/(Cayenne). Transforming to drone.; deletemob=1
+[14:11:01]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/drone
+[14:11:05]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:11:10]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's has_fine_manipulation to 1
+[14:11:15]SAY: Accidents Happen/ : I knew it, I should&#39;ve been a plastic surgeon.
+[14:11:15]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:11:20]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's icon_state to alienq
+[14:11:26]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's icon_state to alienq
+[14:11:27]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:11:36]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's icon_state to alienq
+[14:11:39]GAME: <a href='?priv_msg=riki2321gamer'>riki2321gamer</a>/(Cayenne) checked the player panel while in game.
+[14:11:41]ADMIN: riki2321gamer/(Cayenne) has used rudimentary transformation on riki2321gamer/(Cayenne). Transforming to queen.; deletemob=1
+[14:11:41]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[14:11:50]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:11:57]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's icon_state to alienq
+[14:12:19]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's icon to icons/mob/alien.dmi
+[14:12:25]ADMIN: Athirson/(Colton Sanders) gave Athirson/(Colton Sanders) the spell targeted/ethereal_jaunt/shift.
+[14:12:27]ADMIN: Firesho/(morph) has deleted all (357) instances of /obj/machinery/portable_atmospherics/canister.
+[14:12:29]ADMINPRIVATE: Firesho/(morph) cancelled event Anomaly: Gravitational.
+[14:12:31]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's has_fine_manipulation to 1
+[14:12:32]EMOTE: *no key*/(grey baby slime (699)) : <b>The grey baby slime (699)</b> vibrates!
+[14:12:36]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[14:12:38]SAY: Cayenne/riki2321gamer : Do you see me small
+[14:12:41]ADMIN: riki2321gamer/(Cayenne) granted the language Galactic Common to riki2321gamer/(Cayenne).
+[14:12:43]ADMIN: riki2321gamer/(Cayenne) removed the language Xenomorph to riki2321gamer/(Cayenne).
+[14:12:43]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:12:44]SAY: Captain/Athirson : Hm?
+[14:12:45]SAY: Cayenne/riki2321gamer : Uh
+[14:12:47]SAY: Cayenne/riki2321gamer : Do you see me small
+[14:12:52]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's pixel_x to 0
+[14:12:55]SAY: Captain/Athirson : Nah
+[14:12:59]SAY: Captain/Athirson : You are normal
+[14:12:59]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:13:03]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:13:06]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:13:06]SAY: Cayenne/riki2321gamer : What to heck
+[14:13:08]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[14:13:08]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/dead/observer
+[14:13:09]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[14:13:11]EMOTE: *no key*/(Spaceman) : <b>Spaceman</b> stops moving...
+[14:13:14]SAY: Captain/Athirson : Just a bit, off center
+[14:13:22]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's custom_pixel_x_offset to 16
+[14:13:25]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:13:25]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's pixel_x to 1
+[14:13:37]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:13:38]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's pixel_x to 0
+[14:13:39]EMOTE: *no key*/(red baby slime (918)) : <b>The red baby slime (918)</b> lights up for a bit, then stops.
+[14:13:50]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:13:53]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[14:14:03]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:14:12]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:14:20]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:14:31]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:14:43]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:15:08]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's pixel_x to 0
+[14:15:12]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:15:25]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:15:30]SAY: Accidents Happen/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[14:15:35]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's pixel_x to -16
+[14:15:38]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:15:38]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's pixel_x to 0
+[14:15:40]SAY: grey baby slime (699)/ : Blop...
+[14:15:41]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's custom_pixel_x_offset to 0
+[14:15:42]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[14:15:43]ADMIN: Riki2321gamer/(Cayenne) modified Cayenne's pixel_step_size to 0
+[14:16:06]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:16:14]SAY: Cayenne/riki2321gamer : So whats this room about?
+[14:16:15]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:16:16]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[14:16:16]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/dead/observer
+[14:16:24]SAY: Captain/Athirson : Growing seeds and shit
+[14:16:25]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[14:16:27]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:16:28]ADMIN: riki2321gamer/(Cayenne) has entered build mode.
+[14:16:29]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[14:16:29]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/dead/observer
+[14:16:30]EMOTE: *no key*/(grey baby slime (699)) : <b>The grey baby slime (699)</b> bounces in place.
+[14:16:32]SAY: Nobody's Perfect/ : Delicious!
+[14:16:38]ADMIN: riki2321gamer/(Amelia McDonohugh) has entered build mode.
+[14:16:40]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the turret at (37,67,6)
+[14:16:45]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:16:46]ADMIN: Athirson/(Colton Sanders) spawned /obj/machinery/vending/hydroseeds at (41,66,6)
+[14:16:48]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[14:16:59]ADMIN: Athirson/(Colton Sanders) spawned /obj/machinery/vending/hydronutrients at (40,66,6)
+[14:17:03]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:17:05]SAY: Captain/Athirson : Um..
+[14:17:08]ADMIN: riki2321gamer/(Cayenne) spawned /obj/structure/window/reinforced/fulltile at (42,61,6)
+[14:17:12]SAY: Captain/Athirson : I don&#39;t think that makes food
+[14:17:14]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:17:14]ADMIN: riki2321gamer/(Cayenne) spawned /obj/structure/window/reinforced at (41,61,6)
+[14:17:16]ADMIN: riki2321gamer/(Cayenne) deleted the reinforced window at (42,61,6)
+[14:17:17]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:17:18]SAY: Cayenne/riki2321gamer : Eh
+[14:17:24]ADMIN: riki2321gamer/(Cayenne) spawned /obj/structure/window/reinforced at (42,61,6)
+[14:17:29]ADMIN: riki2321gamer/(Cayenne) spawned /obj/structure/window/reinforced at (40,61,6)
+[14:17:31]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:17:34]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:17:38]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:17:41]ADMIN: riki2321gamer/(Cayenne) spawned /obj/machinery/door/window/northleft at (40,61,6)
+[14:17:47]ADMIN: Athirson/(Colton Sanders) spawned /obj/structure/closet/crate/hydroponics at (39,66,6)
+[14:17:50]ADMIN: Riki2321gamer/(Cayenne) modified The interior door's x to 39
+[14:17:57]ADMIN: Athirson/(Colton Sanders) deleted the hydroponics crate at (39,66,6)
+[14:17:57]ADMIN: Riki2321gamer/(Cayenne) modified The reinforced window's dir to 1
+[14:18:01]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:18:01]ADMIN: Riki2321gamer/(Cayenne) modified The reinforced window's dir to 1
+[14:18:07]ADMIN: Riki2321gamer/(Cayenne) modified The reinforced window's dir to 2
+[14:18:09]ADMIN: Riki2321gamer/(Cayenne) modified The reinforced window's dir to 1
+[14:18:12]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:18:13]SAY: Medibot/ : Radar, put a mask on!
+[14:18:14]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[14:18:14]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/dead/observer
+[14:18:16]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[14:18:19]SAY: grey baby slime (699)/ : Lonely...
+[14:18:20]ADMIN: Athirson/(Colton Sanders) spawned /obj/structure/closet/secure_closet/hydroponics at (39,66,6)
+[14:18:21]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[14:18:24]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:18:24]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /turf/open/floor/plasteel/white at (41,61,6)
+[14:18:36]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:18:37]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /turf/open/floor/plasteel/shuttle/yellow at (42,61,6)
+[14:18:43]ADMIN: Athirson/(Colton Sanders) spawned /obj/machinery/hydroponics at (38,65,6)
+[14:18:49]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /turf/open/floor/plating at (41,61,6)
+[14:18:55]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /turf/open/floor/plating at (42,61,6)
+[14:18:56]ADMIN: Athirson/(Colton Sanders) spawned /obj/machinery/hydroponics at (38,64,6)
+[14:18:57]OOC: morph/Firesho : Ugh Im spawning huge scrubbers like crazy
+[14:19:01]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /turf/open/floor/plating at (39,61,6)
+[14:19:04]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:19:08]ADMIN: Athirson/(Colton Sanders) spawned /obj/machinery/hydroponics at (38,63,6)
+[14:19:08]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /turf/open/floor/plating at (40,61,6)
+[14:19:17]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:19:19]ADMIN: Athirson/(Colton Sanders) spawned /obj/machinery/hydroponics at (38,62,6)
+[14:19:22]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /turf/open/floor/plasteel/sepia at (41,61,6)
+[14:19:27]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:19:27]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /turf/open/floor/plasteel/airless/shuttle/yellow at (41,61,6)
+[14:19:31]ADMIN: Athirson/(Colton Sanders) spawned /obj/machinery/hydroponics at (40,63,6)
+[14:19:35]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /turf/open/floor/plating at (41,61,6)
+[14:19:37]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[14:19:39]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[14:19:39]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/dead/observer
+[14:19:40]ADMIN: Athirson/(Colton Sanders) spawned /obj/machinery/hydroponics at (41,63,6)
+[14:19:43]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /obj/structure/alien/weeds at (41,61,6)
+[14:19:45]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /obj/structure/alien/weeds at (40,61,6)
+[14:19:46]EMOTE: *no key*/(red baby slime (918)) : <b>The red baby slime (918)</b> vibrates!
+[14:19:47]ADMIN: Athirson/(Colton Sanders) spawned /obj/machinery/hydroponics at (41,64,6)
+[14:19:48]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /obj/structure/alien/weeds at (39,61,6)
+[14:19:51]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /obj/structure/alien/weeds at (42,61,6)
+[14:19:52]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[14:19:56]ADMIN: Athirson/(Colton Sanders) spawned /obj/machinery/hydroponics at (40,64,6)
+[14:19:58]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:20:00]ADMIN: riki2321gamer/(Cayenne) spawned /obj/structure/reagent_dispensers/watertank/high at (43,62,6)
+[14:20:09]SAY: Captain/Athirson : Eh, good enough
+[14:20:10]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:20:13]SAY: Medibot/ : Delicious!
+[14:20:21]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:20:26]ADMIN: Firesho/(morph) deleted the huge air scrubber at (111,65,1)
+[14:20:30]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:20:51]EMOTE: *no key*/(grey baby slime (699)) : <b>The grey baby slime (699)</b> jiggles!
+[14:20:56]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:21:03]SAY: grey baby slime (699)/ : Bzzz...
+[14:21:12]ADMIN: Firesho/(morph) made all areas powered
+[14:21:16]ADMIN: Firesho/(morph) used secret power
+[14:21:26]ADMIN: Athirson/(Colton Sanders) modified The meat hook's name to Grabber
+[14:21:28]EMOTE: *no key*/(red baby slime (918)) : <b>The red baby slime (918)</b> jiggles!
+[14:21:38]ADMIN: Athirson/(Colton Sanders) modified Grabber's throw_speed to 1000
+[14:21:43]ADMIN: Athirson/(Colton Sanders) modified Grabber's throw_range to 1000
+[14:21:49]ADMIN: Athirson/(Colton Sanders) modified Grabber's throwforce to 1000
+[14:21:52]SAY: Medibot/ : Radar, put a mask on!
+[14:21:56]ADMIN: Athirson/(Colton Sanders) modified Grabber's recharge_rate to 1000
+[14:21:57]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:22:04]ADMIN: Riki2321gamer/(Cayenne) modified The alien larva (325)'s name to Larvy
+[14:22:06]ADMIN: Riki2321gamer/(Cayenne) modified Larvy's real_name to Larvy
+[14:22:06]ADMIN: Athirson/(Colton Sanders) modified Grabber's reach to 1000
+[14:22:11]OOC: Cayenne/Riki2321gamer : damn boi 
+[14:22:14]OOC: Cayenne/Riki2321gamer : that slime at the station
+[14:22:19]OOC: Cayenne/Riki2321gamer : must have left some irreparable damage
+[14:22:20]ADMIN: Athirson/(Colton Sanders) modified Grabber's max_charges to 1000
+[14:22:21]OOC: Cayenne/Riki2321gamer : lmfao
+[14:22:24]OOC: Cayenne/Riki2321gamer : great for a test round
+[14:22:29]EMOTE: *no key*/(grey baby slime (699)) : <b>The grey baby slime (699)</b> bounces in place.
+[14:22:36]ADMIN: Athirson/(Colton Sanders) modified Grabber's fire_delay to -1000
+[14:22:42]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[14:22:44]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:22:47]ADMIN: Athirson/(Colton Sanders) modified Grabber's charges to 1000
+[14:22:48]EMOTE: *no key*/(red baby slime (918)) : <b>The red baby slime (918)</b> lights up for a bit, then stops.
+[14:22:54]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[14:22:54]ADMIN: Athirson/(Colton Sanders) modified Grabber's charge_tick to 1000
+[14:22:55]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:22:58]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:23:00]PRAY: riki2321gamer/(Cayenne): fdsdfsdfdsfd
+[14:23:11]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:23:13]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:23:20]SAY: Medibot/ : Delicious!
+[14:23:25]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:23:26]EMOTE: *no key*/(red baby slime (918)) : <b>The red baby slime (918)</b> vibrates!
+[14:23:26]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[14:23:26]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/dead/observer
+[14:23:28]ADMIN: riki2321gamer/(Amelia McDonohugh) stuffed riki2321gamer into Larvy.
+[14:23:28]ACCESS: Mob Login: riki2321gamer/(Larvy) was assigned to a /mob/living/carbon/alien/larva
+[14:23:35]SAY: Larvy/riki2321gamer : Huh
+[14:23:42]ADMIN: riki2321gamer/(Larvy) admin ghosted.
+[14:23:42]ACCESS: Mob Login: riki2321gamer/(alien larva (325)) was assigned to a /mob/dead/observer
+[14:23:44]ADMIN: riki2321gamer/(alien larva (325)) stuffed riki2321gamer into Cayenne.
+[14:23:44]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[14:23:47]SAY: Cayenne/riki2321gamer : Boi wake up!
+[14:23:58]SAY: Cayenne/riki2321gamer : What a lazy
+[14:24:01]EMOTE: *no key*/(grey baby slime (699)) : <b>The grey baby slime (699)</b> jiggles!
+[14:24:03]SAY: Captain/Athirson : Yeah
+[14:24:04]SAY: Accidents Happen/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[14:24:06]SAY: Captain/Athirson : Kids
+[14:24:29]ADMIN: riki2321gamer/(Cayenne) spawned /obj/machinery/vending/cola at (52,63,6)
+[14:24:31]ADMIN: riki2321gamer/(Cayenne) deleted the bed at (53,63,6)
+[14:24:33]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[14:24:36]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:24:36]ADMIN: riki2321gamer/(Cayenne) spawned /obj/machinery/vending/snack at (53,63,6)
+[14:24:51]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[14:25:16]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[14:25:16]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/dead/observer
+[14:25:23]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /turf/closed/wall/r_wall at (55,69,6)
+[14:25:25]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /turf/closed/wall/r_wall at (55,68,6)
+[14:25:29]ADMIN: riki2321gamer/(Amelia McDonohugh) deleted the external airlock at (55,68,6)
+[14:25:31]ADMIN: riki2321gamer/(Amelia McDonohugh) deleted the external airlock at (55,69,6)
+[14:25:33]ADMIN: riki2321gamer/(Amelia McDonohugh) deleted the external airlock at (52,69,6)
+[14:25:35]ADMIN: riki2321gamer/(Amelia McDonohugh) deleted the external airlock at (52,68,6)
+[14:25:40]ADMIN: Firesho/(morph) deleted the huge air scrubber at (148,105,1)
+[14:25:44]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:25:48]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /mob/living/carbon/human/dummy at (53,69,6)
+[14:25:50]ADMIN: riki2321gamer/(Amelia McDonohugh) stuffed riki2321gamer into Alisya Schaeffer.
+[14:25:50]ACCESS: Mob Login: riki2321gamer/(Alisya Schaeffer) was assigned to a /mob/living/carbon/human/dummy
+[14:25:55]ADMIN: riki2321gamer/(Alisya Schaeffer) spawned /obj/item/weapon/pipe_dispenser at (53,69,6)
+[14:25:57]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[14:25:58]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:26:11]ADMIN: riki2321gamer/(Alisya Schaeffer) admin ghosted.
+[14:26:11]ACCESS: Mob Login: riki2321gamer/(Alisya Schaeffer) was assigned to a /mob/dead/observer
+[14:26:16]ADMIN: Firesho/(morph) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:26:18]ADMIN: riki2321gamer/(Alisya Schaeffer) spawned /obj/structure/disposalpipe at (55,69,6)
+[14:26:24]ADMIN: Riki2321gamer/(Alisya Schaeffer) modified The disposal pipe's dir to 4
+[14:26:27]ADMIN: riki2321gamer/(Alisya Schaeffer) deleted the disposal pipe at (55,69,6)
+[14:26:33]ADMIN: riki2321gamer/(Alisya Schaeffer) spawned /turf/closed/wall/r_wall at (54,69,6)
+[14:26:33]SAY: Accidents Happen/ : I knew it, I should&#39;ve been a plastic surgeon.
+[14:26:38]ADMIN: riki2321gamer/(Alisya Schaeffer) spawned /turf/closed/wall/r_wall at (54,68,6)
+[14:26:42]ADMIN: riki2321gamer/(Alisya Schaeffer) deleted the reinforced wall at (55,69,6)
+[14:26:46]ADMIN: Firesho/(morph) jumped to Flamescale Zakuto's ship
+[14:26:51]ADMIN: riki2321gamer/(Alisya Schaeffer) spawned /obj/structure/disposalpipe at (55,69,6)
+[14:26:53]OOC: morph/Firesho : WHAT THE HELL??!
+[14:26:54]ADMIN: riki2321gamer/(Alisya Schaeffer) deleted the disposal pipe at (55,69,6)
+[14:27:00]ADMIN: riki2321gamer/(Alisya Schaeffer) spawned /obj/structure/disposalpipe/segment at (55,69,6)
+[14:27:04]ADMIN: Riki2321gamer/(Alisya Schaeffer) modified The disposal pipe's dir to 1
+[14:27:04]OOC: morph/Firesho : WHat happend to my ship?!
+[14:27:06]ADMIN: Riki2321gamer/(Alisya Schaeffer) modified The disposal pipe's dir to 4
+[14:27:10]ADMIN: Riki2321gamer/(Alisya Schaeffer) modified The disposal pipe's dpdir to 3
+[14:27:12]ADMIN: Firesho/(morph) assumed direct control of Flamescale Zakuto.
+[14:27:12]ACCESS: Mob Login: firesho/(Flamescale Zakuto) was assigned to a /mob/living/carbon/human
+[14:27:19]ADMIN: riki2321gamer/(Alisya Schaeffer) spawned /turf/closed/wall/r_wall at (55,69,6)
+[14:27:20]ADMIN: firesho/(Flamescale Zakuto) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:27:26]ADMIN: riki2321gamer/(Alisya Schaeffer) spawned /turf/open/floor/plating at (54,68,6)
+[14:27:31]ADMIN: riki2321gamer/(Alisya Schaeffer) spawned /turf/open/floor/plating at (54,69,6)
+[14:27:32]ACCESS: Mob Login: riki2321gamer/(Alisya Schaeffer) was assigned to a /mob/living/carbon/human/dummy
+[14:27:35]ADMIN: riki2321gamer/(Alisya Schaeffer) deleted the disposal pipe segment at (54,69,6)
+[14:27:42]ADMIN: firesho/(Flamescale Zakuto) jumped to Atmospherics
+[14:27:46]ADMIN: riki2321gamer/(Alisya Schaeffer) spawned /obj/structure/disposalpipe/trunk at (54,69,6)
+[14:27:53]ADMIN: Riki2321gamer/(Alisya Schaeffer) modified The disposal pipe's dir to 4
+[14:27:56]ADMIN: Riki2321gamer/(Alisya Schaeffer) modified The disposal pipe's dpdir to 4
+[14:27:59]ADMIN: Athirson/(Colton Sanders) spawned /obj/item/weapon/reagent_containers/food/drinks/britcup at (45,63,6)
+[14:28:04]ADMIN: riki2321gamer/(Alisya Schaeffer) spawned /obj/machinery/disposal/bin at (54,69,6)
+[14:28:06]SAY: grey baby slime (699)/ : Cold...
+[14:28:09]ADMIN: riki2321gamer/(Alisya Schaeffer) admin ghosted.
+[14:28:09]ACCESS: Mob Login: riki2321gamer/(Alisya Schaeffer) was assigned to a /mob/dead/observer
+[14:28:20]SAY: grey baby slime (699)/ : Blorble...
+[14:28:27]ADMIN: riki2321gamer/(Alisya Schaeffer) spawned /obj/structure/window/reinforced/fulltile at (55,69,6)
+[14:28:31]ADMIN: riki2321gamer/(Alisya Schaeffer) spawned /obj/structure/grille at (55,69,6)
+[14:28:35]ADMIN: riki2321gamer/(Alisya Schaeffer) spawned /turf/open/floor/plating at (55,69,6)
+[14:28:49]ADMIN: riki2321gamer/(Alisya Schaeffer) spawned /obj/structure/disposalpipe/trunk at (56,69,6)
+[14:28:53]ADMIN: Riki2321gamer/(Alisya Schaeffer) modified The disposal pipe's dir to 3
+[14:28:55]ADMIN: Riki2321gamer/(Alisya Schaeffer) modified The disposal pipe's dir to 4
+[14:28:56]ADMIN: Riki2321gamer/(Alisya Schaeffer) modified The disposal pipe's dir to 5
+[14:28:57]ADMIN: Riki2321gamer/(Alisya Schaeffer) modified The disposal pipe's dir to 6
+[14:28:59]ADMIN: Riki2321gamer/(Alisya Schaeffer) modified The disposal pipe's dir to 7
+[14:29:00]ADMIN: Riki2321gamer/(Alisya Schaeffer) modified The disposal pipe's dir to 8
+[14:29:02]ADMIN: Riki2321gamer/(Alisya Schaeffer) modified The disposal pipe's dpdir to 8
+[14:29:21]ADMIN: riki2321gamer/(Alisya Schaeffer) spawned /obj/structure/disposaloutlet at (56,69,6)
+[14:29:46]ADMIN: Riki2321gamer/(Alisya Schaeffer) modified The disposal pipe's dpdir to 8
+[14:29:48]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[14:29:55]ADMIN: Riki2321gamer/(Alisya Schaeffer) modified The disposal pipe's dpdir to 7
+[14:29:57]ADMIN: Riki2321gamer/(Alisya Schaeffer) modified The disposal pipe's dpdir to 8
+[14:30:03]OOC: Flamescale Zakuto/Firesho : Riki it okay if we just reboot?
+[14:30:07]OOC: Alisya Schaeffer/Riki2321gamer : why
+[14:30:12]OOC: Alisya Schaeffer/Riki2321gamer : you can just place a new map template
+[14:30:16]OOC: Flamescale Zakuto/Firesho : the station is screwed over heavily.
+[14:30:20]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:30:23]ADMIN: Riki2321gamer/(Alisya Schaeffer) modified The disposal unit's full_pressure to 1
+[14:30:26]OOC: Flamescale Zakuto/Firesho : even my ship somehow got damaged
+[14:30:27]ACCESS: Mob Login: riki2321gamer/(Alisya Schaeffer) was assigned to a /mob/living/carbon/human/dummy
+[14:30:32]GAME: Random Event triggering: Camera Failure (/datum/round_event/camera_failure)
+[14:30:34]ADMIN: riki2321gamer/(Alisya Schaeffer) admin ghosted.
+[14:30:34]ACCESS: Mob Login: riki2321gamer/(Alisya Schaeffer) was assigned to a /mob/dead/observer
+[14:30:44]ADMIN: firesho/(Flamescale Zakuto) jumped to Flamescale Zakuto's ship
+[14:30:49]ADMIN: firesho/(Flamescale Zakuto) jumped to 196,225,4 in Flamescale Zakuto's ship
+[14:30:49]OOC: Alisya Schaeffer/Riki2321gamer : a sec
+[14:30:51]OOC: Alisya Schaeffer/Riki2321gamer : plz
+[14:30:52]ADMIN: firesho/(Flamescale Zakuto) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:30:55]OOC: Alisya Schaeffer/Riki2321gamer : im tryna do something
+[14:31:01]ADMIN: firesho/(Flamescale Zakuto) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:31:10]ADMIN: firesho/(Flamescale Zakuto) jumped to 194,220,4 in Flamescale Zakuto's ship
+[14:31:12]ADMIN: firesho/(Flamescale Zakuto) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:31:16]ADMIN: riki2321gamer/(Alisya Schaeffer) deleted Alisya Schaeffer at (53,69,6)
+[14:31:19]ADMIN: riki2321gamer/(Alisya Schaeffer) deleted the disposal unit at (54,69,6)
+[14:31:19]SAY: Medibot/ : Delicious!
+[14:31:21]ADMIN: riki2321gamer/(Alisya Schaeffer) stuffed riki2321gamer into Cayenne.
+[14:31:21]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[14:31:27]ADMIN: firesho/(Flamescale Zakuto) jumped to 188,220,4 in Flamescale Zakuto's ship
+[14:31:28]ADMIN: riki2321gamer/(Cayenne) spawned /obj/machinery/disposal/bin at (54,69,6)
+[14:31:29]ADMIN: firesho/(Flamescale Zakuto) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:31:30]ADMIN: riki2321gamer/(Cayenne) deleted the disposal unit at (54,69,6)
+[14:31:31]ADMIN: firesho/(Flamescale Zakuto) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:31:35]ADMIN: riki2321gamer/(Cayenne) spawned /obj/machinery/disposal/deliveryChute at (54,69,6)
+[14:31:40]ADMIN: Riki2321gamer/(Cayenne) modified The delivery chute's dir to 4
+[14:31:42]ADMIN: Riki2321gamer/(Cayenne) modified The delivery chute's dir to 8
+[14:31:44]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[14:31:44]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/dead/observer
+[14:31:48]ADMIN: firesho/(Flamescale Zakuto) jumped to 185,219,4 in Flamescale Zakuto's ship
+[14:31:50]ADMIN: firesho/(Flamescale Zakuto) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:31:50]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /obj/machinery/door/window/eastleft at (54,69,6)
+[14:31:53]ADMIN: firesho/(Flamescale Zakuto) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:31:53]ADMIN: riki2321gamer/(Amelia McDonohugh) deleted the interior door at (54,69,6)
+[14:31:59]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /obj/machinery/door/window/westleft at (54,69,6)
+[14:32:01]ADMIN: Athirson/(Colton Sanders) deleted the plant data disks box at (0,0,0)
+[14:32:04]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /obj/structure/window/reinforced at (54,69,6)
+[14:32:05]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[14:32:12]ADMIN: firesho/(Flamescale Zakuto) jumped to 183,226,4 in Flamescale Zakuto's ship
+[14:32:15]ADMIN: firesho/(Flamescale Zakuto) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:32:19]ADMIN: firesho/(Flamescale Zakuto) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:32:22]ADMIN: firesho/(Flamescale Zakuto) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:32:25]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[14:32:25]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/dead/observer
+[14:32:45]GAME: NT Medical Ship loaded at at 58,58,6
+[14:32:50]ADMIN: firesho/(Flamescale Zakuto) admin ghosted.
+[14:32:50]ACCESS: Mob Login: firesho/(Flamescale Zakuto) was assigned to a /mob/dead/observer
+[14:33:02]ACCESS: Mob Login: firesho/(Flamescale Zakuto) was assigned to a /mob/living/carbon/human
+[14:33:03]ADMIN: riki2321gamer/(Amelia McDonohugh) has entered build mode.
+[14:33:08]OOC: Amelia McDonohugh/Riki2321gamer : um..
+[14:33:11]SAY: Medibot/ : Delicious!
+[14:33:11]OOC: Amelia McDonohugh/Riki2321gamer : wrong one
+[14:33:13]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[14:33:20]OOC: Flamescale Zakuto/Firesho : Indeed
+[14:33:27]OOC: Flamescale Zakuto/Firesho : you want the Whiteship Meta
+[14:33:31]GAME: NT Recovery White-ship loaded at at 39,37,6
+[14:33:35]ADMIN: firesho/(Flamescale Zakuto) admin ghosted.
+[14:33:35]ACCESS: Mob Login: firesho/(Flamescale Zakuto) was assigned to a /mob/dead/observer
+[14:33:44]ADMIN: Riki2321gamer/(Amelia McDonohugh) has deleted all (1386) instances of /obj/effect/decal/cleanable.
+[14:33:47]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /obj/machinery/light at (49,59,6)
+[14:33:49]ADMIN: riki2321gamer/(Amelia McDonohugh) has entered build mode.
+[14:33:51]ADMIN: firesho/(Flamescale Zakuto) teleported @Firesho[DC]/(Flamescale Zakuto)
+[14:33:51]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (50,59,6)
+[14:33:53]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (50,58,6)
+[14:33:54]ACCESS: Mob Login: firesho/(Flamescale Zakuto) was assigned to a /mob/living/carbon/human
+[14:33:54]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (50,57,6)
+[14:33:55]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (50,58,6)
+[14:33:55]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (50,57,6)
+[14:33:56]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (50,56,6)
+[14:33:56]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (50,56,6)
+[14:33:56]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (50,55,6)
+[14:33:57]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (50,55,6)
+[14:33:57]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (50,54,6)
+[14:33:58]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (50,54,6)
+[14:34:00]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (53,52,6)
+[14:34:00]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (53,52,6)
+[14:34:00]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (53,52,6)
+[14:34:01]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (53,53,6)
+[14:34:01]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (53,53,6)
+[14:34:01]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (53,53,6)
+[14:34:02]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (53,54,6)
+[14:34:02]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (53,54,6)
+[14:34:02]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (53,54,6)
+[14:34:03]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (52,54,6)
+[14:34:03]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (52,54,6)
+[14:34:03]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (52,54,6)
+[14:34:03]ADMIN: firesho/(Flamescale Zakuto) jumped to 53,36,6 in Space
+[14:34:04]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (51,54,6)
+[14:34:04]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (51,54,6)
+[14:34:04]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (51,54,6)
+[14:34:05]ADMIN: firesho/(Flamescale Zakuto) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:34:05]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (56,54,6)
+[14:34:05]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (56,54,6)
+[14:34:06]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (56,53,6)
+[14:34:06]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (56,53,6)
+[14:34:07]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (56,52,6)
+[14:34:07]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (56,52,6)
+[14:34:07]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (56,52,6)
+[14:34:07]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (56,52,6)
+[14:34:08]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (56,53,6)
+[14:34:09]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (56,54,6)
+[14:34:09]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (56,55,6)
+[14:34:09]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (56,55,6)
+[14:34:09]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (56,55,6)
+[14:34:10]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (56,56,6)
+[14:34:10]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (56,56,6)
+[14:34:10]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (56,56,6)
+[14:34:11]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (55,56,6)
+[14:34:12]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (55,56,6)
+[14:34:13]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (55,57,6)
+[14:34:13]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (55,57,6)
+[14:34:13]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[14:34:13]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (55,57,6)
+[14:34:14]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (55,58,6)
+[14:34:14]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (55,58,6)
+[14:34:14]ADMIN: firesho/(Flamescale Zakuto) jumped to 53,42,6 in Flamescale Zakuto's ship
+[14:34:14]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (55,58,6)
+[14:34:17]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (54,59,6)
+[14:34:17]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (54,59,6)
+[14:34:17]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (54,59,6)
+[14:34:18]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (55,59,6)
+[14:34:18]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (55,59,6)
+[14:34:18]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (55,59,6)
+[14:34:22]ADMIN: firesho/(Flamescale Zakuto) jumped to 65,45,6 in Space
+[14:34:24]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /obj/machinery/light at (52,59,6)
+[14:34:24]ADMIN: firesho/(Flamescale Zakuto) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:34:26]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (51,59,6)
+[14:34:27]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (51,59,6)
+[14:34:28]ADMIN: firesho/(Flamescale Zakuto) created a /obj/machinery/portable_atmospherics/scrubber/huge/movable
+[14:34:28]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (51,59,6)
+[14:34:30]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (51,58,6)
+[14:34:30]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (52,58,6)
+[14:34:31]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (53,58,6)
+[14:34:31]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (54,58,6)
+[14:34:32]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (53,57,6)
+[14:34:32]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (51,57,6)
+[14:34:33]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (52,57,6)
+[14:34:33]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (54,57,6)
+[14:34:34]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (53,56,6)
+[14:34:34]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (51,56,6)
+[14:34:35]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (52,56,6)
+[14:34:35]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (54,56,6)
+[14:34:36]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (55,55,6)
+[14:34:36]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (54,55,6)
+[14:34:37]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (54,54,6)
+[14:34:37]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (55,54,6)
+[14:34:37]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (55,53,6)
+[14:34:38]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (54,53,6)
+[14:34:38]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (54,52,6)
+[14:34:38]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (55,52,6)
+[14:34:39]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (52,55,6)
+[14:34:40]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (53,55,6)
+[14:34:40]SAY: Accidents Happen/ : Radar, put a mask on!
+[14:34:40]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the floor at (51,55,6)
+[14:34:42]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (51,56,6)
+[14:34:42]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (51,56,6)
+[14:34:43]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (52,56,6)
+[14:34:43]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (52,56,6)
+[14:34:44]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (53,56,6)
+[14:34:44]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (53,56,6)
+[14:34:44]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (54,56,6)
+[14:34:45]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (54,56,6)
+[14:34:45]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (54,57,6)
+[14:34:46]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (54,57,6)
+[14:34:46]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (54,58,6)
+[14:34:46]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (54,58,6)
+[14:34:47]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (53,58,6)
+[14:34:47]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (53,58,6)
+[14:34:48]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (52,58,6)
+[14:34:48]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (52,58,6)
+[14:34:49]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (51,58,6)
+[14:34:49]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (51,58,6)
+[14:34:49]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (51,57,6)
+[14:34:50]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (51,57,6)
+[14:34:50]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (52,57,6)
+[14:34:50]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (52,57,6)
+[14:34:51]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (53,57,6)
+[14:34:51]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (53,57,6)
+[14:34:52]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (55,55,6)
+[14:34:52]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (55,55,6)
+[14:34:57]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /obj/machinery/light at (53,58,6)
+[14:35:01]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /obj/machinery/light at (53,59,6)
+[14:35:03]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (52,59,6)
+[14:35:03]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (52,59,6)
+[14:35:04]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (53,59,6)
+[14:35:04]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (53,59,6)
+[14:35:05]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (52,59,6)
+[14:35:06]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (53,59,6)
+[14:35:06]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (51,58,6)
+[14:35:06]EMOTE: *no key*/(red baby slime (918)) : <b>The red baby slime (918)</b> jiggles!
+[14:35:06]ADMIN: Athirson/(Colton Sanders) deleted the reinforced table at (48,62,6)
+[14:35:06]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (52,58,6)
+[14:35:08]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (53,58,6)
+[14:35:08]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (54,58,6)
+[14:35:09]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (54,57,6)
+[14:35:09]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (53,57,6)
+[14:35:10]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (52,57,6)
+[14:35:10]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (51,57,6)
+[14:35:10]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (51,56,6)
+[14:35:11]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (52,56,6)
+[14:35:11]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (53,56,6)
+[14:35:12]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (54,56,6)
+[14:35:13]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (51,55,6)
+[14:35:13]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (52,55,6)
+[14:35:13]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (53,55,6)
+[14:35:14]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (54,55,6)
+[14:35:14]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (54,53,6)
+[14:35:14]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (54,52,6)
+[14:35:15]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (54,54,6)
+[14:35:15]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (55,54,6)
+[14:35:16]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (55,55,6)
+[14:35:16]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (55,53,6)
+[14:35:16]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (55,52,6)
+[14:35:17]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (55,56,6)
+[14:35:18]ADMIN: firesho/(Flamescale Zakuto) created a /obj/item/device/analyzer
+[14:35:18]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (50,54,6)
+[14:35:18]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (50,55,6)
+[14:35:19]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (50,56,6)
+[14:35:19]ADMIN: Athirson/(Colton Sanders) spawned /obj/machinery/smartfridge/food at (48,62,6)
+[14:35:19]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (50,57,6)
+[14:35:20]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (50,58,6)
+[14:35:20]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the reinforced wall at (50,59,6)
+[14:35:26]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /obj/machinery/light at (52,59,6)
+[14:35:29]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (51,58,6)
+[14:35:29]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (52,58,6)
+[14:35:30]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (53,58,6)
+[14:35:31]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (54,58,6)
+[14:35:32]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (54,57,6)
+[14:35:32]EMOTE: *no key*/(red baby slime (918)) : <b>The red baby slime (918)</b> jiggles!
+[14:35:32]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (53,57,6)
+[14:35:33]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (52,57,6)
+[14:35:33]OOC: Flamescale Zakuto/Firesho : THE PRESSURE IS WRECKING THE WINDOWS!
+[14:35:33]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (51,57,6)
+[14:35:34]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (51,56,6)
+[14:35:34]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (52,56,6)
+[14:35:35]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (53,56,6)
+[14:35:35]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (54,56,6)
+[14:35:35]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (54,55,6)
+[14:35:36]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (53,55,6)
+[14:35:36]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (52,55,6)
+[14:35:37]ADMIN: firesho/(Flamescale Zakuto) has entered build mode.
+[14:35:37]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (51,55,6)
+[14:35:38]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the floor at (65,46,6)
+[14:35:38]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the wall at (65,46,6)
+[14:35:38]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the reinforced wall at (65,46,6)
+[14:35:38]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (54,54,6)
+[14:35:39]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (55,54,6)
+[14:35:39]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (55,55,6)
+[14:35:40]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the floor at (65,44,6)
+[14:35:40]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (55,53,6)
+[14:35:40]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the wall at (65,44,6)
+[14:35:40]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (54,53,6)
+[14:35:41]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (54,52,6)
+[14:35:41]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (55,52,6)
+[14:35:41]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the floor at (65,45,6)
+[14:35:42]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the wall at (65,45,6)
+[14:35:43]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the floor at (65,43,6)
+[14:35:43]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the reinforced wall at (51,59,6)
+[14:35:43]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the wall at (65,43,6)
+[14:35:44]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (52,59,6)
+[14:35:44]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the floor at (65,42,6)
+[14:35:44]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the wall at (65,42,6)
+[14:35:44]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the wall at (53,59,6)
+[14:35:45]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the floor at (63,40,6)
+[14:35:45]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the wall at (63,40,6)
+[14:35:46]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the floor at (62,40,6)
+[14:35:46]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the wall at (62,40,6)
+[14:35:47]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the floor at (62,39,6)
+[14:35:47]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the wall at (62,39,6)
+[14:35:48]ADMIN: riki2321gamer/(Amelia McDonohugh) deleted the light fixture at (52,59,6)
+[14:35:49]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the floor at (62,48,6)
+[14:35:49]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the wall at (62,48,6)
+[14:35:50]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the floor at (63,48,6)
+[14:35:50]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the wall at (63,48,6)
+[14:35:51]ADMIN: riki2321gamer/(Amelia McDonohugh) deleted the light fixture at (52,59,6)
+[14:35:52]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the floor at (64,48,6)
+[14:35:52]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the wall at (64,48,6)
+[14:35:53]ADMIN: riki2321gamer/(Amelia McDonohugh) deleted the light fixture at (53,58,6)
+[14:35:53]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the floor at (65,47,6)
+[14:35:54]ADMIN: Build Mode: firesho/(Flamescale Zakuto) built the wall at (65,47,6)
+[14:35:54]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:35:55]ADMIN: riki2321gamer/(Amelia McDonohugh) has entered build mode.
+[14:36:00]ADMIN: riki2321gamer/(Amelia McDonohugh) spawned /obj/machinery/light at (52,59,6)
+[14:36:01]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) built the wall at (52,58,6)
+[14:36:03]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the reinforced wall at (52,60,6)
+[14:36:03]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the reinforced wall at (51,60,6)
+[14:36:04]ADMIN: Build Mode: riki2321gamer/(Amelia McDonohugh) deleted the reinforced wall at (53,60,6)
+[14:36:07]ADMIN: riki2321gamer/(Amelia McDonohugh) deleted the grille at (51,59,6)
+[14:36:08]ADMIN: riki2321gamer/(Amelia McDonohugh) deleted the light fixture at (53,59,6)
+[14:36:10]ADMIN: riki2321gamer/(Amelia McDonohugh) deleted the grille at (53,59,6)
+[14:36:11]ADMIN: riki2321gamer/(Amelia McDonohugh) deleted the grille at (52,59,6)
+[14:36:14]ADMIN: riki2321gamer/(Amelia McDonohugh) deleted the grille at (50,59,6)
+[14:36:16]ADMIN: riki2321gamer/(Amelia McDonohugh) deleted the grille at (55,59,6)
+[14:36:17]ADMIN: riki2321gamer/(Amelia McDonohugh) deleted the grille at (54,59,6)
+[14:36:19]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[14:36:23]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[14:36:23]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/dead/observer
+[14:36:28]ADMIN: riki2321gamer/(Amelia McDonohugh) has used rudimentary transformation on riki2321gamer/(Amelia McDonohugh). Transforming to robot.; deletemob=1
+[14:36:28]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/living/silicon/robot
+[14:36:31]SAY: Medibot/ : Radar, put a mask on!
+[14:36:34]ACCESS: Logout: Firesho/(Flamescale Zakuto)
+[14:36:35]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[14:36:46]ACCESS: Logout: Athirson/(Colton Sanders)
+[14:36:51]ADMIN: riki2321gamer/(Tob) admin ghosted.
+[14:36:52]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/dead/observer
+[14:36:54]ADMIN: riki2321gamer/(Amelia McDonohugh) stuffed riki2321gamer into Cayenne.
+[14:36:54]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[14:37:04]ADMIN: riki2321gamer/(Cayenne) spawned /obj/machinery/light at (54,52,6)
+[14:37:06]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[14:37:06]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/dead/observer
+[14:37:10]ADMIN: riki2321gamer/(Cayenne) deleted the bedsheet at (53,55,6)
+[14:37:26]ADMIN: riki2321gamer/(Cayenne) spawned /obj/machinery/power/apc at (52,55,6)
+[14:37:29]ADMIN: riki2321gamer/(Cayenne) stuffed riki2321gamer into Tob.
+[14:37:29]ACCESS: Mob Login: riki2321gamer/(Tob) was assigned to a /mob/living/silicon/robot
+[14:37:39]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[14:37:47]ADMIN: riki2321gamer/(Tob) spawned /obj/item/weapon/stock_parts/cell/infinite at (53,55,6)
+[14:37:50]ADMIN: riki2321gamer/(Tob) admin ghosted.
+[14:37:50]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/dead/observer
+[14:37:54]ADMIN: riki2321gamer/(Amelia McDonohugh) stuffed riki2321gamer into Cayenne.
+[14:37:54]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[14:38:00]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[14:38:00]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/dead/observer
+[14:38:02]ADMIN: riki2321gamer/(Cayenne) stuffed riki2321gamer into Tob.
+[14:38:02]ACCESS: Mob Login: riki2321gamer/(Tob) was assigned to a /mob/living/silicon/robot
+[14:38:09]SAY: Accidents Happen/ : Delicious!
+[14:38:18]ADMIN: riki2321gamer/(Tob) admin ghosted.
+[14:38:18]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/dead/observer
+[14:38:19]ADMIN: riki2321gamer/(Amelia McDonohugh) stuffed riki2321gamer into Cayenne.
+[14:38:19]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[14:38:24]ADMIN: riki2321gamer/(Cayenne) spawned /obj/machinery/light at (53,55,6)
+[14:38:30]ADMIN: riki2321gamer/(Cayenne) deleted the bedsheet at (53,55,6)
+[14:38:33]ADMIN: riki2321gamer/(Cayenne) spawned /obj/machinery/portable_atmospherics/canister/oxygen at (54,56,6)
+[14:38:41]ADMIN: riki2321gamer/(Cayenne) deleted the o2 canister at (54,56,6)
+[14:39:13]ADMIN: riki2321gamer/(Cayenne) spawned /obj/machinery/gravity_generator/main/station/admin at (54,58,6)
+[14:39:16]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[14:39:18]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[14:39:31]ADMIN: riki2321gamer/(Cayenne) deleted the gravitational generator at (53,59,6)
+[14:39:35]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[14:39:35]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/dead/observer
+[14:39:37]ADMIN: riki2321gamer/(Cayenne) stuffed riki2321gamer into Tob.
+[14:39:37]ACCESS: Mob Login: riki2321gamer/(Tob) was assigned to a /mob/living/silicon/robot
+[14:39:44]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[14:39:48]ADMIN: riki2321gamer/(Tob) deleted the power cable at (52,55,6)
+[14:39:56]ADMIN: riki2321gamer/(Tob) spawned /obj/machinery/power/smes/magical at (52,57,6)
+[14:39:58]SAY: Accidents Happen/ : I knew it, I should&#39;ve been a plastic surgeon.
+[14:39:59]ADMIN: riki2321gamer/(Tob) deleted the power cable at (52,56,6)
+[14:40:09]ADMIN: riki2321gamer/(Tob) deleted the floor tile at (52,56,6)
+[14:40:11]ADMIN: riki2321gamer/(Tob) deleted the floor tile at (52,55,6)
+[14:40:19]ADMIN: riki2321gamer/(Tob) checked antagonists.
+[14:40:19]ADMIN: riki2321gamer/(Tob) admin ghosted.
+[14:40:19]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/dead/observer
+[14:40:22]ADMIN: riki2321gamer/(Amelia McDonohugh) stuffed riki2321gamer into Cayenne.
+[14:40:22]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[14:40:40]ADMIN: riki2321gamer/(Cayenne) spawned /obj/machinery/gravity_generator/main/station/admin at (55,55,6)
+[14:40:46]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[14:40:46]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/dead/observer
+[14:40:53]ADMIN: Riki2321gamer/(Cayenne) modified The gravitational generator's x to 56
+[14:41:10]ADMIN: Riki2321gamer/(Cayenne) modified The gravitational generator's x to 55
+[14:41:12]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[14:41:27]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[14:41:27]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/dead/observer
+[14:41:29]ADMIN: riki2321gamer/(Cayenne) stuffed riki2321gamer into Tob.
+[14:41:29]ACCESS: Mob Login: riki2321gamer/(Tob) was assigned to a /mob/living/silicon/robot
+[14:41:39]SAY: Accidents Happen/ : Radar, put a mask on!
+[14:41:47]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:42:01]EMOTE: *no key*/(grey baby slime (699)) : <b>The grey baby slime (699)</b> bounces in place.
+[14:42:33]ADMIN: riki2321gamer/(Tob) deleted the terminal at (52,55,6)
+[14:42:37]SAY: Medibot/ : Delicious!
+[14:43:07]EMOTE: *no key*/(red baby slime (918)) : <b>The red baby slime (918)</b> vibrates!
+[14:43:14]ADMIN: riki2321gamer/(Tob) deleted the power cable at (52,55,6)
+[14:43:20]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[14:43:35]ADMIN: riki2321gamer/(Tob) admin ghosted.
+[14:43:35]ACCESS: Mob Login: riki2321gamer/(Amelia McDonohugh) was assigned to a /mob/dead/observer
+[14:43:39]ADMIN: riki2321gamer/(Amelia McDonohugh) stuffed riki2321gamer into Cayenne.
+[14:43:39]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[14:43:46]SAY: Cayenne/riki2321gamer : Alright
+[14:43:47]SAY: Cayenne/riki2321gamer : Im back
+[14:43:50]SAY: Cayenne/riki2321gamer : The engineer finished their job
+[14:43:53]SAY: red baby slime (918)/ : Rawr...
+[14:44:01]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:44:01]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[14:44:05]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[14:44:05]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/dead/observer
+[14:44:13]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:44:35]EMOTE: *no key*/(red baby slime (918)) : <b>The red baby slime (918)</b> jiggles!
+[14:45:16]SAY: Medibot/ : Delicious!
+[14:45:24]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[14:45:45]GAME: Random Event triggering: Camera Failure (/datum/round_event/camera_failure)
+[14:45:59]EMOTE: *no key*/(red baby slime (918)) : <b>The red baby slime (918)</b> jiggles!
+[14:45:59]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[14:46:01]EMOTE: *no key*/(red baby slime (918)) : <b>The red baby slime (918)</b> bounces in place.
+Ban database connection failure. Key athirson not checked
+[14:46:32]SAY: Nobody's Perfect/ : Delicious!
+[14:46:32]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[14:46:38]SAY: Cayenne/riki2321gamer : The engineer finished their job
+[14:46:47]SAY: Cayenne/riki2321gamer : They installed a new ship near us
+[14:46:52]SAY: Medibot/ : Radar, put a mask on!
+[14:46:55]ACCESS: Login: Athirson from 200.180.58.209-4037137831 || BYOND v511
+[14:46:55]ACCESS: Mob Login: Athirson/(Colton Sanders) was assigned to a /mob/living/carbon/human
+[14:47:40]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:47:59]SAY: Medibot/ : Delicious!
+[14:48:48]EMOTE: *no key*/(red baby slime (918)) : <b>The red baby slime (918)</b> bounces in place.
+[14:49:05]ADMIN: Athirson/(Colton Sanders) has entered build mode.
+[14:49:12]ADMIN: Build Mode: Athirson/(Colton Sanders) built an airlock at (54,52,6)
+[14:49:13]ADMIN: Build Mode: Athirson/(Colton Sanders) built an airlock at (55,52,6)
+[14:49:22]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[14:49:24]EMOTE: *no key*/(grey baby slime (699)) : <b>The grey baby slime (699)</b> bounces in place.
+[14:49:42]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[14:49:58]SAY: Medibot/ : Radar, put a mask on!
+[14:50:00]SAY: Accidents Happen/ : Radar, put a mask on!
+[14:50:14]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[14:51:00]EMOTE: *no key*/(red baby slime (918)) : <b>The red baby slime (918)</b> jiggles!
+[14:51:02]SAY: grey baby slime (699)/ : Blorble...
+[14:51:29]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[14:51:29]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/dead/observer
+[14:51:33]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[14:51:33]SAY: Medibot/ : Delicious!
+Ban database connection failure. Key firesho not checked
+[14:52:08]SAY: Captain/Athirson : Test
+[14:52:16]GAME: Asteroid 3 loaded at at 18,38,6
+[14:52:20]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[14:52:33]ACCESS: Login: Firesho from 98.28.199.161-533351237 || BYOND v511
+[14:52:33]ACCESS: Mob Login: Firesho/(Flamescale Zakuto) was assigned to a /mob/living/carbon/human
+[14:52:39]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[14:52:39]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/dead/observer
+[14:52:42]ADMIN: riki2321gamer/(Cayenne) jumped to Bar
+[14:52:43]ADMIN: Firesho/(Flamescale Zakuto) jumped to 58,48,6 in Flamescale Zakuto's ship
+[14:52:46]ADMIN: Firesho/(Flamescale Zakuto) has entered build mode.
+[14:52:48]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the wall at (60,49,6)
+[14:52:48]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (60,49,6)
+[14:52:48]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (60,49,6)
+[14:52:50]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the floor at (59,52,6)
+[14:52:50]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the wall at (59,52,6)
+[14:52:51]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the floor at (58,52,6)
+[14:52:51]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the wall at (58,52,6)
+[14:52:53]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the floor at (51,52,6)
+[14:52:53]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the wall at (51,52,6)
+[14:52:57]ADMIN: Firesho/(Flamescale Zakuto) jumped to 51,49,6 in Flamescale Zakuto's ship
+[14:53:01]ADMIN: Firesho/(Flamescale Zakuto) jumped to 45,53,6 in Space
+[14:53:07]OOC: Cayenne/Riki2321gamer : i love how every single tile of space is filled with some weird air
+[14:53:08]ADMINPRIVATE: riki2321gamer/(Cayenne) cancelled event False Alarm.
+[14:53:10]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[14:53:11]ADMIN: Firesho/(Flamescale Zakuto) deleted the turret at (44,60,6)
+[14:53:15]ADMIN: Firesho/(Flamescale Zakuto) has entered build mode.
+[14:53:17]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the floor at (46,52,6)
+[14:53:17]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[14:53:18]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the floor at (44,52,6)
+[14:53:20]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the wall at (46,52,6)
+[14:53:20]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (46,52,6)
+[14:53:21]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the wall at (44,52,6)
+[14:53:21]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (44,52,6)
+[14:53:26]OOC: Cayenne/Riki2321gamer : oh yeah look at the fucking air ping
+[14:53:26]ADMIN: Firesho/(Flamescale Zakuto) jumped to 44,48,6 in Flamescale Zakuto's ship
+[14:53:30]ADMIN: Firesho/(Flamescale Zakuto) jumped to 44,43,6 in Flamescale Zakuto's ship
+[14:53:31]OOC: Cayenne/Riki2321gamer : in the MC tab
+[14:53:33]ADMIN: Firesho/(Flamescale Zakuto) jumped to 45,39,6 in Flamescale Zakuto's ship
+[14:53:36]ADMIN: Firesho/(Flamescale Zakuto) has entered build mode.
+[14:53:37]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the floor at (50,36,6)
+[14:53:37]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the wall at (50,36,6)
+[14:53:38]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the floor at (49,36,6)
+[14:53:38]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the wall at (49,36,6)
+[14:53:39]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the floor at (45,36,6)
+[14:53:39]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the wall at (45,36,6)
+[14:53:39]SAY: Accidents Happen/ : I knew it, I should&#39;ve been a plastic surgeon.
+[14:53:40]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the floor at (44,36,6)
+[14:53:40]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the wall at (44,36,6)
+[14:53:45]OOC: Cayenne/Riki2321gamer : im dead inside
+[14:53:49]ADMIN: Firesho/(Flamescale Zakuto) jumped to 51,42,6 in Flamescale Zakuto's ship
+[14:53:54]ADMIN: Firesho/(Flamescale Zakuto) has entered build mode.
+[14:54:07]OOC: Flamescale Zakuto/Firesho : Yea....
+[14:54:09]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the floor at (59,36,6)
+[14:54:09]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the wall at (59,36,6)
+[14:54:09]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (59,36,6)
+[14:54:09]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (59,36,6)
+[14:54:10]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the floor at (58,36,6)
+[14:54:10]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the wall at (58,36,6)
+[14:54:10]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (58,36,6)
+[14:54:11]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (58,36,6)
+[14:54:18]ADMIN: Firesho/(Flamescale Zakuto) has entered build mode.
+[14:54:19]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the floor at (54,36,6)
+[14:54:19]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the wall at (54,36,6)
+Ban database connection failure. Key zennerx not checked
+[14:54:25]EMOTE: *no key*/(grey baby slime (699)) : <b>The grey baby slime (699)</b> jiggles!
+[14:54:26]ADMIN: Firesho/(Flamescale Zakuto) jumped to 62,45,6 in Flamescale Zakuto's ship
+[14:54:29]ADMIN: Firesho/(Flamescale Zakuto) has entered build mode.
+[14:54:30]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the floor at (62,49,6)
+[14:54:30]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the wall at (62,49,6)
+[14:54:33]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) deleted the reinforced wall at (60,49,6)
+[14:54:38]ADMIN: Athirson/(Colton Sanders) modified The diamond-tipped pickaxe's digspeed to 1000
+[14:54:43]ADMIN: Firesho/(Flamescale Zakuto) jumped to 57,48,6 in Flamescale Zakuto's ship
+[14:54:48]ADMIN: Firesho/(Flamescale Zakuto) jumped to 51,49,6 in Flamescale Zakuto's ship
+[14:54:51]ADMIN: Firesho/(Flamescale Zakuto) has entered build mode.
+[14:54:52]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the floor at (50,52,6)
+[14:54:52]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the wall at (50,52,6)
+[14:54:53]ADMIN: Build Mode: Firesho/(Flamescale Zakuto) built the reinforced wall at (50,52,6)
+[14:54:53]ADMIN: Athirson/(Colton Sanders) modified The diamond-tipped pickaxe's digspeed to 0
+[14:54:57]ADMIN: Firesho/(Flamescale Zakuto) jumped to 46,53,6 in Space
+[14:55:04]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:55:07]ADMIN: Athirson/(Colton Sanders) modified The diamond-tipped pickaxe's name to ultimape pickaxe
+[14:55:10]ACCESS: Login: Zennerx from 72.193.122.180-1353960910 || BYOND v511
+[14:55:10]ACCESS: Mob Login: Zennerx/(Zennerx) was assigned to a /mob/dead/new_player
+[14:55:16]ADMIN: Athirson/(Colton Sanders) modified The ultimape pickaxe's name to ultimate pickaxe
+[14:55:27]ADMIN: Firesho/(Flamescale Zakuto) jumped to 44,39,6 in Flamescale Zakuto's ship
+[14:55:29]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[14:55:32]ADMIN: Firesho/(Flamescale Zakuto) jumped to 49,39,6 in Flamescale Zakuto's ship
+[14:55:45]SAY: grey baby slime (699)/ : So... cold...
+[14:55:53]SAY: Medibot/ : Delicious!
+[14:56:01]ADMIN: Firesho/(Flamescale Zakuto) created a /obj/item/weapon/weldingtool/experimental
+[14:56:16]ADMIN: Firesho/(Flamescale Zakuto) jumped to 50,38,6 in Flamescale Zakuto's ship
+[14:56:23]ADMIN: Firesho/(Flamescale Zakuto) jumped to 44,38,6 in Flamescale Zakuto's ship
+[14:56:29]OOC: Cayenne/Riki2321gamer : the air ping is dying
+[14:56:30]ADMIN: Firesho/(Flamescale Zakuto) jumped to 45,38,6 in Flamescale Zakuto's ship
+[14:56:34]ADMIN: Riki2321gamer/(Cayenne) modified Air's priority to 1
+[14:56:38]ADMIN: Firesho/(Flamescale Zakuto) jumped to 52,45,6 in Flamescale Zakuto's ship
+[14:56:44]ADMIN: Firesho/(Flamescale Zakuto) jumped to 46,50,6 in Flamescale Zakuto's ship
+[14:56:50]ADMIN: Firesho/(Flamescale Zakuto) jumped to 50,49,6 in Flamescale Zakuto's ship
+[14:56:50]OOC: Zennerx/Zennerx : the round is not ready. ?
+[14:56:55]ADMIN: Firesho/(Flamescale Zakuto) jumped to 50,50,6 in Flamescale Zakuto's ship
+[14:57:00]ADMIN: riki2321gamer/(Cayenne) teleported Zennerx/(Zennerx)
+[14:57:07]ACCESS: Mob Login: Zennerx/(ghost) was assigned to a /mob/dead/observer
+[14:57:09]ADMIN: Riki2321gamer used Spawn Space Ninja.
+[14:57:09]ACCESS: Mob Login: Zennerx/(Night Zero) was assigned to a /mob/living/carbon/human
+[14:57:09]GAME: Zennerx/(Night Zero) was spawned as a ninja by an event.
+[14:57:12]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[14:57:13]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/dead/observer
+[14:57:14]ADMIN: Firesho/(Flamescale Zakuto) jumped to 58,50,6 in Flamescale Zakuto's ship
+[14:57:16]ADMIN: riki2321gamer/(Cayenne) jumped to Zennerx/(Night Zero)
+[14:57:22]OOC: Cayenne/Riki2321gamer : for some reason some script broke
+[14:57:26]ADMIN: Firesho/(Flamescale Zakuto) jumped to 59,38,6 in Flamescale Zakuto's ship
+[14:57:27]OOC: Unknown/Zennerx : what happened to the moving animations
+[14:57:28]SAY: red baby slime (918)/ : Blop...
+[14:57:33]OOC: Cayenne/Riki2321gamer : as in
+[14:57:39]ADMIN: Firesho/(Flamescale Zakuto) jumped to 50,38,6 in Flamescale Zakuto's ship
+[14:57:40]OOC: Cayenne/Riki2321gamer : space??
+[14:57:42]OOC: Unknown/Zennerx : what the fuck is up with the temperature
+[14:57:46]ADMIN: Firesho/(Flamescale Zakuto) jumped to 45,38,6 in Flamescale Zakuto's ship
+[14:57:50]ADMIN: riki2321gamer/(Cayenne) teleported Zennerx/(Night Zero)
+[14:58:00]ADMIN: Firesho/(Flamescale Zakuto) created a /obj/machinery/space_heater
+[14:58:03]ADMIN: Riki2321gamer/(Cayenne) has granted Zennerx full access.
+Ban database connection failure. Key jaxonmaxx not checked
+[14:58:12]ADMIN: Athirson/(Colton Sanders) spawned /obj/item/weapon/mining_voucher at (23,44,6)
+[14:58:12]OOC: Night Zero/Zennerx : dude theres no moving animations, what happened
+[14:58:13]ADMIN: Firesho/(Flamescale Zakuto) created a /obj/machinery/space_heater
+[14:58:15]ADMIN: riki2321gamer/(Cayenne) changed the equipment of Zennerx/(Night Zero) to /datum/outfit/ert/security/alert.
+[14:58:18]OOC: Night Zero/Zennerx : sprites just teleport tile to tile
+[14:58:18]ADMIN: Riki2321gamer/(Cayenne) has granted Zennerx full access.
+[14:58:20]GAME: Random Event triggering: Camera Failure (/datum/round_event/camera_failure)
+[14:58:23]ADMIN: Firesho/(Flamescale Zakuto) jumped to 44,38,6 in Flamescale Zakuto's ship
+[14:58:23]OOC: Cayenne/Riki2321gamer : um
+[14:58:25]SAY: Accidents Happen/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[14:58:26]OOC: Cayenne/Riki2321gamer : game preferences
+[14:58:28]OOC: Cayenne/Riki2321gamer : your fps is at 0
+[14:58:28]OOC: Night Zero/Zennerx : have you edited the map recently?
+[14:58:31]ADMIN: Firesho/(Flamescale Zakuto) jumped to 45,38,6 in Flamescale Zakuto's ship
+[14:58:31]OOC: Night Zero/Zennerx : oh
+[14:58:36]ADMIN: Athirson/(Colton Sanders) has entered build mode.
+[14:58:37]ADMIN: Firesho/(Flamescale Zakuto) jumped to 49,39,6 in Flamescale Zakuto's ship
+[14:58:39]OOC: Cayenne/Riki2321gamer : what did u even expect
+[14:58:41]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (20,43,6)
+[14:58:42]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (20,42,6)
+[14:58:43]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (20,41,6)
+[14:58:43]ADMIN: Firesho/(Flamescale Zakuto) jumped to 49,38,6 in Flamescale Zakuto's ship
+[14:58:44]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (21,41,6)
+[14:58:44]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (22,41,6)
+[14:58:45]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (23,41,6)
+[14:58:46]ACCESS: Login: JaxonMaxx from 76.254.196.238-3613527630 || BYOND v511
+[14:58:46]ACCESS: Mob Login: JaxonMaxx/(JaxonMaxx) was assigned to a /mob/dead/new_player
+[14:58:46]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (23,42,6)
+[14:58:46]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (24,42,6)
+[14:58:47]OOC: Cayenne/Riki2321gamer : u might have to respawn after u edit ur preferences
+[14:58:47]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (19,44,6)
+[14:58:50]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (19,45,6)
+[14:58:51]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (20,45,6)
+[14:58:51]OOC: Cayenne/Riki2321gamer : i&#39;ll respawn you
+[14:58:51]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (20,44,6)
+[14:58:52]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (21,45,6)
+[14:58:53]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (22,45,6)
+[14:58:55]ADMIN: Build Mode: Athirson/(Colton Sanders) deleted the diamond ore at (20,45,6)
+[14:58:56]ADMIN: Build Mode: Athirson/(Colton Sanders) deleted the plasma ore at (19,45,6)
+[14:58:56]OOC: Night Zero/Zennerx : nope
+[14:58:57]ADMIN: Build Mode: Athirson/(Colton Sanders) deleted the plasma ore at (19,45,6)
+[14:58:58]OOC: Night Zero/Zennerx : i dont
+[14:58:59]ADMIN: Build Mode: Athirson/(Colton Sanders) deleted the diamond ore at (20,45,6)
+[14:59:00]ADMIN: Riki2321gamer used Spawn Space Ninja.
+[14:59:01]ADMIN: Build Mode: Athirson/(Colton Sanders) deleted the diamond ore at (20,45,6)
+[14:59:02]ACCESS: Mob Login: Zennerx/(Hunter Phantom) was assigned to a /mob/living/carbon/human
+[14:59:02]GAME: Zennerx/(Hunter Phantom) was spawned as a ninja by an event.
+[14:59:03]ADMIN: Build Mode: Athirson/(Colton Sanders) deleted the diamond ore at (20,42,6)
+[14:59:04]ADMIN: riki2321gamer/(Cayenne) teleported Zennerx/(Hunter Phantom)
+[14:59:04]ADMIN: Build Mode: Athirson/(Colton Sanders) deleted the diamond ore at (20,42,6)
+[14:59:05]ADMIN: Firesho/(Flamescale Zakuto) created a /obj/machinery/space_heater
+[14:59:06]ADMIN: Build Mode: Athirson/(Colton Sanders) deleted the plasma ore at (19,45,6)
+[14:59:06]ADMIN: Build Mode: Athirson/(Colton Sanders) deleted the plasma ore at (19,45,6)
+[14:59:09]OOC: Unknown/Zennerx : it works instantly, what should I set fps to
+[14:59:09]ADMIN: Build Mode: Athirson/(Colton Sanders) deleted the mining voucher at (25,45,6)
+[14:59:09]ADMIN: riki2321gamer/(Cayenne) changed the equipment of Zennerx/(Hunter Phantom) to /datum/outfit/ert/security/alert.
+[14:59:10]ADMIN: Build Mode: Athirson/(Colton Sanders) deleted the asteroid sand at (26,46,6)
+[14:59:12]ADMIN: Build Mode: Athirson/(Colton Sanders) built the floor at (26,46,6)
+[14:59:12]ADMIN: Riki2321gamer/(Cayenne) has granted Zennerx full access.
+[14:59:14]ADMIN: Build Mode: Athirson/(Colton Sanders) deleted the asteroid sand at (26,45,6)
+[14:59:16]ADMIN: Build Mode: Athirson/(Colton Sanders) deleted the ultimate pickaxe at (26,45,6)
+[14:59:16]OOC: Cayenne/Riki2321gamer : 60
+[14:59:16]OOC: Hunter Phantom/Zennerx : 60 is 2fast4me
+[14:59:17]ADMIN: Build Mode: Athirson/(Colton Sanders) built the floor at (26,45,6)
+[14:59:19]SAY: Medibot/ : Delicious!
+[14:59:19]ADMIN: Build Mode: Athirson/(Colton Sanders) deleted the diamond ore at (28,41,6)
+[14:59:19]OOC: Cayenne/Riki2321gamer : 20
+[14:59:21]ADMIN: Build Mode: Athirson/(Colton Sanders) deleted the diamond ore at (28,41,6)
+[14:59:21]OOC: Cayenne/Riki2321gamer : 20 then
+[14:59:24]OOC: Flamescale Zakuto/Firesho : TRYING to cool my ship off!
+[14:59:24]ADMIN: Build Mode: Athirson/(Colton Sanders) deleted the diamond ore at (28,41,6)
+[14:59:28]ADMIN: Riki2321gamer used Spawn Space Ninja.
+[14:59:28]ACCESS: Mob Login: JaxonMaxx/(Noob Ermac) was assigned to a /mob/living/carbon/human
+[14:59:28]GAME: JaxonMaxx/(Noob Ermac) was spawned as a ninja by an event.
+[14:59:29]ADMIN: Build Mode: Athirson/(Colton Sanders) deleted the diamond ore at (28,41,6)
+[14:59:31]ADMIN: Firesho/(Flamescale Zakuto) created a /obj/machinery/space_heater
+[14:59:31]ADMIN: riki2321gamer/(Cayenne) teleported JaxonMaxx/(Noob Ermac)
+[14:59:32]ADMIN: Build Mode: Athirson/(Colton Sanders) deleted the diamond ore at (29,51,6)
+[14:59:33]ADMIN: Build Mode: Athirson/(Colton Sanders) deleted the diamond ore at (29,51,6)
+[14:59:36]ADMIN: Build Mode: Athirson/(Colton Sanders) deleted the diamond ore at (29,51,6)
+[14:59:37]ADMIN: riki2321gamer/(Cayenne) changed the equipment of JaxonMaxx/(Noob Ermac) to /datum/outfit/ert/commander/alert.
+[14:59:39]OOC: Hunter Phantom/Zennerx : how did you know my fps is 0, btw
+[14:59:39]ADMIN: Build Mode: Athirson/(Colton Sanders) deleted the diamond ore at (29,51,6)
+[14:59:39]ADMIN: Riki2321gamer/(Cayenne) has granted JaxonMaxx full access.
+[14:59:43]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (23,45,6)
+[14:59:43]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (23,46,6)
+[14:59:44]ADMIN: Firesho/(Flamescale Zakuto) jumped to 44,38,6 in Flamescale Zakuto's ship
+[14:59:44]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (23,47,6)
+[14:59:46]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (23,48,6)
+[14:59:46]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (23,49,6)
+[14:59:47]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (24,50,6)
+[14:59:49]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (23,50,6)
+[14:59:49]OOC: Cayenne/Riki2321gamer : because moving tile to tile not smoothly is 0 fps
+[14:59:50]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (25,50,6)
+[14:59:51]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[14:59:52]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (26,50,6)
+[14:59:55]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (26,51,6)
+[14:59:55]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (27,51,6)
+[14:59:56]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (28,51,6)
+[14:59:56]ADMIN: Firesho/(Flamescale Zakuto) jumped to 45,38,6 in Flamescale Zakuto's ship
+[14:59:56]EMOTE: *no key*/(red baby slime (918)) : <b>The red baby slime (918)</b> jiggles!
+[14:59:57]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (29,51,6)
+[14:59:58]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (30,51,6)
+[14:59:59]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (31,51,6)
+[14:59:59]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (31,50,6)
+[15:00:00]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (31,49,6)
+[15:00:01]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (32,49,6)
+[15:00:02]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (32,49,6)
+[15:00:02]SAY: Accidents Happen/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[15:00:03]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (33,49,6)
+[15:00:03]ADMIN: Firesho/(Flamescale Zakuto) jumped to 45,40,6 in Flamescale Zakuto's ship
+[15:00:03]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (33,48,6)
+[15:00:04]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (34,48,6)
+[15:00:04]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (33,47,6)
+[15:00:05]ADMIN: Firesho/(Flamescale Zakuto) created a /obj/machinery/space_heater
+[15:00:05]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (33,46,6)
+[15:00:06]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (32,46,6)
+[15:00:06]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (31,46,6)
+[15:00:08]OOC: Cayenne/Riki2321gamer : anyways, a slime destroyed atmos and since the new update (air in space) everything has broken
+[15:00:08]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (31,45,6)
+[15:00:08]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (31,44,6)
+[15:00:09]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[15:00:10]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (30,44,6)
+[15:00:11]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (29,44,6)
+[15:00:11]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (29,43,6)
+[15:00:12]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (29,42,6)
+[15:00:13]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (28,41,6)
+[15:00:13]OOC: Cayenne/Riki2321gamer : aka space is flooded with plasma and n2o
+[15:00:14]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (28,42,6)
+[15:00:14]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (27,41,6)
+[15:00:15]ADMIN: Firesho/(Flamescale Zakuto) jumped to 44,39,6 in Flamescale Zakuto's ship
+[15:00:15]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (27,42,6)
+[15:00:16]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (26,42,6)
+[15:00:18]ADMIN: Build Mode: Athirson/(Colton Sanders) built the wall at (25,42,6)
+[15:00:20]ADMIN: Firesho/(Flamescale Zakuto) created a /obj/machinery/space_heater
+[15:00:20]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (33,49,6)
+[15:00:21]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (33,48,6)
+[15:00:22]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (34,48,6)
+[15:00:22]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (33,47,6)
+[15:00:23]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (33,46,6)
+[15:00:23]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (32,46,6)
+[15:00:24]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (31,46,6)
+[15:00:24]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (31,45,6)
+[15:00:25]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (31,44,6)
+[15:00:25]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (30,44,6)
+[15:00:26]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (29,44,6)
+[15:00:27]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (29,43,6)
+[15:00:28]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (29,42,6)
+[15:00:28]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (28,42,6)
+[15:00:29]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (28,41,6)
+[15:00:29]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (27,41,6)
+[15:00:30]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (27,42,6)
+[15:00:30]SAY: Medibot/ : Radar, put a mask on!
+[15:00:31]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[15:00:31]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/dead/observer
+[15:00:31]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (26,42,6)
+[15:00:32]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (25,42,6)
+[15:00:32]ADMIN: Firesho/(Flamescale Zakuto) jumped to 47,42,6 in Flamescale Zakuto's ship
+[15:00:33]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (24,42,6)
+[15:00:33]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (23,42,6)
+[15:00:34]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (23,41,6)
+[15:00:34]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (22,41,6)
+[15:00:34]ADMIN: riki2321gamer/(Cayenne) jumped to JaxonMaxx/(Noob Ermac)
+[15:00:35]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (21,41,6)
+[15:00:36]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (20,41,6)
+[15:00:36]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (20,42,6)
+[15:00:37]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (20,43,6)
+[15:00:38]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (20,44,6)
+[15:00:38]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (19,44,6)
+[15:00:39]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (19,45,6)
+[15:00:39]ADMIN: Firesho/(Flamescale Zakuto) healed / revived Firesho/(Flamescale Zakuto)
+[15:00:40]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (20,45,6)
+[15:00:40]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (21,45,6)
+[15:00:41]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (22,45,6)
+[15:00:41]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (23,45,6)
+[15:00:42]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (23,46,6)
+[15:00:43]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (23,47,6)
+[15:00:44]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (23,48,6)
+[15:00:45]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (23,49,6)
+[15:00:46]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (23,50,6)
+[15:00:47]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (24,50,6)
+[15:00:47]ADMIN: Firesho/(Flamescale Zakuto) jumped to 50,50,6 in Flamescale Zakuto's ship
+[15:00:48]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (25,50,6)
+[15:00:49]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (26,51,6)
+[15:00:51]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (26,50,6)
+[15:00:52]SAY: Noob Ermac/JaxonMaxx : AHHHH
+[15:00:52]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (27,51,6)
+[15:00:53]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (31,49,6)
+[15:00:54]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (31,50,6)
+[15:00:54]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (31,51,6)
+[15:00:55]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (30,51,6)
+[15:00:55]ADMIN: Firesho/(Flamescale Zakuto) created a /obj/machinery/space_heater
+[15:00:56]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (29,51,6)
+[15:00:56]ADMIN: riki2321gamer/(Cayenne) spawned /obj/machinery/gravity_generator/main/station/admin at (44,187,1)
+[15:00:56]ADMIN: Build Mode: Athirson/(Colton Sanders) built the reinforced wall at (28,51,6)
+[15:01:09]EMOTE: *no key*/(red baby slime (918)) : <b>The red baby slime (918)</b> vibrates!
+[15:01:12]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[15:01:19]OOC: Cayenne/Riki2321gamer : there we go, gravity is back
+[15:01:20]OOC: Flamescale Zakuto/Firesho : OH GOOD LORD!
+[15:01:23]ADMIN: riki2321gamer/(Cayenne) admin ghosted.
+[15:01:23]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/dead/observer
+[15:01:26]ADMIN: Firesho/(Flamescale Zakuto) created a /obj/machinery/space_heater
+[15:01:35]ADMIN: Firesho/(Flamescale Zakuto) created a /obj/machinery/space_heater
+[15:01:43]OOC: Cayenne/Riki2321gamer : atmos is crazy stuff in this game btw
+[15:01:46]ADMIN: Athirson/(Colton Sanders) spawned /obj/machinery/portable_atmospherics/canister/proto/default/oxygen at (26,45,6)
+[15:01:47]OOC: Cayenne/Riki2321gamer : air can be in space
+[15:01:50]OOC: Cayenne/Riki2321gamer : aka breathing in space
+[15:01:52]OOC: Hunter Phantom/Zennerx : riki, i dont think it has to do with fps, 60 fps and it still barely has an animation
+[15:01:57]ADMIN: Firesho/(Flamescale Zakuto) created a /obj/item/weapon/storage/part_replacer/bluespace
+[15:01:59]ACCESS: Mob Login: riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[15:02:08]OOC: Cayenne/Riki2321gamer : for me it animates correctly
+[15:02:08]OOC: Hunter Phantom/Zennerx : im afraid you might&#39;ve set step_x or step_y when editing the map
+[15:02:12]ADMIN: Firesho/(Flamescale Zakuto) created 50ea /obj/item/weapon/stock_parts/capacitor/quadratic
+[15:02:14]ADMIN: Firesho/(Flamescale Zakuto) created 50ea /obj/item/weapon/stock_parts/micro_laser/quadultra
+[15:02:19]ADMIN: Firesho/(Flamescale Zakuto) created 50ea /obj/item/weapon/stock_parts/matter_bin/bluespace
+[15:02:26]ADMIN: Firesho/(Flamescale Zakuto) created 50ea /obj/item/weapon/stock_parts/cell/infinite/abductor
+[15:02:26]OOC: Cayenne/Riki2321gamer : for me it animates correctly if you want i can send you a GIF
+[15:02:38]OOC: Hunter Phantom/Zennerx : still, did you set those variables or no
+[15:02:43]ADMIN: Firesho/(Flamescale Zakuto) jumped to 46,46,6 in Flamescale Zakuto's ship
+[15:02:51]ACCESS: Logout: JaxonMaxx/(Noob Ermac)
+[15:02:52]OOC: Cayenne/Riki2321gamer : nope
+[15:02:56]ADMIN: riki2321gamer/(Cayenne) jumped to Zennerx/(Hunter Phantom)
+[15:02:59]GAME: <a href='?priv_msg=riki2321gamer'>riki2321gamer</a>/(Cayenne) checked the player panel while in game.
+[15:03:05]OOC: Cayenne/Riki2321gamer : do you want me to try something else
+[15:03:09]ADMIN: Firesho/(Flamescale Zakuto) jumped to 50,49,6 in Flamescale Zakuto's ship
+[15:03:10]OOC: Cayenne/Riki2321gamer : like sending you to lobby then respawning
+[15:03:11]SAY: Hunter Phantom/Zennerx : Nah
+[15:03:14]SAY: Accidents Happen/ : Delicious!
+Ban database connection failure. Key jaxonmaxx not checked
+[15:03:28]ACCESS: Logout: Riki2321gamer/(Cayenne)
+[15:03:37]ACCESS: Login: Riki2321gamer from 127.0.0.1-3622605515 || BYOND v511
+[15:03:37]ACCESS: Mob Login: Riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[15:03:39]ADMIN: Athirson/(Colton Sanders) modified The blood-red hardsuit's recharge_rate to 1000
+[15:03:40]OOC: Flamescale Zakuto/Firesho : UGH a air temp of over 10k C
+[15:03:41]SAY: Medibot/ : Radar, put a mask on!
+[15:03:43]ACCESS: Logout: Riki2321gamer/(Cayenne)
+[15:03:44]ADMIN: Athirson/(Colton Sanders) modified The blood-red hardsuit's recharge_delay to -1000
+[15:03:47]ACCESS: Login: Riki2321gamer from 127.0.0.1-3622605515 || BYOND v511
+[15:03:47]ACCESS: Mob Login: Riki2321gamer/(Cayenne) was assigned to a /mob/living/carbon/alien/humanoid/royal/queen
+[15:03:49]ADMIN: Firesho/(Flamescale Zakuto) jumped to 51,48,6 in Flamescale Zakuto's ship
+[15:03:53]ADMIN: Riki2321gamer/(Cayenne) spawned /obj/item/stack/spacecash/c100000 at (84,148,1)
+[15:03:53]ACCESS: Login: JaxonMaxx from 76.254.196.238-3613527630 || BYOND v511
+[15:03:53]ACCESS: Mob Login: JaxonMaxx/(Noob Ermac) was assigned to a /mob/living/carbon/human
+[15:03:55]ADMIN: Athirson/(Colton Sanders) modified The blood-red hardsuit's max_charges to 1000
+[15:04:00]ADMIN: Riki2321gamer/(Cayenne) spawned /obj/item/stack/spacecash/c100000 at (80,148,1)
+[15:04:03]ADMIN: Riki2321gamer/(Cayenne) spawned /obj/item/stack/spacecash/c100000 at (81,148,1)
+[15:04:05]ADMIN: Riki2321gamer/(Cayenne) spawned /obj/item/stack/spacecash/c100000 at (81,149,1)
+[15:04:10]ADMINPRIVATE: PM: Zennerx/(Hunter Phantom)->Riki2321gamer/(Cayenne): Send me the new rikistation source code, takes me 20 minutes or so to update the repo.
+[15:04:28]EMOTE: JaxonMaxx/(Noob Ermac) : <b>Noob Ermac</b> screams.
+[15:04:34]ADMIN: Athirson/(Colton Sanders) modified The blood-red hardsuit's current_charges to 1000
+[15:04:41]SAY: Cayenne/Riki2321gamer : Ooc alright
+[15:04:45]OOC: Cayenne/Riki2321gamer : alright
+[15:04:45]ADMIN: Athirson/(Colton Sanders) modified The blood-red hardsuit's name to blood-red Delta hardsuit
+[15:04:48]OOC: Cayenne/Riki2321gamer : sending you the source code asap
+[15:04:56]ADMIN: Athirson/(Colton Sanders) deleted the prototype canister at (24,47,6)
+[15:04:57]ADMIN: Firesho/(Flamescale Zakuto) jumped to 54,45,6 in Flamescale Zakuto's ship
+[15:05:01]OOC: Cayenne/Riki2321gamer : im going to put it in a ZIP
+[15:05:04]SAY: Noob Ermac/JaxonMaxx : Fuck
+[15:05:18]ADMIN: Firesho/(Flamescale Zakuto) created 50ea /obj/machinery/space_heater
+[15:05:21]ADMIN: Firesho/(Flamescale Zakuto) created 50ea /obj/machinery/space_heater
+[15:05:22]SAY: Noob Ermac/JaxonMaxx : Nice

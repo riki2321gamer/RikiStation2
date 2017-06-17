@@ -1,0 +1,2346 @@
+
+
+Starting up. 10:03:41
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode clockwork cult (clockwork_cult) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode Devil Agents (devil_agents) to configuration.
+Adding game mode devil (devil) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode secret extended (secret extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: malfunction.
+Unknown continuous configuration definition: malfunction.
+Unknown midround antagonist configuration definition: malfunction.
+Saved mode is 'sandbox'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[10:03:41]ADMIN: Loading Banlist
+[10:03:49]GAME: The Wishgranter Cube loaded at at 142,192,5
+[10:03:49]GAME: Ruin of Gluttony loaded at at 141,159,5
+[10:03:49]GAME: Ruin of Sloth loaded at at 46,170,5
+[10:03:49]GAME: Fountain Hall loaded at at 161,160,5
+[10:03:49]GAME: Biodome Beach loaded at at 56,90,5
+[10:03:49]GAME: Crashed Shuttle loaded at at 119,58,5
+[10:03:49]GAME: Summoning Ritual loaded at at 207,131,5
+
+
+Starting up. 20:16:04
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode clockwork cult (clockwork_cult) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode Devil Agents (devil_agents) to configuration.
+Adding game mode devil (devil) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode secret extended (secret extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: malfunction.
+Unknown continuous configuration definition: malfunction.
+Unknown midround antagonist configuration definition: malfunction.
+Saved mode is 'sandbox'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[20:16:04]ADMIN: Loading Banlist
+[20:16:10]GAME: Ruin of Envy loaded at at 124,190,5
+[20:16:10]GAME: Crashed Shuttle loaded at at 208,194,5
+[20:16:10]GAME: Biodome Winter loaded at at 99,135,5
+[20:16:10]GAME: Ruin of Pride loaded at at 128,23,5
+[20:16:11]GAME: The Wishgranter Cube loaded at at 72,60,5
+[20:16:11]GAME: Fountain Hall loaded at at 165,204,5
+[20:16:11]GAME: Derelict 6 loaded at at 157,195,9
+[20:16:11]GAME: Asteroid 2 loaded at at 154,121,9
+[20:16:12]GAME: Unnamed Turreted Outpost loaded at at 203,162,9
+[20:16:12]ACCESS: Login: Guest-3622605515 from 127.0.0.1-3622605515 || BYOND v511
+[20:16:12]ACCESS: Mob Login: Guest-3622605515/(Guest-3622605515) was assigned to a /mob/dead/new_player
+[20:16:12]GAME: Derelict Tradepost loaded at at 103,133,6
+[20:16:12]GAME: Ordinary Space Tile loaded at at 54,112,3
+[20:16:12]GAME: Asteroid 3 loaded at at 131,24,3
+[20:16:12]GAME: Empty Shell loaded at at 162,169,7
+[20:16:13]GAME: Authorship loaded at at 163,108,6
+[20:16:13]GAME: Derelict 3 loaded at at 55,142,4
+[20:16:13]GAME: Derelict 1 loaded at at 74,104,4
+[20:16:13]GAME: Derelict 4 loaded at at 43,78,6
+[20:16:14]GAME: Dinner for Two loaded at at 175,74,8
+[20:16:14]GAME: Derelict 5 loaded at at 89,185,9
+[20:16:15]GAME: Syndicate Listening Station loaded at at 70,35,9
+[20:16:15]GAME: Aesthetic Outpost loaded at at 64,212,8
+[20:16:16]GAME: Crashed Ship loaded at at 32,108,7
+[20:16:19]ADMIN: Guest-3622605515 has started the game.
+[20:17:44]ACCESS: Mob Login: Guest-3622605515/(Riki) was assigned to a /mob/living/carbon/human
+[20:17:49]SAY: Prison Ofitser/ : Engaging patrol mode.
+[20:17:49]SAY: Prison Ofitser/ : Disengaging patrol mode.
+[20:17:54]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[20:18:08]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[20:18:20]ADMIN: Guest-3622605515/(Riki) deleted the security monkey (120) at (32,21,1)
+[20:18:44]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[20:18:48]SAY: mouse/ : Squeek!
+[20:18:52]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[20:18:56]ADMIN: Guest-3622605515/(Riki) is changing the map to Box Station
+[20:18:59]GAME: <span class='boldannounce'>Rebooting World. Initiated by Guest-3622605515.</span>
+[20:19:00]ACCESS: Logout: Guest-3622605515/(Riki)
+
+
+Starting up. 20:19:16
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode clockwork cult (clockwork_cult) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode Devil Agents (devil_agents) to configuration.
+Adding game mode devil (devil) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode secret extended (secret extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: malfunction.
+Unknown continuous configuration definition: malfunction.
+Unknown midround antagonist configuration definition: malfunction.
+Saved mode is 'sandbox'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[20:19:17]ADMIN: Loading Banlist
+[20:19:17]ACCESS: Login: Guest-3622605515 from 127.0.0.1-3622605515 || BYOND v511
+[20:19:17]ACCESS: Mob Login: Guest-3622605515/(Guest-3622605515) was assigned to a /mob/dead/new_player
+[20:19:51]GAME: Ruin of Pride loaded at at 198,36,5
+[20:19:52]GAME: Syndicate Lava Base loaded at at 193,109,5
+[20:19:52]GAME: Summoning Ritual loaded at at 189,147,5
+[20:19:52]GAME: Seed Vault loaded at at 110,128,5
+[20:19:52]GAME: Hierophant's Arena loaded at at 103,211,5
+[20:19:52]GAME: Ruin of Sloth loaded at at 144,63,5
+[20:19:53]GAME: Ruin of Envy loaded at at 76,193,5
+[20:19:54]GAME: Salvation loaded at at 155,133,9
+[20:19:54]GAME: Sky Bulge Tomb loaded at at 112,42,10
+[20:19:54]GAME: Derelict 4 loaded at at 191,151,6
+[20:19:55]GAME: Abandoned Telecommunications Satellite loaded at at 128,77,9
+[20:19:55]GAME: CF Corsair loaded at at 25,178,10
+[20:19:55]GAME: Asteroid 3 loaded at at 106,146,6
+[20:19:56]GAME: Syndicate Listening Station loaded at at 74,71,7
+[20:19:56]GAME: Biological Storage Facility loaded at at 99,151,8
+[20:19:56]GAME: Authorship loaded at at 142,171,9
+[20:19:56]GAME: Unnamed Turreted Outpost loaded at at 170,174,3
+[20:19:56]GAME: Asteroid 1 loaded at at 104,176,6
+[20:19:57]GAME: Waylaid Buses loaded at at 166,203,8
+[20:19:57]GAME: Detached Teleporter loaded at at 169,66,7
+[20:20:04]GAME: Syndicate Ambush loaded at at 70,31,4
+[20:20:06]GAME: A Giant Ball of Paper in Space loaded at at 179,56,4
+[20:20:06]GAME: Asteroid 5 loaded at at 123,76,6
+[20:23:03]SAY: Poly/ : Check the crystal, you chucklefucks!
+[20:23:04]SAY: Mjor the Creative/ : Rise, my creations! Jump off your pages and into this realm!
+[20:23:05]EMOTE: *no key*/(Lizard) : <b>Lizard</b> stops moving...
+[20:23:05]EMOTE: *no key*/(monkey (103)) : <b>The monkey (103)</b> jumps!
+[20:23:05]SAY: Officer Beepsky/ : Engaging patrol mode.
+[20:23:05]SAY: Prison Ofitser/ : Engaging patrol mode.
+[20:23:05]SAY: Prison Ofitser/ : Disengaging patrol mode.
+[20:23:07]ACCESS: Mob Login: Guest-3622605515/(Steven Gregory) was assigned to a /mob/living/carbon/human
+[20:23:08]SAY: grey baby slime (209)/ : Blop...
+[20:23:13]EMOTE: *no key*/(monkey (108)) : <b>The monkey (108)</b> rolls.
+[20:23:17]EMOTE: *no key*/(monkey (448)) : <b>The monkey (448)</b> waves her tail.
+[20:23:17]EMOTE: *no key*/(monkey (903)) : <b>The monkey (903)</b> scratches.
+[20:23:23]EMOTE: *no key*/(Baker V) : <b>Baker V</b> jumps!
+[20:23:23]EMOTE: *no key*/(monkey (817)) : <b>The monkey (817)</b> rolls.
+[20:23:23]EMOTE: *no key*/(monkey (811)) : <b>The monkey (811)</b> waves his tail.
+[20:23:33]EMOTE: *no key*/(monkey (970)) : <b>The monkey (970)</b> jumps!
+[20:23:35]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[20:23:35]EMOTE: *no key*/(Runtime) : <b>Runtime</b> twitches its whiskers.
+[20:23:36]SAY: Mjor the Creative/ : Rise, my creations! Jump off your pages and into this realm!
+[20:23:37]SAY: mouse/ : Squeek!
+[20:23:38]EMOTE: *no key*/(monkey (903)) : <b>The monkey (903)</b> waves her tail.
+[20:23:39]EMOTE: *no key*/(monkey (769)) : <b>The monkey (769)</b> jumps!
+[20:23:41]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[20:23:45]EMOTE: *no key*/(monkey (838)) : <b>The monkey (838)</b> rolls.
+[20:23:45]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[20:23:55]SAY: mouse/ : SQUEEK!
+[20:23:55]EMOTE: *no key*/(monkey (200)) : <b>The monkey (200)</b> jumps!
+[20:23:55]EMOTE: *no key*/(monkey (16)) : <b>The monkey (16)</b> rolls.
+[20:23:57]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Power-ON cartridge's direction and takes flight.
+[20:23:57]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stretches out for a belly rub.
+[20:23:57]EMOTE: *no key*/(Ian) : <b>Ian</b> woofs!
+[20:24:00]ADMIN: Guest-3622605515/(Steven Gregory) jumped to Admin Prison
+[20:24:01]EMOTE: *no key*/(monkey (448)) : <b>The monkey (448)</b> waves her tail.
+[20:24:02]ADMIN: Guest-3622605515/(Steven Gregory) jumped to Bar
+[20:24:03]SAY: Poly/ : Wire the solars, you lazy bums!
+[20:24:03]EMOTE: *no key*/(grey baby slime (725)) : <b>The grey baby slime (725)</b> lights up for a bit, then stops.
+[20:24:05]EMOTE: *no key*/(monkey (543)) : <b>The monkey (543)</b> rolls.
+[20:24:06]EMOTE: *no key*/(Baker V) : <b>Baker V</b> rolls.
+[20:24:08]ADMIN: Guest-3622605515/(Steven Gregory) used gibself.
+[20:24:09]ACCESS: Mob Login: Guest-3622605515/(Steven Gregory) was assigned to a /mob/dead/observer
+[20:24:10]GAME: Steven Gregory/Guest-3622605515 used abandon mob.
+[20:24:10]ACCESS: Mob Login: Guest-3622605515/(new player) was assigned to a /mob/dead/new_player
+[20:24:14]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[20:24:18]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> turns and flies towards the bedsheet.
+[20:24:18]EMOTE: *no key*/(Runtime) : <b>Runtime</b> gets up and meows.
+[20:24:22]ACCESS: Mob Login: Guest-3622605515/(Steven Gregory) was assigned to a /mob/living/carbon/human
+[20:24:23]EMOTE: *no key*/(monkey (120)) : <b>The monkey (120)</b> waves his tail.
+[20:24:24]EMOTE: *no key*/(monkey (780)) : <b>The monkey (780)</b> waves his tail.
+[20:24:25]EMOTE: *no key*/(monkey (323)) : <b>The monkey (323)</b> rolls.
+[20:24:30]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[20:24:30]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[20:24:33]SAY: Mjor the Creative/ : Rise, my creations! Jump off your pages and into this realm!
+[20:24:42]EMOTE: *no key*/(monkey (448)) : <b>The monkey (448)</b> jumps!
+[20:24:42]EMOTE: *no key*/(Baker V) : <b>Baker V</b> jumps!
+[20:24:43]ACCESS: Logout: Guest-3622605515/(Steven Gregory)
+[20:24:48]ACCESS: Login: Guest-3622605515 from 127.0.0.1-3622605515 || BYOND v511
+[20:24:48]ACCESS: Mob Login: Guest-3622605515/(Steven Gregory) was assigned to a /mob/living/carbon/human
+[20:24:59]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Power-ON cartridge's direction and takes flight.
+[20:24:59]EMOTE: *no key*/(monkey (861)) : <b>The monkey (861)</b> scratches.
+[20:25:03]EMOTE: *no key*/(monkey (72)) : <b>The monkey (72)</b> scratches.
+[20:25:10]EMOTE: *no key*/(monkey (516)) : <b>The monkey (516)</b> scratches.
+[20:25:10]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[20:25:12]EMOTE: *no key*/(monkey (530)) : <b>The monkey (530)</b> waves her tail.
+[20:25:14]SAY: Poly/ : I&#39;d rather toolbox than switch.
+[20:25:14]EMOTE: *no key*/(monkey (448)) : <b>The monkey (448)</b> scratches.
+[20:25:16]EMOTE: *no key*/(monkey (210)) : <b>The monkey (210)</b> jumps!
+[20:25:16]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[20:25:18]SAY: security monkey (880)/ : Help
+[20:25:22]EMOTE: *no key*/(monkey (72)) : <b>The monkey (72)</b> rolls.
+[20:25:22]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[20:25:24]EMOTE: *no key*/(monkey (903)) : <b>The monkey (903)</b> jumps!
+[20:25:26]EMOTE: *no key*/(Baker V) : <b>Baker V</b> scratches.
+[20:25:32]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[20:25:32]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[20:25:36]EMOTE: *no key*/(Runtime) : <b>Runtime</b> mews
+[20:25:42]SAY: mouse/ : SQUEEK!
+[20:25:43]SAY: Baker V/ : Help
+[20:25:44]SAY: Medibot/ : Radar, put a mask on!
+[20:25:44]EMOTE: *no key*/(monkey (831)) : <b>The monkey (831)</b> waves her tail.
+[20:25:48]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[20:25:50]EMOTE: *no key*/(monkey (31)) : <b>The monkey (31)</b> scratches.
+[20:25:54]SAY: mouse/ : Squeek?
+[20:25:54]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Power-ON cartridge's direction and takes flight.
+[20:25:56]SAY: mouse/ : Squeek!
+[20:26:02]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:26:12]SAY: Poly/ : Honk until proven ugly!
+[20:26:14]SAY: mouse/ : Squeek?
+[20:26:14]EMOTE: *no key*/(Runtime) : <b>Runtime</b> walks around.
+[20:26:20]SAY: mouse/ : Squeek!
+[20:26:24]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[20:26:26]SAY: mouse/ : Squeek?
+[20:26:26]EMOTE: *no key*/(Baker V) : <b>Baker V</b> scratches.
+[20:26:28]EMOTE: *no key*/(monkey (861)) : <b>The monkey (861)</b> jumps!
+[20:26:28]EMOTE: *no key*/(monkey (530)) : <b>The monkey (530)</b> rolls.
+[20:26:30]EMOTE: *no key*/(monkey (861)) : <b>The monkey (861)</b> scratches.
+[20:26:32]SAY: Tom/ : SQUEEK!
+[20:26:42]EMOTE: *no key*/(monkey (210)) : <b>The monkey (210)</b> waves her tail.
+[20:26:42]SAY: Poly/ : Honk until proven ugly!
+[20:26:42]EMOTE: *no key*/(Baker V) : <b>Baker V</b> scratches.
+[20:26:44]SAY: mouse/ : Squeek?
+[20:26:48]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the BreatheDeep cartridge's direction and takes flight.
+[20:26:48]EMOTE: *no key*/(monkey (200)) : <b>The monkey (200)</b> rolls.
+[20:26:52]EMOTE: *no key*/(monkey (200)) : <b>The monkey (200)</b> rolls.
+[20:26:52]EMOTE: *no key*/(monkey (530)) : <b>The monkey (530)</b> scratches.
+[20:26:54]SAY: mouse/ : Squeek?
+[20:26:56]EMOTE: *no key*/(monkey (912)) : <b>The monkey (912)</b> scratches.
+[20:26:56]EMOTE: *no key*/(monkey (530)) : <b>The monkey (530)</b> waves her tail.
+[20:27:00]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[20:27:00]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:27:02]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[20:27:04]EMOTE: *no key*/(monkey (204)) : <b>The monkey (204)</b> jumps!
+[20:27:08]ADMIN: Guest-3622605515/(Steven Gregory) played sound mad-jack.mid
+[20:27:08]EMOTE: *no key*/(monkey (31)) : <b>The monkey (31)</b> waves his tail.
+[20:27:08]EMOTE: *no key*/(monkey (511)) : <b>The monkey (511)</b> jumps!
+[20:27:08]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[20:27:14]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[20:27:14]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[20:27:16]EMOTE: *no key*/(monkey (903)) : <b>The monkey (903)</b> scratches.
+[20:27:18]SAY: mouse/ : Squeek?
+[20:27:24]EMOTE: *no key*/(monkey (210)) : <b>The monkey (210)</b> jumps!
+[20:27:24]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[20:27:26]EMOTE: *no key*/(monkey (543)) : <b>The monkey (543)</b> rolls.
+[20:27:28]EMOTE: *no key*/(monkey (231)) : <b>The monkey (231)</b> scratches.
+[20:27:30]SAY: security monkey (880)/ : Help
+[20:27:32]EMOTE: *no key*/(monkey (831)) : <b>The monkey (831)</b> jumps!
+[20:27:34]SAY: Baker V/ : Help
+[20:27:34]EMOTE: *no key*/(monkey (317)) : <b>The monkey (317)</b> jumps!
+[20:27:38]EMOTE: *no key*/(grey baby slime (725)) : <b>The grey baby slime (725)</b> bounces in place.
+[20:27:38]EMOTE: *no key*/(monkey (204)) : <b>The monkey (204)</b> rolls.
+[20:27:40]EMOTE: *no key*/(Baker V) : <b>Baker V</b> rolls.
+[20:27:42]ADMIN: Guest-3622605515/(Steven Gregory) spawned /mob/living/simple_animal/bot/secbot/beepsky/jr at (122,140,1)
+[20:27:42]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Space Cigarettes packet's direction and takes flight.
+[20:27:42]EMOTE: *no key*/(grey baby slime (209)) : <b>The grey baby slime (209)</b> jiggles!
+[20:27:44]SAY: THOT-PATROL1.5/ : Engaging patrol mode.
+[20:27:44]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[20:27:46]SAY: Poly/ : Riki has signed up as Geneticist
+[20:27:52]EMOTE: *no key*/(monkey (317)) : <b>The monkey (317)</b> jumps!
+[20:27:54]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[20:27:56]EMOTE: *no key*/(monkey (838)) : <b>The monkey (838)</b> waves his tail.
+[20:27:58]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:27:58]EMOTE: *no key*/(monkey (361)) : <b>The monkey (361)</b> waves his tail.
+[20:28:00]EMOTE: *no key*/(Baker V) : <b>Baker V</b> waves its tail.
+[20:28:06]EMOTE: *no key*/(monkey (780)) : <b>The monkey (780)</b> waves his tail.
+[20:28:08]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[20:28:10]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[20:28:10]SAY: Steven Gregory/Guest-3622605515 : AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEEEEEEEEEEEEEEEEEEEEEOOOOOOOOOOF-F-FAIES-S-SIF-FFEAAW-WEKIEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE!!!!!!!!!!!
+[20:28:10]EMOTE: *no key*/(Runtime) : <b>Runtime</b> gets up and meows.
+[20:28:10]EMOTE: *no key*/(monkey (903)) : <b>The monkey (903)</b> waves her tail.
+[20:28:22]EMOTE: *no key*/(Baker V) : <b>Baker V</b> jumps!
+[20:28:24]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[20:28:24]EMOTE: *no key*/(Baker V) : <b>Baker V</b> gasps!
+[20:28:26]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> rolls.
+[20:28:26]EMOTE: *no key*/(Baker V) : <b>Baker V</b> rolls.
+[20:28:32]EMOTE: *no key*/(grey baby slime (725)) : <b>The grey baby slime (725)</b> jiggles!
+[20:28:34]ADMIN: Guest-3622605515/(Steven Gregory) played sound weeaboo music.mid
+[20:28:34]EMOTE: *no key*/(crab) : <b>The crab</b> clacks.
+[20:28:34]EMOTE: *no key*/(monkey (361)) : <b>The monkey (361)</b> rolls.
+[20:28:36]EMOTE: *no key*/(crab) : <b>The crab</b> clacks.
+[20:28:36]ADMIN: Guest-3622605515/(Steven Gregory) stopped all currently playing sounds.
+[20:28:38]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the monitor decryption key's direction and takes flight.
+[20:28:38]EMOTE: *no key*/(Baker V) : <b>Baker V</b> gasps!
+[20:28:40]SAY: mouse/ : SQUEEK!
+[20:28:40]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[20:28:42]ADMIN: Guest-3622605515/(Steven Gregory) stopped all currently playing sounds.
+[20:28:42]SAY: mouse/ : Squeek!
+[20:28:46]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[20:28:46]EMOTE: *no key*/(monkey (511)) : <b>The monkey (511)</b> scratches.
+[20:28:46]EMOTE: *no key*/(Baker V) : <b>Baker V</b> gasps!
+[20:28:48]ADMIN: Guest-3622605515/(Steven Gregory) played sound Alice_Deejay_-_Better_Off_Alone.mid
+[20:28:50]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> waves her tail.
+[20:28:52]EMOTE: *no key*/(Baker V) : <b>Baker V</b> gasps!
+[20:28:56]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:28:56]EMOTE: *no key*/(grey baby slime (725)) : <b>The grey baby slime (725)</b> jiggles!
+[20:28:58]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[20:29:02]EMOTE: *no key*/(monkey (308)) : <b>The monkey (308)</b> jumps!
+[20:29:04]EMOTE: *no key*/(monkey (361)) : <b>The monkey (361)</b> waves his tail.
+[20:29:04]EMOTE: *no key*/(monkey (769)) : <b>The monkey (769)</b> jumps!
+[20:29:08]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[20:29:10]EMOTE: *no key*/(Baker V) : <b>Baker V</b> gasps!
+[20:29:10]EMOTE: *no key*/(monkey (516)) : <b>The monkey (516)</b> rolls.
+[20:29:12]EMOTE: *no key*/(monkey (72)) : <b>The monkey (72)</b> scratches.
+[20:29:14]EMOTE: *no key*/(monkey (903)) : <b>The monkey (903)</b> jumps!
+[20:29:20]EMOTE: *no key*/(monkey (752)) : <b>The monkey (752)</b> waves her tail.
+[20:29:22]SAY: mouse/ : Squeek?
+[20:29:22]EMOTE: *no key*/(monkey (31)) : <b>The monkey (31)</b> waves his tail.
+[20:29:22]EMOTE: *no key*/(Baker V) : <b>Baker V</b> gasps!
+[20:29:24]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[20:29:24]EMOTE: *no key*/(monkey (16)) : <b>The monkey (16)</b> rolls.
+[20:29:26]EMOTE: *no key*/(Baker V) : <b>Baker V</b> waves its tail.
+[20:29:28]EMOTE: *no key*/(Baker V) : <b>Baker V</b> lets out a faint chimper as it collapses and stops moving...
+[20:29:34]SAY: mouse/ : SQUEEK!
+[20:29:34]EMOTE: *no key*/(grey baby slime (725)) : <b>The grey baby slime (725)</b> lights up for a bit, then stops.
+[20:29:36]EMOTE: *no key*/(monkey (31)) : <b>The monkey (31)</b> jumps!
+[20:29:38]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the monitor decryption key's direction and takes flight.
+[20:29:40]SAY: mouse/ : Squeek?
+[20:29:40]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[20:29:42]EMOTE: *no key*/(monkey (912)) : <b>The monkey (912)</b> scratches.
+[20:29:42]EMOTE: *no key*/(monkey (817)) : <b>The monkey (817)</b> scratches.
+[20:29:50]SAY: Poly/ : Hullbreach!
+[20:29:52]SAY: mouse/ : Squeek!
+[20:29:54]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:29:58]EMOTE: *no key*/(monkey (752)) : <b>The monkey (752)</b> scratches.
+[20:30:00]ADMIN: Guest-3622605515/(Steven Gregory) played sound 47 Meta Knight Defeated.it
+[20:30:02]ADMIN: Guest-3622605515/(Steven Gregory) stopped all currently playing sounds.
+[20:30:03]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[20:30:04]EMOTE: *no key*/(monkey (210)) : <b>The monkey (210)</b> rolls.
+[20:30:06]ADMIN: Guest-3622605515/(Steven Gregory) stopped all currently playing sounds.
+[20:30:10]ADMIN: Guest-3622605515/(Steven Gregory) played sound a-windf.it
+[20:30:12]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[20:30:14]EMOTE: *no key*/(monkey (838)) : <b>The monkey (838)</b> rolls.
+[20:30:22]SAY: mouse/ : Squeek!
+[20:30:22]EMOTE: *no key*/(Baker V) : <b>Baker V</b> waves its tail.
+[20:30:30]SAY: Pegwing/ : Hello!
+[20:30:32]SAY: mouse/ : SQUEEK!
+[20:30:32]EMOTE: *no key*/(Baker V) : <b>Baker V</b> waves its tail.
+[20:30:34]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Zippo lighter's direction and takes flight.
+[20:30:40]EMOTE: *no key*/(crab) : <b>The crab</b> clicks.
+[20:30:44]SAY: mouse/ : Squeek?
+[20:30:46]EMOTE: *no key*/(monkey (564)) : <b>The monkey (564)</b> scratches.
+[20:30:50]EMOTE: *no key*/(monkey (970)) : <b>The monkey (970)</b> jumps!
+[20:30:52]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:30:54]EMOTE: *no key*/(monkey (210)) : <b>The monkey (210)</b> scratches.
+[20:30:54]EMOTE: *no key*/(monkey (861)) : <b>The monkey (861)</b> scratches.
+[20:30:54]EMOTE: *no key*/(monkey (231)) : <b>The monkey (231)</b> waves his tail.
+[20:30:54]EMOTE: *no key*/(monkey (361)) : <b>The monkey (361)</b> waves his tail.
+[20:30:54]EMOTE: *no key*/(monkey (31)) : <b>The monkey (31)</b> waves his tail.
+[20:31:00]EMOTE: *no key*/(crab) : <b>The crab</b> clacks.
+[20:31:04]EMOTE: *no key*/(Tom) : <b>Tom</b> shakes.
+[20:31:05]ADMIN: Guest-3622605515/(Steven Gregory) spawned /mob/living/simple_animal/parrot/Poly at (49,138,1)
+[20:31:12]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> waves her tail.
+[20:31:14]EMOTE: *no key*/(Poly) : <b>Poly</b> turns and flies towards the Space Cigarettes packet.
+[20:31:14]EMOTE: *no key*/(monkey (72)) : <b>The monkey (72)</b> scratches.
+[20:31:18]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[20:31:22]EMOTE: *no key*/(Poly) : <b>Poly</b> turns and flies towards the Space Cigarettes packet.
+[20:31:24]SAY: mouse/ : Squeek?
+[20:31:24]SAY: mouse/ : Squeek!
+[20:31:26]SAY: Poly/ : I live, I die, I live again!
+[20:31:26]EMOTE: *no key*/(monkey (448)) : <b>The monkey (448)</b> rolls.
+[20:31:26]EMOTE: *no key*/(monkey (752)) : <b>The monkey (752)</b> jumps!
+[20:31:28]EMOTE: *no key*/(Poly) : <b>Poly</b> turns and flies towards the Space Cigarettes packet.
+[20:31:30]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the chief engineer's rubber stamp's direction and takes flight.
+[20:31:30]EMOTE: *no key*/(monkey (564)) : <b>The monkey (564)</b> scratches.
+[20:31:32]SAY: Poly/ : Help
+[20:31:34]SAY: Pegwing/ : BAWWWWK george mellons griffing me!
+[20:31:38]EMOTE: *no key*/(monkey (970)) : <b>The monkey (970)</b> waves his tail.
+[20:31:40]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> scratches.
+[20:31:42]EMOTE: *no key*/(monkey (16)) : <b>The monkey (16)</b> waves her tail.
+[20:31:44]EMOTE: *no key*/(monkey (210)) : <b>The monkey (210)</b> scratches.
+[20:31:44]EMOTE: *no key*/(monkey (817)) : <b>The monkey (817)</b> waves his tail.
+[20:31:48]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[20:31:49]ADMIN: Guest-3622605515/(Steven Gregory) spawned /turf/closed/wall/smooth at (34,138,1)
+[20:31:50]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:31:50]EMOTE: *no key*/(Tom) : <b>Tom</b> squeeks.
+[20:31:52]EMOTE: *no key*/(monkey (210)) : <b>The monkey (210)</b> waves her tail.
+[20:31:56]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[20:31:56]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[20:31:58]SAY: mouse/ : SQUEEK!
+[20:31:58]EMOTE: *no key*/(monkey (831)) : <b>The monkey (831)</b> scratches.
+[20:31:58]EMOTE: *no key*/(monkey (16)) : <b>The monkey (16)</b> jumps!
+[20:32:00]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[20:32:00]EMOTE: *no key*/(monkey (323)) : <b>The monkey (323)</b> jumps!
+[20:32:00]EMOTE: *no key*/(Baker V) : <b>Baker V</b> rolls.
+[20:32:04]SAY: mouse/ : Squeek!
+[20:32:04]SAY: mouse/ : Squeek?
+[20:32:08]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> scratches.
+[20:32:08]SAY: mouse/ : Squeek?
+[20:32:12]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[20:32:12]EMOTE: *no key*/(monkey (231)) : <b>The monkey (231)</b> scratches.
+[20:32:16]ADMIN: Guest-3622605515/(Steven Gregory) changed the security level to red
+[20:32:18]EMOTE: *no key*/(monkey (31)) : <b>The monkey (31)</b> rolls.
+[20:32:24]ADMIN: Guest-3622605515/(Steven Gregory) deleted the security monkey (564) at (31,138,1)
+[20:32:24]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> scratches.
+[20:32:27]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the chief engineer's rubber stamp's direction and takes flight.
+[20:32:27]EMOTE: *no key*/(monkey (16)) : <b>The monkey (16)</b> jumps!
+[20:32:31]EMOTE: *no key*/(monkey (323)) : <b>The monkey (323)</b> jumps!
+[20:32:32]GAME: <a href='?priv_msg=guest3622605515'>Guest-3622605515</a>/(Steven Gregory) checked the player panel while in game.
+[20:32:33]EMOTE: *no key*/(monkey (769)) : <b>The monkey (769)</b> rolls.
+[20:32:35]EMOTE: *no key*/(monkey (861)) : <b>The monkey (861)</b> jumps!
+[20:32:38]ADMIN: Guest-3622605515/(Steven Gregory) jumped to *no key*/(security monkey (133))
+[20:32:42]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> rolls.
+[20:32:47]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[20:32:47]EMOTE: *no key*/(monkey (231)) : <b>The monkey (231)</b> scratches.
+[20:32:47]EMOTE: *no key*/(Baker V) : <b>Baker V</b> jumps!
+[20:32:49]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:32:49]ADMIN: Guest-3622605515/(Steven Gregory) jumped to Bar
+[20:32:51]EMOTE: *no key*/(monkey (200)) : <b>The monkey (200)</b> waves her tail.
+[20:32:51]EMOTE: *no key*/(monkey (204)) : <b>The monkey (204)</b> waves his tail.
+[20:32:55]EMOTE: *no key*/(monkey (448)) : <b>The monkey (448)</b> jumps!
+[20:32:55]EMOTE: *no key*/(monkey (912)) : <b>The monkey (912)</b> scratches.
+[20:32:57]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[20:32:59]SAY: mouse/ : Squeek?
+[20:32:59]EMOTE: *no key*/(monkey (361)) : <b>The monkey (361)</b> jumps!
+[20:33:01]SAY: Poly/ : Hello its captain here
+[20:33:03]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> rolls.
+[20:33:03]SAY: Poly/ : TITS
+[20:33:05]EMOTE: *no key*/(Tom) : <b>Tom</b> shakes.
+[20:33:11]EMOTE: *no key*/(Baker V) : <b>Baker V</b> jumps!
+[20:33:13]EMOTE: *no key*/(monkey (458)) : <b>The monkey (458)</b> waves his tail.
+[20:33:13]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[20:33:15]EMOTE: *no key*/(monkey (108)) : <b>The monkey (108)</b> waves her tail.
+[20:33:15]EMOTE: *no key*/(monkey (31)) : <b>The monkey (31)</b> scratches.
+[20:33:17]SAY: mouse/ : Squeek!
+[20:33:21]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stops resting.
+[20:33:21]EMOTE: *no key*/(Baker V) : <b>Baker V</b> rolls.
+[20:33:23]SAY: mouse/ : Squeek?
+[20:33:23]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[20:33:29]EMOTE: *no key*/(monkey (861)) : <b>The monkey (861)</b> waves her tail.
+[20:33:29]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[20:33:31]EMOTE: *no key*/(monkey (530)) : <b>The monkey (530)</b> rolls.
+[20:33:35]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:33:35]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:33:39]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:33:39]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:33:39]EMOTE: *no key*/(monkey (108)) : <b>The monkey (108)</b> jumps!
+[20:33:39]EMOTE: *no key*/(monkey (752)) : <b>The monkey (752)</b> rolls.
+[20:33:39]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[20:33:41]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:33:43]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:33:43]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:33:45]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:33:45]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:33:47]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:33:47]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:33:49]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:33:49]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:33:49]EMOTE: *no key*/(monkey (222)) : <b>The monkey (222)</b> scratches.
+[20:33:49]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shivers
+[20:33:51]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:33:51]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:33:51]EMOTE: *no key*/(monkey (838)) : <b>The monkey (838)</b> jumps!
+[20:33:51]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[20:33:51]EMOTE: *no key*/(monkey (831)) : <b>The monkey (831)</b> scratches.
+[20:33:53]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:33:53]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:33:53]SAY: Pegwing/ : Hello!
+[20:33:53]EMOTE: *no key*/(monkey (811)) : <b>The monkey (811)</b> scratches.
+[20:33:55]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:33:55]SAY: Runtime/ : HSSSSS
+[20:33:57]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:33:57]SAY: Tom/ : Squeek!
+[20:33:59]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:33:59]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> rolls.
+[20:33:59]SAY: Runtime/ : Esp!
+[20:33:59]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[20:34:01]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:34:01]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[20:34:01]EMOTE: *no key*/(monkey (120)) : <b>The monkey (120)</b> waves his tail.
+[20:34:01]ADMIN: Guest-3622605515/(Steven Gregory) spawned /obj/item/weapon/melee/energy/sword/saber/silver at (70,147,1)
+[20:34:03]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:34:03]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[20:34:03]SAY: mouse/ : Squeek?
+[20:34:03]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[20:34:04]GAME: Explosion with size (0, 1, 5, 5) in area Primary Tool Storage (73,144,1)
+[20:34:07]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:34:09]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:34:09]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:34:11]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:34:11]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:34:11]SAY: mouse/ : Squeek!
+[20:34:12]ADMIN: Guest-3622605515/(Steven Gregory) spawned /turf/open/floor/plating at (73,144,1)
+[20:34:13]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:34:15]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:34:15]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:34:15]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:34:17]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:34:19]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:34:19]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:34:19]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:34:19]EMOTE: *no key*/(monkey (564)) : <b>The monkey (564)</b> scratches.
+[20:34:21]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:34:21]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:34:21]GAME: <a href='?priv_msg=guest3622605515'>Guest-3622605515</a>/(Steven Gregory) checked the player panel while in game.
+[20:34:22]ADMIN: Guest-3622605515/(Steven Gregory) healed / Revived Guest-3622605515/(Steven Gregory).
+[20:34:25]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:34:27]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:34:27]SAY: mouse/ : Squeek?
+[20:34:27]EMOTE: *no key*/(monkey (903)) : <b>The monkey (903)</b> waves her tail.
+[20:34:31]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:34:31]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:34:31]SAY: Medibot/ : Delicious!
+[20:34:31]EMOTE: *no key*/(monkey (448)) : <b>The monkey (448)</b> rolls.
+[20:34:31]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[20:34:33]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:34:33]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:34:33]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[20:34:35]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:34:35]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:34:37]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:34:37]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:34:37]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:34:37]EMOTE: *no key*/(monkey (448)) : <b>The monkey (448)</b> jumps!
+[20:34:39]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:34:41]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:34:41]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:34:43]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:34:43]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:34:43]SAY: mouse/ : SQUEEK!
+[20:34:45]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:34:45]EMOTE: *no key*/(Ian) : <b>Ian</b> pants.
+[20:34:47]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:34:47]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:34:47]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:34:49]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:34:51]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:34:51]EMOTE: *no key*/(Baker V) : <b>Baker V</b> jumps!
+[20:34:53]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:34:53]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:34:53]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:34:55]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:34:55]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[20:34:57]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:34:57]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:34:59]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:34:59]EMOTE: *no key*/(monkey (458)) : <b>The monkey (458)</b> rolls.
+[20:35:01]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:35:01]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:35:01]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[20:35:01]EMOTE: *no key*/(Ian) : <b>Ian</b> barks!
+[20:35:01]EMOTE: *no key*/(monkey (516)) : <b>The monkey (516)</b> rolls.
+[20:35:03]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> waves her tail.
+[20:35:03]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:35:03]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:35:03]EMOTE: *no key*/(grey baby slime (209)) : <b>The grey baby slime (209)</b> vibrates!
+[20:35:03]EMOTE: *no key*/(monkey (317)) : <b>The monkey (317)</b> waves her tail.
+[20:35:03]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[20:35:05]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:35:05]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:35:07]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:35:07]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[20:35:07]EMOTE: *no key*/(monkey (361)) : <b>The monkey (361)</b> scratches.
+[20:35:07]EMOTE: *no key*/(monkey (31)) : <b>The monkey (31)</b> jumps!
+[20:35:11]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:35:11]GAME: <a href='?priv_msg=guest3622605515'>Guest-3622605515</a>/(Steven Gregory) checked the player panel while in game.
+[20:35:12]ADMIN: Guest-3622605515/(Steven Gregory) healed / Revived Guest-3622605515/(Steven Gregory).
+[20:35:13]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:35:15]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:35:15]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:35:15]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:35:17]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:35:19]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:35:19]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:35:19]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:35:21]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:35:21]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:35:23]SAY: grey baby slime (725)/ : Blop...
+[20:35:25]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:35:25]SAY: Runtime/ : HSSSSS
+[20:35:27]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:35:29]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:35:29]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:35:29]SAY: mouse/ : Squeek?
+[20:35:29]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[20:35:29]EMOTE: *no key*/(monkey (903)) : <b>The monkey (903)</b> rolls.
+[20:35:31]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:35:31]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:35:31]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:35:33]EMOTE: *no key*/(monkey (511)) : <b>The monkey (511)</b> scratches.
+[20:35:35]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:35:35]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> flutters its wings.
+[20:35:35]EMOTE: *no key*/(monkey (912)) : <b>The monkey (912)</b> jumps!
+[20:35:35]EMOTE: *no key*/(monkey (16)) : <b>The monkey (16)</b> scratches.
+[20:35:37]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:35:39]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:35:39]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:35:39]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:35:39]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail.
+[20:35:41]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:35:41]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:35:41]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> jumps!
+[20:35:41]EMOTE: *no key*/(Baker V) : <b>Baker V</b> waves its tail.
+[20:35:43]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:35:43]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:35:43]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:35:43]EMOTE: *no key*/(grey baby slime (725)) : <b>The grey baby slime (725)</b> vibrates!
+[20:35:43]EMOTE: *no key*/(monkey (108)) : <b>The monkey (108)</b> waves her tail.
+[20:35:45]SAY: Poly/ : HOW THE FUCK IS BEEPSKY NOT DEAD?
+[20:35:45]EMOTE: *no key*/(monkey (204)) : <b>The monkey (204)</b> jumps!
+[20:35:47]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:35:49]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:35:49]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[20:35:49]EMOTE: *no key*/(monkey (780)) : <b>The monkey (780)</b> scratches.
+[20:35:51]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:35:51]EMOTE: *no key*/(monkey (970)) : <b>The monkey (970)</b> waves his tail.
+[20:35:53]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:35:53]EMOTE: Guest-3622605515/(Steven Gregory) : <b>Steven Gregory</b> gasps!
+[20:35:53]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> waves her tail.
+[20:35:55]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:35:57]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:35:57]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:35:59]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:35:59]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:35:59]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:36:01]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:36:01]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:36:01]EMOTE: *no key*/(monkey (912)) : <b>The monkey (912)</b> waves his tail.
+[20:36:03]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:36:03]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:36:03]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:36:03]EMOTE: *no key*/(monkey (511)) : <b>The monkey (511)</b> jumps!
+[20:36:07]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:36:07]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:36:09]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:36:09]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:36:09]EMOTE: *no key*/(monkey (838)) : <b>The monkey (838)</b> waves his tail.
+[20:36:11]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:36:11]SAY: grey baby slime (725)/ : Blorble...
+[20:36:15]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:36:15]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:36:15]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:36:18]SAY: Tom/ : Help
+[20:36:19]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:36:19]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:36:19]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[20:36:19]EMOTE: *no key*/(monkey (780)) : <b>The monkey (780)</b> rolls.
+[20:36:19]EMOTE: *no key*/(monkey (752)) : <b>The monkey (752)</b> scratches.
+[20:36:19]EMOTE: *no key*/(monkey (811)) : <b>The monkey (811)</b> scratches.
+[20:36:21]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:36:21]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:36:21]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:36:21]EMOTE: *no key*/(Baker V) : <b>Baker V</b> rolls.
+[20:36:23]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:36:23]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:36:23]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:36:27]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:36:27]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:36:27]EMOTE: *no key*/(monkey (511)) : <b>The monkey (511)</b> scratches.
+[20:36:29]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:36:29]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:36:29]ADMIN: Guest-3622605515/(Steven Gregory) jumped to Armory
+[20:36:31]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:36:31]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:36:31]EMOTE: *no key*/(monkey (458)) : <b>The monkey (458)</b> scratches.
+[20:36:33]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:36:35]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:36:35]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:36:37]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:36:37]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:36:37]EMOTE: *no key*/(monkey (530)) : <b>The monkey (530)</b> jumps!
+[20:36:39]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:36:39]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:36:39]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> squawks.
+[20:36:39]EMOTE: *no key*/(Baker V) : <b>Baker V</b> rolls.
+[20:36:41]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:36:41]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:36:41]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:36:43]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:36:43]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:36:43]ADMIN: Guest-3622605515/(Steven Gregory) jumped to Central Primary Hallway
+[20:36:45]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:36:45]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:36:47]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:36:47]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:36:47]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:36:49]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:36:49]SAY: mouse/ : SQUEEK!
+[20:36:51]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:36:51]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:36:51]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:36:51]EMOTE: *no key*/(monkey (769)) : <b>The monkey (769)</b> scratches.
+[20:36:52]GAME: <a href='?priv_msg=guest3622605515'>Guest-3622605515</a>/(Steven Gregory) checked the player panel while in game.
+[20:36:53]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:36:53]EMOTE: *no key*/(monkey (811)) : <b>The monkey (811)</b> scratches.
+[20:36:54]ADMIN: Guest-3622605515/(Steven Gregory) healed / Revived Guest-3622605515/(Steven Gregory).
+[20:36:55]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:36:55]EMOTE: *no key*/(monkey (231)) : <b>The monkey (231)</b> scratches.
+[20:36:55]EMOTE: *no key*/(monkey (103)) : <b>The monkey (103)</b> scratches.
+[20:36:57]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:36:59]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:36:59]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:37:01]SAY: grey baby slime (725)/ : Blorble...
+[20:37:02]ADMIN: Guest-3622605515/(Steven Gregory) spawned /obj/item/clothing/suit/space/hardsuit/captain at (128,139,1)
+[20:37:03]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:37:03]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:37:03]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:37:05]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:37:05]EMOTE: *no key*/(monkey (231)) : <b>The monkey (231)</b> rolls.
+[20:37:05]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> scratches.
+[20:37:07]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:37:07]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:37:07]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:37:07]SAY: mouse/ : Squeek!
+[20:37:07]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[20:37:09]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:37:09]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:37:09]EMOTE: *no key*/(monkey (120)) : <b>The monkey (120)</b> jumps!
+[20:37:09]EMOTE: *no key*/(monkey (31)) : <b>The monkey (31)</b> jumps!
+[20:37:09]EMOTE: *no key*/(monkey (448)) : <b>The monkey (448)</b> rolls.
+[20:37:11]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:37:15]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:37:15]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[20:37:15]ADMIN: Guest-3622605515/(Steven Gregory) spawned /obj/item/clothing/mask/breath at (124,140,1)
+[20:37:19]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:37:19]EMOTE: *no key*/(Ian) : <b>Ian</b> shakes its head.
+[20:37:21]ADMIN: Guest-3622605515/(Steven Gregory) spawned /obj/item/clothing/neck/cloak/hos at (125,140,1)
+[20:37:23]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:37:25]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:37:25]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:37:25]EMOTE: *no key*/(monkey (72)) : <b>The monkey (72)</b> waves her tail.
+[20:37:27]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:37:27]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:37:27]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:37:27]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:37:29]EMOTE: *no key*/(Baker V) : <b>Baker V</b> scratches.
+[20:37:30]ADMIN: Guest-3622605515/(Steven Gregory) spawned /obj/item/weapon/tank/internals/oxygen/yellow at (124,140,1)
+[20:37:31]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:37:31]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:37:31]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:37:31]SAY: mouse/ : Squeek?
+[20:37:33]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:37:33]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:37:33]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:37:33]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:37:35]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:37:36]ADMIN: Guest-3622605515/(Steven Gregory) spawned /obj/item/weapon/tank/jetpack/suit at (121,140,1)
+[20:37:37]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stretches out for a belly rub.
+[20:37:37]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[20:37:39]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:37:39]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:37:39]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:37:39]EMOTE: *no key*/(monkey (831)) : <b>The monkey (831)</b> jumps!
+[20:37:41]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:37:41]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:37:41]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:37:41]EMOTE: *no key*/(monkey (530)) : <b>The monkey (530)</b> scratches.
+[20:37:43]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:37:43]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:37:47]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:37:47]EMOTE: *no key*/(monkey (831)) : <b>The monkey (831)</b> jumps!
+[20:37:49]EMOTE: *no key*/(monkey (516)) : <b>The monkey (516)</b> scratches.
+[20:37:50]ADMIN: Guest-3622605515/(Steven Gregory) spawned /obj/item/weapon/tank/internals/oxygen/yellow at (121,140,1)
+[20:37:51]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:37:51]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[20:37:53]EMOTE: *no key*/(monkey (317)) : <b>The monkey (317)</b> jumps!
+[20:37:55]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:37:55]EMOTE: *no key*/(Tom) : <b>Tom</b> runs in a circle.
+[20:37:59]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:37:59]EMOTE: *no key*/(monkey (530)) : <b>The monkey (530)</b> scratches.
+[20:38:01]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:38:01]SAY: Poly/ : Sophie Teagarden has signed up as Chief Engineer
+[20:38:01]EMOTE: *no key*/(monkey (903)) : <b>The monkey (903)</b> scratches.
+[20:38:03]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:38:03]EMOTE: *no key*/(monkey (317)) : <b>The monkey (317)</b> rolls.
+[20:38:06]ADMIN: Guest-3622605515/(Steven Gregory) spawned /obj/item/clothing/suit/space/hardsuit/syndi/elite at (109,141,1)
+[20:38:07]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:38:07]SAY: mouse/ : Squeek!
+[20:38:07]EMOTE: *no key*/(Baker V) : <b>Baker V</b> waves its tail.
+[20:38:09]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:38:09]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[20:38:11]SAY: mouse/ : SQUEEK!
+[20:38:11]EMOTE: *no key*/(Baker V) : <b>Baker V</b> jumps!
+[20:38:13]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shakes its head
+[20:38:15]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:38:15]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:38:15]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:38:19]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:38:19]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:38:21]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:38:21]SAY: mouse/ : SQUEEK!
+[20:38:21]ADMIN: Guest-3622605515/(Steven Gregory) spawned /obj/item/weapon/tank/jetpack/suit at (107,141,1)
+[20:38:21]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stops resting.
+[20:38:21]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> waves her tail.
+[20:38:23]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:38:23]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:38:23]SAY: mouse/ : SQUEEK!
+[20:38:23]EMOTE: *no key*/(grey baby slime (725)) : <b>The grey baby slime (725)</b> jiggles!
+[20:38:24]GAME: Random Event triggering: Shuttle loan (/datum/round_event/shuttle_loan)
+[20:38:25]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[20:38:25]EMOTE: *no key*/(monkey (817)) : <b>The monkey (817)</b> rolls.
+[20:38:27]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:38:27]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:38:27]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:38:29]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:38:29]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:38:29]EMOTE: *no key*/(monkey (838)) : <b>The monkey (838)</b> waves his tail.
+[20:38:29]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[20:38:31]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:38:33]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:38:33]SAY: Pegwing/ : Hi!
+[20:38:33]EMOTE: *no key*/(monkey (120)) : <b>The monkey (120)</b> jumps!
+[20:38:33]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[20:38:35]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:38:35]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:38:35]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stops resting.
+[20:38:37]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:38:37]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:38:37]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:38:37]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:38:39]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:38:39]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:38:41]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:38:43]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:38:43]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:38:43]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:38:43]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:38:43]EMOTE: *no key*/(grey baby slime (209)) : <b>The grey baby slime (209)</b> jiggles!
+[20:38:45]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:38:45]SAY: mouse/ : Squeek!
+[20:38:45]EMOTE: *no key*/(monkey (108)) : <b>The monkey (108)</b> jumps!
+[20:38:47]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:38:49]ADMIN: Guest-3622605515/(Steven Gregory) spawned /obj/item/clothing/glasses/meson/truesight at (104,142,1)
+[20:38:49]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:38:49]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:38:49]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:38:51]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:38:51]EMOTE: *no key*/(monkey (861)) : <b>The monkey (861)</b> scratches.
+[20:38:53]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:38:53]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:38:53]SAY: mouse/ : Squeek!
+[20:38:55]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:38:55]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:38:57]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:38:57]EMOTE: *no key*/(monkey (564)) : <b>The monkey (564)</b> scratches.
+[20:38:57]ADMIN: Guest-3622605515/(Steven Gregory) spawned /mob/living/carbon/monkey/security at (113,164,1)
+[20:38:59]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:38:59]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:38:59]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:38:59]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:38:59]EMOTE: *no key*/(monkey (323)) : <b>The monkey (323)</b> jumps!
+[20:38:59]EMOTE: *no key*/(monkey (511)) : <b>The monkey (511)</b> jumps!
+[20:39:01]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:39:01]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:39:01]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[20:39:01]EMOTE: *no key*/(monkey (231)) : <b>The monkey (231)</b> jumps!
+[20:39:03]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[20:39:03]SAY: Poly/ : Engaging patrol mode.
+[20:39:03]EMOTE: *no key*/(monkey (16)) : <b>The monkey (16)</b> jumps!
+[20:39:05]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:39:09]EMOTE: *no key*/(monkey (912)) : <b>The monkey (912)</b> scratches.
+[20:39:11]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:39:13]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:39:15]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:39:17]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:39:17]EMOTE: *no key*/(monkey (120)) : <b>The monkey (120)</b> waves his tail.
+[20:39:17]EMOTE: *no key*/(grey baby slime (209)) : <b>The grey baby slime (209)</b> lights up for a bit, then stops.
+[20:39:17]EMOTE: *no key*/(Baker V) : <b>Baker V</b> scratches.
+[20:39:17]EMOTE: *no key*/(monkey (780)) : <b>The monkey (780)</b> rolls.
+[20:39:21]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:39:23]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:39:23]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:39:25]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:39:25]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:39:25]EMOTE: *no key*/(Poly) : <b>Poly</b> turns and flies towards the zipties.
+[20:39:25]SAY: Poly/ : Come get your eggs!
+[20:39:25]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[20:39:25]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shakes its head
+[20:39:27]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:39:27]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:39:27]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:39:29]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:39:29]SAY: mouse/ : SQUEEK!
+[20:39:33]EMOTE: *no key*/(Baker V) : <b>Baker V</b> rolls.
+[20:39:33]EMOTE: *no key*/(monkey (516)) : <b>The monkey (516)</b> jumps!
+[20:39:35]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:39:35]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:39:35]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:39:35]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[20:39:37]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:39:37]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:39:37]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:39:37]EMOTE: *no key*/(grey baby slime (209)) : <b>The grey baby slime (209)</b> jiggles!
+[20:39:39]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:39:39]EMOTE: *no key*/(Baker V) : <b>Baker V</b> waves its tail.
+[20:39:41]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:39:41]EMOTE: *no key*/(monkey (31)) : <b>The monkey (31)</b> jumps!
+[20:39:43]GAME: <a href='?priv_msg=guest3622605515'>Guest-3622605515</a>/(Steven Gregory) checked the player panel while in game.
+[20:39:43]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:39:44]ADMIN: Guest-3622605515/(Steven Gregory) healed / Revived *no key*/(security monkey (880)).
+[20:39:45]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:39:45]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:39:45]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:39:45]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:39:47]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:39:47]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[20:39:49]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:39:49]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:39:49]EMOTE: *no key*/(monkey (769)) : <b>The monkey (769)</b> jumps!
+[20:39:51]SAY: Poly/ : Traitorous until proven pretty!
+[20:39:53]ADMIN: Guest-3622605515/(Steven Gregory) modified The security monkey (880)'s resize to 1
+[20:39:55]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:39:55]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:39:55]EMOTE: *no key*/(Runtime) : <b>Runtime</b> grooms its fur.
+[20:39:56]EMOTE: *no key*/(monkey (752)) : <b>The monkey (752)</b> rolls.
+[20:39:57]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:39:57]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:39:57]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:39:58]ADMIN: Guest-3622605515/(Steven Gregory) modified The security monkey (880)'s resize to 1
+[20:39:58]EMOTE: *no key*/(monkey (31)) : <b>The monkey (31)</b> jumps!
+[20:39:58]EMOTE: *no key*/(monkey (231)) : <b>The monkey (231)</b> rolls.
+[20:39:59]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:39:59]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:39:59]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[20:40:01]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:40:02]EMOTE: *no key*/(security monkey (880)) : <b>The security monkey (880)</b> screeches.
+[20:40:05]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:40:05]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:40:05]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:40:06]EMOTE: *no key*/(monkey (838)) : <b>The monkey (838)</b> waves his tail.
+[20:40:06]EMOTE: *no key*/(monkey (200)) : <b>The monkey (200)</b> jumps!
+[20:40:07]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:40:07]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:40:07]EMOTE: *no key*/(security monkey (880)) : <b>The security monkey (880)</b> gasps!
+[20:40:08]EMOTE: *no key*/(monkey (912)) : <b>The monkey (912)</b> rolls.
+[20:40:09]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:40:09]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:40:09]EMOTE: *no key*/(security monkey (880)) : <b>The security monkey (880)</b> gasps!
+[20:40:09]SAY: Medibot/ : Delicious!
+[20:40:10]EMOTE: *no key*/(monkey (752)) : <b>The monkey (752)</b> waves her tail.
+[20:40:11]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:40:13]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:40:14]EMOTE: *no key*/(monkey (31)) : <b>The monkey (31)</b> rolls.
+[20:40:14]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> waves her tail.
+[20:40:15]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:40:15]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:40:17]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:40:21]SAY: mouse/ : Squeek!
+[20:40:22]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[20:40:23]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:40:24]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[20:40:24]EMOTE: *no key*/(monkey (361)) : <b>The monkey (361)</b> rolls.
+[20:40:25]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:40:28]ADMIN: Guest-3622605515/(Steven Gregory) modified The security monkey (880)'s health to 2
+[20:40:29]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:40:30]EMOTE: *no key*/(Baker V) : <b>Baker V</b> scratches.
+[20:40:31]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:40:31]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:40:31]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:40:33]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:40:33]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:40:34]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:40:34]EMOTE: *no key*/(monkey (323)) : <b>The monkey (323)</b> rolls.
+[20:40:35]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:40:35]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:40:36]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[20:40:36]EMOTE: *no key*/(monkey (72)) : <b>The monkey (72)</b> jumps!
+[20:40:37]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:40:37]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:40:38]EMOTE: *no key*/(Baker V) : <b>Baker V</b> waves its tail.
+[20:40:38]GAME: <a href='?priv_msg=guest3622605515'>Guest-3622605515</a>/(Steven Gregory) checked the player panel while in game.
+[20:40:39]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:40:47]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:40:47]EMOTE: *no key*/(security monkey (880)) : <b>The security monkey (880)</b> gasps!
+[20:40:49]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:40:51]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:40:51]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:40:53]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:40:54]EMOTE: *no key*/(monkey (811)) : <b>The monkey (811)</b> waves his tail.
+[20:40:54]EMOTE: *no key*/(security monkey (880)) : <b>The security monkey (880)</b> lets out a faint chimper as it collapses and stops moving...
+[20:40:54]ADMIN: Guest-3622605515/(Steven Gregory) dealt 1e+007 amount of oxygen damage to the security monkey (880) 
+[20:40:55]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:40:55]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:40:55]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:40:56]EMOTE: *no key*/(monkey (903)) : <b>The monkey (903)</b> waves her tail.
+[20:40:57]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:40:58]EMOTE: *no key*/(monkey (120)) : <b>The monkey (120)</b> waves his tail.
+[20:40:59]ADMIN: Guest-3622605515/(Steven Gregory) dealt 999 amount of toxin damage to the security monkey (880) 
+[20:40:59]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:41:01]ADMIN: Guest-3622605515/(Steven Gregory) dealt 999 amount of fire damage to the security monkey (880) 
+[20:41:01]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:41:03]ADMIN: Guest-3622605515/(Steven Gregory) dealt 999 amount of clone damage to the security monkey (880) 
+[20:41:03]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:41:03]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:41:06]ADMIN: Guest-3622605515/(Steven Gregory) dealt 999 amount of brain damage to the security monkey (880) 
+[20:41:07]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:41:07]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:41:08]ADMIN: Guest-3622605515/(Steven Gregory) dealt 999 amount of stamina damage to the security monkey (880) 
+[20:41:09]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:41:09]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:41:10]ADMIN: Guest-3622605515/(Steven Gregory) dealt 999 amount of brute damage to the security monkey (880) 
+[20:41:11]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:41:11]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:41:13]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:41:13]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:41:14]SAY: Runtime/ : Meow!
+[20:41:15]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:41:15]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:41:18]EMOTE: *no key*/(monkey (530)) : <b>The monkey (530)</b> scratches.
+[20:41:20]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[20:41:21]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:41:23]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:41:24]EMOTE: *no key*/(monkey (16)) : <b>The monkey (16)</b> scratches.
+[20:41:25]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:41:28]EMOTE: *no key*/(monkey (308)) : <b>The monkey (308)</b> jumps!
+[20:41:31]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:41:31]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:41:33]ADMIN: Guest-3622605515/(Steven Gregory) dealt 99999 amount of brain damage to Poly 
+[20:41:33]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:41:35]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:41:37]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:41:39]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:41:40]EMOTE: *no key*/(monkey (458)) : <b>The monkey (458)</b> scratches.
+[20:41:40]EMOTE: *no key*/(Poly) : <b>Poly</b> stops moving...
+[20:41:40]ADMIN: Guest-3622605515/(Steven Gregory) dealt 99999 amount of toxin damage to Poly 
+[20:41:41]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:41:42]EMOTE: *no key*/(Baker V) : <b>Baker V</b> scratches.
+[20:41:44]EMOTE: *no key*/(monkey (817)) : <b>The monkey (817)</b> rolls.
+[20:41:45]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:41:46]EMOTE: *no key*/(monkey (752)) : <b>The monkey (752)</b> waves her tail.
+[20:41:49]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:41:49]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:41:51]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:41:51]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:41:51]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:41:53]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:41:53]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:41:53]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:41:54]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[20:41:55]ADMIN: Guest-3622605515/(Steven Gregory) punished *no key*/(Tom) with Gib.
+[20:41:56]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:42:00]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:42:00]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:42:00]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[20:42:00]EMOTE: *no key*/(monkey (204)) : <b>The monkey (204)</b> rolls.
+[20:42:02]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:42:04]EMOTE: *no key*/(monkey (912)) : <b>The monkey (912)</b> jumps!
+[20:42:06]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:42:06]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:42:06]EMOTE: *no key*/(monkey (210)) : <b>The monkey (210)</b> waves her tail.
+[20:42:06]EMOTE: *no key*/(monkey (31)) : <b>The monkey (31)</b> waves his tail.
+[20:42:08]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:42:08]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:42:08]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:42:08]EMOTE: *no key*/(monkey (308)) : <b>The monkey (308)</b> rolls.
+[20:42:12]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:42:12]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:42:12]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[20:42:14]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:42:14]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:42:14]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:42:14]SAY: mouse/ : Squeek!
+[20:42:14]EMOTE: *no key*/(monkey (780)) : <b>The monkey (780)</b> jumps!
+[20:42:16]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:42:16]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:42:16]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:42:18]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:42:18]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:42:18]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:42:18]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:42:18]EMOTE: *no key*/(monkey (543)) : <b>The monkey (543)</b> jumps!
+[20:42:18]SAY: Poly/ : HOW THE FUCK IS BEEPSKY NOT DEAD?
+[20:42:20]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:42:20]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[20:42:22]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:42:24]EMOTE: *no key*/(grey baby slime (209)) : <b>The grey baby slime (209)</b> vibrates!
+[20:42:26]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:42:26]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:42:26]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:42:26]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:42:30]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:42:30]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:42:30]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:42:30]EMOTE: *no key*/(Runtime) : <b>Runtime</b> grooms its fur.
+[20:42:32]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:42:32]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:42:36]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[20:42:38]EMOTE: *no key*/(monkey (543)) : <b>The monkey (543)</b> waves his tail.
+[20:42:40]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:42:40]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:42:40]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[20:42:46]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:42:46]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:42:46]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:42:48]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:42:48]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:42:50]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:42:50]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:42:50]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> waves her tail.
+[20:42:54]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[20:42:54]EMOTE: *no key*/(monkey (16)) : <b>The monkey (16)</b> scratches.
+[20:42:54]EMOTE: *no key*/(monkey (817)) : <b>The monkey (817)</b> scratches.
+[20:42:58]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:42:58]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:43:00]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:43:00]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:43:02]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:43:04]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:43:04]EMOTE: *no key*/(monkey (516)) : <b>The monkey (516)</b> rolls.
+[20:43:06]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:43:10]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:43:12]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:43:14]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:43:16]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:43:16]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[20:43:17]ADMIN: Guest-3622605515/(Steven Gregory) punished *no key*/(Baker V) with Gib.
+[20:43:20]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:43:20]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:43:20]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:43:21]EMOTE: *no key*/(Runtime) : <b>Runtime</b> grooms its fur.
+[20:43:23]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:43:23]EMOTE: *no key*/(monkey (769)) : <b>The monkey (769)</b> jumps!
+[20:43:25]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:43:25]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:43:25]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:43:25]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[20:43:27]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:43:27]EMOTE: *no key*/(Baker V) : <b>Baker V</b> scratches.
+[20:43:29]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:43:29]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:43:29]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:43:29]EMOTE: *no key*/(monkey (231)) : <b>The monkey (231)</b> scratches.
+[20:43:33]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:43:35]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:43:35]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:43:35]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:43:35]EMOTE: *no key*/(monkey (564)) : <b>The monkey (564)</b> jumps!
+[20:43:37]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:43:37]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:43:37]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:43:37]EMOTE: *no key*/(monkey (511)) : <b>The monkey (511)</b> rolls.
+[20:43:39]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:43:41]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:43:45]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:43:47]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:43:47]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:43:49]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:43:49]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:43:49]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[20:43:51]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:43:51]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[20:43:55]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:43:55]EMOTE: *no key*/(monkey (903)) : <b>The monkey (903)</b> rolls.
+[20:43:57]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:43:57]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:43:57]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:44:01]SAY: mouse/ : Squeek?
+[20:44:01]SAY: Ian/ : Bark!
+[20:44:03]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:44:03]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:44:05]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:44:05]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:44:05]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:44:07]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:44:09]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:44:09]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:44:09]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:44:11]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:44:11]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:44:12]ADMIN: Guest-3622605515/(Steven Gregory) punished *no key*/(Baker V) with Gib.
+[20:44:13]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:44:13]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[20:44:15]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:44:17]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:44:17]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:44:17]SAY: Pegwing/ : Cracker?
+[20:44:19]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:44:21]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:44:21]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:44:25]EMOTE: *no key*/(monkey (323)) : <b>The monkey (323)</b> jumps!
+[20:44:27]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:44:27]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:44:27]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:44:27]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> jumps!
+[20:44:29]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:44:30]ADMIN: Guest-3622605515/(Steven Gregory) spawned /mob/living/carbon/monkey at (151,141,1)
+[20:44:33]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:44:33]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:44:33]EMOTE: *no key*/(monkey (200)) : <b>The monkey (200)</b> jumps!
+[20:44:35]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:44:35]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:44:37]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:44:39]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:44:39]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[20:44:41]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:44:41]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[20:44:43]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:44:43]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:44:43]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:44:45]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:44:45]EMOTE: *no key*/(monkey (838)) : <b>The monkey (838)</b> scratches.
+[20:44:47]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:44:49]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:44:49]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:44:49]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:44:49]SAY: Pegwing/ : Cracker?
+[20:44:51]SAY: Poly/ : Don&#39;t believe the reports - smoke today!
+[20:44:51]EMOTE: *no key*/(Baker V) : <b>Baker V</b> jumps!
+[20:44:53]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:44:53]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[20:44:53]EMOTE: *no key*/(monkey (543)) : <b>The monkey (543)</b> scratches.
+[20:44:55]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:44:55]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:44:57]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:44:57]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:44:57]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[20:44:59]EMOTE: *no key*/(monkey (308)) : <b>The monkey (308)</b> rolls.
+[20:44:59]EMOTE: *no key*/(monkey (903)) : <b>The monkey (903)</b> scratches.
+[20:45:00]ADMIN: Guest-3622605515/(Steven Gregory) admin ghosted.
+[20:45:00]ACCESS: Mob Login: Guest-3622605515/(Steven Gregory) was assigned to a /mob/dead/observer
+[20:45:01]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:45:01]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:45:01]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:45:01]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> yawns.
+[20:45:02]ADMIN: Guest-3622605515/(Steven Gregory) stuffed guest3622605515 into security monkey (528).
+[20:45:02]ACCESS: Mob Login: guest3622605515/(security monkey (528)) was assigned to a /mob/living/carbon/monkey/security
+[20:45:03]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:45:03]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:45:05]ADMIN: guest3622605515/(security monkey (528)) admin ghosted.
+[20:45:05]ACCESS: Mob Login: guest3622605515/(security monkey (528)) was assigned to a /mob/dead/observer
+[20:45:05]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:45:09]ADMIN: guest3622605515/(security monkey (528)) stuffed guest3622605515 into Steven Gregory.
+[20:45:09]ACCESS: Mob Login: guest3622605515/(Steven Gregory) was assigned to a /mob/living/carbon/human
+[20:45:10]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:45:10]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:45:12]EMOTE: *no key*/(monkey (543)) : <b>The monkey (543)</b> jumps!
+[20:45:12]EMOTE: *no key*/(monkey (780)) : <b>The monkey (780)</b> rolls.
+[20:45:12]EMOTE: *no key*/(monkey (16)) : <b>The monkey (16)</b> scratches.
+[20:45:12]EMOTE: *no key*/(monkey (317)) : <b>The monkey (317)</b> jumps!
+[20:45:14]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:45:16]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:45:16]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:45:16]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:45:16]EMOTE: *no key*/(monkey (516)) : <b>The monkey (516)</b> scratches.
+[20:45:20]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:45:20]SAY: mouse/ : SQUEEK!
+[20:45:20]EMOTE: *no key*/(monkey (231)) : <b>The monkey (231)</b> scratches.
+[20:45:22]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:45:22]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:45:24]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:45:26]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:45:26]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:45:26]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:45:26]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[20:45:26]EMOTE: *no key*/(monkey (231)) : <b>The monkey (231)</b> jumps!
+[20:45:28]EMOTE: *no key*/(monkey (831)) : <b>The monkey (831)</b> waves her tail.
+[20:45:28]EMOTE: *no key*/(monkey (769)) : <b>The monkey (769)</b> rolls.
+[20:45:30]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:45:30]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:45:30]EMOTE: *no key*/(crab) : <b>The crab</b> clacks.
+[20:45:32]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:45:32]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> bawks!
+[20:45:32]SAY: Poly/ : TITS
+[20:45:36]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:45:38]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:45:38]EMOTE: *no key*/(monkey (543)) : <b>The monkey (543)</b> rolls.
+[20:45:40]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:45:40]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:45:40]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:45:40]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:45:40]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:45:40]SAY: Poly/ : Don&#39;t believe the reports - smoke today!
+[20:45:40]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shakes its head
+[20:45:40]ADMIN: guest3622605515/(Steven Gregory) spawned /obj/item/device/autosurgeon/anti_stun at (152,140,1)
+[20:45:42]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:45:42]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:45:42]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[20:45:42]EMOTE: *no key*/(monkey (31)) : <b>The monkey (31)</b> scratches.
+[20:45:44]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:45:44]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:45:46]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:45:46]ADMIN: guest3622605515/(Steven Gregory) spawned /obj/item/weapon/paper/talisman/stun at (151,141,1)
+[20:45:48]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:45:48]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:45:48]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:45:48]EMOTE: *no key*/(monkey (210)) : <b>The monkey (210)</b> waves her tail.
+[20:45:48]EMOTE: *no key*/(monkey (838)) : <b>The monkey (838)</b> waves his tail.
+[20:45:48]EMOTE: *no key*/(grey baby slime (725)) : <b>The grey baby slime (725)</b> bounces in place.
+[20:45:50]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:45:52]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:45:54]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:45:54]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:45:56]ADMIN: guest3622605515/(Steven Gregory) spawned /obj/item/borg/stun at (150,142,1)
+[20:45:56]EMOTE: *no key*/(monkey (361)) : <b>The monkey (361)</b> waves his tail.
+[20:45:58]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:45:58]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[20:45:58]EMOTE: *no key*/(Runtime) : <b>Runtime</b> lies down.
+[20:46:00]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:46:00]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:46:00]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[20:46:02]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:46:02]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:46:02]EMOTE: *no key*/(monkey (317)) : <b>The monkey (317)</b> scratches.
+[20:46:04]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:46:04]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:46:06]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:46:06]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:46:06]EMOTE: *no key*/(monkey (769)) : <b>The monkey (769)</b> scratches.
+[20:46:08]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:46:08]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:46:08]EMOTE: *no key*/(monkey (811)) : <b>The monkey (811)</b> jumps!
+[20:46:08]EMOTE: *no key*/(monkey (903)) : <b>The monkey (903)</b> rolls.
+[20:46:10]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:46:10]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:46:14]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:46:16]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:46:16]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:46:16]EMOTE: *no key*/(Runtime) : <b>Runtime</b> gets up and meows.
+[20:46:18]EMOTE: *no key*/(Baker V) : <b>Baker V</b> screeches.
+[20:46:18]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:46:18]EMOTE: *no key*/(monkey (831)) : <b>The monkey (831)</b> waves her tail.
+[20:46:19]GAME: Random Event triggering: Anomaly: Pyroclastic (/datum/round_event/anomaly/anomaly_pyro)
+[20:46:20]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:46:20]SAY: mouse/ : SQUEEK!
+[20:46:22]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:46:22]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:46:24]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:46:26]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:46:26]EMOTE: *no key*/(monkey (831)) : <b>The monkey (831)</b> waves her tail.
+[20:46:30]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:46:30]EMOTE: *no key*/(monkey (323)) : <b>The monkey (323)</b> waves his tail.
+[20:46:32]ADMIN: guest3622605515/(Steven Gregory) deleted the monkey hide at (153,140,1)
+[20:46:32]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:46:32]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:46:32]EMOTE: *no key*/(monkey (511)) : <b>The monkey (511)</b> rolls.
+[20:46:36]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:46:38]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:46:38]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:46:39]EMOTE: *no key*/(monkey (120)) : <b>The monkey (120)</b> scratches.
+[20:46:39]EMOTE: *no key*/(Runtime) : <b>Runtime</b> twitches its whiskers.
+[20:46:39]EMOTE: *no key*/(monkey (511)) : <b>The monkey (511)</b> scratches.
+[20:46:40]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:46:41]EMOTE: *no key*/(monkey (16)) : <b>The monkey (16)</b> rolls.
+[20:46:42]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:46:42]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:46:43]SAY: Steven Gregory/guest3622605515 : FUCK IT
+[20:46:44]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:46:46]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:46:46]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:46:46]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[20:46:46]SAY: Medibot/ : Radar, put a mask on!
+[20:46:48]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:46:48]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:46:48]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:46:48]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:46:49]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> yawns.
+[20:46:50]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:46:50]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:46:51]EMOTE: *no key*/(monkey (861)) : <b>The monkey (861)</b> rolls.
+[20:46:52]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:46:52]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:46:52]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:46:54]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:46:54]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:46:54]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[20:46:55]EMOTE: *no key*/(monkey (780)) : <b>The monkey (780)</b> jumps!
+[20:46:56]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:46:56]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:46:56]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:46:56]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:46:58]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:47:00]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:47:00]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:47:02]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:47:02]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:47:04]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:47:04]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:47:04]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:47:04]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:47:04]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:47:04]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[20:47:06]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:47:06]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:47:06]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:47:09]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:47:11]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:47:11]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:47:11]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:47:11]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:47:15]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:47:15]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:47:15]EMOTE: *no key*/(Runtime) : <b>Runtime</b> twitches its whiskers.
+[20:47:17]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:47:21]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:47:23]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:47:23]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:47:23]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:47:25]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:47:27]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:47:27]EMOTE: *no key*/(monkey (516)) : <b>The monkey (516)</b> rolls.
+[20:47:29]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:47:29]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:47:29]EMOTE: *no key*/(monkey (811)) : <b>The monkey (811)</b> scratches.
+[20:47:31]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:47:33]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:47:33]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:47:33]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:47:33]EMOTE: *no key*/(monkey (31)) : <b>The monkey (31)</b> scratches.
+[20:47:33]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[20:47:35]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:47:35]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:47:35]SAY: Poly/ : Come get your eggs!
+[20:47:35]EMOTE: *no key*/(monkey (511)) : <b>The monkey (511)</b> scratches.
+[20:47:37]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:47:39]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> waves her tail.
+[20:47:39]EMOTE: *no key*/(monkey (200)) : <b>The monkey (200)</b> rolls.
+[20:47:41]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:47:41]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:47:41]EMOTE: *no key*/(Baker V) : <b>Baker V</b> screeches.
+[20:47:41]EMOTE: *no key*/(monkey (817)) : <b>The monkey (817)</b> scratches.
+[20:47:43]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:47:43]EMOTE: *no key*/(crab) : <b>The crab</b> clacks.
+[20:47:43]EMOTE: *no key*/(monkey (210)) : <b>The monkey (210)</b> rolls.
+[20:47:45]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:47:45]EMOTE: *no key*/(monkey (752)) : <b>The monkey (752)</b> jumps!
+[20:47:47]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:47:47]EMOTE: *no key*/(monkey (970)) : <b>The monkey (970)</b> rolls.
+[20:47:47]EMOTE: *no key*/(monkey (912)) : <b>The monkey (912)</b> scratches.
+[20:47:49]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:47:49]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:47:51]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:47:53]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:47:53]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:47:55]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:47:55]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:47:55]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:47:57]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:47:59]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:47:59]EMOTE: *no key*/(monkey (103)) : <b>The monkey (103)</b> rolls.
+[20:48:00]ADMIN: guest3622605515/(Steven Gregory) spawned /obj/item/weapon/gun/energy/laser/infinite at (156,130,1)
+[20:48:01]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:48:03]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:48:03]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:48:03]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[20:48:05]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:48:05]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:48:05]EMOTE: *no key*/(monkey (222)) : <b>The monkey (222)</b> jumps!
+[20:48:07]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:48:07]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:48:07]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[20:48:07]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[20:48:07]EMOTE: *no key*/(monkey (361)) : <b>The monkey (361)</b> jumps!
+[20:48:09]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:48:09]SAY: mouse/ : Squeek!
+[20:48:09]EMOTE: *no key*/(monkey (448)) : <b>The monkey (448)</b> scratches.
+[20:48:09]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[20:48:10]EMOTE: *no key*/(Baker V) : <b>Baker V</b> screeches.
+[20:48:11]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:48:11]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:48:11]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:48:11]SAY: mouse/ : SQUEEK!
+[20:48:11]EMOTE: *no key*/(monkey (530)) : <b>The monkey (530)</b> rolls.
+[20:48:13]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:48:13]EMOTE: *no key*/(monkey (861)) : <b>The monkey (861)</b> waves her tail.
+[20:48:13]EMOTE: *no key*/(Baker V) : <b>Baker V</b> gasps!
+[20:48:15]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:48:15]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:48:15]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:48:17]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:48:18]EMOTE: *no key*/(monkey (448)) : <b>The monkey (448)</b> rolls.
+[20:48:20]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:48:20]EMOTE: *no key*/(Baker V) : <b>Baker V</b> gasps!
+[20:48:22]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:48:22]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:48:26]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:48:26]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:48:29]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:48:31]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:48:31]SAY: Poly/ : FI&#39;RAN DADISKO
+[20:48:31]SAY: Runtime/ : Esp!
+[20:48:33]EMOTE: *no key*/(monkey (120)) : <b>The monkey (120)</b> waves his tail.
+[20:48:35]EMOTE: *no key*/(Baker V) : <b>Baker V</b> gasps!
+[20:48:35]EMOTE: *no key*/(monkey (516)) : <b>The monkey (516)</b> rolls.
+[20:48:37]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:48:37]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[20:48:37]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[20:48:39]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:48:39]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:48:39]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:48:41]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:48:43]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:48:47]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:48:47]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> bawks!
+[20:48:49]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:48:49]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:48:51]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:48:51]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:48:51]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:48:55]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:48:55]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:48:57]SAY: Poly/ : HOW THE FUCK IS BEEPSKY NOT DEAD?
+[20:48:57]EMOTE: *no key*/(monkey (516)) : <b>The monkey (516)</b> jumps!
+[20:48:59]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:48:59]EMOTE: *no key*/(monkey (120)) : <b>The monkey (120)</b> jumps!
+[20:48:59]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stretches out for a belly rub.
+[20:49:03]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:49:05]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:49:05]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:49:05]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:49:05]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:49:05]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:49:05]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:49:07]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:49:07]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:49:07]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:49:07]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[20:49:09]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:49:11]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:49:13]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:49:13]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:49:15]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:49:15]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:49:15]EMOTE: *no key*/(Baker V) : <b>Baker V</b> gasps!
+[20:49:17]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:49:17]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[20:49:17]EMOTE: *no key*/(monkey (317)) : <b>The monkey (317)</b> jumps!
+[20:49:17]EMOTE: *no key*/(monkey (811)) : <b>The monkey (811)</b> scratches.
+[20:49:19]SAY: Ian/ : Bark!
+[20:49:21]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:49:21]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:49:21]EMOTE: *no key*/(monkey (222)) : <b>The monkey (222)</b> scratches.
+[20:49:23]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[20:49:25]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:49:27]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:49:27]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:49:27]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:49:27]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:49:29]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:49:29]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:49:31]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:49:31]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:49:31]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:49:31]EMOTE: *no key*/(monkey (231)) : <b>The monkey (231)</b> waves his tail.
+[20:49:31]EMOTE: *no key*/(monkey (16)) : <b>The monkey (16)</b> rolls.
+[20:49:33]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:49:33]EMOTE: *no key*/(monkey (323)) : <b>The monkey (323)</b> scratches.
+[20:49:33]EMOTE: *no key*/(monkey (231)) : <b>The monkey (231)</b> rolls.
+[20:49:37]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:49:39]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:49:41]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:49:41]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:49:41]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:49:41]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:49:43]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:49:49]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:49:49]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:49:49]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[20:49:51]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:49:51]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:49:53]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:49:53]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:49:53]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:49:55]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:49:55]EMOTE: *no key*/(monkey (31)) : <b>The monkey (31)</b> scratches.
+[20:49:55]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[20:50:01]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:50:01]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:50:01]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:50:01]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:50:01]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:50:01]EMOTE: *no key*/(Baker V) : <b>Baker V</b> gasps!
+[20:50:03]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:50:03]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:50:05]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:50:05]EMOTE: *no key*/(crab) : <b>The crab</b> clicks.
+[20:50:05]EMOTE: *no key*/(Runtime) : <b>Runtime</b> gets up and meows.
+[20:50:05]EMOTE: *no key*/(monkey (903)) : <b>The monkey (903)</b> rolls.
+[20:50:07]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:50:09]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:50:11]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:50:13]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:50:13]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:50:15]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:50:17]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:50:19]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:50:19]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:50:19]EMOTE: *no key*/(monkey (72)) : <b>The monkey (72)</b> waves her tail.
+[20:50:21]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:50:21]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:50:23]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:50:25]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:50:27]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:50:27]EMOTE: *no key*/(monkey (222)) : <b>The monkey (222)</b> rolls.
+[20:50:29]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:50:29]EMOTE: *no key*/(Baker V) : <b>Baker V</b> gasps!
+[20:50:31]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:50:33]EMOTE: *no key*/(Baker V) : <b>Baker V</b> gasps!
+[20:50:35]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:50:35]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:50:35]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> waves her tail.
+[20:50:37]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:50:37]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:50:39]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:50:39]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:50:39]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:50:39]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:50:39]EMOTE: *no key*/(Baker V) : <b>Baker V</b> gasps!
+[20:50:43]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:50:45]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:50:45]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:50:45]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[20:50:47]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:50:47]EMOTE: *no key*/(monkey (458)) : <b>The monkey (458)</b> waves his tail.
+[20:50:47]EMOTE: *no key*/(Baker V) : <b>Baker V</b> gasps!
+[20:50:47]EMOTE: *no key*/(monkey (831)) : <b>The monkey (831)</b> rolls.
+[20:50:49]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:50:49]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:50:49]EMOTE: *no key*/(Baker V) : <b>Baker V</b> lets out a faint chimper as it collapses and stops moving...
+[20:50:49]EMOTE: *no key*/(monkey (811)) : <b>The monkey (811)</b> jumps!
+[20:50:51]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:50:53]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:50:55]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:50:55]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:50:55]EMOTE: *no key*/(monkey (912)) : <b>The monkey (912)</b> jumps!
+[20:50:59]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:50:59]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:51:03]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:51:03]SAY: Poly/ : TITS
+[20:51:03]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> waves her tail.
+[20:51:05]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:51:05]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:51:07]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:51:07]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:51:07]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:51:09]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:51:11]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:51:11]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[20:51:13]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:51:13]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:51:13]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:51:13]EMOTE: *no key*/(monkey (210)) : <b>The monkey (210)</b> rolls.
+[20:51:13]EMOTE: *no key*/(monkey (361)) : <b>The monkey (361)</b> scratches.
+[20:51:15]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:51:15]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:51:17]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:51:17]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:51:17]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:51:19]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:51:19]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:51:19]EMOTE: *no key*/(monkey (108)) : <b>The monkey (108)</b> jumps!
+[20:51:21]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:51:21]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:51:21]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[20:51:23]EMOTE: *no key*/(Baker V) : <b>Baker V</b> lets out a faint chimper as it collapses and stops moving...
+[20:51:27]SAY: mouse/ : Squeek!
+[20:51:27]EMOTE: *no key*/(grey baby slime (209)) : <b>The grey baby slime (209)</b> bounces in place.
+[20:51:27]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[20:51:29]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:51:29]SAY: mouse/ : SQUEEK!
+[20:51:31]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:51:31]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:51:33]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:51:33]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:51:35]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:51:35]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:51:35]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[20:51:37]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:51:37]EMOTE: *no key*/(monkey (838)) : <b>The monkey (838)</b> waves his tail.
+[20:51:39]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:51:39]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:51:39]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[20:51:39]EMOTE: *no key*/(monkey (516)) : <b>The monkey (516)</b> jumps!
+[20:51:41]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:51:41]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:51:41]SAY: Medibot/ : Radar, put a mask on!
+[20:51:43]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:51:43]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:51:43]GAME: <a href='?priv_msg=guest3622605515'>guest3622605515</a>/(Steven Gregory) checked the player panel while in game.
+[20:51:45]ADMIN: guest3622605515/(Steven Gregory) healed / Revived guest3622605515/(Steven Gregory).
+[20:51:45]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:51:45]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:51:45]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[20:51:49]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:51:55]EMOTE: *no key*/(monkey (231)) : <b>The monkey (231)</b> scratches.
+[20:51:55]EMOTE: *no key*/(monkey (200)) : <b>The monkey (200)</b> jumps!
+[20:51:59]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:52:01]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:52:01]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:52:01]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:52:01]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:52:01]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[20:52:03]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:52:03]EMOTE: *no key*/(monkey (231)) : <b>The monkey (231)</b> waves his tail.
+[20:52:05]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:52:05]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:52:05]EMOTE: *no key*/(monkey (231)) : <b>The monkey (231)</b> waves his tail.
+[20:52:05]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> jumps!
+[20:52:07]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:52:07]SAY: Poly/ : FI&#39;RAN DADISKO
+[20:52:09]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:52:11]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:52:11]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:52:13]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:52:15]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:52:15]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:52:15]EMOTE: *no key*/(monkey (222)) : <b>The monkey (222)</b> waves his tail.
+[20:52:17]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:52:17]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:52:19]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:52:19]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:52:21]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:52:22]GAME: <a href='?priv_msg=guest3622605515'>guest3622605515</a>/(Steven Gregory) checked the player panel while in game.
+[20:52:23]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:52:23]EMOTE: *no key*/(monkey (448)) : <b>The monkey (448)</b> jumps!
+[20:52:23]ADMIN: guest3622605515/(Steven Gregory) healed / Revived guest3622605515/(Steven Gregory).
+[20:52:25]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:52:25]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:52:25]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:52:27]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:52:27]EMOTE: *no key*/(grey baby slime (209)) : <b>The grey baby slime (209)</b> bounces in place.
+[20:52:29]EMOTE: *no key*/(grey baby slime (209)) : <b>The grey baby slime (209)</b> lights up for a bit, then stops.
+[20:52:33]EMOTE: *no key*/(monkey (16)) : <b>The monkey (16)</b> rolls.
+[20:52:35]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:52:35]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:52:37]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:52:37]EMOTE: *no key*/(monkey (323)) : <b>The monkey (323)</b> jumps!
+[20:52:39]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:52:39]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:52:41]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[20:52:41]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:52:41]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:52:44]ADMIN: guest3622605515/(Steven Gregory) punished *no key*/(alien drone (401)) with Gib.
+[20:52:45]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:52:46]EMOTE: *no key*/(monkey (530)) : <b>The monkey (530)</b> rolls.
+[20:52:47]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:52:47]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:52:47]SAY: Pegwing/ : Hi!
+[20:52:48]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[20:52:49]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:52:51]ADMIN: guest3622605515/(Steven Gregory) punished *no key*/(alien hunter (874)) with Gib.
+[20:52:52]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:52:54]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:52:55]GAME: <a href='?priv_msg=guest3622605515'>guest3622605515</a>/(Steven Gregory) checked the player panel while in game.
+[20:52:56]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:52:56]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:52:56]EMOTE: *no key*/(monkey (323)) : <b>The monkey (323)</b> jumps!
+[20:52:56]EMOTE: *no key*/(monkey (317)) : <b>The monkey (317)</b> waves her tail.
+[20:52:56]ADMIN: guest3622605515/(Steven Gregory) healed / Revived guest3622605515/(Steven Gregory).
+[20:52:58]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:53:00]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:53:00]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:53:02]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:53:02]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:53:02]EMOTE: *no key*/(monkey (511)) : <b>The monkey (511)</b> waves her tail.
+[20:53:04]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:53:04]SAY: Poly/ : I&#39;d rather toolbox than switch.
+[20:53:06]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:53:06]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:53:10]EMOTE: *no key*/(monkey (16)) : <b>The monkey (16)</b> waves her tail.
+[20:53:12]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:53:12]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:53:12]EMOTE: *no key*/(monkey (31)) : <b>The monkey (31)</b> waves his tail.
+[20:53:14]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:53:14]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[20:53:14]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:53:16]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:53:16]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:53:16]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:53:18]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:53:18]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:53:18]EMOTE: *no key*/(monkey (222)) : <b>The monkey (222)</b> scratches.
+[20:53:18]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[20:53:20]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:53:20]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:53:20]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:53:20]EMOTE: *no key*/(monkey (210)) : <b>The monkey (210)</b> jumps!
+[20:53:22]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:53:22]EMOTE: *no key*/(monkey (838)) : <b>The monkey (838)</b> waves his tail.
+[20:53:22]EMOTE: *no key*/(monkey (831)) : <b>The monkey (831)</b> waves her tail.
+[20:53:24]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:53:24]EMOTE: *no key*/(monkey (108)) : <b>The monkey (108)</b> waves her tail.
+[20:53:24]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[20:53:26]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:53:26]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:53:26]EMOTE: *no key*/(monkey (530)) : <b>The monkey (530)</b> jumps!
+[20:53:28]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:53:32]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:53:32]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:53:34]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> squawks.
+[20:53:34]EMOTE: *no key*/(monkey (838)) : <b>The monkey (838)</b> scratches.
+[20:53:36]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:53:38]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:53:38]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:53:38]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[20:53:40]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:53:42]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:53:42]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:53:44]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:53:44]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:53:44]EMOTE: *no key*/(monkey (108)) : <b>The monkey (108)</b> scratches.
+[20:53:46]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:53:46]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:53:48]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[20:53:50]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:53:50]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:53:50]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:53:52]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:53:53]EMOTE: *no key*/(monkey (448)) : <b>The monkey (448)</b> waves her tail.
+[20:53:54]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:53:54]SAY: mouse/ : Squeek?
+[20:53:56]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:53:56]EMOTE: *no key*/(monkey (31)) : <b>The monkey (31)</b> jumps!
+[20:53:58]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:53:58]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:53:58]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[20:54:00]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:54:00]EMOTE: *no key*/(monkey (210)) : <b>The monkey (210)</b> waves her tail.
+[20:54:02]ADMIN: guest3622605515/(Steven Gregory) deleted the grille at (5,242,1)
+[20:54:02]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:54:04]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:54:04]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:54:05]EMOTE: *no key*/(Runtime) : <b>Runtime</b> gets up and meows.
+[20:54:05]EMOTE: *no key*/(monkey (811)) : <b>The monkey (811)</b> jumps!
+[20:54:05]ADMIN: guest3622605515/(Steven Gregory) deleted the reinforced window at (5,242,1)
+[20:54:06]EMOTE: *no key*/(monkey (564)) : <b>The monkey (564)</b> waves his tail.
+[20:54:08]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:54:10]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:54:10]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:54:10]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:54:10]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:54:12]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:54:12]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:54:12]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:54:12]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:54:12]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:54:12]EMOTE: *no key*/(monkey (543)) : <b>The monkey (543)</b> jumps!
+[20:54:14]EMOTE: *no key*/(monkey (120)) : <b>The monkey (120)</b> jumps!
+[20:54:16]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:54:16]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:54:18]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:54:18]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:54:18]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:54:18]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:54:18]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:54:19]EMOTE: *no key*/(monkey (323)) : <b>The monkey (323)</b> jumps!
+[20:54:19]EMOTE: *no key*/(monkey (769)) : <b>The monkey (769)</b> scratches.
+[20:54:20]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:54:20]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:54:20]EMOTE: *no key*/(monkey (323)) : <b>The monkey (323)</b> waves his tail.
+[20:54:22]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:54:22]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:54:22]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:54:23]EMOTE: *no key*/(monkey (308)) : <b>The monkey (308)</b> rolls.
+[20:54:24]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:54:24]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:54:28]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:54:28]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:54:28]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:54:29]EMOTE: *no key*/(monkey (970)) : <b>The monkey (970)</b> waves his tail.
+[20:54:29]EMOTE: *no key*/(Ian) : <b>Ian</b> barks!
+[20:54:29]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> yawns.
+[20:54:30]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:54:32]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:54:32]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:54:34]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:54:36]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:54:36]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:54:38]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:54:38]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:54:38]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:54:38]SAY: mouse/ : Squeek?
+[20:54:40]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:54:44]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:54:44]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:54:44]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:54:44]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:54:46]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:54:48]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:54:50]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:54:50]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:54:52]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:54:52]EMOTE: *no key*/(monkey (31)) : <b>The monkey (31)</b> rolls.
+[20:54:54]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:54:54]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[20:54:56]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:54:56]EMOTE: *no key*/(monkey (543)) : <b>The monkey (543)</b> rolls.
+[20:54:56]EMOTE: *no key*/(monkey (903)) : <b>The monkey (903)</b> rolls.
+[20:54:58]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:55:00]EMOTE: *no key*/(red adult slime (339)) : <b>The red adult slime (339)</b> vibrates!
+[20:55:00]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:55:00]EMOTE: *no key*/(crab) : <b>The crab</b> clicks.
+[20:55:02]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stops resting.
+[20:55:04]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:55:06]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:55:06]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:55:06]SAY: Poly/ : I&#39;d rather toolbox than switch.
+[20:55:08]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:55:08]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:55:08]EMOTE: *no key*/(monkey (769)) : <b>The monkey (769)</b> jumps!
+[20:55:10]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:55:10]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:55:10]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:55:12]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:55:12]EMOTE: *no key*/(monkey (31)) : <b>The monkey (31)</b> waves his tail.
+[20:55:14]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:55:14]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:55:14]EMOTE: *no key*/(monkey (448)) : <b>The monkey (448)</b> scratches.
+[20:55:16]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:55:18]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:55:20]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:55:20]EMOTE: *no key*/(monkey (831)) : <b>The monkey (831)</b> scratches.
+[20:55:24]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:55:24]SAY: mouse/ : Squeek?
+[20:55:26]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[20:55:28]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:55:28]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:55:30]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:55:32]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:55:32]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:55:32]EMOTE: *no key*/(Runtime) : <b>Runtime</b> twitches its whiskers.
+[20:55:34]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:55:34]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:55:34]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:55:34]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:55:36]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:55:36]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:55:37]EMOTE: *no key*/(monkey (210)) : <b>The monkey (210)</b> waves her tail.
+[20:55:38]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:55:39]EMOTE: *no key*/(monkey (511)) : <b>The monkey (511)</b> rolls.
+[20:55:40]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:55:41]EMOTE: *no key*/(monkey (511)) : <b>The monkey (511)</b> waves her tail.
+[20:55:41]EMOTE: *no key*/(monkey (204)) : <b>The monkey (204)</b> scratches.
+[20:55:44]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:55:44]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:55:45]EMOTE: *no key*/(monkey (543)) : <b>The monkey (543)</b> waves his tail.
+[20:55:46]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:55:47]EMOTE: *no key*/(monkey (448)) : <b>The monkey (448)</b> scratches.
+[20:55:48]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:55:48]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:55:50]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:55:50]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:55:52]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:55:52]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:55:54]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:55:54]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:55:56]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:55:58]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:55:58]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:55:58]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:55:58]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:56:01]EMOTE: *no key*/(monkey (838)) : <b>The monkey (838)</b> jumps!
+[20:56:01]EMOTE: *no key*/(grey baby slime (725)) : <b>The grey baby slime (725)</b> lights up for a bit, then stops.
+[20:56:01]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[20:56:02]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:56:02]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:56:04]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:56:04]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[20:56:05]SAY: Poly/ : Sophie Teagarden has signed up as Chief Engineer
+[20:56:06]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:56:06]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:56:06]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:56:08]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:56:08]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:56:08]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:56:10]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:56:10]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:56:10]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:56:11]EMOTE: *no key*/(monkey (780)) : <b>The monkey (780)</b> waves his tail.
+[20:56:13]EMOTE: *no key*/(monkey (817)) : <b>The monkey (817)</b> rolls.
+[20:56:14]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:56:15]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> scratches.
+[20:56:15]EMOTE: *no key*/(monkey (780)) : <b>The monkey (780)</b> jumps!
+[20:56:16]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:56:19]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:56:19]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:56:23]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:56:23]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:56:23]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:56:23]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:56:25]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:56:25]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:56:25]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:56:27]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:56:27]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:56:27]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:56:27]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:56:27]EMOTE: *no key*/(monkey (903)) : <b>The monkey (903)</b> jumps!
+[20:56:29]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:56:31]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:56:31]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:56:31]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:56:33]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:56:33]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:56:35]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:56:35]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:56:35]EMOTE: *no key*/(monkey (511)) : <b>The monkey (511)</b> jumps!
+[20:56:37]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:56:39]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:56:39]EMOTE: *no key*/(monkey (323)) : <b>The monkey (323)</b> rolls.
+[20:56:41]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:56:41]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:56:41]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:56:41]EMOTE: *no key*/(monkey (448)) : <b>The monkey (448)</b> scratches.
+[20:56:41]EMOTE: *no key*/(monkey (769)) : <b>The monkey (769)</b> rolls.
+[20:56:43]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:56:47]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:56:47]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[20:56:47]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[20:56:47]EMOTE: *no key*/(monkey (811)) : <b>The monkey (811)</b> rolls.
+[20:56:49]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:56:49]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:56:51]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:56:51]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:56:51]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:56:51]SAY: Pegwing/ : Hi!
+[20:56:53]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:56:55]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:56:55]SAY: Medibot/ : Delicious!
+[20:56:57]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:56:59]EMOTE: *no key*/(monkey (200)) : <b>The monkey (200)</b> gasps!
+[20:57:01]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:57:03]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:57:03]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:57:03]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:57:05]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[20:57:05]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:57:05]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:57:05]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:57:05]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:57:05]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:57:07]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:57:07]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[20:57:07]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:57:09]EMOTE: *no key*/(crab) : <b>The crab</b> clicks.
+[20:57:11]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:57:11]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:57:15]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:57:15]EMOTE: *no key*/(monkey (543)) : <b>The monkey (543)</b> waves his tail.
+[20:57:17]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:57:17]EMOTE: *no key*/(monkey (811)) : <b>The monkey (811)</b> jumps!
+[20:57:19]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:57:19]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:57:19]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:57:19]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> yawns.
+[20:57:19]EMOTE: *no key*/(monkey (200)) : <b>The monkey (200)</b> gasps!
+[20:57:21]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:57:23]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:57:25]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[20:57:27]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:57:29]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:57:29]EMOTE: *no key*/(monkey (912)) : <b>The monkey (912)</b> rolls.
+[20:57:31]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:57:31]EMOTE: *no key*/(monkey (200)) : <b>The monkey (200)</b> lets out a faint chimper as it collapses and stops moving...
+[20:57:33]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:57:33]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:57:33]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:57:35]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:57:35]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:57:35]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:57:37]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:57:37]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:57:37]EMOTE: *no key*/(monkey (231)) : <b>The monkey (231)</b> rolls.
+[20:57:37]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[20:57:39]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:57:39]SAY: Poly/ : Staph
+[20:57:43]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:57:43]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:57:43]EMOTE: *no key*/(monkey (31)) : <b>The monkey (31)</b> jumps!
+[20:57:43]EMOTE: *no key*/(monkey (308)) : <b>The monkey (308)</b> waves his tail.
+[20:57:45]EMOTE: *no key*/(monkey (108)) : <b>The monkey (108)</b> waves her tail.
+[20:57:47]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:57:49]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:57:49]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:57:51]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:57:53]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:57:53]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:57:55]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:57:55]EMOTE: *no key*/(monkey (903)) : <b>The monkey (903)</b> jumps!
+[20:57:57]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:57:57]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:57:57]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:57:59]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:58:01]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:58:01]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:58:01]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:58:01]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[20:58:01]ADMIN: guest3622605515/(Steven Gregory) admin ghosted.
+[20:58:01]ACCESS: Mob Login: guest3622605515/(Steven Gregory) was assigned to a /mob/dead/observer
+[20:58:05]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:58:05]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:58:05]EMOTE: *no key*/(monkey (831)) : <b>The monkey (831)</b> jumps!
+[20:58:07]EMOTE: *no key*/(grey baby slime (209)) : <b>The grey baby slime (209)</b> vibrates!
+[20:58:09]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:58:13]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:58:13]EMOTE: *no key*/(monkey (912)) : <b>The monkey (912)</b> waves his tail.
+[20:58:15]ADMIN: guest3622605515/(Steven Gregory) teleported *no key*/(Alejandra Khan)
+[20:58:17]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:58:17]EMOTE: *no key*/(monkey (530)) : <b>The monkey (530)</b> rolls.
+[20:58:19]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:58:19]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[20:58:19]EMOTE: *no key*/(monkey (361)) : <b>The monkey (361)</b> scratches.
+[20:58:21]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:58:25]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:58:25]EMOTE: *no key*/(monkey (317)) : <b>The monkey (317)</b> scratches.
+[20:58:26]ADMIN: guest3622605515/(Steven Gregory) teleported @Guest-3622605515[DC]/(Steven Gregory)
+[20:58:27]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:58:27]ACCESS: Mob Login: guest3622605515/(Steven Gregory) was assigned to a /mob/living/carbon/human
+[20:58:27]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[20:58:29]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:58:29]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:58:31]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:58:31]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:58:31]EMOTE: *no key*/(monkey (861)) : <b>The monkey (861)</b> scratches.
+[20:58:31]EMOTE: *no key*/(monkey (31)) : <b>The monkey (31)</b> scratches.
+[20:58:33]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:58:35]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:58:37]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:58:37]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:58:37]EMOTE: *no key*/(monkey (511)) : <b>The monkey (511)</b> rolls.
+[20:58:39]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:58:41]EMOTE: *no key*/(monkey (912)) : <b>The monkey (912)</b> jumps!
+[20:58:45]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:58:45]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:58:45]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:58:45]SAY: mouse/ : SQUEEK!
+[20:58:47]EMOTE: *no key*/(monkey (530)) : <b>The monkey (530)</b> rolls.
+[20:58:49]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:58:49]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:58:50]ADMIN: guest3622605515/(Steven Gregory) spawned /obj/item/stack/cable_coil/yellow at (64,173,1)
+[20:58:51]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:58:51]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:58:51]EMOTE: *no key*/(monkey (103)) : <b>The monkey (103)</b> waves his tail.
+[20:58:53]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:58:53]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:58:53]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:58:53]EMOTE: *no key*/(monkey (511)) : <b>The monkey (511)</b> waves her tail.
+[20:58:55]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:58:55]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:58:57]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:58:57]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:58:57]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:58:57]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:58:59]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:58:59]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:59:01]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:59:01]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[20:59:01]EMOTE: *no key*/(monkey (103)) : <b>The monkey (103)</b> scratches.
+[20:59:03]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:59:03]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:59:03]SAY: Poly/ : Honk until proven ugly!
+[20:59:03]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[20:59:03]EMOTE: *no key*/(monkey (448)) : <b>The monkey (448)</b> waves her tail.
+[20:59:05]SAY: mouse/ : Squeek!
+[20:59:07]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:59:09]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:59:11]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:59:13]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:59:13]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:59:15]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:59:15]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:59:17]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:59:17]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:59:19]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:59:21]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:59:21]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:59:21]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:59:21]SAY: mouse/ : Squeek?
+[20:59:21]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[20:59:23]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:59:25]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:59:25]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:59:27]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:59:27]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:59:27]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stretches out for a belly rub.
+[20:59:27]EMOTE: *no key*/(monkey (811)) : <b>The monkey (811)</b> rolls.
+[20:59:29]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:59:29]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:59:31]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:59:31]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:59:31]EMOTE: *no key*/(monkey (361)) : <b>The monkey (361)</b> gasps!
+[20:59:33]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[20:59:33]EMOTE: *no key*/(monkey (323)) : <b>The monkey (323)</b> jumps!
+[20:59:33]SAY: Medibot/ : Radar, put a mask on!
+[20:59:35]ADMIN: guest3622605515/(Steven Gregory) deleted the power cable at (64,170,1)
+[20:59:35]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:59:35]EMOTE: *no key*/(monkey (120)) : <b>The monkey (120)</b> waves his tail.
+[20:59:37]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:59:37]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:59:37]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:59:37]EMOTE: *no key*/(monkey (308)) : <b>The monkey (308)</b> waves his tail.
+[20:59:39]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:59:43]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:59:43]EMOTE: *no key*/(monkey (72)) : <b>The monkey (72)</b> waves her tail.
+[20:59:45]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:59:45]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:59:45]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:59:45]EMOTE: *no key*/(monkey (361)) : <b>The monkey (361)</b> waves his tail.
+[20:59:47]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[20:59:49]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[20:59:49]EMOTE: *no key*/(monkey (308)) : <b>The monkey (308)</b> waves his tail.
+[20:59:53]EMOTE: *no key*/(monkey (543)) : <b>The monkey (543)</b> scratches.
+[20:59:55]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> flutters its wings.
+[20:59:55]EMOTE: *no key*/(monkey (72)) : <b>The monkey (72)</b> waves her tail.
+[20:59:57]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[20:59:57]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[20:59:57]EMOTE: *no key*/(monkey (210)) : <b>The monkey (210)</b> jumps!
+[20:59:59]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[20:59:59]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[20:59:59]EMOTE: *no key*/(monkey (769)) : <b>The monkey (769)</b> scratches.
+[21:00:01]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[21:00:01]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[21:00:01]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[21:00:03]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[21:00:03]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[21:00:03]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[21:00:03]EMOTE: *no key*/(monkey (838)) : <b>The monkey (838)</b> jumps!
+[21:00:05]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[21:00:05]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[21:00:05]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[21:00:07]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[21:00:07]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[21:00:09]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[21:00:11]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[21:00:11]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[21:00:15]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[21:00:15]EMOTE: *no key*/(monkey (657)) : <b>The monkey (657)</b> jumps!
+[21:00:17]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[21:00:17]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[21:00:19]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[21:00:19]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[21:00:19]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[21:00:23]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[21:00:23]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[21:00:23]EMOTE: *no key*/(monkey (970)) : <b>The monkey (970)</b> waves his tail.
+[21:00:23]EMOTE: *no key*/(monkey (361)) : <b>The monkey (361)</b> gasps!
+[21:00:25]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[21:00:27]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[21:00:27]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[21:00:27]SAY: Ian/ : Bark!
+[21:00:29]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[21:00:29]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[21:00:31]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[21:00:31]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[21:00:31]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[21:00:33]EMOTE: *no key*/(monkey (361)) : <b>The monkey (361)</b> gasps!
+[21:00:35]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[21:00:35]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[21:00:35]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[21:00:35]EMOTE: *no key*/(monkey (361)) : <b>The monkey (361)</b> gasps!
+[21:00:37]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[21:00:37]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shivers
+[21:00:39]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[21:00:39]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[21:00:41]SAY: Runtime/ : Esp!
+[21:00:41]ADMIN: guest3622605515/(Steven Gregory) admin ghosted.
+[21:00:42]ACCESS: Mob Login: guest3622605515/(Steven Gregory) was assigned to a /mob/dead/observer
+[21:00:43]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[21:00:43]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[21:00:45]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[21:00:45]EMOTE: *no key*/(monkey (458)) : <b>The monkey (458)</b> scratches.
+[21:00:47]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[21:00:47]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[21:00:49]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[21:00:49]EMOTE: *no key*/(monkey (903)) : <b>The monkey (903)</b> jumps!
+[21:00:49]EMOTE: *no key*/(monkey (204)) : <b>The monkey (204)</b> scratches.
+[21:00:51]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[21:00:51]EMOTE: *no key*/(monkey (831)) : <b>The monkey (831)</b> waves her tail.
+[21:00:53]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[21:00:53]EMOTE: *no key*/(monkey (780)) : <b>The monkey (780)</b> rolls.
+[21:00:53]EMOTE: *no key*/(monkey (361)) : <b>The monkey (361)</b> gasps!
+[21:00:55]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[21:00:57]ACCESS: Mob Login: guest3622605515/(Steven Gregory) was assigned to a /mob/living/carbon/human
+[21:00:57]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[21:00:57]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[21:00:59]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[21:00:59]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> looks in the bedsheet's direction and takes flight.
+[21:00:59]EMOTE: *no key*/(monkey (912)) : <b>The monkey (912)</b> scratches.
+[21:01:03]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[21:01:03]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[21:01:03]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[21:01:03]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[21:01:05]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[21:01:05]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[21:01:07]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[21:01:07]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[21:01:07]EMOTE: *no key*/(Ian) : <b>Ian</b> yaps.
+[21:01:09]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[21:01:09]EMOTE: *no key*/(security monkey (71)) : <b>The security monkey (71)</b> gasps!
+[21:01:09]EMOTE: *no key*/(monkey (361)) : <b>The monkey (361)</b> gasps!
+[21:01:09]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[21:01:11]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[21:01:11]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[21:01:13]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[21:01:13]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[21:01:13]EMOTE: *no key*/(monkey (361)) : <b>The monkey (361)</b> gasps!
+[21:01:13]EMOTE: *no key*/(monkey (323)) : <b>The monkey (323)</b> waves his tail.
+[21:01:13]EMOTE: *no key*/(grey baby slime (209)) : <b>The grey baby slime (209)</b> jiggles!
+[21:01:15]EMOTE: *no key*/(security monkey (923)) : <b>The security monkey (923)</b> gasps!
+[21:01:15]EMOTE: *no key*/(security monkey (853)) : <b>The security monkey (853)</b> gasps!
+[21:01:15]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[21:01:15]EMOTE: *no key*/(monkey (831)) : <b>The monkey (831)</b> waves her tail.
+[21:01:15]EMOTE: *no key*/(monkey (361)) : <b>The monkey (361)</b> gasps!
+[21:01:19]EMOTE: *no key*/(security monkey (133)) : <b>The security monkey (133)</b> gasps!
+[21:01:19]EMOTE: *no key*/(monkey (361)) : <b>The monkey (361)</b> gasps!
+[21:01:19]EMOTE: *no key*/(monkey (361)) : <b>The monkey (361)</b> lets out a faint chimper as it collapses and stops moving...
+[21:01:21]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[21:01:21]EMOTE: *no key*/(red adult slime (339)) : <b>The red adult slime (339)</b> bounces in place.
+[21:01:21]EMOTE: *no key*/(monkey (516)) : <b>The monkey (516)</b> jumps!
+[21:01:23]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[21:01:23]EMOTE: *no key*/(security monkey (620)) : <b>The security monkey (620)</b> gasps!
+[21:01:25]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stretches out for a belly rub.
+[21:01:27]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[21:01:27]EMOTE: *no key*/(security monkey (225)) : <b>The security monkey (225)</b> gasps!
+[21:01:27]EMOTE: *no key*/(monkey (448)) : <b>The monkey (448)</b> scratches.
+[21:01:29]EMOTE: *no key*/(security monkey (75)) : <b>The security monkey (75)</b> gasps!
+[21:01:29]EMOTE: *no key*/(monkey (323)) : <b>The monkey (323)</b> rolls.
+[21:01:31]ACCESS: Logout: Guest-3622605515/(Steven Gregory)

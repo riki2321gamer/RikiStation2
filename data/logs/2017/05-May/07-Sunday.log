@@ -1,0 +1,166 @@
+
+
+Starting up. 00:10:47
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode clockwork cult (clockwork_cult) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode Devil Agents (devil_agents) to configuration.
+Adding game mode devil (devil) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode secret extended (secret extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: malfunction.
+Unknown continuous configuration definition: malfunction.
+Unknown midround antagonist configuration definition: malfunction.
+Saved mode is 'sandbox'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[00:10:47]ADMIN: Loading Banlist
+[00:10:55]ACCESS: Login: Riki2321gamer from 127.0.0.1-3622605515 || BYOND v511
+[00:10:55]ACCESS: Mob Login: Riki2321gamer/(Riki2321gamer) was assigned to a /mob/dead/new_player
+[00:11:04]ADMIN: Riki2321gamer has started the game.
+[00:11:09]ADMIN: Riki2321gamer/(Riki2321gamer) is changing the map to PubbyStation
+[00:11:13]ADMIN: Riki2321gamer/(Riki2321gamer) changed their view range to 7.
+[00:11:16]GAME: UFO Crash loaded at at 199,188,5
+[00:11:16]GAME: Animal Hospital loaded at at 149,192,5
+[00:11:16]GAME: Ruin of Greed loaded at at 87,110,5
+[00:11:17]GAME: Syndicate Lava Base loaded at at 51,114,5
+[00:11:17]GAME: Free Golem Ship loaded at at 23,86,5
+[00:11:17]GAME: <span class='boldannounce'>Rebooting World. Initiated by Riki2321gamer.</span>
+[00:11:18]ACCESS: Logout: Riki2321gamer/(Riki2321gamer)
+
+
+Starting up. 00:11:26
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode clockwork cult (clockwork_cult) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode Devil Agents (devil_agents) to configuration.
+Adding game mode devil (devil) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode secret extended (secret extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: malfunction.
+Unknown continuous configuration definition: malfunction.
+Unknown midround antagonist configuration definition: malfunction.
+Saved mode is 'sandbox'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[00:11:26]ADMIN: Loading Banlist
+[00:11:26]ACCESS: Login: Riki2321gamer from 127.0.0.1-3622605515 || BYOND v511
+[00:11:26]ACCESS: Mob Login: Riki2321gamer/(Riki2321gamer) was assigned to a /mob/dead/new_player
+[00:11:32]GAME: The Wishgranter Cube loaded at at 55,116,5
+[00:11:32]GAME: Ruin of Gluttony loaded at at 81,112,5
+[00:11:32]GAME: Fountain Hall loaded at at 145,193,5
+[00:11:32]GAME: Makeshift Shelter loaded at at 70,53,5
+[00:11:32]GAME: UFO Crash loaded at at 199,25,5
+[00:11:33]GAME: Syndicate Lava Base loaded at at 100,39,5
+[00:11:34]GAME: Derelict 5 loaded at at 110,147,9
+[00:11:34]GAME: Ordinary Space Tile loaded at at 146,57,9
+[00:11:34]GAME: Authorship loaded at at 73,159,8
+[00:11:34]GAME: Unnamed Turreted Outpost loaded at at 131,208,9
+[00:11:34]GAME: Abandoned Teleporter loaded at at 215,214,4
+[00:11:35]GAME: Abandoned Telecommunications Satellite loaded at at 128,152,10
+[00:11:35]GAME: Asteroid 3 loaded at at 179,110,9
+[00:11:35]GAME: Asteroid 5 loaded at at 28,53,4
+[00:11:35]GAME: Asteroid 4 loaded at at 111,157,8
+[00:11:35]GAME: Waylaid Buses loaded at at 102,213,3
+[00:11:35]GAME: Salvation loaded at at 175,56,4
+[00:11:36]GAME: Sky Bulge Tomb loaded at at 98,53,4
+[00:11:36]ADMIN: Riki2321gamer has started the game.
+[00:11:36]GAME: Crashed Ship loaded at at 30,155,6
+[00:11:37]GAME: Crashed Clown Ship loaded at at 110,202,8
+[00:11:39]GAME: The Twin-Nexus Hotel loaded at at 56,61,6
+[00:11:41]GAME: Kosmicheskaya Stantsiya 13 loaded at at 96,79,7
+[00:11:43]ADMIN: Riki2321gamer/(Riki2321gamer) stopped all currently playing sounds.
+[00:11:50]ADMIN: Riki2321gamer/(Riki2321gamer) played sound title3.ogg
+[00:13:26]ADMIN: Riki2321gamer has started the game.
+[00:13:49]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/living/carbon/human
+[00:13:53]EMOTE: *no key*/(Lizard) : <b>Lizard</b> stops moving...
+[00:13:53]SAY: Prison Ofitser/ : Engaging patrol mode.
+[00:13:53]SAY: Prison Ofitser/ : Disengaging patrol mode.
+[00:13:57]SAY: Accidents Happen/ : I knew it, I should&#39;ve been a plastic surgeon.
+[00:14:00]ADMIN: Riki2321gamer/(Riki) spawned /obj/item/clothing/head/bomber at (30,20,1)
+[00:14:02]SAY: Riki/Riki2321gamer : Oh god IM GONNA BLOW UP GET AWAY EVERYONE
+[00:14:11]SAY: mouse/ : Squeek!
+[00:14:27]SAY: mouse/ : Squeek?
+[00:14:27]GAME: Explosion with size (-1, -1, 20, 4) in area Central Primary Hallway (23,28,1)
+[00:14:36]EMOTE: *no key*/(monkey (398)) : <b>The monkey (398)</b> jumps!
+[00:14:41]SAY: Riki/Riki2321gamer : GET THE FUCK TO THE GROUND NOW RAISE YOUR HANDS RAISE YOUR HANDS THE ACTION YOU&#39;RE DOING IS ILLEGAL AND YOU WILL BE ARRESTED BY THE THOT PATROL
+[00:14:44]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[00:14:49]GAME: <a href='?priv_msg=riki2321gamer'>Riki2321gamer</a>/(Riki) checked the player panel while in game.
+[00:14:50]ADMIN: Riki2321gamer/(Riki) healed / Revived Riki2321gamer/(Riki).
+[00:14:53]GAME: Explosion with size (-1, -1, 20, 4) in area Central Primary Hallway (21,28,1)
+[00:14:55]SAY: Riki/Riki2321gamer : GET THE FUCK TO THE GROUND NOW RAISE YOUR HANDS RAISE YOUR HANDS THE ACTION YOU&#39;RE DOING IS ILLEGAL AND YOU WILL BE ARRESTED BY THE THOT PATROL
+[00:14:58]SAY: Riki/Riki2321gamer : GET THE FUCK TO THE GROUND NOW RAISE YOUR HANDS RAISE YOUR HANDS THE ACTION YOU&#39;RE DOING IS ILLEGAL AND YOU WILL BE ARRESTED BY THE THOT PATROL
+[00:15:01]GAME: <a href='?priv_msg=riki2321gamer'>Riki2321gamer</a>/(Riki) checked the player panel while in game.
+[00:15:02]ADMIN: Riki2321gamer/(Riki) healed / Revived Riki2321gamer/(Riki).
+[00:15:03]SAY: Riki/Riki2321gamer : GET THE FUCK TO THE GROUND NOW RAISE YOUR HANDS RAISE YOUR HANDS THE ACTION YOU&#39;RE DOING IS ILLEGAL AND YOU WILL BE ARRESTED BY THE THOT PATROL
+[00:15:08]SAY: Riki/Riki2321gamer : GET THE FUCK TO THE GROUND NOW RAISE YOUR HANDS RAISE YOUR HANDS THE ACTION YOU&#39;RE DOING IS ILLEGAL AND YOU WILL BE ARRESTED BY THE THOT PATROL
+[00:15:14]EMOTE: *no key*/(monkey (398)) : <b>The monkey (398)</b> waves her tail.
+[00:15:18]GAME: Explosion with size (-1, -1, 20, 4) in area Central Primary Hallway (21,28,1)
+[00:15:28]SAY: Riki/Riki2321gamer : GET THE FUCK TO THE GROUND NOW RAISE YOUR HANDS RAISE YOUR HANDS THE ACTION YOU&#39;RE DOING IS ILLEGAL AND YOU WILL BE ARRESTED BY THE THOT PATROL
+[00:15:58]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[00:16:01]GAME: Antagonists at round end were...
+[00:16:06]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[00:16:09]GAME: <span class='boldannounce'>Rebooting World. Initiated by Riki2321gamer.</span>
+[00:16:09]ACCESS: Logout: Riki2321gamer/(Riki)
+
+
+Starting up. 00:16:29
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode clockwork cult (clockwork_cult) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode Devil Agents (devil_agents) to configuration.
+Adding game mode devil (devil) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode secret extended (secret extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: malfunction.
+Unknown continuous configuration definition: malfunction.
+Unknown midround antagonist configuration definition: malfunction.
+Saved mode is 'sandbox'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[00:16:29]ADMIN: Loading Banlist
+[00:16:29]ACCESS: Login: Riki2321gamer from 127.0.0.1-3622605515 || BYOND v511
+[00:16:29]ACCESS: Mob Login: Riki2321gamer/(Riki2321gamer) was assigned to a /mob/dead/new_player
+[00:16:33]ACCESS: Logout: Riki2321gamer/(Riki2321gamer)

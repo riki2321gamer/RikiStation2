@@ -1,0 +1,1144 @@
+
+
+Starting up. 13:13:26
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode clockwork cult (clockwork_cult) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode Devil Agents (devil_agents) to configuration.
+Adding game mode devil (devil) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode secret extended (secret extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: malfunction.
+Unknown continuous configuration definition: malfunction.
+Unknown midround antagonist configuration definition: malfunction.
+Saved mode is 'sandbox'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[13:13:27]ADMIN: Loading Banlist
+[13:14:00]GAME: Biodome Clown Planet loaded at at 75,131,5
+[13:14:01]GAME: The Wishgranter Cube loaded at at 193,89,5
+[13:14:01]GAME: Ruin of Gluttony loaded at at 65,108,5
+[13:14:01]GAME: Syndicate Lava Base loaded at at 72,64,5
+[13:14:02]GAME: Hierophant's Arena loaded at at 165,197,5
+[13:14:02]GAME: Survival Capsule Ruins loaded at at 170,73,5
+[13:14:02]GAME: Animal Hospital loaded at at 213,198,5
+[13:14:02]GAME: Fountain Hall loaded at at 65,62,5
+[13:14:03]GAME: Salvation loaded at at 144,56,10
+[13:14:03]GAME: Authorship loaded at at 90,163,10
+[13:14:03]GAME: Asteroid 2 loaded at at 147,112,9
+[13:14:03]GAME: Crashed Clown Ship loaded at at 128,169,6
+[13:14:03]GAME: Sky Bulge Tomb loaded at at 29,33,8
+[13:14:03]GAME: Ordinary Space Tile loaded at at 42,35,6
+[13:14:03]GAME: Dinner for Two loaded at at 153,129,3
+[13:14:04]GAME: Disposal Facility 17 loaded at at 170,201,10
+[13:14:04]GAME: Empty Shell loaded at at 145,209,8
+[13:14:04]GAME: Strange Ship loaded at at 47,193,8
+[13:14:04]GAME: Syndicate Listening Station loaded at at 121,138,9
+[13:14:05]GAME: Derelict 4 loaded at at 92,65,4
+[13:14:06]GAME: Crashed Ship loaded at at 98,100,3
+[13:14:06]GAME: Derelict 1 loaded at at 105,28,9
+[13:14:06]GAME: DK Excavator 453 loaded at at 146,91,3
+[13:14:07]GAME: Derelict Tradepost loaded at at 182,71,7
+[13:15:22]ACCESS: Login: Guest-3622605515 from 127.0.0.1-3622605515 || BYOND v511
+[13:15:22]ACCESS: Mob Login: Guest-3622605515/(Guest-3622605515) was assigned to a /mob/dead/new_player
+[13:16:36]GAME: *null* has triggered a gibtonite deposit reaction at Lavaland Wastes (1, 1, 5).
+[13:16:38]EMOTE: *no key*/(monkey (954)) : <b>The monkey (954)</b> waves his tail.
+[13:16:38]SAY: Officer Beepsky/ : Engaging patrol mode.
+[13:16:38]SAY: Prison Ofitser/ : Engaging patrol mode.
+[13:16:38]SAY: Prison Ofitser/ : Disengaging patrol mode.
+[13:16:42]EMOTE: *no key*/(goldgrub) : <b>The goldgrub</b> spits up the contents of its stomach before dying!
+[13:16:42]EMOTE: *no key*/(monkey (337)) : <b>The monkey (337)</b> rolls.
+[13:16:46]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[13:16:51]EMOTE: *no key*/(monkey (854)) : <b>The monkey (854)</b> scratches.
+[13:16:53]EMOTE: *no key*/(Runtime) : <b>Runtime</b> grooms its fur.
+[13:16:56]EMOTE: *no key*/(grey baby slime (999)) : <b>The grey baby slime (999)</b> vibrates!
+[13:17:00]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[13:17:11]EMOTE: *no key*/(Poly) : <b>Poly</b> turns and flies towards the clipboard.
+[13:17:13]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> rolls.
+[13:17:15]EMOTE: *no key*/(monkey (13)) : <b>The monkey (13)</b> jumps!
+[13:17:23]EMOTE: *no key*/(monkey (1000)) : <b>The monkey (1000)</b> waves his tail.
+[13:17:28]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[13:17:28]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[13:17:35]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shivers
+[13:17:37]EMOTE: *no key*/(monkey (354)) : <b>The monkey (354)</b> rolls.
+[13:17:39]EMOTE: *no key*/(monkey (860)) : <b>The monkey (860)</b> jumps!
+[13:17:40]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[13:17:42]ACCESS: Mob Login: Guest-3622605515/(Iantha Blyant) was assigned to a /mob/living/carbon/human
+[13:17:48]EMOTE: *no key*/(monkey (299)) : <b>The monkey (299)</b> scratches.
+[13:17:50]SAY: mouse/ : Squeek!
+[13:17:50]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[13:17:52]EMOTE: *no key*/(monkey (13)) : <b>The monkey (13)</b> jumps!
+[13:17:54]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:17:54]EMOTE: *no key*/(Runtime) : <b>Runtime</b> mews
+[13:17:56]EMOTE: *no key*/(monkey (429)) : <b>The monkey (429)</b> waves her tail.
+[13:18:08]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[13:18:08]EMOTE: *no key*/(monkey (954)) : <b>The monkey (954)</b> rolls.
+[13:18:10]EMOTE: *no key*/(monkey (385)) : <b>The monkey (385)</b> waves his tail.
+[13:18:12]EMOTE: *no key*/(monkey (48)) : <b>The monkey (48)</b> rolls.
+[13:18:16]SAY: Iantha Blyant/Guest-3622605515 : W
+[13:18:22]EMOTE: *no key*/(monkey (128)) : <b>The monkey (128)</b> scratches.
+[13:18:22]EMOTE: *no key*/(monkey (354)) : <b>The monkey (354)</b> scratches.
+[13:18:26]EMOTE: *no key*/(monkey (1000)) : <b>The monkey (1000)</b> jumps!
+Ban database connection failure. Key lezuskonrad not checked
+[13:18:34]EMOTE: *no key*/(monkey (167)) : <b>The monkey (167)</b> waves his tail.
+[13:18:36]EMOTE: *no key*/(monkey (597)) : <b>The monkey (597)</b> rolls.
+[13:18:38]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[13:18:46]ADMIN: Announce: Guest-3622605515/(Iantha Blyant) : why am i a guest
+[13:18:52]SAY: mouse/ : SQUEEK!
+[13:18:52]ACCESS: Logout: Guest-3622605515/(Iantha Blyant)
+[13:18:54]SAY: Medibot/ : Delicious!
+[13:18:55]ACCESS: Login: Lezus_Konrad from 82.17.116.125-3955108823 || BYOND v511
+[13:18:55]ACCESS: Mob Login: Lezus_Konrad/(Lezus_Konrad) was assigned to a /mob/dead/new_player
+[13:18:56]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[13:18:56]EMOTE: *no key*/(monkey (987)) : <b>The monkey (987)</b> waves her tail.
+[13:18:58]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[13:18:58]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[13:19:00]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[13:19:02]EMOTE: *no key*/(monkey (130)) : <b>The monkey (130)</b> rolls.
+[13:19:06]SAY: grey baby slime (17)/ : Rawr...
+[13:19:06]EMOTE: *no key*/(monkey (229)) : <b>The monkey (229)</b> scratches.
+[13:19:06]ACCESS: Login: Riki2321gamer from 127.0.0.1-3622605515 || BYOND v511
+[13:19:06]ACCESS: Mob Login: Riki2321gamer/(Riki2321gamer) was assigned to a /mob/dead/new_player
+[13:19:08]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[13:19:08]EMOTE: *no key*/(grey baby slime (999)) : <b>The grey baby slime (999)</b> lights up for a bit, then stops.
+[13:19:11]OOC: Riki2321gamer/Riki2321gamer : ok that&#39;s better
+[13:19:12]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[13:19:12]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[13:19:13]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/living/carbon/human
+[13:19:17]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> waves its tail.
+[13:19:23]EMOTE: *no key*/(monkey (597)) : <b>The monkey (597)</b> scratches.
+[13:19:27]EMOTE: *no key*/(Clown) : <b>Clown</b> honks
+[13:19:31]EMOTE: *no key*/(monkey (71)) : <b>The monkey (71)</b> jumps!
+[13:19:32]SAY: Iantha Blyant/Guest-3622605515 : Help
+[13:19:35]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[13:19:37]EMOTE: *no key*/(monkey (638)) : <b>The monkey (638)</b> waves his tail.
+[13:19:37]EMOTE: *no key*/(monkey (536)) : <b>The monkey (536)</b> rolls.
+[13:19:37]SAY: Riki/Riki2321gamer : Hhhh
+[13:19:41]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[13:19:45]EMOTE: *no key*/(monkey (167)) : <b>The monkey (167)</b> waves his tail.
+[13:19:45]EMOTE: *no key*/(monkey (13)) : <b>The monkey (13)</b> scratches.
+[13:19:47]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> waves its tail.
+[13:19:51]EMOTE: *no key*/(monkey (665)) : <b>The monkey (665)</b> rolls.
+[13:19:53]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[13:19:53]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[13:19:58]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> waves its tail.
+[13:20:00]EMOTE: *no key*/(monkey (167)) : <b>The monkey (167)</b> rolls.
+[13:20:06]EMOTE: *no key*/(monkey (167)) : <b>The monkey (167)</b> scratches.
+[13:20:08]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[13:20:10]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Power-ON cartridge's direction and takes flight.
+[13:20:12]EMOTE: *no key*/(monkey (1000)) : <b>The monkey (1000)</b> rolls.
+[13:20:12]SAY: Clown/ : Honk!
+[13:20:16]EMOTE: *no key*/(monkey (228)) : <b>The monkey (228)</b> waves her tail.
+[13:20:16]EMOTE: *no key*/(monkey (167)) : <b>The monkey (167)</b> jumps!
+[13:20:23]ACCESS: Mob Login: Lezus_Konrad/(Alden Bluetenberger) was assigned to a /mob/living/carbon/human
+[13:20:26]SAY: mouse/ : Squeek?
+[13:20:26]EMOTE: *no key*/(monkey (860)) : <b>The monkey (860)</b> scratches.
+[13:20:31]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[13:20:33]EMOTE: *no key*/(monkey (747)) : <b>The monkey (747)</b> waves her tail.
+[13:20:37]EMOTE: *no key*/(monkey (597)) : <b>The monkey (597)</b> waves his tail.
+[13:20:39]EMOTE: *no key*/(monkey (167)) : <b>The monkey (167)</b> jumps!
+[13:20:41]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[13:20:45]EMOTE: Guest-3622605515[DC]/(Iantha Blyant) : <b>Iantha Blyant</b> gasps!
+[13:20:46]EMOTE: *no key*/(monkey (747)) : <b>The monkey (747)</b> jumps!
+[13:20:50]EMOTE: *no key*/(monkey (128)) : <b>The monkey (128)</b> jumps!
+[13:20:52]SAY: Medibot/ : Radar, put a mask on!
+[13:20:52]EMOTE: *no key*/(monkey (786)) : <b>The monkey (786)</b> jumps!
+[13:20:58]EMOTE: *no key*/(Ian) : <b>Ian</b> shakes its head.
+[13:20:58]EMOTE: *no key*/(Tom) : <b>Tom</b> shakes.
+[13:21:00]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[13:21:04]EMOTE: *no key*/(monkey (988)) : <b>The monkey (988)</b> rolls.
+[13:21:06]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Power-ON cartridge's direction and takes flight.
+[13:21:06]EMOTE: *no key*/(Ian) : <b>Ian</b> shakes its head.
+[13:21:06]EMOTE: *no key*/(monkey (596)) : <b>The monkey (596)</b> jumps!
+[13:21:08]EMOTE: *no key*/(monkey (106)) : <b>The monkey (106)</b> rolls.
+[13:21:10]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> waves its tail.
+[13:21:12]EMOTE: *no key*/(monkey (788)) : <b>The monkey (788)</b> scratches.
+[13:21:12]EMOTE: *no key*/(monkey (252)) : <b>The monkey (252)</b> waves her tail.
+[13:21:12]EMOTE: *no key*/(monkey (638)) : <b>The monkey (638)</b> scratches.
+[13:21:14]SAY: Medibot/ : Delicious!
+[13:21:14]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> scratches.
+[13:21:14]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> scratches.
+[13:21:18]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[13:21:22]SAY: mouse/ : Squeek!
+[13:21:22]EMOTE: *no key*/(monkey (299)) : <b>The monkey (299)</b> rolls.
+[13:21:24]EMOTE: *no key*/(monkey (354)) : <b>The monkey (354)</b> waves his tail.
+[13:21:36]EMOTE: Guest-3622605515[DC]/(Iantha Blyant) : <b>Iantha Blyant</b> gasps!
+[13:21:38]EMOTE: *no key*/(monkey (130)) : <b>The monkey (130)</b> scratches.
+[13:21:40]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[13:21:40]EMOTE: *no key*/(monkey (987)) : <b>The monkey (987)</b> waves her tail.
+[13:21:40]SAY: Clown/ : HONK
+[13:21:40]EMOTE: *no key*/(monkey (385)) : <b>The monkey (385)</b> rolls.
+[13:21:42]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[13:21:42]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> rolls.
+[13:21:46]SAY: mouse/ : Squeek!
+[13:21:56]EMOTE: *no key*/(monkey (954)) : <b>The monkey (954)</b> rolls.
+[13:21:58]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[13:22:00]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Power-ON cartridge's direction and takes flight.
+[13:22:00]SAY: Nobody's Perfect/ : Delicious!
+[13:22:02]EMOTE: Guest-3622605515[DC]/(Iantha Blyant) : <b>Iantha Blyant</b> gasps!
+[13:22:04]SAY: mouse/ : Squeek!
+[13:22:04]SAY: Clown/ : HONK
+[13:22:05]OOC: Alden Bluetenberger/Lezus_Konrad : CHA CHA CHARGER!
+[13:22:06]SAY: Runtime/ : HSSSSS
+[13:22:08]EMOTE: Guest-3622605515[DC]/(Iantha Blyant) : <b>Iantha Blyant</b> gasps!
+[13:22:10]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> rolls.
+[13:22:12]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[13:22:14]SAY: Medibot/ : Radar, put a mask on!
+[13:22:16]SAY: mouse/ : SQUEEK!
+[13:22:16]EMOTE: *no key*/(monkey (167)) : <b>The monkey (167)</b> scratches.
+[13:22:22]SAY: mouse/ : SQUEEK!
+[13:22:26]EMOTE: *no key*/(monkey (130)) : <b>The monkey (130)</b> scratches.
+[13:22:28]SAY: Medibot/ : Radar, put a mask on!
+[13:22:30]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[13:22:30]EMOTE: *no key*/(Tom) : <b>Tom</b> shakes.
+[13:22:34]EMOTE: *no key*/(monkey (130)) : <b>The monkey (130)</b> rolls.
+[13:22:39]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[13:22:40]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> jumps!
+[13:22:42]EMOTE: *no key*/(monkey (337)) : <b>The monkey (337)</b> waves her tail.
+[13:22:46]EMOTE: *no key*/(monkey (991)) : <b>The monkey (991)</b> jumps!
+[13:22:48]EMOTE: *no key*/(monkey (991)) : <b>The monkey (991)</b> waves her tail.
+[13:22:52]SAY: Poly/ : Hullbreach!
+[13:22:54]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the BreatheDeep cartridge's direction and takes flight.
+[13:22:54]SAY: Nobody's Perfect/ : Delicious!
+[13:22:58]EMOTE: *no key*/(monkey (528)) : <b>The monkey (528)</b> rolls.
+[13:22:58]EMOTE: *no key*/(monkey (788)) : <b>The monkey (788)</b> rolls.
+[13:23:02]EMOTE: *no key*/(monkey (252)) : <b>The monkey (252)</b> waves her tail.
+[13:23:04]SAY: mouse/ : Squeek?
+[13:23:04]EMOTE: *no key*/(monkey (747)) : <b>The monkey (747)</b> jumps!
+[13:23:06]EMOTE: Guest-3622605515[DC]/(Iantha Blyant) : <b>Iantha Blyant</b> gasps!
+[13:23:10]EMOTE: *no key*/(monkey (252)) : <b>The monkey (252)</b> jumps!
+[13:23:10]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> jumps!
+[13:23:12]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:23:14]EMOTE: *no key*/(monkey (528)) : <b>The monkey (528)</b> waves his tail.
+[13:23:16]EMOTE: *no key*/(monkey (854)) : <b>The monkey (854)</b> jumps!
+[13:23:18]EMOTE: *no key*/(monkey (596)) : <b>The monkey (596)</b> jumps!
+[13:23:24]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[13:23:26]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[13:23:30]EMOTE: Guest-3622605515[DC]/(Iantha Blyant) : <b>Iantha Blyant</b> gasps!
+[13:23:32]OOC: Alden Bluetenberger/Lezus_Konrad : so any progress? probably not as you went to sleep.
+[13:23:34]SAY: mouse/ : Squeek!
+[13:23:36]EMOTE: Guest-3622605515[DC]/(Iantha Blyant) : <b>Iantha Blyant</b> gasps!
+[13:23:36]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[13:23:38]EMOTE: Guest-3622605515[DC]/(Iantha Blyant) : <b>Iantha Blyant</b> gasps!
+[13:23:39]EMOTE: *no key*/(monkey (987)) : <b>The monkey (987)</b> waves her tail.
+[13:23:42]ADMIN: Lezus_Konrad/(Alden Bluetenberger) jumped to Riki2321gamer/(Riki)
+[13:23:43]EMOTE: *no key*/(monkey (896)) : <b>The monkey (896)</b> rolls.
+[13:23:47]SAY: Clown/ : HONK
+[13:23:47]EMOTE: *no key*/(Clown) : <b>Clown</b> honks
+[13:23:49]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Space Cigarettes packet's direction and takes flight.
+[13:23:51]EMOTE: Guest-3622605515[DC]/(Iantha Blyant) : <b>Iantha Blyant</b> gasps!
+[13:23:51]EMOTE: *no key*/(monkey (449)) : <b>The monkey (449)</b> rolls.
+[13:23:53]SAY: Clown/ : Honk!
+[13:23:53]EMOTE: *no key*/(monkey (536)) : <b>The monkey (536)</b> rolls.
+[13:23:54]OOC: Riki/Riki2321gamer : nope
+[13:23:55]EMOTE: *no key*/(monkey (954)) : <b>The monkey (954)</b> rolls.
+[13:23:57]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[13:23:57]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[13:24:00]OOC: Riki/Riki2321gamer : and I haven&#39;t recompiled yet
+[13:24:01]SAY: mouse/ : Squeek?
+[13:24:03]SAY: mouse/ : Squeek?
+[13:24:03]EMOTE: *no key*/(monkey (786)) : <b>The monkey (786)</b> jumps!
+[13:24:05]OOC: Riki/Riki2321gamer : but I can&#39;t seem to get the gui to work
+[13:24:05]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> waves its tail.
+[13:24:07]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> scratches.
+[13:24:08]OOC: Riki/Riki2321gamer : only certain pdas work
+[13:24:15]EMOTE: *no key*/(monkey (71)) : <b>The monkey (71)</b> waves his tail.
+[13:24:19]OOC: Alden Bluetenberger/Lezus_Konrad : what are they?
+[13:24:29]EMOTE: *no key*/(Clown) : <b>Clown</b> honks
+[13:24:29]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[13:24:29]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> jumps!
+[13:24:29]EMOTE: *no key*/(monkey (896)) : <b>The monkey (896)</b> waves his tail.
+[13:24:31]OOC: Riki/Riki2321gamer : i edited the captain&#39;s pda gui
+[13:24:33]SAY: mouse/ : Squeek!
+[13:24:35]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[13:24:35]EMOTE: *no key*/(monkey (229)) : <b>The monkey (229)</b> jumps!
+[13:24:36]OOC: Riki/Riki2321gamer : i can&#39;t seem to find the other gui&#39;s
+[13:24:37]SAY: mouse/ : Squeek?
+[13:24:39]SAY: mouse/ : SQUEEK!
+[13:24:39]EMOTE: *no key*/(monkey (48)) : <b>The monkey (48)</b> waves his tail.
+[13:24:41]EMOTE: Guest-3622605515[DC]/(Iantha Blyant) : <b>Iantha Blyant</b> gasps!
+[13:24:44]OOC: Alden Bluetenberger/Lezus_Konrad : ah.
+[13:24:45]EMOTE: *no key*/(Clown) : <b>Clown</b> honks
+[13:24:45]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the monitor decryption key's direction and takes flight.
+[13:24:49]EMOTE: Guest-3622605515[DC]/(Iantha Blyant) : <b>Iantha Blyant</b> gasps!
+[13:24:49]EMOTE: *no key*/(Ian) : <b>Ian</b> shivers.
+[13:24:51]EMOTE: Guest-3622605515[DC]/(Iantha Blyant) : <b>Iantha Blyant</b> gasps!
+[13:24:54]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/living/brain
+[13:24:54]ADMIN: Lezus_Konrad/(Alden Bluetenberger) punished *no key*/(Riki) with Gib.
+[13:24:55]EMOTE: *no key*/(monkey (665)) : <b>The monkey (665)</b> rolls.
+[13:24:55]EMOTE: *no key*/(monkey (597)) : <b>The monkey (597)</b> jumps!
+[13:24:57]EMOTE: Guest-3622605515[DC]/(Iantha Blyant) : <b>Iantha Blyant</b> gasps!
+[13:24:57]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> waves its tail.
+[13:25:01]EMOTE: Guest-3622605515[DC]/(Iantha Blyant) : <b>Iantha Blyant</b> gasps!
+[13:25:03]EMOTE: Guest-3622605515[DC]/(Iantha Blyant) : <b>Iantha Blyant</b> gasps!
+[13:25:03]EMOTE: *no key*/(Clown) : <b>Clown</b> squeaks
+[13:25:03]SAY: Alden Bluetenberger/Lezus_Konrad : WHAT THE FUCK?
+[13:25:04]GAME: Riki/Riki2321gamer used abandon mob.
+[13:25:04]ACCESS: Mob Login: Riki2321gamer/(new player) was assigned to a /mob/dead/new_player
+[13:25:05]EMOTE: Guest-3622605515[DC]/(Iantha Blyant) : <b>Iantha Blyant</b> gasps!
+[13:25:05]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[13:25:06]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/living/carbon/human
+[13:25:09]EMOTE: *no key*/(monkey (337)) : <b>The monkey (337)</b> jumps!
+[13:25:09]EMOTE: *no key*/(monkey (71)) : <b>The monkey (71)</b> rolls.
+[13:25:13]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[13:25:13]EMOTE: *no key*/(monkey (337)) : <b>The monkey (337)</b> rolls.
+[13:25:14]ADMIN: Lezus_Konrad/(Alden Bluetenberger) spawned /obj/item/weapon/reagent_containers/glass/bottle/adminordrazine at (62,141,1)
+[13:25:15]EMOTE: *no key*/(monkey (991)) : <b>The monkey (991)</b> scratches.
+[13:25:15]EMOTE: *no key*/(monkey (128)) : <b>The monkey (128)</b> jumps!
+[13:25:24]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[13:25:26]EMOTE: *no key*/(monkey (665)) : <b>The monkey (665)</b> scratches.
+[13:25:28]EMOTE: *no key*/(monkey (1000)) : <b>The monkey (1000)</b> jumps!
+[13:25:30]EMOTE: *no key*/(monkey (337)) : <b>The monkey (337)</b> waves her tail.
+[13:25:32]SAY: Riki/Riki2321gamer : Wat
+[13:25:36]EMOTE: *no key*/(monkey (665)) : <b>The monkey (665)</b> scratches.
+[13:25:36]SAY: Nobody's Perfect/ : Delicious!
+[13:25:42]SAY: Medibot/ : Delicious!
+[13:25:44]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Zippo lighter's direction and takes flight.
+[13:25:46]EMOTE: *no key*/(monkey (1000)) : <b>The monkey (1000)</b> scratches.
+[13:25:46]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> scratches.
+[13:25:46]EMOTE: *no key*/(monkey (48)) : <b>The monkey (48)</b> scratches.
+[13:25:47]SAY: Alden Bluetenberger/Lezus_Konrad : Adminordrazine bitch!
+[13:25:50]ADMIN: Riki2321gamer/(Riki) spawned /mob/living/simple_animal/pet/dog/corgi/puppy at (61,142,1)
+[13:25:50]EMOTE: *no key*/(monkey (299)) : <b>The monkey (299)</b> jumps!
+[13:25:52]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[13:25:54]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> dozes off.
+[13:25:56]SAY: corgi puppy/ : Help
+[13:25:58]EMOTE: *no key*/(monkey (48)) : <b>The monkey (48)</b> scratches.
+[13:26:01]SAY: Riki/Riki2321gamer : Hhhh
+[13:26:02]EMOTE: *no key*/(monkey (665)) : <b>The monkey (665)</b> scratches.
+[13:26:11]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:26:22]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> waves its tail.
+[13:26:22]ADMIN: Lezus_Konrad/(Alden Bluetenberger) spawned /obj/item/weapon/c4 at (61,141,1)
+[13:26:24]EMOTE: *no key*/(monkey (988)) : <b>The monkey (988)</b> scratches.
+[13:26:26]EMOTE: *no key*/(grey baby slime (999)) : <b>The grey baby slime (999)</b> lights up for a bit, then stops.
+[13:26:30]EMOTE: *no key*/(monkey (1000)) : <b>The monkey (1000)</b> jumps!
+[13:26:32]SAY: Poly/ : Don&#39;t believe the reports - smoke today!
+[13:26:36]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[13:26:36]EMOTE: *no key*/(monkey (13)) : <b>The monkey (13)</b> jumps!
+[13:26:42]ADMIN: Lezus_Konrad/(Alden Bluetenberger) jumped to Riki2321gamer/(Riki)
+[13:26:42]EMOTE: *no key*/(monkey (106)) : <b>The monkey (106)</b> jumps!
+[13:26:44]EMOTE: *no key*/(monkey (1000)) : <b>The monkey (1000)</b> jumps!
+[13:26:44]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> scratches.
+[13:26:46]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> woofs!
+[13:26:46]EMOTE: *no key*/(monkey (449)) : <b>The monkey (449)</b> jumps!
+[13:26:52]EMOTE: *no key*/(monkey (1000)) : <b>The monkey (1000)</b> scratches.
+[13:26:54]EMOTE: *no key*/(Clown) : <b>Clown</b> squeaks
+[13:26:54]SAY: Baker IV/ : Help
+[13:26:59]SAY: Riki/Riki2321gamer : Hhhh
+[13:27:00]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Zippo lighter's direction and takes flight.
+[13:27:00]EMOTE: *no key*/(monkey (385)) : <b>The monkey (385)</b> scratches.
+[13:27:04]SAY: Poly/ : Don&#39;t believe the reports - smoke today!
+[13:27:04]GAME: Lezus_Konrad/(Alden Bluetenberger) (job: Assistant) commited suicide at Medbay Central.
+[13:27:04]SAY: Alden Bluetenberger/Lezus_Konrad : FOR NO RAISIN!
+[13:27:05]ACCESS: Mob Login: Lezus_Konrad/(Alden Bluetenberger) was assigned to a /mob/dead/observer
+[13:27:05]GAME: Explosion with size (0, 0, 3, 0) in area Medbay Central (143,126,1)
+[13:27:08]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[13:27:08]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[13:27:10]SAY: mouse/ : SQUEEK!
+[13:27:10]EMOTE: *no key*/(grey baby slime (17)) : <b>The grey baby slime (17)</b> jiggles!
+[13:27:12]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> rolls.
+[13:27:16]SAY: Medibot/ : Radar, put a mask on!
+[13:27:16]EMOTE: *no key*/(Clown) : <b>Clown</b> squeaks
+[13:27:26]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> jumps!
+[13:27:27]SAY: Riki/Riki2321gamer : U
+[13:27:30]EMOTE: *no key*/(Clown) : <b>Clown</b> squeaks
+[13:27:34]EMOTE: *no key*/(monkey (337)) : <b>The monkey (337)</b> waves her tail.
+[13:27:36]EMOTE: *no key*/(grey baby slime (17)) : <b>The grey baby slime (17)</b> jiggles!
+[13:27:38]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> scratches.
+[13:27:40]EMOTE: *no key*/(monkey (71)) : <b>The monkey (71)</b> scratches.
+[13:27:40]EMOTE: *no key*/(monkey (48)) : <b>The monkey (48)</b> rolls.
+[13:27:41]ADMIN: Riki2321gamer/(Riki) admin ghosted.
+[13:27:41]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/dead/observer
+[13:27:42]SAY: mouse/ : Squeek!
+[13:27:42]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[13:27:42]EMOTE: *no key*/(monkey (988)) : <b>The monkey (988)</b> jumps!
+[13:27:43]GAME: Riki/Riki2321gamer used abandon mob.
+[13:27:43]ACCESS: Mob Login: Riki2321gamer/(new player) was assigned to a /mob/dead/new_player
+[13:27:44]SAY: Clown/ : Honk!
+[13:27:45]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/living/carbon/human
+[13:27:49]EMOTE: *no key*/(monkey (638)) : <b>The monkey (638)</b> waves his tail.
+[13:27:52]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> waves its tail.
+[13:27:56]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> scratches.
+[13:27:58]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the chief engineer's rubber stamp's direction and takes flight.
+[13:28:00]ADMIN: Riki2321gamer/(Riki) jumped to Bar
+[13:28:02]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[13:28:02]SAY: Clown/ : Welcome to clown planet!
+[13:28:02]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> waves its tail.
+[13:28:02]EMOTE: *no key*/(monkey (896)) : <b>The monkey (896)</b> jumps!
+[13:28:03]GAME: <a href='?priv_msg=riki2321gamer'>Riki2321gamer</a>/(Riki) checked the player panel while in game.
+[13:28:04]ADMIN: Riki2321gamer/(Riki) healed / Revived Riki2321gamer/(Riki).
+[13:28:08]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> waves its tail.
+[13:28:10]OOC: Alden Bluetenberger/Lezus_Konrad : can you just recompile. is the captains gui working?
+[13:28:10]EMOTE: *no key*/(grey baby slime (999)) : <b>The grey baby slime (999)</b> bounces in place.
+[13:28:10]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> rolls.
+[13:28:14]EMOTE: *no key*/(monkey (33)) : <b>The monkey (33)</b> jumps!
+[13:28:15]SAY: Riki/@Riki2321gamer : Help
+[13:28:16]EMOTE: *no key*/(monkey (385)) : <b>The monkey (385)</b> jumps!
+[13:28:16]EMOTE: *no key*/(monkey (854)) : <b>The monkey (854)</b> rolls.
+[13:28:20]SAY: mouse/ : Squeek!
+[13:28:20]SAY: Riki/Riki2321gamer : Hhhh
+[13:28:22]SAY: mouse/ : Squeek?
+[13:28:22]EMOTE: *no key*/(monkey (597)) : <b>The monkey (597)</b> rolls.
+[13:28:24]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[13:28:24]OOC: Riki/Riki2321gamer : a bit but the stomach functions are broken completely
+[13:28:29]OOC: Riki/Riki2321gamer : I don&#39;t know what i did wrong
+[13:28:30]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> jumps!
+[13:28:32]EMOTE: *no key*/(monkey (228)) : <b>The monkey (228)</b> rolls.
+[13:28:32]EMOTE: *no key*/(monkey (596)) : <b>The monkey (596)</b> scratches.
+[13:28:32]EMOTE: *no key*/(monkey (229)) : <b>The monkey (229)</b> rolls.
+[13:28:36]SAY: Clown/ : Honk!
+[13:28:36]EMOTE: *no key*/(monkey (33)) : <b>The monkey (33)</b> scratches.
+[13:28:38]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[13:28:40]OOC: Riki/Riki2321gamer : I just did c.stomach remove etc
+[13:28:41]OOC: Alden Bluetenberger/Lezus_Konrad : are you banned from citadel?
+[13:28:44]EMOTE: *no key*/(monkey (638)) : <b>The monkey (638)</b> rolls.
+[13:28:45]OOC: Riki/Riki2321gamer : nope
+[13:28:46]SAY: Ian/ : YAP
+[13:28:48]EMOTE: *no key*/(monkey (665)) : <b>The monkey (665)</b> jumps!
+[13:28:50]SAY: mouse/ : Squeek!
+[13:28:50]EMOTE: *no key*/(monkey (991)) : <b>The monkey (991)</b> waves her tail.
+[13:28:52]EMOTE: *no key*/(Spaceman) : <b>Spaceman</b> stops moving...
+[13:28:52]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[13:28:54]EMOTE: *no key*/(grey baby slime (17)) : <b>The grey baby slime (17)</b> jiggles!
+[13:28:58]EMOTE: *no key*/(monkey (747)) : <b>The monkey (747)</b> scratches.
+[13:29:02]EMOTE: *no key*/(monkey (788)) : <b>The monkey (788)</b> rolls.
+[13:29:02]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> waves its tail.
+[13:29:03]OOC: Riki/Riki2321gamer : but actually I&#39;ve never played on citadel i mostly just play tg and goon
+[13:29:04]EMOTE: *no key*/(monkey (954)) : <b>The monkey (954)</b> waves his tail.
+[13:29:06]SAY: mouse/ : Squeek?
+[13:29:06]OOC: Alden Bluetenberger/Lezus_Konrad : then get on their discord and ask how they did the vore panel and shit.
+[13:29:10]SAY: mouse/ : SQUEEK!
+[13:29:12]EMOTE: *no key*/(monkey (337)) : <b>The monkey (337)</b> scratches.
+[13:29:12]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[13:29:16]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:29:19]OOC: Riki/Riki2321gamer : sure
+[13:29:22]SAY: Clown/ : Welcome to clown planet!
+[13:29:23]OOC: Riki/Riki2321gamer : or I could try more functions
+[13:29:26]EMOTE: *no key*/(Spaceman) : <b>Spaceman</b> stops moving...
+[13:29:28]OOC: Riki/Riki2321gamer : as there is forcemove
+[13:29:30]EMOTE: @Riki2321gamer[DC]/(Riki) : <b>Riki</b> gasps!
+[13:29:30]EMOTE: *no key*/(grey baby slime (999)) : <b>The grey baby slime (999)</b> jiggles!
+[13:29:30]EMOTE: *no key*/(monkey (665)) : <b>The monkey (665)</b> rolls.
+[13:29:35]OOC: Riki/Riki2321gamer : which makes a player jump to a location coord
+[13:29:36]OOC: Alden Bluetenberger/Lezus_Konrad : we need to know how they did it.
+[13:29:40]EMOTE: @Riki2321gamer[DC]/(Riki) : <b>Riki</b> gasps!
+[13:29:46]OOC: Riki/Riki2321gamer : i could force players to jump to the people who vored them&#39;s coords
+[13:29:48]SAY: Clown/ : Honk!
+[13:29:53]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[13:29:54]EMOTE: *no key*/(monkey (954)) : <b>The monkey (954)</b> scratches.
+[13:29:56]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[13:29:56]EMOTE: *no key*/(monkey (449)) : <b>The monkey (449)</b> waves his tail.
+[13:29:58]SAY: Poly/ : Traitorous until proven pretty!
+[13:29:58]EMOTE: *no key*/(monkey (48)) : <b>The monkey (48)</b> waves his tail.
+[13:30:10]EMOTE: *no key*/(monkey (33)) : <b>The monkey (33)</b> waves his tail.
+[13:30:10]EMOTE: *no key*/(monkey (596)) : <b>The monkey (596)</b> jumps!
+[13:30:12]EMOTE: *no key*/(grey baby slime (17)) : <b>The grey baby slime (17)</b> bounces in place.
+[13:30:12]EMOTE: *no key*/(monkey (252)) : <b>The monkey (252)</b> rolls.
+[13:30:16]EMOTE: @Riki2321gamer[DC]/(Riki) : <b>Riki</b> gasps!
+[13:30:16]SAY: Poly/ : Riki has signed up as Geneticist
+[13:30:17]EMOTE: *no key*/(monkey (596)) : <b>The monkey (596)</b> waves his tail.
+[13:30:19]EMOTE: *no key*/(monkey (128)) : <b>The monkey (128)</b> scratches.
+[13:30:20]SAY: Clown/ : Honk!
+[13:30:21]EMOTE: *no key*/(monkey (337)) : <b>The monkey (337)</b> jumps!
+[13:30:22]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> gasps!
+[13:30:26]OOC: Riki/Riki2321gamer : i&#39;m gonna try it later
+[13:30:28]OOC: Riki/Riki2321gamer : maybe
+[13:30:31]EMOTE: *no key*/(monkey (302)) : <b>The monkey (302)</b> waves his tail.
+[13:30:31]EMOTE: *no key*/(Runtime) : <b>Runtime</b> walks around.
+[13:30:32]EMOTE: @Riki2321gamer[DC]/(Riki) : <b>Riki</b> gasps!
+[13:30:33]EMOTE: *no key*/(monkey (954)) : <b>The monkey (954)</b> rolls.
+[13:30:37]EMOTE: *no key*/(monkey (987)) : <b>The monkey (987)</b> waves her tail.
+[13:30:41]EMOTE: *no key*/(monkey (638)) : <b>The monkey (638)</b> waves his tail.
+[13:30:42]OOC: Riki/Riki2321gamer : but the coordinate thing would work
+[13:30:43]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:30:45]EMOTE: *no key*/(monkey (337)) : <b>The monkey (337)</b> scratches.
+[13:30:49]EMOTE: *no key*/(monkey (854)) : <b>The monkey (854)</b> scratches.
+[13:30:49]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> rolls.
+[13:30:49]EMOTE: *no key*/(monkey (638)) : <b>The monkey (638)</b> scratches.
+[13:30:51]EMOTE: *no key*/(monkey (228)) : <b>The monkey (228)</b> rolls.
+[13:30:51]EMOTE: *no key*/(monkey (988)) : <b>The monkey (988)</b> jumps!
+[13:30:53]SAY: Clown/ : Welcome to clown planet!
+[13:30:55]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> scratches.
+[13:30:59]EMOTE: @Riki2321gamer[DC]/(Riki) : <b>Riki</b> gasps!
+[13:31:01]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[13:31:07]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> gasps!
+[13:31:07]EMOTE: *no key*/(monkey (988)) : <b>The monkey (988)</b> scratches.
+[13:31:09]SAY: Poly/ : Riki has signed up as Geneticist
+[13:31:09]EMOTE: *no key*/(monkey (302)) : <b>The monkey (302)</b> jumps!
+[13:31:13]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> shivers.
+[13:31:13]EMOTE: *no key*/(monkey (106)) : <b>The monkey (106)</b> scratches.
+[13:31:26]EMOTE: *no key*/(monkey (130)) : <b>The monkey (130)</b> waves his tail.
+[13:31:26]EMOTE: *no key*/(monkey (786)) : <b>The monkey (786)</b> waves his tail.
+[13:31:26]EMOTE: *no key*/(monkey (354)) : <b>The monkey (354)</b> scratches.
+[13:31:28]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[13:31:28]EMOTE: *no key*/(monkey (128)) : <b>The monkey (128)</b> jumps!
+[13:31:32]SAY: Ian/ : YAP
+[13:31:36]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> gasps!
+[13:31:38]SAY: mouse/ : Squeek?
+[13:31:38]EMOTE: *no key*/(monkey (528)) : <b>The monkey (528)</b> rolls.
+[13:31:42]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[13:31:46]EMOTE: @Riki2321gamer[DC]/(Riki) : <b>Riki</b> gasps!
+[13:31:50]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> gasps!
+[13:31:56]EMOTE: *no key*/(monkey (536)) : <b>The monkey (536)</b> scratches.
+[13:32:00]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> gasps!
+[13:32:02]EMOTE: *no key*/(monkey (954)) : <b>The monkey (954)</b> jumps!
+[13:32:06]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[13:32:06]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:32:18]EMOTE: @Riki2321gamer[DC]/(Riki) : <b>Riki</b> gasps!
+[13:32:18]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[13:32:22]EMOTE: *no key*/(monkey (106)) : <b>The monkey (106)</b> waves his tail.
+[13:32:24]EMOTE: *no key*/(monkey (788)) : <b>The monkey (788)</b> jumps!
+[13:32:24]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> gasps!
+[13:32:24]OOC: Alden Bluetenberger/Lezus_Konrad : we need to get intel from the succesful cunts of vore.
+[13:32:26]EMOTE: *no key*/(monkey (788)) : <b>The monkey (788)</b> jumps!
+[13:32:36]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[13:32:38]EMOTE: @Riki2321gamer[DC]/(Riki) : <b>Riki</b> gasps!
+[13:32:40]EMOTE: *no key*/(monkey (354)) : <b>The monkey (354)</b> rolls.
+[13:32:42]EMOTE: *no key*/(monkey (299)) : <b>The monkey (299)</b> jumps!
+[13:32:46]EMOTE: *no key*/(monkey (48)) : <b>The monkey (48)</b> rolls.
+[13:32:46]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[13:32:50]EMOTE: @Riki2321gamer[DC]/(Riki) : <b>Riki</b> gasps!
+[13:32:50]EMOTE: *no key*/(monkey (128)) : <b>The monkey (128)</b> scratches.
+[13:32:52]EMOTE: *no key*/(monkey (528)) : <b>The monkey (528)</b> rolls.
+[13:32:52]EMOTE: *no key*/(grey baby slime (17)) : <b>The grey baby slime (17)</b> vibrates!
+[13:32:52]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> yaps.
+[13:32:54]EMOTE: *no key*/(monkey (638)) : <b>The monkey (638)</b> waves his tail.
+[13:32:54]EMOTE: *no key*/(monkey (337)) : <b>The monkey (337)</b> scratches.
+[13:32:56]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[13:32:56]EMOTE: *no key*/(monkey (385)) : <b>The monkey (385)</b> waves his tail.
+[13:32:58]EMOTE: @Riki2321gamer[DC]/(Riki) : <b>Riki</b> gasps!
+[13:33:02]EMOTE: *no key*/(monkey (954)) : <b>The monkey (954)</b> jumps!
+[13:33:02]EMOTE: *no key*/(monkey (337)) : <b>The monkey (337)</b> scratches.
+[13:33:04]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> gasps!
+[13:33:08]EMOTE: @Riki2321gamer[DC]/(Riki) : <b>Riki</b> gasps!
+[13:33:14]EMOTE: *no key*/(monkey (302)) : <b>The monkey (302)</b> rolls.
+[13:33:14]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> gasps!
+[13:33:18]EMOTE: *no key*/(monkey (106)) : <b>The monkey (106)</b> waves his tail.
+[13:33:22]EMOTE: *no key*/(monkey (991)) : <b>The monkey (991)</b> rolls.
+[13:33:22]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> gasps!
+[13:33:26]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[13:33:30]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[13:33:32]EMOTE: *no key*/(monkey (788)) : <b>The monkey (788)</b> waves his tail.
+[13:33:32]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> gasps!
+[13:33:34]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> lets out a faint chimper as it collapses and stops moving...
+[13:33:36]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[13:33:40]EMOTE: *no key*/(monkey (860)) : <b>The monkey (860)</b> waves her tail.
+[13:33:44]EMOTE: *no key*/(Runtime) : <b>Runtime</b> lies down.
+[13:33:44]EMOTE: *no key*/(monkey (167)) : <b>The monkey (167)</b> scratches.
+[13:33:45]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[13:33:48]EMOTE: @Riki2321gamer[DC]/(Riki) : <b>Riki</b> gasps!
+[13:33:48]EMOTE: *no key*/(monkey (71)) : <b>The monkey (71)</b> rolls.
+[13:33:54]EMOTE: *no key*/(monkey (228)) : <b>The monkey (228)</b> scratches.
+[13:33:56]EMOTE: @Riki2321gamer[DC]/(Riki) : <b>Riki</b> gasps!
+[13:33:58]EMOTE: @Riki2321gamer[DC]/(Riki) : <b>Riki</b> seizes up and falls limp, his eyes dead and lifeless...
+[13:34:00]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[13:34:00]EMOTE: *no key*/(monkey (528)) : <b>The monkey (528)</b> jumps!
+[13:34:06]SAY: Poly/ : Honk until proven ugly!
+[13:34:06]SAY: Medibot/ : Delicious!
+[13:34:08]EMOTE: *no key*/(monkey (106)) : <b>The monkey (106)</b> scratches.
+[13:34:10]EMOTE: *no key*/(monkey (337)) : <b>The monkey (337)</b> scratches.
+[13:34:12]EMOTE: *no key*/(monkey (302)) : <b>The monkey (302)</b> scratches.
+[13:34:12]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> waves its tail.
+[13:34:16]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[13:34:18]EMOTE: *no key*/(monkey (71)) : <b>The monkey (71)</b> jumps!
+[13:34:28]EMOTE: *no key*/(monkey (252)) : <b>The monkey (252)</b> scratches.
+[13:34:34]OOC: Riki/Riki2321gamer : also
+[13:34:36]EMOTE: *no key*/(monkey (788)) : <b>The monkey (788)</b> waves his tail.
+[13:34:36]EMOTE: *no key*/(monkey (106)) : <b>The monkey (106)</b> jumps!
+[13:34:36]OOC: Riki/Riki2321gamer : did you know
+[13:34:38]EMOTE: *no key*/(monkey (638)) : <b>The monkey (638)</b> scratches.
+[13:34:40]EMOTE: *no key*/(monkey (786)) : <b>The monkey (786)</b> waves his tail.
+[13:34:45]OOC: Riki/Riki2321gamer : the player income on this server is because of sandbox
+[13:34:46]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[13:34:48]EMOTE: *no key*/(Runtime) : <b>Runtime</b> gets up and meows.
+[13:34:56]SAY: Medibot/ : Radar, put a mask on!
+[13:34:56]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[13:34:58]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[13:35:00]EMOTE: *no key*/(monkey (13)) : <b>The monkey (13)</b> jumps!
+[13:35:04]EMOTE: *no key*/(monkey (786)) : <b>The monkey (786)</b> waves his tail.
+[13:35:04]EMOTE: *no key*/(monkey (48)) : <b>The monkey (48)</b> jumps!
+[13:35:08]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[13:35:08]EMOTE: *no key*/(monkey (71)) : <b>The monkey (71)</b> scratches.
+[13:35:08]EMOTE: *no key*/(monkey (228)) : <b>The monkey (228)</b> waves her tail.
+[13:35:10]SAY: mouse/ : Squeek?
+[13:35:10]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[13:35:14]EMOTE: *no key*/(Poly) : <b>Poly</b> bawks!
+[13:35:16]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shakes out its coat.
+[13:35:22]EMOTE: *no key*/(monkey (48)) : <b>The monkey (48)</b> rolls.
+[13:35:26]EMOTE: *no key*/(monkey (337)) : <b>The monkey (337)</b> jumps!
+[13:35:28]SAY: Ian/ : YAP
+[13:35:30]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> waves its tail.
+[13:35:34]SAY: corgi puppy/ : Bark!
+[13:35:38]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[13:35:42]EMOTE: *no key*/(monkey (854)) : <b>The monkey (854)</b> jumps!
+[13:35:42]EMOTE: *no key*/(monkey (302)) : <b>The monkey (302)</b> jumps!
+[13:35:46]EMOTE: *no key*/(monkey (528)) : <b>The monkey (528)</b> rolls.
+[13:35:52]EMOTE: *no key*/(monkey (71)) : <b>The monkey (71)</b> scratches.
+[13:35:58]EMOTE: *no key*/(Clown) : <b>Clown</b> honks
+[13:36:02]EMOTE: *no key*/(monkey (106)) : <b>The monkey (106)</b> waves his tail.
+[13:36:04]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[13:36:06]SAY: mouse/ : Squeek!
+[13:36:06]EMOTE: *no key*/(monkey (747)) : <b>The monkey (747)</b> waves her tail.
+[13:36:16]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stretches out for a belly rub.
+[13:36:18]SAY: corgi puppy/ : AUUUUUU
+[13:36:22]SAY: Poly/ : Sophie Teagarden has signed up as Assistant
+[13:36:24]SAY: Nobody's Perfect/ : Delicious!
+[13:36:26]EMOTE: *no key*/(monkey (354)) : <b>The monkey (354)</b> waves his tail.
+[13:36:28]EMOTE: *no key*/(Runtime) : <b>Runtime</b> lies down.
+[13:36:28]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> waves its tail.
+[13:36:30]EMOTE: *no key*/(monkey (354)) : <b>The monkey (354)</b> waves his tail.
+[13:36:40]SAY: Poly/ : Hullbreach!
+[13:36:46]EMOTE: *no key*/(monkey (385)) : <b>The monkey (385)</b> rolls.
+[13:36:48]SAY: Ian/ : AUUUUUU
+[13:36:54]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> rolls.
+[13:36:56]SAY: Clown/ : HONK
+[13:37:02]SAY: mouse/ : SQUEEK!
+[13:37:04]EMOTE: *no key*/(monkey (13)) : <b>The monkey (13)</b> jumps!
+[13:37:12]EMOTE: *no key*/(monkey (988)) : <b>The monkey (988)</b> jumps!
+[13:37:12]EMOTE: *no key*/(monkey (638)) : <b>The monkey (638)</b> scratches.
+[13:37:14]SAY: mouse/ : Squeek?
+[13:37:18]EMOTE: *no key*/(monkey (597)) : <b>The monkey (597)</b> scratches.
+[13:37:20]SAY: mouse/ : SQUEEK!
+[13:37:22]EMOTE: *no key*/(monkey (229)) : <b>The monkey (229)</b> scratches.
+[13:37:26]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[13:37:28]EMOTE: *no key*/(monkey (299)) : <b>The monkey (299)</b> rolls.
+[13:37:36]EMOTE: *no key*/(Clown) : <b>Clown</b> squeaks
+[13:37:38]SAY: Clown/ : Honk!
+[13:37:42]EMOTE: *no key*/(monkey (596)) : <b>The monkey (596)</b> rolls.
+[13:37:44]EMOTE: *no key*/(monkey (988)) : <b>The monkey (988)</b> jumps!
+[13:37:46]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[13:37:46]EMOTE: *no key*/(monkey (33)) : <b>The monkey (33)</b> scratches.
+[13:37:50]EMOTE: *no key*/(monkey (385)) : <b>The monkey (385)</b> waves his tail.
+[13:37:56]EMOTE: *no key*/(Tom) : <b>Tom</b> runs in a circle.
+[13:37:56]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[13:38:02]SAY: Poly/ : Riki has signed up as Geneticist
+[13:38:08]EMOTE: *no key*/(monkey (854)) : <b>The monkey (854)</b> jumps!
+[13:38:08]EMOTE: *no key*/(monkey (449)) : <b>The monkey (449)</b> waves his tail.
+[13:38:12]EMOTE: *no key*/(monkey (33)) : <b>The monkey (33)</b> scratches.
+[13:38:14]EMOTE: *no key*/(grey baby slime (17)) : <b>The grey baby slime (17)</b> jiggles!
+[13:38:31]GAME: Random Event triggering: Camera Failure (/datum/round_event/camera_failure)
+[13:38:32]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[13:38:32]EMOTE: *no key*/(monkey (896)) : <b>The monkey (896)</b> scratches.
+[13:38:32]EMOTE: *no key*/(monkey (252)) : <b>The monkey (252)</b> scratches.
+[13:38:36]EMOTE: *no key*/(monkey (991)) : <b>The monkey (991)</b> jumps!
+[13:38:36]EMOTE: *no key*/(monkey (449)) : <b>The monkey (449)</b> scratches.
+[13:38:36]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[13:38:42]EMOTE: *no key*/(monkey (597)) : <b>The monkey (597)</b> jumps!
+[13:38:42]EMOTE: *no key*/(monkey (106)) : <b>The monkey (106)</b> waves his tail.
+[13:38:44]EMOTE: *no key*/(monkey (130)) : <b>The monkey (130)</b> rolls.
+[13:38:57]EMOTE: *no key*/(monkey (786)) : <b>The monkey (786)</b> scratches.
+[13:39:04]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[13:39:05]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[13:39:05]EMOTE: *no key*/(monkey (167)) : <b>The monkey (167)</b> rolls.
+[13:39:06]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[13:39:09]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> waves its tail.
+[13:39:15]ADMIN: Riki2321gamer/(Riki) jumped to *no key*/(Riki)
+[13:39:20]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[13:39:23]EMOTE: *no key*/(Clown) : <b>Clown</b> honks
+[13:39:25]EMOTE: *no key*/(monkey (596)) : <b>The monkey (596)</b> waves his tail.
+[13:39:25]EMOTE: *no key*/(grey baby slime (999)) : <b>The grey baby slime (999)</b> lights up for a bit, then stops.
+[13:39:26]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[13:39:29]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> waves its tail.
+[13:39:31]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> jumps!
+[13:39:32]SAY: Poly/ : Sophie Teagarden has signed up as Chief Engineer
+[13:39:36]ACCESS: Logout: Riki2321gamer/(Riki)
+[13:39:37]EMOTE: *no key*/(monkey (167)) : <b>The monkey (167)</b> waves his tail.
+[13:39:39]EMOTE: *no key*/(Runtime) : <b>Runtime</b> gets up and meows.
+[13:39:39]EMOTE: *no key*/(monkey (747)) : <b>The monkey (747)</b> scratches.
+[13:39:41]EMOTE: *no key*/(monkey (536)) : <b>The monkey (536)</b> rolls.
+[13:39:45]EMOTE: *no key*/(Tom) : <b>Tom</b> runs in a circle.
+[13:39:45]EMOTE: *no key*/(monkey (987)) : <b>The monkey (987)</b> jumps!
+[13:39:45]EMOTE: *no key*/(monkey (71)) : <b>The monkey (71)</b> jumps!
+[13:39:47]SAY: Clown/ : Welcome to clown planet!
+[13:39:51]EMOTE: *no key*/(monkey (638)) : <b>The monkey (638)</b> scratches.
+[13:39:55]EMOTE: *no key*/(monkey (13)) : <b>The monkey (13)</b> scratches.
+[13:39:57]EMOTE: *no key*/(monkey (665)) : <b>The monkey (665)</b> jumps!
+[13:39:59]SAY: Nobody's Perfect/ : Delicious!
+[13:40:05]EMOTE: *no key*/(monkey (788)) : <b>The monkey (788)</b> waves his tail.
+[13:40:07]EMOTE: *no key*/(monkey (665)) : <b>The monkey (665)</b> waves her tail.
+[13:40:09]EMOTE: *no key*/(monkey (988)) : <b>The monkey (988)</b> rolls.
+[13:40:09]EMOTE: *no key*/(monkey (429)) : <b>The monkey (429)</b> scratches.
+[13:40:19]SAY: mouse/ : Squeek?
+[13:40:19]EMOTE: *no key*/(monkey (302)) : <b>The monkey (302)</b> waves his tail.
+[13:40:23]EMOTE: *no key*/(monkey (130)) : <b>The monkey (130)</b> waves his tail.
+[13:40:31]EMOTE: *no key*/(Clown) : <b>Clown</b> squeaks
+[13:40:33]EMOTE: *no key*/(monkey (449)) : <b>The monkey (449)</b> waves his tail.
+[13:40:37]EMOTE: *no key*/(monkey (299)) : <b>The monkey (299)</b> scratches.
+[13:40:39]EMOTE: *no key*/(monkey (128)) : <b>The monkey (128)</b> waves her tail.
+[13:40:39]EMOTE: *no key*/(monkey (1000)) : <b>The monkey (1000)</b> waves his tail.
+[13:40:45]SAY: Medibot/ : Radar, put a mask on!
+[13:40:47]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[13:40:57]EMOTE: *no key*/(monkey (106)) : <b>The monkey (106)</b> waves his tail.
+[13:40:59]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> looks around sleepily.
+[13:40:59]EMOTE: *no key*/(monkey (449)) : <b>The monkey (449)</b> rolls.
+[13:41:01]SAY: Poly/ : FI&#39;RAN DADISKO
+[13:41:01]EMOTE: *no key*/(monkey (991)) : <b>The monkey (991)</b> jumps!
+[13:41:05]EMOTE: *no key*/(monkey (536)) : <b>The monkey (536)</b> scratches.
+[13:41:17]EMOTE: *no key*/(monkey (167)) : <b>The monkey (167)</b> scratches.
+[13:41:17]EMOTE: *no key*/(grey baby slime (17)) : <b>The grey baby slime (17)</b> jiggles!
+[13:41:19]SAY: Medibot/ : Delicious!
+[13:41:22]ACCESS: Login: Riki2321gamer from 127.0.0.1-3622605515 || BYOND v511
+[13:41:22]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/living/carbon/human
+[13:41:23]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[13:41:27]SAY: Clown/ : Honk!
+[13:41:35]EMOTE: *no key*/(monkey (337)) : <b>The monkey (337)</b> scratches.
+[13:41:37]EMOTE: *no key*/(monkey (252)) : <b>The monkey (252)</b> rolls.
+[13:41:39]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> pants.
+[13:41:45]SAY: Poly/ : Honk until proven ugly!
+[13:41:47]EMOTE: *no key*/(Runtime) : <b>Runtime</b> grooms its fur.
+[13:41:47]EMOTE: *no key*/(monkey (788)) : <b>The monkey (788)</b> jumps!
+[13:41:47]EMOTE: *no key*/(monkey (33)) : <b>The monkey (33)</b> rolls.
+[13:41:51]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[13:41:51]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> shakes its head.
+[13:41:55]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[13:41:55]SAY: mouse/ : SQUEEK!
+[13:41:57]SAY: mouse/ : SQUEEK!
+[13:41:57]EMOTE: *no key*/(monkey (449)) : <b>The monkey (449)</b> waves his tail.
+[13:41:59]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[13:41:59]EMOTE: *no key*/(monkey (665)) : <b>The monkey (665)</b> scratches.
+[13:42:03]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[13:42:03]EMOTE: *no key*/(monkey (130)) : <b>The monkey (130)</b> jumps!
+[13:42:05]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[13:42:09]EMOTE: *no key*/(monkey (788)) : <b>The monkey (788)</b> waves his tail.
+[13:42:11]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> snores.
+[13:42:11]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[13:42:17]EMOTE: *no key*/(monkey (665)) : <b>The monkey (665)</b> scratches.
+[13:42:19]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[13:42:23]EMOTE: *no key*/(monkey (48)) : <b>The monkey (48)</b> jumps!
+[13:42:25]ADMIN: Riki2321gamer/(Riki) is changing the map to PubbyStation
+[13:42:25]EMOTE: *no key*/(Baker IV) : <b>Baker IV</b> jumps!
+[13:42:26]ACCESS: Logout: Lezus_Konrad/(Alden Bluetenberger)
+[13:42:31]SAY: Poly/ : FI&#39;RAN DADISKO
+[13:42:31]EMOTE: *no key*/(monkey (302)) : <b>The monkey (302)</b> scratches.
+[13:42:31]EMOTE: *no key*/(monkey (299)) : <b>The monkey (299)</b> jumps!
+[13:42:31]ACCESS: Logout: Riki2321gamer/(Riki)
+
+
+Starting up. 14:07:09
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode clockwork cult (clockwork_cult) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode Devil Agents (devil_agents) to configuration.
+Adding game mode devil (devil) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode secret extended (secret extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: malfunction.
+Unknown continuous configuration definition: malfunction.
+Unknown midround antagonist configuration definition: malfunction.
+Saved mode is 'sandbox'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[14:07:09]ADMIN: Loading Banlist
+[14:07:14]GAME: Fountain Hall loaded at at 65,76,5
+[14:07:14]GAME: Ash Walker Nest loaded at at 63,198,5
+[14:07:15]GAME: Wishgranter Vault loaded at at 102,104,5
+[14:07:16]GAME: Ruin of Sloth loaded at at 124,93,5
+[14:07:16]GAME: Ruin of Greed loaded at at 200,63,5
+[14:07:16]GAME: Animal Hospital loaded at at 93,42,5
+[14:07:17]GAME: Authorship loaded at at 113,159,7
+[14:07:17]GAME: Ordinary Space Tile loaded at at 36,61,6
+[14:07:17]GAME: Unnamed Turreted Outpost loaded at at 137,118,8
+[14:07:17]GAME: Asteroid 2 loaded at at 38,65,7
+[14:07:17]GAME: Salvation loaded at at 34,99,4
+[14:07:19]GAME: The Twin-Nexus Hotel loaded at at 52,131,4
+[14:07:19]GAME: Derelict 6 loaded at at 99,124,6
+[14:07:19]GAME: A Giant Ball of Paper in Space loaded at at 43,95,10
+[14:07:19]GAME: Empty Shell loaded at at 167,82,10
+[14:07:19]GAME: Derelict 1 loaded at at 108,174,7
+[14:07:20]GAME: Strange Ship loaded at at 66,148,3
+[14:07:20]GAME: CF Corsair loaded at at 101,36,4
+[14:07:20]GAME: Derelict 5 loaded at at 100,28,10
+[14:07:22]GAME: Kosmicheskaya Stantsiya 13 loaded at at 129,119,10
+[14:07:22]GAME: Derelict 4 loaded at at 61,40,3
+[14:07:22]GAME: Asteroid 5 loaded at at 47,120,9
+[14:07:37]ACCESS: Login: Riki2321gamer from 127.0.0.1-3622605515 || BYOND v511
+[14:07:37]ACCESS: Mob Login: Riki2321gamer/(Riki2321gamer) was assigned to a /mob/dead/new_player
+[14:07:46]OOC: Riki2321gamer/Riki2321gamer : wena cabro que gire
+[14:09:53]ADMIN: Riki2321gamer has started the game.
+[14:09:55]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/living/carbon/human
+[14:09:58]SAY: Mjor the Creative/ : Rise, my creations! Jump off your pages and into this realm!
+[14:10:00]SAY: Prison Ofitser/ : Engaging patrol mode.
+[14:10:00]SAY: Prison Ofitser/ : Disengaging patrol mode.
+[14:10:03]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[14:10:08]EMOTE: *no key*/(gubbuck) : <b>The gubbuck</b> trills.
+[14:10:13]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[14:10:15]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[14:10:20]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[14:10:26]SAY: Mjor the Creative/ : Rise, my creations! Jump off your pages and into this realm!
+[14:10:34]SAY: Medibot/ : Radar, put a mask on!
+[14:10:38]EMOTE: *no key*/(gubbuck) : <b>The gubbuck</b> trills.
+[14:10:51]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[14:10:51]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[14:10:51]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[14:10:51]ADMIN: Riki2321gamer/(Riki) spawned /mob/living/simple_animal/pet/dog/corgi at (19,27,1)
+[14:10:54]EMOTE: *no key*/(corgi) : <b>The corgi</b> yaps happily!
+[14:10:57]SAY: Accidents Happen/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:10:59]SAY: Accidents Happen/ : I knew it, I should&#39;ve been a plastic surgeon.
+[14:11:00]SAY: corgi/ : Help
+[14:11:18]SAY: Mjor the Creative/ : Rise, my creations! Jump off your pages and into this realm!
+[14:12:13]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[14:12:25]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[14:12:29]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[14:12:36]SAY: mouse/ : Help
+[14:13:01]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:13:17]SAY: Medibot/ : Delicious!
+[14:13:19]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[14:13:27]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[14:13:31]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[14:13:37]SAY: Medibot/ : Delicious!
+[14:13:50]EMOTE: *no key*/(guthen) : <b>The guthen</b> trills.
+[14:13:58]SAY: corgi/ : Bark!
+[14:14:10]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[14:14:14]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[14:14:32]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:14:42]EMOTE: *no key*/(gubbuck) : <b>The gubbuck</b> sniffs.
+[14:14:46]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:15:10]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[14:15:16]SAY: mouse/ : Squeek!
+[14:15:32]SAY: Nobody's Perfect/ : Radar, put a mask on!
+[14:16:38]SAY: mouse/ : SQUEEK!
+[14:16:54]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:16:56]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[14:17:03]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[14:17:52]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:17:56]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[14:18:02]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[14:18:26]SAY: Accidents Happen/ : Radar, put a mask on!
+[14:18:44]SAY: mouse/ : Squeek?
+[14:18:50]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[14:19:00]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[14:19:18]SAY: mouse/ : SQUEEK!
+[14:19:18]EMOTE: *no key*/(guthen) : <b>The guthen</b> trills.
+[14:19:28]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[14:20:00]SAY: Accidents Happen/ : Radar, put a mask on!
+[14:20:08]SAY: Accidents Happen/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[14:20:14]EMOTE: *no key*/(guthen) : <b>The guthen</b> sniffs.
+[14:20:22]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[14:20:50]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:20:50]SAY: Accidents Happen/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:20:50]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[14:21:02]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[14:21:02]SAY: Medibot/ : Delicious!
+[14:21:05]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[14:21:06]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[14:21:22]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[14:21:32]SAY: mouse/ : SQUEEK!
+[14:21:46]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[14:22:42]SAY: mouse/ : SQUEEK!
+[14:23:34]SAY: corgi/ : YAP
+[14:23:48]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:23:50]SAY: Accidents Happen/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:24:06]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[14:24:16]SAY: Accidents Happen/ : Radar, put a mask on!
+[14:24:46]SAY: mouse/ : SQUEEK!
+[14:24:59]ACCESS: Logout: Riki2321gamer/(Riki)
+
+
+Starting up. 14:27:47
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode clockwork cult (clockwork_cult) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode Devil Agents (devil_agents) to configuration.
+Adding game mode devil (devil) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode secret extended (secret extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: malfunction.
+Unknown continuous configuration definition: malfunction.
+Unknown midround antagonist configuration definition: malfunction.
+Saved mode is 'sandbox'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[14:27:47]ADMIN: Loading Banlist
+[14:27:51]GAME: Ash Walker Nest loaded at at 124,194,5
+[14:27:52]GAME: Biodome Winter loaded at at 158,71,5
+[14:27:52]GAME: UFO Crash loaded at at 29,223,5
+[14:27:52]GAME: Summoning Ritual loaded at at 214,28,5
+[14:27:52]GAME: Free Golem Ship loaded at at 180,116,5
+[14:27:53]GAME: Crashed Clown Ship loaded at at 58,145,4
+[14:27:53]GAME: Asteroid 2 loaded at at 23,183,9
+[14:27:53]GAME: Abandoned Teleporter loaded at at 24,171,9
+[14:27:55]GAME: Kosmicheskaya Stantsiya 13 loaded at at 126,39,4
+[14:27:55]GAME: Asteroid 5 loaded at at 23,148,7
+[14:27:56]GAME: Biological Storage Facility loaded at at 130,89,9
+[14:27:56]GAME: Derelict Tradepost loaded at at 193,63,3
+[14:27:57]GAME: Crashed Ship loaded at at 44,72,4
+[14:27:57]GAME: Asteroid 4 loaded at at 207,59,10
+[14:27:57]GAME: Disposal Facility 17 loaded at at 33,148,3
+[14:27:58]GAME: Waylaid Buses loaded at at 171,148,6
+[14:27:58]GAME: A Giant Ball of Paper in Space loaded at at 155,104,10
+[14:27:58]GAME: Derelict 5 loaded at at 179,87,6
+[14:27:59]ACCESS: Login: Riki2321gamer from 127.0.0.1-3622605515 || BYOND v511
+[14:27:59]ACCESS: Mob Login: Riki2321gamer/(Riki2321gamer) was assigned to a /mob/dead/new_player
+[14:27:59]GAME: Empty Shell loaded at at 44,43,3
+[14:27:59]GAME: Authorship loaded at at 198,123,7
+[14:27:59]GAME: Dinner for Two loaded at at 40,125,6
+Ban database connection failure. Key lezuskonrad not checked
+[14:29:09]ADMIN: Riki2321gamer has started the game.
+[14:29:13]ACCESS: Login: Lezus_Konrad from 82.17.116.125-3955108823 || BYOND v511
+[14:29:13]ACCESS: Mob Login: Lezus_Konrad/(Lezus_Konrad) was assigned to a /mob/dead/new_player
+[14:29:55]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/living/carbon/human
+[14:29:55]ACCESS: Mob Login: Lezus_Konrad/(Alden Bluetenberger) was assigned to a /mob/living/carbon/human
+[14:30:01]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[14:30:01]EMOTE: *no key*/(Lizard) : <b>Lizard</b> stops moving...
+[14:30:02]SAY: Prison Ofitser/ : Engaging patrol mode.
+[14:30:02]SAY: Prison Ofitser/ : Disengaging patrol mode.
+[14:30:05]SAY: Mjor the Creative/ : Rise, my creations! Jump off your pages and into this realm!
+[14:30:11]SAY: Riki/Riki2321gamer : So
+[14:30:15]ADMIN: Riki2321gamer/(Riki) has entered build mode.
+[14:30:19]SAY: Mjor the Creative/ : Rise, my creations! Jump off your pages and into this realm!
+[14:30:23]EMOTE: *no key*/(gubbuck) : <b>The gubbuck</b> trills.
+[14:30:25]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[14:30:35]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[14:30:45]ADMIN: Lezus_Konrad/(Alden Bluetenberger) spawned /obj/item/device/pda/captain at (32,20,1)
+[14:30:46]SAY: mouse/ : Squeek?
+[14:30:49]EMOTE: *no key*/(crab) : <b>The crab</b> clicks.
+[14:31:00]SAY: mouse/ : SQUEEK!
+[14:31:10]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[14:31:22]WHISPER: Alden Bluetenberger/Lezus_Konrad : Where is the vore gui in the PDA?
+[14:31:22]WHISPER: Alden Bluetenberger/Lezus_Konrad : Where is the vore gui in the PDA?
+[14:31:23]SAY: Mjor the Creative/ : Rise, my creations! Jump off your pages and into this realm!
+[14:31:27]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[14:31:31]SAY: mouse/ : Squeek?
+[14:31:41]EMOTE: *no key*/(gubbuck) : <b>The gubbuck</b> trills.
+[14:31:44]ADMIN: Lezus_Konrad deadmined themself.
+[14:32:05]SAY: Riki/Riki2321gamer : It&#39;s not working at all
+[14:32:06]SAY: Riki/Riki2321gamer : I said like
+[14:32:08]OOC: Alden Bluetenberger/Lezus_Konrad : did you not put the verbs into special vebs?
+[14:32:10]SAY: Riki/Riki2321gamer : I copied the vore code
+[14:32:18]OOC: Riki/Riki2321gamer : I coped the &#34;vore&#34; folder with all the code
+[14:32:33]OOC: Riki/Riki2321gamer : i knew that would happen anywaysy
+[14:32:41]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[14:32:42]OOC: Alden Bluetenberger/Lezus_Konrad : PUT THE PANEL INTO A TAB.
+[14:32:53]EMOTE: *no key*/(guthen) : <b>The guthen</b> trills.
+[14:32:53]OOC: Riki/Riki2321gamer : ooooooookaaaaaaaaaaaaaay
+[14:32:59]ACCESS: Logout: Riki2321gamer/(Riki)
+[14:32:59]ACCESS: Logout: Lezus_Konrad/(Alden Bluetenberger)
+
+
+Starting up. 15:36:57
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode clockwork cult (clockwork_cult) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode Devil Agents (devil_agents) to configuration.
+Adding game mode devil (devil) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode secret extended (secret extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: malfunction.
+Unknown continuous configuration definition: malfunction.
+Unknown midround antagonist configuration definition: malfunction.
+Saved mode is 'sandbox'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[15:36:57]ADMIN: Loading Banlist
+[15:37:02]GAME: Syndicate Lava Base loaded at at 164,169,5
+[15:37:02]GAME: Makeshift Shelter loaded at at 103,132,5
+[15:37:02]GAME: Ash Walker Nest loaded at at 99,77,5
+[15:37:02]GAME: Seed Vault loaded at at 35,193,5
+[15:37:03]GAME: Detached Teleporter loaded at at 179,68,6
+[15:37:04]GAME: Derelict 5 loaded at at 35,23,8
+[15:37:04]GAME: Asteroid 2 loaded at at 156,44,6
+[15:37:04]GAME: Strange Ship loaded at at 115,73,10
+[15:37:04]GAME: Crashed Ship loaded at at 39,85,3
+[15:37:05]GAME: Empty Shell loaded at at 217,57,7
+[15:37:05]GAME: Derelict 1 loaded at at 46,46,7
+[15:37:05]GAME: DK Excavator 453 loaded at at 165,185,6
+[15:37:05]GAME: Salvation loaded at at 190,119,9
+[15:37:05]GAME: Unnamed Turreted Outpost loaded at at 32,181,9
+[15:37:05]GAME: Authorship loaded at at 128,176,3
+[15:37:06]GAME: Aesthetic Outpost loaded at at 108,70,8
+[15:37:06]GAME: Asteroid 3 loaded at at 202,25,6
+[15:37:06]GAME: Derelict 4 loaded at at 92,147,10
+[15:37:06]GAME: Asteroid 4 loaded at at 160,51,7
+[15:37:06]GAME: Waylaid Buses loaded at at 93,32,3
+[15:37:15]ACCESS: Login: Riki2321gamer from 127.0.0.1-3622605515 || BYOND v511
+[15:37:15]ACCESS: Mob Login: Riki2321gamer/(Riki2321gamer) was assigned to a /mob/dead/new_player
+[15:37:22]ADMIN: Riki2321gamer has started the game.
+[15:39:28]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/living/carbon/human
+[15:39:33]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[15:39:33]EMOTE: *no key*/(Lizard) : <b>Lizard</b> stops moving...
+[15:39:33]SAY: Prison Ofitser/ : Engaging patrol mode.
+[15:39:33]SAY: Prison Ofitser/ : Disengaging patrol mode.
+[15:39:41]ADMIN: Riki2321gamer/(Riki) spawned /mob/living/simple_animal/pet/dog/corgi at (35,20,1)
+[15:39:47]EMOTE: *no key*/(monkey (918)) : <b>The monkey (918)</b> scratches.
+[15:39:57]SAY: mouse/ : Squeek!
+[15:39:58]SAY: corgi/ : Help
+[15:40:03]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[15:40:05]EMOTE: *no key*/(monkey (508)) : <b>The monkey (508)</b> jumps!
+[15:40:06]EMOTE: *no key*/(monkey (647)) : <b>The monkey (647)</b> jumps!
+[15:40:10]SAY: corgi/ : Help
+[15:40:25]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[15:40:41]SAY: corgi/ : YAP
+[15:40:51]SAY: mouse/ : Squeek?
+[15:40:51]EMOTE: *no key*/(gubbuck) : <b>The gubbuck</b> sniffs.
+[15:40:57]EMOTE: *no key*/(gubbuck) : <b>The gubbuck</b> trills.
+[15:41:08]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[15:41:08]ACCESS: Logout: Riki2321gamer/(Riki)
+
+
+Starting up. 17:40:13
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode clockwork cult (clockwork_cult) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode Devil Agents (devil_agents) to configuration.
+Adding game mode devil (devil) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode secret extended (secret extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: malfunction.
+Unknown continuous configuration definition: malfunction.
+Unknown midround antagonist configuration definition: malfunction.
+Saved mode is 'sandbox'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[17:40:13]ADMIN: Loading Banlist
+[17:40:18]GAME: Ash Walker Nest loaded at at 111,96,5
+[17:40:18]GAME: Animal Hospital loaded at at 209,67,5
+[17:40:18]GAME: The Wishgranter Cube loaded at at 169,163,5
+[17:40:18]GAME: Summoning Ritual loaded at at 155,136,5
+[17:40:19]GAME: Ruin of Gluttony loaded at at 110,174,5
+[17:40:19]GAME: Survival Capsule Ruins loaded at at 66,168,5
+[17:40:19]GAME: Derelict 6 loaded at at 44,202,4
+[17:40:19]GAME: DJ Station loaded at at 168,204,4
+[17:40:20]GAME: Abandoned Telecommunications Satellite loaded at at 77,143,10
+[17:40:20]GAME: Disposal Facility 17 loaded at at 88,115,3
+[17:40:20]GAME: Asteroid 5 loaded at at 59,132,3
+[17:40:21]GAME: Unnamed Turreted Outpost loaded at at 193,66,4
+[17:40:21]GAME: Dinner for Two loaded at at 109,57,10
+[17:40:21]GAME: Derelict Tradepost loaded at at 111,103,7
+[17:40:21]GAME: Salvation loaded at at 196,29,3
+[17:40:28]GAME: Syndicate Ambush loaded at at 31,56,8
+[17:40:28]GAME: Strange Ship loaded at at 93,96,4
+[17:40:28]GAME: Crashed Clown Ship loaded at at 91,63,7
+[17:40:29]GAME: A Giant Ball of Paper in Space loaded at at 179,155,10
+[17:40:29]GAME: Empty Shell loaded at at 101,97,9
+[17:40:29]GAME: Asteroid 2 loaded at at 36,170,10
+[17:40:30]GAME: Syndicate Listening Station loaded at at 155,131,3
+[17:41:25]ACCESS: Login: Riki2321gamer from 127.0.0.1-3622605515 || BYOND v511
+[17:41:25]ACCESS: Mob Login: Riki2321gamer/(Riki2321gamer) was assigned to a /mob/dead/new_player
+[17:41:30]ADMIN: Riki2321gamer has started the game.
+[17:41:46]ACCESS: Mob Login: Riki2321gamer/(Riki) was assigned to a /mob/living/carbon/human
+[17:41:49]GAME: Explosion with size (0, 1, 5, 0) in area Unexplored Location (83,93,8)
+[17:41:49]GAME: Explosion with size (0, 1, 5, 0) in area Unexplored Location (83,92,8)
+[17:41:50]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> turns and flies towards the gold coin.
+[17:41:50]SAY: Prison Ofitser/ : Engaging patrol mode.
+[17:41:51]SAY: Prison Ofitser/ : Disengaging patrol mode.
+[17:41:53]SAY: Mjor the Creative/ : Rise, my creations! Jump off your pages and into this realm!
+[17:42:08]ADMIN: Riki2321gamer/(Riki) modified Riki's maxHealth to 1e+007
+[17:42:11]SAY: Mjor the Creative/ : Rise, my creations! Jump off your pages and into this realm!
+[17:42:14]ADMIN: Riki2321gamer/(Riki) modified Riki's maxHealth to 1e+008
+[17:42:15]SAY: Pegwing/ : Cracker?
+[17:42:41]ADMIN: Riki2321gamer/(Riki) modified Riki's ventcrawler to 1
+[17:42:45]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:42:59]SAY: mouse/ : Squeek!
+[17:43:14]ADMIN: Riki2321gamer/(Riki) modified Riki's on_fire to 1
+[17:43:19]ADMIN: Riki2321gamer/(Riki) modified Riki's on_fire to 0
+[17:43:19]SAY: mouse/ : SQUEEK!
+[17:43:20]SAY: Mjor the Creative/ : Rise, my creations! Jump off your pages and into this realm!
+[17:43:33]SAY: mouse/ : Squeek!
+[17:43:41]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:43:55]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:44:00]EMOTE: *no key*/(Spaceman) : <b>Spaceman</b> stops moving...
+[17:44:03]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[17:44:04]ADMIN: Riki2321gamer/(Riki) dealt 9999 amount of brain damage to Riki 
+[17:44:08]SAY: Riki/Riki2321gamer : OH NO!!!
+[17:44:11]SAY: Riki/Riki2321gamer : XDDDDDDDDDDDDDDD!
+[17:44:14]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> squawks.
+[17:44:15]SAY: Riki/Riki2321gamer : Aaaaaaaaaaaa
+[17:44:16]SAY: Medibot/ : Radar, put a mask on!
+[17:44:17]SAY: Riki/Riki2321gamer : L-LOL-L!!
+[17:44:21]SAY: Riki/Riki2321gamer : This hilarious
+[17:44:21]SAY: Riki/Riki2321gamer : Dude
+[17:44:24]SAY: Riki/Riki2321gamer : OMFG!!
+[17:44:29]SAY: Riki/Riki2321gamer : W-why-y-y the f-fuc-ck-k i s-so s-sup-pid-d r-rn-n
+[17:44:30]EMOTE: *no key*/(Pegwing) : <b>Pegwing</b> stops moving...
+[17:44:41]ADMIN: Riki2321gamer/(Riki) dealt 99999 amount of oxygen damage to Riki 
+[17:44:41]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[17:44:42]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[17:44:46]ADMIN: Riki2321gamer/(Riki) dealt -9999 amount of oxygen damage to Riki 
+[17:44:50]ADMIN: Riki2321gamer/(Riki) dealt -1e+009 amount of oxygen damage to Riki 
+[17:44:54]ADMIN: Riki2321gamer/(Riki) dealt 1 amount of stamina damage to Riki 
+[17:44:57]ADMIN: Riki2321gamer/(Riki) dealt 999 amount of stamina damage to Riki 
+[17:45:03]ADMIN: Riki2321gamer/(Riki) dealt -1e+007 amount of stamina damage to Riki 
+[17:45:09]EMOTE: Riki2321gamer/(Riki) : <b>Riki</b> drools.
+[17:45:21]EMOTE: Riki2321gamer/(Riki) : <b>Riki</b> drools.
+[17:45:23]SAY: mouse/ : Squeek?
+[17:45:28]EMOTE: *no key*/(Spaceman) : <b>Spaceman</b> stops moving...
+[17:45:28]EMOTE: *no key*/(Spaceman) : <b>Spaceman</b> stops moving...
+[17:45:30]SAY: mouse/ : Help
+[17:45:52]EMOTE: *no key*/(guthen) : <b>The guthen</b> burps.
+[17:45:56]SAY: Riki/Riki2321gamer : Pray can u MAke me treaitors???
+[17:45:58]SAY: mouse/ : Squeek!
+[17:45:58]SAY: mouse/ : Squeek?
+[17:46:08]SAY: mouse/ : Squeek?
+[17:46:09]PRAY: Riki2321gamer/(Riki): can you make me traitors
+[17:46:44]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[17:46:44]ACCESS: Logout: Riki2321gamer/(Riki)

@@ -1,0 +1,1537 @@
+
+
+Starting up. 19:04:22
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode clockwork cult (clockwork_cult) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode Devil Agents (devil_agents) to configuration.
+Adding game mode devil (devil) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode secret extended (secret extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: malfunction.
+Unknown continuous configuration definition: malfunction.
+Unknown midround antagonist configuration definition: malfunction.
+Saved mode is 'extended'
+[19:04:23]ADMIN: Loading Banlist
+[19:04:55]ACCESS: Login: Guest-3622605515 from 127.0.0.1-3622605515 || BYOND v511
+[19:04:55]ACCESS: Mob Login: Guest-3622605515/(Guest-3622605515) was assigned to a /mob/dead/new_player
+[19:04:59]GAME: Ruin of Greed loaded at at 81,49,5
+[19:04:59]GAME: Seed Vault loaded at at 154,82,5
+[19:04:59]GAME: Hierophant's Arena loaded at at 134,183,5
+[19:04:59]GAME: Summoning Ritual loaded at at 50,109,5
+[19:04:59]GAME: Ruin of Gluttony loaded at at 102,129,5
+[19:04:59]GAME: Survival Capsule Ruins loaded at at 202,85,5
+[19:04:59]GAME: UFO Crash loaded at at 114,65,5
+[19:04:59]GAME: The Wishgranter Cube loaded at at 155,56,5
+[19:05:00]GAME: Salvation loaded at at 86,112,6
+[19:05:00]GAME: Abandoned Teleporter loaded at at 148,183,7
+[19:05:00]GAME: Asteroid 2 loaded at at 44,34,7
+[19:05:00]GAME: Sky Bulge Tomb loaded at at 137,104,9
+[19:05:00]GAME: Unnamed Turreted Outpost loaded at at 32,162,8
+[19:05:01]GAME: Derelict 5 loaded at at 172,60,6
+[19:05:01]GAME: Derelict 3 loaded at at 89,192,3
+[19:05:03]GAME: The Twin-Nexus Hotel loaded at at 154,117,6
+[19:05:03]GAME: Derelict 4 loaded at at 110,62,3
+[19:05:03]GAME: Crashed Clown Ship loaded at at 105,97,7
+[19:05:03]GAME: Biological Storage Facility loaded at at 177,63,10
+[19:05:03]GAME: DJ Station loaded at at 29,179,8
+[19:05:03]GAME: Ordinary Space Tile loaded at at 152,45,9
+[19:05:04]GAME: Syndicate Listening Station loaded at at 64,84,8
+[19:05:04]GAME: Derelict 1 loaded at at 83,131,9
+[19:05:05]GAME: A Giant Ball of Paper in Space loaded at at 69,176,8
+[19:05:25]ADMIN: Guest-3622605515/(Guest-3622605515) played sound sound/ambience/clown.ogg
+[19:06:34]ADMIN: Guest-3622605515/(Guest-3622605515) played sound brotherman asperger.ogg
+[19:07:23]ACCESS: Mob Login: Guest-3622605515/(Austin Rockwell) was assigned to a /mob/living/carbon/human
+[19:07:26]EMOTE: *no key*/(monkey (133)) : <b>The monkey (133)</b> waves her tail.
+[19:07:28]SAY: Officer Beepsky/ : Engaging patrol mode.
+[19:07:28]SAY: Prison Ofitser/ : Engaging patrol mode.
+[19:07:28]SAY: Prison Ofitser/ : Disengaging patrol mode.
+[19:07:32]EMOTE: *no key*/(monkey (476)) : <b>The monkey (476)</b> jumps!
+[19:07:32]EMOTE: *no key*/(monkey (473)) : <b>The monkey (473)</b> scratches.
+[19:07:34]EMOTE: *no key*/(monkey (807)) : <b>The monkey (807)</b> jumps!
+[19:07:36]SAY: Poly/ : OH GOD ITS ABOUT TO DELAMINATE CALL THE SHUTTLE
+[19:07:38]SAY: corgi puppy/ : Bark!
+[19:07:38]SAY: mouse/ : Squeek!
+[19:07:38]SAY: Mjor the Creative/ : Rise, my creations! Jump off your pages and into this realm!
+[19:07:46]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[19:07:48]SAY: Mjor the Creative/ : Rise, my creations! Jump off your pages and into this realm!
+[19:07:52]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[19:07:53]ADMIN: Admin Guest-3622605515/(Austin Rockwell) has added a new AI law - Penis
+[19:07:58]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[19:08:00]EMOTE: *no key*/(grey baby slime (743)) : <b>The grey baby slime (743)</b> jiggles!
+[19:08:06]EMOTE: *no key*/(corgi) : <b>The corgi</b> barks!
+[19:08:10]SAY: grey baby slime (743)/ : Lonely...
+[19:08:16]EMOTE: *no key*/(monkey (334)) : <b>The monkey (334)</b> rolls.
+[19:08:17]ADMIN: Guest-3622605515/(Austin Rockwell) has triggered an event. (Mice Migration)
+[19:08:18]SAY: mouse/ : Squeek!
+[19:08:18]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Power-ON cartridge's direction and takes flight.
+[19:08:20]SAY: mouse/ : Squeek!
+[19:08:20]EMOTE: *no key*/(monkey (278)) : <b>The monkey (278)</b> jumps!
+[19:08:22]EMOTE: *no key*/(Runtime) : <b>Runtime</b> looks alert.
+[19:08:26]SAY: Poly/ : Strike me down if you dare!
+[19:08:32]EMOTE: *no key*/(Ian) : <b>Ian</b> barks!
+[19:08:39]ADMIN: Guest-3622605515 used Spawn Space Ninja.
+[19:08:41]ACCESS: Mob Login: Guest-3622605515/(Black Goemon) was assigned to a /mob/living/carbon/human
+[19:08:41]GAME: Guest-3622605515/(Black Goemon) was spawned as a ninja by an event.
+[19:08:46]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> yawns.
+[19:08:50]EMOTE: *no key*/(Pete) : <b>Pete</b> shakes its head.
+[19:08:52]SAY: Medibot/ : Delicious!
+[19:08:53]ADMIN: Guest-3622605515/(Black Goemon) jumped to *no key*/(Lisa)
+[19:08:56]EMOTE: *no key*/(monkey (133)) : <b>The monkey (133)</b> rolls.
+[19:08:57]SAY: Mjor the Creative/ : Rise, my creations! Jump off your pages and into this realm!
+[19:08:58]SAY: Medibot/ : Radar, put a mask on!
+[19:09:00]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> yaps.
+[19:09:00]SAY: Tom/ : SQUEEK!
+[19:09:10]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[19:09:12]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[19:09:12]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Power-ON cartridge's direction and takes flight.
+[19:09:12]SAY: Poly/ : Traitorous until proven pretty!
+[19:09:29]SAY: Sebastian Metzer/ : Oh jerk, that cluwne was one hell of an whoreish toes.
+[19:09:35]SAY: Paget Conrad/ : Well ass, this is a pretty situation.
+[19:09:36]SAY: Lessie Schofield/ : Hey you, why dont you go damn ass jerk wank bitch , you milkdrinker!
+[19:09:36]SAY: Milton Peters/ : Woof!
+[19:09:39]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[19:09:41]SAY: Samuel Woolery/ : I wonder if there is anything to modify and pat somewhere else..
+[19:09:41]SAY: Marlowe Wood/ : I wonder if there is anything to modify and pat somewhere else..
+
+
+Starting up. 19:10:43
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode clockwork cult (clockwork_cult) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode Devil Agents (devil_agents) to configuration.
+Adding game mode devil (devil) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode secret extended (secret extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: malfunction.
+Unknown continuous configuration definition: malfunction.
+Unknown midround antagonist configuration definition: malfunction.
+Saved mode is 'extended'
+[19:10:43]ADMIN: Loading Banlist
+[19:11:02]ACCESS: Login: Guest-3622605515 from 127.0.0.1-3622605515 || BYOND v511
+[19:11:02]ACCESS: Mob Login: Guest-3622605515/(Guest-3622605515) was assigned to a /mob/dead/new_player
+[19:11:14]GAME: Wishgranter Vault loaded at at 93,32,5
+[19:11:14]GAME: Biodome Winter loaded at at 25,162,5
+[19:11:15]GAME: Ruin of Sloth loaded at at 170,208,5
+[19:11:15]GAME: Biodome Clown Planet loaded at at 160,117,5
+[19:11:15]GAME: Ruin of Envy loaded at at 32,59,5
+[19:11:15]GAME: Summoning Ritual loaded at at 60,200,5
+[19:11:15]GAME: Ruin of Pride loaded at at 90,128,5
+[19:11:16]GAME: Abandoned Teleporter loaded at at 165,99,4
+[19:11:16]GAME: Sky Bulge Tomb loaded at at 80,23,4
+[19:11:16]GAME: Abandoned Telecommunications Satellite loaded at at 87,63,4
+[19:11:17]GAME: DK Excavator 453 loaded at at 155,122,8
+[19:11:17]GAME: Derelict 1 loaded at at 162,26,6
+[19:11:17]GAME: Derelict 3 loaded at at 193,178,9
+[19:11:18]GAME: Derelict 4 loaded at at 33,24,10
+[19:11:18]GAME: Strange Ship loaded at at 170,80,3
+[19:11:18]GAME: CF Corsair loaded at at 167,90,6
+[19:11:18]GAME: Crashed Ship loaded at at 171,87,9
+[19:11:19]GAME: Unnamed Turreted Outpost loaded at at 94,184,9
+[19:11:19]GAME: Waylaid Buses loaded at at 94,78,3
+[19:11:19]GAME: Asteroid 5 loaded at at 179,57,10
+[19:11:19]GAME: Asteroid 3 loaded at at 41,202,4
+[19:11:19]GAME: Asteroid 1 loaded at at 195,34,4
+[19:11:19]GAME: Detached Teleporter loaded at at 194,65,3
+[19:12:17]ADMIN: Guest-3622605515/(Guest-3622605515) played sound GAYCOCK.mid
+[19:12:25]ADMIN: Guest-3622605515/(Guest-3622605515) played sound sound/ambience/clown.ogg
+[19:12:36]ADMIN: Guest-3622605515/(Guest-3622605515) set the round end sound to brotherman asperger.ogg
+[19:13:44]ACCESS: Mob Login: Guest-3622605515/(Leo Johnson) was assigned to a /mob/living/carbon/human
+[19:13:49]EMOTE: *no key*/(Lizard) : <b>Lizard</b> stops moving...
+[19:13:49]SAY: Officer Beepsky/ : Engaging patrol mode.
+[19:13:49]SAY: Prison Ofitser/ : Engaging patrol mode.
+[19:13:49]SAY: Prison Ofitser/ : Disengaging patrol mode.
+[19:13:53]EMOTE: *no key*/(Pete) : <b>Pete</b> glares around.
+[19:13:55]EMOTE: *no key*/(Poly) : <b>Poly</b> turns and flies towards the Space Cigarettes packet.
+[19:14:01]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[19:14:03]SAY: Clown/ : HONK
+[19:14:08]EMOTE: *no key*/(monkey (290)) : <b>The monkey (290)</b> waves her tail.
+[19:14:16]SAY: corgi/ : Woof!
+[19:14:26]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[19:14:28]SAY: Clown/ : Welcome to clown planet!
+[19:14:28]EMOTE: *no key*/(monkey (495)) : <b>The monkey (495)</b> jumps!
+[19:14:28]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[19:14:39]SAY: Poly/ : Poly wanna cracker!
+[19:14:43]SAY: Mekhi Rogers/ : Hey you, why dont you go ass wank ass bitch damn , you comdom!
+[19:14:45]SAY: mouse/ : Squeek!
+[19:14:51]SAY: Valeria Alekseev/ : Breaking news from Station Announcements!
+[19:14:52]EMOTE: *no key*/(Runtime) : <b>Runtime</b> lies down.
+[19:14:55]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[19:14:55]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[19:14:55]EMOTE: *no key*/(The Faithless) : <b>The Faithless</b> stops moving...
+[19:15:00]SAY: Jaylen Khan/ : Oh jerk, that whorelord was one hell of an childish arms.
+[19:15:00]SAY: Autumn Kanaga/ : Hey you, why dont you go damn ass jerk wank bitch , you milkdrinker!
+[19:15:03]SAY: mouse/ : SQUEEK!
+[19:15:05]ADMIN: Guest-3622605515/(Leo Johnson) toggled AI allowed.
+[19:15:06]SAY: mouse/ : SQUEEK!
+[19:15:07]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shakes its head
+[19:15:07]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[19:15:07]SAY: Brayan Conrad/ : Oh wank, leg it!
+[19:15:08]ADMIN: Guest-3622605515/(Leo Johnson) toggled AI allowed.
+[19:15:09]SAY: Cristian Mcclymonds/ : Traitorous until proven pretty!
+[19:15:12]SAY: Romeo Goodman/ : Traitorous until proven pretty!
+[19:15:13]SAY: Tate Ahmed/ : Hey person, why dont you go damn shit damn wank bitch , you monkey!
+[19:15:17]SAY: Dean Lucy/ : I want to touch that gaylord when I find them.
+[19:15:19]SAY: Brayan Conrad/ : Hey person, why dont you go shit damn jerk arse wank , you gaylord!
+[19:15:20]ADMIN: Guest-3622605515/(Leo Johnson) pumped a random event.
+[19:15:21]ADMIN: Guest-3622605515/(Leo Johnson) pumped a random event.
+[19:15:21]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[19:15:21]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the monitor decryption key's direction and takes flight.
+[19:15:21]EMOTE: *no key*/(monkey (555)) : <b>The monkey (555)</b> rolls.
+[19:15:21]EMOTE: *no key*/(monkey (720)) : <b>The monkey (720)</b> scratches.
+[19:15:26]SAY: corgi puppy/ : Bark!
+[19:15:35]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[19:15:38]SAY: Darius Foster/ : Woof!
+[19:15:39]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> chases its tail.
+[19:15:39]SAY: Rocco Gregory/ : I wonder if there is anything to modify and pat somewhere else..
+[19:15:42]EMOTE: *no key*/(monkey (287)) : <b>The monkey (287)</b> waves his tail.
+[19:15:50]SAY: Arielle Saylor/ : Oh jerk, that cluwne was one hell of an whoreish toes.
+[19:15:54]SAY: Deangelo Pycroft/ : Hey person, why dont you go damn shit damn wank bitch , you monkey!
+[19:15:54]SAY: Kyra Ratcliff/ : Well ass, this is a pretty situation.
+[19:15:54]SAY: Corbin Wheeler/ : I wonder if there is anything to modify and pat somewhere else..
+[19:15:54]SAY: Randal Power/ : I wonder if there is anything to modify and pat somewhere else..
+[19:15:54]SAY: Brayan Conrad/ : Hey person, why dont you go damn shit damn wank bitch , you monkey!
+[19:16:00]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> yaps.
+[19:16:02]SAY: corgi puppy/ : Bark!
+[19:16:02]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[19:16:04]SAY: Makenzie Clewett/ : I wonder if there is anything to modify and pat somewhere else..
+[19:16:06]ADMIN: Guest-3622605515/(Leo Johnson) pumped a random event.
+[19:16:06]ADMIN: Guest-3622605515/(Leo Johnson) pumped a random event.
+[19:16:07]ADMIN: Guest-3622605515/(Leo Johnson) pumped a random event.
+[19:16:07]ADMIN: Guest-3622605515/(Leo Johnson) pumped a random event.
+[19:16:07]ADMIN: Guest-3622605515/(Leo Johnson) pumped a random event.
+[19:16:07]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[19:16:08]ADMIN: Guest-3622605515/(Leo Johnson) pumped a random event.
+[19:16:08]ADMIN: Guest-3622605515/(Leo Johnson) pumped a random event.
+[19:16:09]EMOTE: *no key*/(monkey (420)) : <b>The monkey (420)</b> jumps!
+[19:16:10]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[19:16:12]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[19:16:12]EMOTE: *no key*/(monkey (555)) : <b>The monkey (555)</b> scratches.
+[19:16:15]SAY: Randal Power/ : Hey you, why dont you go ass wank ass bitch damn , you comdom!
+[19:16:16]SAY: Laurencia Hoenshell/ : Traitorous until proven pretty!
+[19:16:18]EMOTE: *no key*/(Rachael Digson) : <b>Rachael Digson</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:16:18]EMOTE: *no key*/(Jayce Donkin) : <b>Jayce Donkin</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:16:18]SAY: Ian/ : Woof!
+[19:16:19]SAY: Cohen Kemble/ : Hey person, why dont you go shit damn jerk arse wank , you gaylord!
+[19:16:20]SAY: Zion Howe/ : Guilty until proven okay!
+[19:16:20]SAY: Eli Overstreet/ : Honk until proven bad!
+[19:16:24]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (False Alarm)
+[19:16:24]SAY: Brodie Petrov/ : I want to touch that gaylord when I find them.
+[19:16:25]SAY: Kylee Rathens/ : Hey person, why dont you go damn shit damn wank bitch , you monkey!
+[19:16:25]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Zippo lighter's direction and takes flight.
+[19:16:27]SAY: Runtime/ : HSSSSS
+[19:16:29]EMOTE: *no key*/(Hayden Smail) : <b>Hayden Smail</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:16:29]EMOTE: *no key*/(Eliza Heckendora) : <b>Eliza Heckendora</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:16:31]SAY: Julissa Hussain/ : Hey you, why dont you go ass wank ass bitch damn , you comdom!
+[19:16:31]SAY: Darius Foster/ : Guilty until proven okay!
+[19:16:31]EMOTE: *no key*/(Kylee Griffiths) : <b>Kylee Griffiths</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:16:32]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stops resting.
+[19:16:33]SAY: Crystal Eliza/ : I want to touch that gaylord when I find them.
+[19:16:35]EMOTE: *no key*/(Porter Hunter) : <b>Porter Hunter</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:16:36]EMOTE: *no key*/(Lexia Bash) : <b>Lexia Bash</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:16:36]EMOTE: *no key*/(monkey (420)) : <b>The monkey (420)</b> jumps!
+[19:16:36]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> chases its tail.
+[19:16:36]SAY: Jeannie Trovato/ : Oh jerk, that whorelord was one hell of an childish arms.
+[19:16:36]SAY: Eleanor Spock/ : Woof!
+[19:16:39]SAY: Darius Foster/ : Hey person, why dont you go damn shit damn wank bitch , you monkey!
+[19:16:40]SAY: Ulyssa Zaun/ : Oh wank, leg it!
+[19:16:41]SAY: Porter Eggbert/ : Oh jerk, that whorelord was one hell of an childish arms.
+[19:16:41]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Mass Hallucination)
+[19:16:43]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[19:16:50]SAY: Jordan Cowart/ : Well damn, this is a bad situation.
+[19:16:53]EMOTE: *no key*/(Runtime) : <b>Runtime</b> twitches its whiskers.
+[19:16:59]SAY: Mekhi Moore/ : Guilty until proven okay!
+[19:17:00]SAY: Clown/ : Honk!
+[19:17:02]SAY: Julianna Johnson/ : Oh wank, leg it!
+[19:17:03]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Spider Infestation)
+[19:17:04]SAY: Bianca Noton/ : Oh jerk, that cluwne was one hell of an whoreish toes.
+[19:17:06]SAY: Clown/ : Welcome to clown planet!
+[19:17:06]SAY: Rocco Gregory/ : Oh jerk, that whorelord was one hell of an childish arms.
+[19:17:07]SAY: Brodie Petrov/ : Oh wank, leg it!
+[19:17:14]SAY: Wendy Tilton/ : Well ass, this is a pretty situation.
+[19:17:14]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[19:17:18]SAY: Jessica Stern/ : Breaking news from Station Announcements!
+[19:17:19]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[19:17:21]SAY: corgi puppy/ : Woof!
+[19:17:22]SAY: Davion Stroh/ : Hands down the best seed selection on the station!
+[19:17:24]SAY: Jillian Stroble/ : Hey person, why dont you go damn shit damn wank bitch , you monkey!
+[19:17:24]SAY: Leta Blessig/ : AUUUUUU
+[19:17:26]SAY: Aida Bennett/ : Oh jerk, that cluwne was one hell of an whoreish toes.
+[19:17:26]SAY: Salvador Holmes/ : Hey you, why dont you go ass wank ass bitch damn , you comdom!
+[19:17:26]EMOTE: *no key*/(Caeser II) : <b>Caeser II</b> scratches.
+[19:17:28]SAY: Crystal Eliza/ : AUUUUUU
+[19:17:29]SAY: Poly/ : Traitorous until proven pretty!
+[19:17:31]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the chief engineer's rubber stamp's direction and takes flight.
+[19:17:36]EMOTE: *no key*/(monkey (290)) : <b>The monkey (290)</b> jumps!
+[19:17:36]SAY: Leslie Catleay/ : Well ass, this is a pretty situation.
+[19:17:41]SAY: Leta Willey/ : Hey you, why dont you go ass wank ass bitch damn , you comdom!
+[19:17:42]SAY: Eli Overstreet/ : Honk until proven bad!
+[19:17:43]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Ion Storm)
+[19:17:44]SAY: Rube Garneys/ : Well ass, this is a pretty situation.
+[19:17:46]SAY: Phillip Sullivan/ : Hey person, why dont you go damn shit damn wank bitch , you monkey!
+[19:17:47]SAY: Persh Mortland/ : I want to touch that gaylord when I find them.
+[19:17:48]EMOTE: *no key*/(Runtime) : <b>Runtime</b> sits down.
+[19:17:48]SAY: Nobody's Perfect/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[19:17:54]SAY: Jim Harris/ : Traitorous until proven pretty!
+[19:17:56]SAY: Nicole Kuznetsov/ : Oh wank, leg it!
+[19:17:57]SAY: Selena Houser/ : Honk until proven bad!
+[19:17:58]SAY: mouse/ : SQUEEK!
+[19:17:58]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stops resting.
+[19:17:58]SAY: Jacob Robertson/ : Well damn, this is a bad situation.
+[19:18:01]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Meteor Wave: Catastrophic)
+[19:18:02]SAY: Leta Willey/ : Oh jerk, that cluwne was one hell of an whoreish toes.
+[19:18:03]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> barks!
+[19:18:07]EMOTE: *no key*/(monkey (218)) : <b>The monkey (218)</b> jumps!
+[19:18:07]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> dozes off.
+[19:18:10]SAY: Sean Saylor/ : Guilty until proven okay!
+[19:18:14]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Mice Migration)
+[19:18:16]EMOTE: *no key*/(Tom) : <b>Tom</b> shakes.
+[19:18:18]EMOTE: *no key*/(monkey (495)) : <b>The monkey (495)</b> scratches.
+[19:18:22]SAY: Kelsey Burns/ : Woof!
+[19:18:24]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> chases its tail.
+[19:18:33]SAY: Lanny Hastings/ : Oh jerk, that whorelord was one hell of an childish arms.
+[19:18:36]EMOTE: *no key*/(monkey (313)) : <b>The monkey (313)</b> scratches.
+[19:18:37]SAY: Kyler Zalack/ : AUUUUUU
+[19:18:40]GAME: Radiation pulse with size (2, 5) and severity 50 in area Escape Pod Two 
+[19:18:49]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> pants.
+[19:18:51]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:18:51]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:18:57]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[19:19:00]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Clogged Vents)
+[19:19:00]SAY: Runtime/ : HSSSSS
+[19:19:01]SAY: Logan Beach/ : Breaking news from Station Announcements!
+[19:19:01]SAY: Brielle Rosensteel/ : Hands down the best seed selection on the station!
+[19:19:06]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:19:07]SAY: Crystal Eliza/ : Hey person, why dont you go shit damn jerk arse wank , you gaylord!
+[19:19:09]SAY: Hope Brindle/ : Traitorous until proven pretty!
+[19:19:11]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Spider Infestation)
+[19:19:11]SAY: Byrne Joyce/ : Oh jerk, that whorelord was one hell of an childish arms.
+[19:19:12]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:19:13]EMOTE: *no key*/(Pete) : <b>Pete</b> glares around.
+[19:19:15]SAY: mouse/ : Squeek!
+[19:19:15]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[19:19:16]SAY: Marlyn Seelig/ : Traitorous until proven pretty!
+[19:19:17]SAY: Reagan Marshall/ : Well damn, this is a bad situation.
+[19:19:17]SAY: mouse/ : Squeek?
+[19:19:18]SAY: Patton White/ : Well damn, this is a bad situation.
+[19:19:20]SAY: Alison Heckendora/ : Oh jerk, that cluwne was one hell of an whoreish toes.
+[19:19:22]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:19:22]SAY: Autumn Sommer/ : Well damn, this is a bad situation.
+[19:19:24]SAY: Averill Woollard/ : Hey person, why dont you go damn shit damn wank bitch , you monkey!
+[19:19:26]EMOTE: *no key*/(Lisa) : <b>Lisa</b> chases her tail.
+[19:19:26]GAME: Radiation pulse with size (2, 5) and severity 50 in area Science Maintenance 
+[19:19:26]GAME: Explosion with size (0, 1, 5, 5) in area Science Maintenance (194,103,1)
+[19:19:27]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> woofs!
+[19:19:29]SAY: Royce Elderson/ : Oh jerk, that cluwne was one hell of an whoreish toes.
+[19:19:30]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Camera Failure)
+[19:19:30]EMOTE: *no key*/(monkey (313)) : <b>The monkey (313)</b> scratches.
+[19:19:32]SAY: Marley Hardie/ : Breaking news from Station Announcements!
+[19:19:32]SAY: Ivy Howe/ : AUUUUUU
+[19:19:33]SAY: corgi puppy/ : Bark!
+[19:19:35]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Blob)
+[19:19:37]GAME: Explosion with size (2, 4, 6, 0) in area Auxillary Base Construction (47,161,1)
+[19:19:37]GAME: Explosion with size (0, 1, 5, 5) in area Auxillary Base Construction (48,160,1)
+[19:19:37]SAY: Clown/ : HONK
+[19:19:39]SAY: Ebba White/ : Oh wank, leg it!
+[19:19:40]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> chases its tail.
+[19:19:41]GAME: Explosion with size (2, 4, 6, 0) in area Arrival Shuttle Hallway (47,135,1)
+[19:19:41]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:19:41]GAME: Explosion with size (2, 4, 6, 0) in area Arrival Shuttle Hallway (47,132,1)
+[19:19:41]GAME: Explosion with size (2, 4, 6, 0) in area Arrival Shuttle Hallway (47,131,1)
+[19:19:47]GAME: Explosion with size (2, 4, 6, 0) in area Space (156,45,1)
+[19:19:48]GAME: Explosion with size (2, 4, 6, 0) in area AI Satellite Hallway (156,46,1)
+[19:19:48]GAME: Explosion with size (0, 1, 5, 5) in area AI Satellite Hallway (155,47,1)
+[19:19:49]GAME: Explosion with size (2, 4, 6, 0) in area AI Satellite Antechamber (152,54,1)
+[19:19:50]EMOTE: *no key*/(Officer Pingsky) : <b>Officer Pingsky</b> stops moving...
+[19:19:50]GAME: Explosion with size (2, 4, 6, 0) in area AI Satellite Antechamber (147,60,1)
+[19:19:51]GAME: Explosion with size (2, 4, 6, 0) in area AI Satellite Antechamber (147,61,1)
+[19:19:52]EMOTE: *no key*/(Abby Wells) : <b>Abby Wells</b> screams.
+[19:19:52]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the chief engineer's rubber stamp's direction and takes flight.
+[19:19:53]SAY: Runtime/ : HSSSSS
+[19:19:56]GAME: Explosion with size (0, 1, 5, 5) in area Incinerator (145,82,1)
+[19:19:56]SAY: Alison Heckendora/ : Oh wank, leg it!
+[19:19:56]EMOTE: *no key*/(Alan Kifer) : <b>Alan Kifer</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:19:57]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[19:20:05]SAY: Darren Hunter/ : Oh wank, leg it!
+[19:20:11]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> woofs!
+[19:20:11]GAME: A chemical smoke reaction has taken place in (Armory | 113, 178)[ Condensed Capsaicin ]. No associated key.
+[19:20:11]GAME: A grenade detonated at Armory (113, 178, 1)
+[19:20:11]GAME: A chemical smoke reaction has taken place in (Armory | 113, 178)[ Condensed Capsaicin ]. No associated key.
+[19:20:11]GAME: A grenade detonated at Armory (113, 178, 1)
+[19:20:11]GAME: A chemical smoke reaction has taken place in (Armory | 113, 178)[ Condensed Capsaicin ]. No associated key.
+[19:20:11]GAME: A grenade detonated at Armory (113, 178, 1)
+[19:20:11]GAME: A chemical smoke reaction has taken place in (Armory | 113, 178)[ Condensed Capsaicin ]. No associated key.
+[19:20:11]GAME: A grenade detonated at Armory (113, 178, 1)
+[19:20:11]GAME: A chemical smoke reaction has taken place in (Armory | 113, 178)[ Condensed Capsaicin ]. No associated key.
+[19:20:11]GAME: A grenade detonated at Armory (113, 178, 1)
+[19:20:11]GAME: A chemical smoke reaction has taken place in (Armory | 113, 178)[ Condensed Capsaicin ]. No associated key.
+[19:20:11]GAME: A grenade detonated at Armory (113, 178, 1)
+[19:20:11]GAME: A chemical smoke reaction has taken place in (Armory | 113, 178)[ Condensed Capsaicin ]. No associated key.
+[19:20:11]GAME: A grenade detonated at Armory (113, 178, 1)
+[19:20:13]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> yaps happily!
+[19:20:15]EMOTE: *no key*/(Alfredo Kelley) : <b>Alfredo Kelley</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:20:15]EMOTE: *no key*/(Denise Rifler) : <b>Denise Rifler</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:20:16]GAME: Radiation pulse with size (2, 5) and severity 50 in area Aft Starboard Solar Array 
+[19:20:19]SAY: Ciara Lombardi/ : Woof!
+[19:20:19]SAY: Huffie Owens/ : Guilty until proven okay!
+[19:20:21]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[19:20:21]SAY: Mitchell Brinigh/ : Oh jerk, that cluwne was one hell of an whoreish toes.
+[19:20:21]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> yaps happily!
+[19:20:22]SAY: Brenden Conrad/ : Woof!
+[19:20:23]GAME: *no key*/(Denise Rifler) bumped into *no key*/(Marcia Warren) and set them on fire
+[19:20:24]GAME: *no key*/(Denise Rifler) bumped into *no key*/(Kira Jowers) and set them on fire
+[19:20:24]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:20:25]GAME: Radiation pulse with size (2, 5) and severity 50 in area Fore Starboard Solar Array 
+[19:20:27]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[19:20:29]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> shivers.
+[19:20:30]SAY: mouse/ : Squeek!
+[19:20:32]GAME: Radiation pulse with size (2, 5) and severity 50 in area Engineering Maintenance 
+[19:20:33]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Clogged Vents)
+[19:20:37]SAY: George Mcloskey/ : Honk until proven bad!
+[19:20:40]SAY: Clown/ : HONK
+[19:20:47]SAY: Skyler Rockwell/ : Honk until proven bad!
+[19:20:48]GAME: SMES deleted at (Electrical Maintenance)
+[19:20:51]EMOTE: *no key*/(Dana David) : <b>Dana David</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:20:51]EMOTE: *no key*/(Blake Price) : <b>Blake Price</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:20:52]SAY: Clown/ : Honk!
+[19:20:52]SAY: grey baby slime (218)/ : Blop...
+[19:20:52]EMOTE: *no key*/(monkey (495)) : <b>The monkey (495)</b> scratches.
+[19:20:52]EMOTE: *no key*/(Alger Treeby) : <b>Alger Treeby</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:20:52]EMOTE: *no key*/(Porter Eggbert) : <b>Porter Eggbert</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:20:52]EMOTE: *no key*/(Patton White) : <b>Patton White</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:20:52]EMOTE: *no key*/(Suzy Caldwell) : <b>Suzy Caldwell</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:20:52]EMOTE: *no key*/(Darren Hunter) : <b>Darren Hunter</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:20:54]EMOTE: *no key*/(Catherine Hawking) : <b>Catherine Hawking</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:20:54]EMOTE: *no key*/(Driscoll Skywalker) : <b>Driscoll Skywalker</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:20:55]EMOTE: *no key*/(Kristina Pinney) : <b>Kristina Pinney</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:21:00]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> shivers.
+[19:21:02]ADMIN: Guest-3622605515/(Leo Johnson) deleted the cockroach at (67,132,1)
+[19:21:03]SAY: mouse/ : SQUEEK!
+[19:21:04]SAY: Charles Garneys/ : Hey person, why dont you go shit damn jerk arse wank , you gaylord!
+[19:21:06]SAY: Gael Kelly/ : Traitorous until proven pretty!
+[19:21:06]SAY: corgi puppy/ : Woof!
+[19:21:07]ADMIN: Guest-3622605515/(Leo Johnson) deleted the cockroach at (67,128,1)
+[19:21:08]SAY: Erika Martins/ : I want to touch that gaylord when I find them.
+[19:21:08]SAY: Donny Agg/ : Well ass, this is a pretty situation.
+[19:21:08]EMOTE: *no key*/(giant spider (870)) : <b>The giant spider (870)</b> chitters
+[19:21:10]ADMIN: Guest-3622605515/(Leo Johnson) deleted the cockroach at (66,128,1)
+[19:21:11]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> yaps.
+[19:21:11]EMOTE: *no key*/(Kyla Huey) : <b>Kyla Huey</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:21:11]SAY: Clown/ : Honk!
+[19:21:11]SAY: Sean Saylor/ : Oh jerk, that whorelord was one hell of an childish arms.
+[19:21:12]SAY: Darell Demuth/ : I wonder if there is anything to modify and pat somewhere else..
+[19:21:16]ADMIN: Guest-3622605515/(Leo Johnson) deleted the crusty dried vomit at (65,132,1)
+[19:21:18]EMOTE: *no key*/(monkey (226)) : <b>The monkey (226)</b> jumps!
+[19:21:19]SAY: Euphemia Zalack/ : Well ass, this is a pretty situation.
+[19:21:20]EMOTE: *no key*/(Suzan Rhinehart) : <b>Suzan Rhinehart</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:21:22]SAY: Luis Beach/ : I want to touch that gaylord when I find them.
+[19:21:22]SAY: Bronte Pinney/ : Oh wank, leg it!
+[19:21:22]SAY: Arielle Saylor/ : Hey you, why dont you go damn ass jerk wank bitch , you milkdrinker!
+[19:21:24]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[19:21:26]EMOTE: *no key*/(Brittany Easter) : <b>Brittany Easter</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:21:26]EMOTE: *no key*/(giant spider (870)) : <b>The giant spider (870)</b> stops moving...
+[19:21:26]ADMIN: Guest-3622605515/(Leo Johnson) deleted the toilet at (65,132,1)
+[19:21:28]EMOTE: *no key*/(giant ice spider (501)) : <b>The giant ice spider (501)</b> chitters
+[19:21:29]EMOTE: *no key*/(monkey (495)) : <b>The monkey (495)</b> scratches.
+[19:21:29]EMOTE: *no key*/(Pete) : <b>Pete</b> brays.
+[19:21:31]EMOTE: *no key*/(Zion Howe) : <b>Zion Howe</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:21:31]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[19:21:36]SAY: Addyson Jesse/ : Oh jerk, that cluwne was one hell of an whoreish toes.
+[19:21:36]SAY: Karina Boyer/ : Woof!
+[19:21:37]SAY: Larry Tennant/ : Honk until proven bad!
+[19:21:39]SAY: Emanuel Brindle/ : Hey you, why dont you go ass wank ass bitch damn , you comdom!
+[19:21:45]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Spider Infestation)
+[19:21:45]SAY: Dalton Garneys/ : Woof!
+[19:21:45]EMOTE: *no key*/(giant ice spider (501)) : <b>The giant ice spider (501)</b> chitters
+[19:21:45]SAY: Julianna Johnson/ : Oh jerk, that whorelord was one hell of an childish arms.
+[19:21:46]SAY: Marcos Logue/ : Hey person, why dont you go damn shit damn wank bitch , you monkey!
+[19:21:48]SAY: Ciara Lombardi/ : Honk until proven bad!
+[19:21:51]SAY: Poly/ : Traitorous until proven pretty!
+[19:21:53]EMOTE: *no key*/(Flora Langston) : <b>Flora Langston</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:21:56]EMOTE: *no key*/(giant spider (617)) : <b>The giant spider (617)</b> chitters
+[19:21:56]EMOTE: *no key*/(giant spider (288)) : <b>The giant spider (288)</b> chitters
+[19:21:58]EMOTE: *no key*/(giant ice spider (501)) : <b>The giant ice spider (501)</b> chitters
+[19:22:01]SAY: Kendra Lombardi/ : AUUUUUU
+[19:22:01]SAY: Adeline Biery/ : AUUUUUU
+[19:22:05]SAY: Medibot/ : Delicious!
+[19:22:08]EMOTE: *no key*/(giant spider (288)) : <b>The giant spider (288)</b> chitters
+[19:22:09]SAY: grey baby slime (838)/ : Lonely...
+[19:22:09]EMOTE: *no key*/(monkey (495)) : <b>The monkey (495)</b> rolls.
+[19:22:12]EMOTE: *no key*/(giant spider (208)) : <b>The giant spider (208)</b> chitters
+[19:22:12]SAY: Clown/ : Welcome to clown planet!
+[19:22:12]SAY: grey baby slime (218)/ : Lonely...
+[19:22:13]SAY: Judah Sheets/ : Breaking news from Station Announcements!
+[19:22:15]EMOTE: *no key*/(giant spider (288)) : <b>The giant spider (288)</b> chitters
+[19:22:15]EMOTE: *no key*/(Amari Keener) : <b>Amari Keener</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:22:16]EMOTE: *no key*/(Ian) : <b>Ian</b> pants.
+[19:22:16]EMOTE: *no key*/(corgi) : <b>The corgi</b> woofs!
+[19:22:16]SAY: Nolan King/ : Well ass, this is a pretty situation.
+[19:22:18]EMOTE: *no key*/(Marcia Warren) : <b>Marcia Warren</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:22:18]SAY: Vanessa Rogers/ : Breaking news from Station Announcements!
+[19:22:18]SAY: Medibot/ : Radar, put a mask on!
+[19:22:19]SAY: Makenzie Clewett/ : Hey you, why dont you go ass wank ass bitch damn , you comdom!
+[19:22:24]EMOTE: *no key*/(Greyson Pratt) : <b>Greyson Pratt</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:22:25]EMOTE: *no key*/(Lisa) : <b>Lisa</b> shivers.
+[19:22:26]SAY: Xander Baker/ : Woof!
+[19:22:29]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Space Ninja)
+[19:22:30]SAY: Brielle Rosensteel/ : Breaking news from Station Announcements!
+[19:22:30]EMOTE: *no key*/(giant spider (288)) : <b>The giant spider (288)</b> chitters
+[19:22:31]SAY: Flossie Sidower/ : I wonder if there is anything to modify and pat somewhere else..
+[19:22:31]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Space Ninja)
+[19:22:31]SAY: Nolan King/ : Hey you, why dont you go damn ass jerk wank bitch , you milkdrinker!
+[19:22:32]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Space Ninja)
+[19:22:32]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Space Ninja)
+[19:22:32]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Space Ninja)
+[19:22:33]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Space Ninja)
+[19:22:33]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Space Ninja)
+[19:22:34]SAY: Walter Mull/ : Oh wank, leg it!
+[19:22:34]SAY: Lyla Zoucks/ : Traitorous until proven pretty!
+[19:22:36]EMOTE: *no key*/(Lisa) : <b>Lisa</b> chases her tail.
+[19:22:38]SAY: corgi puppy/ : AUUUUUU
+[19:22:41]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Power-ON cartridge's direction and takes flight.
+[19:22:43]SAY: Addyson Jesse/ : Guilty until proven okay!
+[19:22:43]SAY: Hartley Endsley/ : Oh jerk, that cluwne was one hell of an whoreish toes.
+[19:22:44]SAY: Donny Agg/ : I wonder if there is anything to modify and pat somewhere else..
+[19:22:44]EMOTE: *no key*/(monkey (720)) : <b>The monkey (720)</b> scratches.
+[19:22:44]SAY: corgi puppy/ : Bark!
+[19:22:44]SAY: Eveleen Wallick/ : Oh wank, leg it!
+[19:22:47]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> shivers.
+[19:22:49]SAY: Clown/ : Welcome to clown planet!
+[19:22:51]SAY: corgi puppy/ : AUUUUUU
+[19:22:51]EMOTE: *no key*/(Runtime) : <b>Runtime</b> twitches its whiskers.
+[19:22:53]EMOTE: *no key*/(giant spider (617)) : <b>The giant spider (617)</b> chitters
+[19:22:56]SAY: Camden Khan/ : Honk until proven bad!
+[19:22:58]SAY: Poly/ : Traitorous until proven pretty!
+[19:22:58]EMOTE: *no key*/(monkey (495)) : <b>The monkey (495)</b> waves her tail.
+[19:22:58]SAY: Jayce Tanner/ : I want to touch that gaylord when I find them.
+[19:22:59]SAY: Kennard Bunten/ : Woof!
+[19:22:59]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[19:23:00]EMOTE: *no key*/(monkey (495)) : <b>The monkey (495)</b> scratches.
+[19:23:00]SAY: Sloan Weisgarber/ : Oh jerk, that cluwne was one hell of an whoreish toes.
+[19:23:01]SAY: Titus Jenkins/ : I wonder if there is anything to modify and pat somewhere else..
+[19:23:02]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[19:23:04]EMOTE: *no key*/(Spaceman) : <b>Spaceman</b> stops moving...
+[19:23:05]SAY: Charlton Gettemy/ : Guilty until proven okay!
+[19:23:09]EMOTE: *no key*/(Zune Priebe) : <b>Zune Priebe</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:23:11]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Blob)
+[19:23:11]EMOTE: *no key*/(Caryl Campbell) : <b>Caryl Campbell</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:23:12]EMOTE: *no key*/(Sally Simmons) : <b>Sally Simmons</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:23:12]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[19:23:13]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Blob)
+[19:23:13]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Blob)
+[19:23:14]SAY: Sloan Weisgarber/ : Breaking news from Station Announcements!
+[19:23:14]EMOTE: *no key*/(giant spider (687)) : <b>The giant spider (687)</b> stops moving...
+[19:23:14]SAY: corgi puppy/ : Woof!
+[19:23:15]EMOTE: *no key*/(Harley Heckendora) : <b>Harley Heckendora</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:23:15]EMOTE: *no key*/(Noah Judge) : <b>Noah Judge</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:23:15]EMOTE: *no key*/(Martin Mikhaylov) : <b>Martin Mikhaylov</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:23:15]EMOTE: *no key*/(monkey (218)) : <b>The monkey (218)</b> waves her tail.
+[19:23:15]SAY: Grandpa Hawkins/ : Oh jerk, that cluwne was one hell of an whoreish toes.
+[19:23:17]EMOTE: *no key*/(Lisa) : <b>Lisa</b> chases its tail.
+[19:23:18]SAY: Cristian Mcclymonds/ : AUUUUUU
+[19:23:20]EMOTE: *no key*/(giant spider (288)) : <b>The giant spider (288)</b> chitters
+[19:23:20]EMOTE: *no key*/(Rexana Muggins) : <b>Rexana Muggins</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:23:21]SAY: Ivy Howe/ : Oh wank, leg it!
+[19:23:22]EMOTE: *no key*/(Julissa Hussain) : <b>Julissa Hussain</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:23:23]SAY: Arielle Saylor/ : Honk until proven bad!
+[19:23:24]EMOTE: *no key*/(Jackson Swarner) : <b>Jackson Swarner</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:23:24]EMOTE: *no key*/(Isaac Hynes) : <b>Isaac Hynes</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:23:25]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[19:23:25]SAY: mouse/ : SQUEEK!
+[19:23:28]EMOTE: *no key*/(Jim Harris) : <b>Jim Harris</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:23:28]EMOTE: *no key*/(Caeser II) : <b>Caeser II</b> rolls.
+[19:23:30]EMOTE: *no key*/(Kira Jowers) : <b>Kira Jowers</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:23:31]SAY: Marcia Kifer/ : Honk until proven bad!
+[19:23:32]EMOTE: *no key*/(Myriam Garland) : <b>Myriam Garland</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:23:32]EMOTE: *no key*/(Finn Robertson) : <b>Finn Robertson</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:23:34]SAY: Davion Stroh/ : AUUUUUU
+[19:23:35]EMOTE: *no key*/(Harvey Dryfus) : <b>Harvey Dryfus</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:23:36]EMOTE: *no key*/(Clown) : <b>Clown</b> squeaks
+[19:23:36]SAY: Priscilla Basmanoff/ : I wonder if there is anything to modify and pat somewhere else..
+[19:23:38]SAY: Brenden Conrad/ : Honk until proven bad!
+[19:23:39]SAY: Alison Heckendora/ : AUUUUUU
+[19:23:39]SAY: Sachie Hawking/ : Hey you, why dont you go ass wank ass bitch damn , you comdom!
+[19:23:40]SAY: Melody Wise/ : Oh jerk, that cluwne was one hell of an whoreish toes.
+[19:23:41]EMOTE: *no key*/(giant ice spider (501)) : <b>The giant ice spider (501)</b> chitters
+[19:23:41]EMOTE: *no key*/(giant spider (208)) : <b>The giant spider (208)</b> chitters
+[19:23:41]SAY: mouse/ : Squeek!
+[19:23:41]EMOTE: *no key*/(Runtime) : <b>Runtime</b> walks around.
+[19:23:43]SAY: Randal Power/ : Oh jerk, that cluwne was one hell of an whoreish toes.
+[19:23:43]EMOTE: *no key*/(giant spider (849)) : <b>The giant spider (849)</b> chitters
+[19:23:43]EMOTE: *no key*/(giant spider (208)) : <b>The giant spider (208)</b> chitters
+[19:23:46]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[19:23:46]EMOTE: *no key*/(Ian) : <b>Ian</b> yaps.
+[19:23:47]SAY: Oralie Trovato/ : Well damn, this is a bad situation.
+[19:23:47]SAY: Mathew McDonohugh/ : Guilty until proven okay!
+[19:23:48]EMOTE: *no key*/(giant spider (849)) : <b>The giant spider (849)</b> stops moving...
+[19:23:49]SAY: Camille Petrov/ : I want to touch that gaylord when I find them.
+[19:23:50]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> chases its tail.
+[19:23:53]EMOTE: *no key*/(Erika Mathews) : <b>Erika Mathews</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:23:53]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Power-ON cartridge's direction and takes flight.
+[19:23:54]SAY: Caleigh Stroh/ : Hey you, why dont you go ass wank ass bitch damn , you comdom!
+[19:23:55]EMOTE: *no key*/(giant spider (288)) : <b>The giant spider (288)</b> chitters
+[19:23:56]EMOTE: *no key*/(monkey (290)) : <b>The monkey (290)</b> rolls.
+[19:23:58]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> barks!
+[19:24:01]SAY: Runtime/ : Meow!
+[19:24:03]SAY: Mateo Vanleer/ : Oh wank, leg it!
+[19:24:05]SAY: Haylie Steele/ : Guilty until proven okay!
+[19:24:06]EMOTE: *no key*/(giant ice spider (307)) : <b>The giant ice spider (307)</b> chitters
+[19:24:07]SAY: mouse/ : Squeek?
+[19:24:07]EMOTE: *no key*/(monkey (720)) : <b>The monkey (720)</b> rolls.
+[19:24:07]SAY: Erika Martins/ : Well ass, this is a pretty situation.
+[19:24:09]EMOTE: *no key*/(giant spider (100)) : <b>The giant spider (100)</b> chitters
+[19:24:09]EMOTE: *no key*/(giant spider (617)) : <b>The giant spider (617)</b> chitters
+[19:24:09]EMOTE: *no key*/(Alison Addison) : <b>Alison Addison</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:24:10]EMOTE: *no key*/(monkey (226)) : <b>The monkey (226)</b> rolls.
+[19:24:12]EMOTE: *no key*/(giant spider (617)) : <b>The giant spider (617)</b> chitters
+[19:24:12]EMOTE: *no key*/(giant spider (288)) : <b>The giant spider (288)</b> chitters
+[19:24:12]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[19:24:12]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[19:24:12]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[19:24:16]SAY: Mekhi Teagarden/ : Oh jerk, that whorelord was one hell of an childish arms.
+[19:24:17]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[19:24:21]SAY: Kylie Briner/ : I wonder if there is anything to modify and pat somewhere else..
+[19:24:23]SAY: Todd Parker/ : Traitorous until proven pretty!
+[19:24:24]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> shakes its head.
+[19:24:24]EMOTE: *no key*/(monkey (290)) : <b>The monkey (290)</b> waves her tail.
+[19:24:26]SAY: mouse/ : Squeek?
+[19:24:27]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Station-wide Human-level Intelligence)
+[19:24:27]SAY: Brenden Raub/ : Hey you, why dont you go ass wank ass bitch damn , you comdom!
+[19:24:28]EMOTE: *no key*/(Lyla Zoucks) : <b>Lyla Zoucks</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:24:31]EMOTE: *no key*/(Paperwork) : <b>Paperwork</b> stops moving...
+[19:24:32]SAY: Kennedy Otis/ : AUUUUUU
+[19:24:33]SAY: Heaven Alice/ : Hey you, why dont you go ass wank ass bitch damn , you comdom!
+[19:24:34]EMOTE: *no key*/(Ian) : <b>Ian</b> barks!
+[19:24:36]EMOTE: *no key*/(giant spider (100)) : <b>The giant spider (100)</b> chitters
+[19:24:36]EMOTE: *no key*/(giant ice spider (501)) : <b>The giant ice spider (501)</b> chitters
+[19:24:36]EMOTE: *no key*/(Colby Ashbaugh) : <b>Colby Ashbaugh</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:24:38]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Mice Migration)
+[19:24:41]EMOTE: *no key*/(giant ice spider (501)) : <b>The giant ice spider (501)</b> chitters
+[19:24:43]EMOTE: *no key*/(Wyatt Shaw) : <b>Wyatt Shaw</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:24:44]EMOTE: *no key*/(monkey (420)) : <b>The monkey (420)</b> waves her tail.
+[19:24:44]EMOTE: *no key*/(Runtime) : <b>Runtime</b> lies down.
+[19:24:47]SAY: Heaven Alice/ : I wonder if there is anything to poke and absorb somewhere else..
+[19:24:47]SAY: Abby Wells/ : Hey person, why dont you go shit damn jerk arse wank , you gaylord!
+[19:24:48]SAY: mouse/ : SQUEEK!
+[19:24:50]SAY: Lilliana Thomson/ : Woof!
+[19:24:50]SAY: Wynter Eliza/ : Well ass, this is a pretty situation.
+[19:24:53]EMOTE: *no key*/(grey baby slime (838)) : <b>The grey baby slime (838)</b> lights up for a bit, then stops.
+[19:24:53]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Spawn Slaughter Demon)
+[19:24:54]SAY: Adeline Biery/ : Hey you, why dont you go ass wank ass bitch damn , you comdom!
+[19:24:54]SAY: void puppy/ : AUUUUUU
+[19:24:55]SAY: mouse/ : Squeek?
+[19:24:57]EMOTE: *no key*/(giant spider (908)) : <b>The giant spider (908)</b> chitters
+[19:24:57]EMOTE: *no key*/(Topaz Swarner) : <b>Topaz Swarner</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:24:57]EMOTE: *no key*/(Eveleen Aggley) : <b>Eveleen Aggley</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:24:59]EMOTE: *no key*/(giant ice spider (307)) : <b>The giant ice spider (307)</b> chitters
+[19:24:59]SAY: corgi puppy/ : AUUUUUU
+[19:25:00]SAY: Tel Brandenburg/ : Honk until proven bad!
+[19:25:02]SAY: Topaz Pearsall/ : Guilty until proven okay!
+[19:25:02]SAY: mouse/ : Squeek!
+[19:25:02]SAY: Poly/ : Traitorous until proven pretty!
+[19:25:04]EMOTE: *no key*/(giant spider (100)) : <b>The giant spider (100)</b> chitters
+[19:25:05]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Power-ON cartridge's direction and takes flight.
+[19:25:06]EMOTE: *no key*/(giant spider (288)) : <b>The giant spider (288)</b> chitters
+[19:25:07]EMOTE: *no key*/(Poly) : <b>Poly</b> squawks.
+[19:25:09]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> chases its tail.
+[19:25:09]SAY: Astor Rogers/ : Oh jerk, that whorelord was one hell of an childish arms.
+[19:25:10]SAY: Lilah Harding/ : Guilty until proven okay!
+[19:25:11]EMOTE: *no key*/(giant spider (908)) : <b>The giant spider (908)</b> chitters
+[19:25:11]EMOTE: *no key*/(grey baby slime (218)) : <b>The grey baby slime (218)</b> jiggles!
+[19:25:14]SAY: mouse/ : Squeek?
+[19:25:16]EMOTE: *no key*/(Jeannie Trovato) : <b>Jeannie Trovato</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:25:18]SAY: Oralie Trovato/ : AUUUUUU
+[19:25:23]EMOTE: *no key*/(MULEbot) : <b>The MULEbot</b> stops moving...
+[19:25:23]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> barks!
+[19:25:23]SAY: corgi puppy/ : YAP
+[19:25:28]EMOTE: *no key*/(giant spider (208)) : <b>The giant spider (208)</b> chitters
+[19:25:30]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> shivers.
+[19:25:33]EMOTE: *no key*/(giant ice spider (307)) : <b>The giant ice spider (307)</b> chitters
+[19:25:35]SAY: Arielle Saylor/ : Guilty until proven okay!
+[19:25:37]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[19:25:38]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Alien Infestation)
+[19:25:39]SAY: Madison Stange/ : Guilty until proven okay!
+[19:25:41]SAY: Baylee Mary/ : Woof!
+[19:25:41]EMOTE: *no key*/(giant spider (908)) : <b>The giant spider (908)</b> chitters
+[19:25:41]EMOTE: *no key*/(giant spider (617)) : <b>The giant spider (617)</b> chitters
+[19:25:42]EMOTE: *no key*/(monkey (719)) : <b>The monkey (719)</b> waves her tail.
+[19:25:44]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Anomaly: Gravitational)
+[19:25:44]EMOTE: *no key*/(giant ice spider (307)) : <b>The giant ice spider (307)</b> chitters
+[19:25:46]EMOTE: *no key*/(giant spider (307)) : <b>The giant spider (307)</b> chitters
+[19:25:51]EMOTE: *no key*/(Kelsey Burns) : <b>Kelsey Burns</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:25:55]EMOTE: *no key*/(grey baby slime (218)) : <b>The grey baby slime (218)</b> lights up for a bit, then stops.
+[19:26:00]EMOTE: *no key*/(giant spider (307)) : <b>The giant spider (307)</b> chitters
+[19:26:02]SAY: Allison Alekseev/ : Hey person, why dont you go damn shit damn wank bitch , you monkey!
+[19:26:04]EMOTE: *no key*/(monkey (218)) : <b>The monkey (218)</b> jumps!
+[19:26:05]SAY: Jane Kelly/ : Well ass, this is a pretty situation.
+[19:26:05]SAY: John Kifer/ : Honk until proven bad!
+[19:26:06]SAY: Nyla Lester/ : Hey you, why dont you go ass wank ass bitch damn , you comdom!
+[19:26:06]EMOTE: *no key*/(MULEbot) : <b>The MULEbot</b> stops moving...
+[19:26:08]EMOTE: *no key*/(monkey (495)) : <b>The monkey (495)</b> scratches.
+[19:26:11]EMOTE: *no key*/(Paisley Hoenshell) : <b>Paisley Hoenshell</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:26:13]SAY: Ulric Kifer/ : Traitorous until proven pretty!
+[19:26:14]SAY: mouse/ : Squeek!
+[19:26:16]SAY: Laurencia Lloyd/ : Oh jerk, that whorelord was one hell of an childish arms.
+[19:26:20]SAY: Jaydon Perkins/ : Breaking news from Station Announcements!
+[19:26:22]EMOTE: *no key*/(giant spider (908)) : <b>The giant spider (908)</b> chitters
+[19:26:22]SAY: Medibot/ : Radar, put a mask on!
+[19:26:23]SAY: Leta Blessig/ : Well ass, this is a pretty situation.
+[19:26:25]EMOTE: *no key*/(Luis Beach) : <b>Luis Beach</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:26:26]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the BreatheDeep cartridge's direction and takes flight.
+[19:26:27]SAY: Randal Power/ : Hey you, why dont you go damn ass jerk wank bitch , you milkdrinker!
+[19:26:28]ADMIN: Guest-3622605515/(Leo Johnson) spawned /mob/living/carbon/monkey/angry at (74,136,1)
+[19:26:29]EMOTE: *no key*/(giant spider (908)) : <b>The giant spider (908)</b> chitters
+[19:26:30]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[19:26:31]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[19:26:32]EMOTE: *no key*/(Caeser II) : <b>Caeser II</b> waves its tail.
+[19:26:33]SAY: Bronte Pinney/ : Hey person, why dont you go damn shit damn wank bitch , you monkey!
+[19:26:33]SAY: Martin Muller/ : Well ass, this is a pretty situation.
+[19:26:34]EMOTE: *no key*/(Walter Mull) : <b>Walter Mull</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:26:37]EMOTE: *no key*/(Brody Hegarty) : <b>Brody Hegarty</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:26:37]EMOTE: *no key*/(Runtime) : <b>Runtime</b> gets up and meows.
+[19:26:38]SAY: Amy Hardie/ : I wonder if there is anything to modify and pat somewhere else..
+[19:26:38]SAY: Harley Ashbaugh/ : I want to touch that gaylord when I find them.
+[19:26:39]EMOTE: *no key*/(giant spider (100)) : <b>The giant spider (100)</b> chitters
+[19:26:43]EMOTE: *no key*/(giant spider (908)) : <b>The giant spider (908)</b> chitters
+[19:26:43]EMOTE: *no key*/(giant ice spider (307)) : <b>The giant ice spider (307)</b> chitters
+[19:26:43]EMOTE: *no key*/(Valeria Alekseev) : <b>Valeria Alekseev</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:26:45]SAY: Royce Elderson/ : Woof!
+[19:26:45]EMOTE: *no key*/(giant spider (208)) : <b>The giant spider (208)</b> chitters
+[19:26:46]SAY: Rexana Pinney/ : Well ass, this is a pretty situation.
+[19:26:47]SAY: Rylan David/ : AUUUUUU
+[19:26:47]EMOTE: *no key*/(voidy) : <b>The void puppy</b> woofs!
+[19:26:48]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[19:26:48]SAY: Keegan Koster/ : Hey you, why dont you go ass wank ass bitch damn , you comdom!
+[19:26:49]EMOTE: *no key*/(giant spider (908)) : <b>The giant spider (908)</b> stops moving...
+[19:26:49]SAY: mouse/ : Squeek?
+[19:26:50]EMOTE: *no key*/(Clown) : <b>Clown</b> squeaks
+[19:26:52]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> yaps.
+[19:26:52]SAY: Nobody's Perfect/ : There&#39;s always a catch, and I&#39;m the best there is.
+[19:26:52]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Brand Intelligence)
+[19:26:54]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> shakes its head.
+[19:26:54]EMOTE: *no key*/(monkey (287)) : <b>The monkey (287)</b> waves his tail.
+[19:26:57]SAY: Wyatt Vader/ : Oh jerk, that whorelord was one hell of an childish arms.
+[19:26:57]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Disease Outbreak)
+[19:26:58]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> woofs!
+[19:26:59]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[19:27:00]SAY: Cara Fischer/ : Hands down the best seed selection on the station!
+[19:27:01]SAY: Heaven Alice/ : I wonder if there is anything to modify and pat somewhere else..
+[19:27:02]SAY: Olive Lombardi/ : Oh jerk, that whorelord was one hell of an childish arms.
+[19:27:03]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[19:27:03]SAY: Pete/ : Eh?
+[19:27:04]SAY: Byrne Easter/ : Guilty until proven okay!
+[19:27:06]SAY: Noel Bratton/ : Woof!
+[19:27:06]EMOTE: *no key*/(giant spider (208)) : <b>The giant spider (208)</b> chitters
+[19:27:09]SAY: Wyatt Vader/ : AUUUUUU
+[19:27:09]SAY: Charles Garneys/ : THIS&#39;S WHERE TH&#39; SEEDS LIVE! GIT YOU SOME!
+[19:27:09]EMOTE: *no key*/(giant ice spider (501)) : <b>The giant ice spider (501)</b> chitters
+[19:27:09]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> barks!
+[19:27:11]EMOTE: *no key*/(giant spider (100)) : <b>The giant spider (100)</b> chitters
+[19:27:11]SAY: corgi puppy/ : Woof!
+[19:27:14]SAY: Clown/ : Welcome to clown planet!
+[19:27:16]EMOTE: *no key*/(giant ice spider (501)) : <b>The giant ice spider (501)</b> chitters
+[19:27:16]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[19:27:18]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Electrical Storm)
+[19:27:20]SAY: mouse/ : Squeek!
+[19:27:20]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> shivers.
+[19:27:21]SAY: Paxton Addison/ : Guilty until proven okay!
+[19:27:24]EMOTE: *no key*/(Zane Stahl) : <b>Zane Stahl</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:27:27]EMOTE: *no key*/(giant spider (288)) : <b>The giant spider (288)</b> chitters
+[19:27:30]EMOTE: *no key*/(giant spider (100)) : <b>The giant spider (100)</b> chitters
+[19:27:30]EMOTE: *no key*/(George Whiteman) : <b>George Whiteman</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:27:32]EMOTE: *no key*/(giant spider (288)) : <b>The giant spider (288)</b> chitters
+[19:27:32]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the shard's direction and takes flight.
+[19:27:32]SAY: Euphemia Zalack/ : Honk until proven bad!
+[19:27:33]SAY: Elijah Hanford/ : Traitorous until proven pretty!
+[19:27:34]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[19:27:34]SAY: Mekhi Rogers/ : Honk until proven bad!
+[19:27:34]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[19:27:34]EMOTE: *no key*/(Runtime) : <b>Runtime</b> stops resting.
+[19:27:36]EMOTE: *no key*/(giant spider (208)) : <b>The giant spider (208)</b> chitters
+[19:27:38]SAY: Janie Camp/ : Hey you, why dont you go ass wank ass bitch damn , you comdom!
+[19:27:40]SAY: Noel Bratton/ : Well damn, this is a bad situation.
+[19:27:42]EMOTE: *no key*/(Camille Petrov) : <b>Camille Petrov</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:27:44]SAY: Romeo Goodman/ : Oh jerk, that whorelord was one hell of an childish arms.
+[19:27:45]EMOTE: *no key*/(Ian) : <b>Ian</b> dances around.
+[19:27:46]SAY: Steven Wile/ : I want to touch that gaylord when I find them.
+[19:27:49]EMOTE: *no key*/(giant spider (100)) : <b>The giant spider (100)</b> chitters
+[19:27:49]EMOTE: *no key*/(giant ice spider (501)) : <b>The giant ice spider (501)</b> chitters
+[19:27:49]EMOTE: *no key*/(Spaceman) : <b>Spaceman</b> stops moving...
+[19:27:49]EMOTE: *no key*/(monkey (719)) : <b>The monkey (719)</b> jumps!
+[19:27:51]EMOTE: *no key*/(giant spider (617)) : <b>The giant spider (617)</b> stops moving...
+[19:27:51]EMOTE: *no key*/(giant spider (288)) : <b>The giant spider (288)</b> chitters
+[19:27:58]EMOTE: *no key*/(giant ice spider (307)) : <b>The giant ice spider (307)</b> chitters
+[19:27:58]EMOTE: *no key*/(giant spider (307)) : <b>The giant spider (307)</b> chitters
+[19:27:59]EMOTE: *no key*/(Caeser II) : <b>Caeser II</b> scratches.
+[19:27:59]SAY: Marissa Lacon/ : Oh jerk, that cluwne was one hell of an whoreish toes.
+[19:28:00]SAY: Kobe Christman/ : AUUUUUU
+[19:28:00]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[19:28:00]EMOTE: *no key*/(Dean Brooks) : <b>Dean Brooks</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:28:04]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Grey Tide)
+[19:28:05]EMOTE: *no key*/(monkey (420)) : <b>The monkey (420)</b> waves her tail.
+[19:28:06]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Processor Overload)
+[19:28:06]GAME: Explosion with size (0, 0, 2, 0) in area Telecoms Server Room (101,86,1)
+[19:28:07]EMOTE: *no key*/(Russell Lee) : <b>Russell Lee</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:28:07]EMOTE: *no key*/(monkey (290)) : <b>The monkey (290)</b> rolls.
+[19:28:08]SAY: Isiah Lee/ : Hey person, why dont you go shit damn jerk arse wank , you gaylord!
+[19:28:10]SAY: Ulyssa Zaun/ : Traitorous until proven pretty!
+[19:28:11]SAY: corgi/ : YAP
+[19:28:12]ADMIN: Guest-3622605515/(Leo Johnson) admin ghosted.
+[19:28:12]ACCESS: Mob Login: Guest-3622605515/(Leo Johnson) was assigned to a /mob/dead/observer
+[19:28:13]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> barks!
+[19:28:14]SAY: Bryant Straub/ : Honk until proven bad!
+[19:28:18]SAY: Mathew McDonohugh/ : Hands down the best seed selection on the station!
+[19:28:21]SAY: Kale Teagarden/ : Hey you, why dont you go ass wank ass bitch damn , you comdom!
+[19:28:21]ACCESS: Mob Login: Guest-3622605515/(Leo Johnson) was assigned to a /mob/living/carbon/human
+[19:28:23]SAY: Jaylen Werry/ : Oh jerk, that whorelord was one hell of an childish arms.
+[19:28:24]EMOTE: *no key*/(giant ice spider (501)) : <b>The giant ice spider (501)</b> chitters
+[19:28:27]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> shakes its head.
+[19:28:29]SAY: Marcos Logue/ : I want to touch that gaylord when I find them.
+[19:28:30]SAY: Zack Fryer/ : Well damn, this is a bad situation.
+[19:28:30]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Spacevine)
+[19:28:32]SAY: Heaven Alice/ : Woof!
+[19:28:32]SAY: Valentina Williams/ : I wonder if there is anything to modify and pat somewhere else..
+[19:28:33]EMOTE: *no key*/(Alana Day) : <b>Alana Day</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:28:33]EMOTE: *no key*/(mouse) : <b>The mouse</b> runs in a circle.
+[19:28:36]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the shard's direction and takes flight.
+[19:28:37]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Greentext)
+[19:28:37]EMOTE: *no key*/(giant spider (100)) : <b>The giant spider (100)</b> chitters
+[19:28:37]EMOTE: *no key*/(giant spider (307)) : <b>The giant spider (307)</b> chitters
+[19:28:39]EMOTE: *no key*/(giant spider (100)) : <b>The giant spider (100)</b> stops moving...
+[19:28:40]SAY: John Mcloskey/ : Twice the calories for half the price!
+[19:28:41]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> woofs!
+[19:28:42]SAY: Addyson Jesse/ : Honk until proven bad!
+[19:28:44]EMOTE: *no key*/(giant ice spider (501)) : <b>The giant ice spider (501)</b> chitters
+[19:28:44]SAY: corgi puppy/ : AUUUUUU
+[19:28:46]EMOTE: *no key*/(giant ice spider (501)) : <b>The giant ice spider (501)</b> chitters
+[19:28:50]EMOTE: *no key*/(monkey (495)) : <b>The monkey (495)</b> waves her tail.
+[19:28:52]EMOTE: *no key*/(giant spider (208)) : <b>The giant spider (208)</b> chitters
+[19:28:52]EMOTE: *no key*/(giant spider (288)) : <b>The giant spider (288)</b> chitters
+[19:28:52]SAY: Paxton Addison/ : Traitorous until proven pretty!
+[19:28:52]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> shakes its head.
+[19:28:54]SAY: Coreen Cox/ : I wonder if there is anything to modify and pat somewhere else..
+[19:28:54]EMOTE: *no key*/(Justin Pfeifer) : <b>Justin Pfeifer</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:28:54]SAY: Kobe Christman/ : Hey you, why dont you go ass wank ass bitch damn , you comdom!
+[19:28:56]SAY: Janie Camp/ : Hey person, why dont you go damn shit damn wank bitch , you monkey!
+[19:28:56]EMOTE: *no key*/(giant spider (208)) : <b>The giant spider (208)</b> chitters
+[19:28:57]SAY: Mekhi Moore/ : I want to touch that gaylord when I find them.
+[19:28:58]EMOTE: *no key*/(giant spider (307)) : <b>The giant spider (307)</b> chitters
+[19:28:58]SAY: mouse/ : Squeek!
+[19:29:00]SAY: Leo Johnson/Guest-3622605515 : Hi
+[19:29:01]EMOTE: *no key*/(grey baby slime (838)) : <b>The grey baby slime (838)</b> bounces in place.
+[19:29:01]SAY: Lydia Logue/ : I wonder if there is anything to modify and pat somewhere else..
+[19:29:03]SAY: Camden Khan/ : Breaking news from Station Announcements!
+[19:29:04]SAY: Desiree Harshman/ : Well damn, this is a bad situation.
+[19:29:04]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> yaps.
+[19:29:05]SAY: Adam Ewing/ : Breaking news from Station Announcements!
+[19:29:09]SAY: mouse/ : SQUEEK!
+[19:29:11]EMOTE: *no key*/(Lisa) : <b>Lisa</b> chases her tail.
+[19:29:13]EMOTE: *no key*/(Caeser II) : <b>Caeser II</b> jumps!
+[19:29:15]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> stops moving...
+[19:29:15]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Eyeball Migration)
+[19:29:17]SAY: Gunner Echard/ : Hands down the best seed selection on the station!
+[19:29:17]SAY: Aidan Weeter/ : Honk until proven bad!
+[19:29:17]EMOTE: *no key*/(giant spider (208)) : <b>The giant spider (208)</b> chitters
+[19:29:22]EMOTE: *no key*/(giant ice spider (307)) : <b>The giant ice spider (307)</b> chitters
+[19:29:22]EMOTE: *no key*/(giant spider (307)) : <b>The giant spider (307)</b> chitters
+[19:29:22]EMOTE: *no key*/(monkey (719)) : <b>The monkey (719)</b> rolls.
+[19:29:22]EMOTE: *no key*/(Caeser II) : <b>Caeser II</b> waves its tail.
+[19:29:24]EMOTE: *no key*/(Abby Wells) : <b>Abby Wells</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:29:26]EMOTE: Guest-3622605515/(Leo Johnson) : <b>Leo Johnson</b> gasps!
+[19:29:27]SAY: Randal Power/ : Oh wank, leg it!
+[19:29:31]EMOTE: *no key*/(monkey (555)) : <b>The monkey (555)</b> scratches.
+[19:29:32]SAY: Byrne Joyce/ : Hands down the best seed selection on the station!
+[19:29:32]SAY: Makenna Bowchiew/ : Oh wank, leg it!
+[19:29:33]EMOTE: *no key*/(giant ice spider (307)) : <b>The giant ice spider (307)</b> chitters
+[19:29:34]SAY: Lilliana Shick/ : Honk until proven bad!
+[19:29:34]SAY: Nelle Chapman/ : Hands down the best seed selection on the station!
+[19:29:35]EMOTE: *no key*/(giant ice spider (307)) : <b>The giant ice spider (307)</b> chitters
+[19:29:35]SAY: corgi puppy/ : YAP
+[19:29:37]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Lone Operative)
+[19:29:37]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> stops moving...
+[19:29:37]EMOTE: *no key*/(giant spider (208)) : <b>The giant spider (208)</b> chitters
+[19:29:37]SAY: mouse/ : Squeek?
+[19:29:40]EMOTE: Guest-3622605515/(Leo Johnson) : <b>Leo Johnson</b> gasps!
+[19:29:43]SAY: Jaxon Bickerson/ : Hey you, why dont you go ass wank ass bitch damn , you comdom!
+[19:29:44]EMOTE: *no key*/(monkey (720)) : <b>The monkey (720)</b> waves her tail.
+[19:29:46]EMOTE: *no key*/(giant spider (208)) : <b>The giant spider (208)</b> chitters
+[19:29:48]SAY: mouse/ : SQUEEK!
+[19:29:48]EMOTE: *no key*/(giant ice spider (307)) : <b>The giant ice spider (307)</b> chitters
+[19:29:49]EMOTE: *no key*/(grey baby slime (218)) : <b>The grey baby slime (218)</b> lights up for a bit, then stops.
+[19:29:49]SAY: corgi puppy/ : Woof!
+[19:29:50]SAY: Kyler Zalack/ : Guilty until proven okay!
+[19:29:51]EMOTE: *no key*/(Clown) : <b>Clown</b> honks
+[19:29:51]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Clogged Vents)
+[19:29:56]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Borer)
+[19:29:56]SAY: corgi puppy/ : Woof!
+[19:29:58]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Abductors)
+[19:29:59]EMOTE: *no key*/(Sabrina Cherry) : <b>Sabrina Cherry</b> drools.
+[19:29:59]SAY: Sawyer Langston/ : I wonder if there is anything to modify and pat somewhere else..
+[19:30:02]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> pants.
+[19:30:07]SAY: corgi puppy/ : Woof!
+[19:30:08]SAY: Adolph Hughes/ : THIS&#39;S WHERE TH&#39; SEEDS LIVE! GIT YOU SOME!
+[19:30:10]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Carp Migration)
+[19:30:11]EMOTE: *no key*/(Poly) : <b>Poly</b> flutters its wings.
+[19:30:11]EMOTE: *no key*/(Lisa) : <b>Lisa</b> chases her tail.
+[19:30:12]SAY: Megan Owens/ : H *ank&amp;**&lt;l*%g*it/
+[19:30:13]SAY: Clown/ : Honk!
+[19:30:14]EMOTE: *no key*/(corgi) : <b>The corgi</b> barks!
+[19:30:14]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Communications Blackout)
+[19:30:14]EMOTE: *no key*/(Sabrina Cherry) : <b>Sabrina Cherry</b> stares.
+[19:30:14]SAY: Olive Lombardi/ : Honk until proven bad!
+[19:30:15]EMOTE: *no key*/(giant ice spider (307)) : <b>The giant ice spider (307)</b> chitters
+[19:30:18]SAY: Poly/ : Traitorous until proven pretty!
+[19:30:23]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Grid Check)
+[19:30:24]SAY: Emiliano Stough/ : Hey person, why dont you go damn shit damn wank bitch , you monkey!
+[19:30:24]EMOTE: *no key*/(monkey (719)) : <b>The monkey (719)</b> scratches.
+[19:30:25]SAY: Ryder Henry/ : Hey you, why dont you go ass wank ass bitch damn , you comdom!
+[19:30:26]EMOTE: *no key*/(Joaquin Baskett) : <b>Joaquin Baskett</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:30:26]SAY: Ulric Kifer/ : Well ass, this is a pretty situation.
+[19:30:30]EMOTE: *no key*/(Lisa) : <b>Lisa</b> stops moving...
+[19:30:30]SAY: mouse/ : Squeek?
+[19:30:33]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[19:30:33]SAY: Clown/ : Honk!
+[19:30:33]SAY: Clown/ : HONK
+[19:30:33]EMOTE: *no key*/(grey baby slime (218)) : <b>The grey baby slime (218)</b> lights up for a bit, then stops.
+[19:30:33]EMOTE: *no key*/(Runtime) : <b>Runtime</b> wags its tail.
+[19:30:35]EMOTE: *no key*/(Emmanuel Bennett) : <b>Emmanuel Bennett</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:30:37]EMOTE: *no key*/(giant spider (208)) : <b>The giant spider (208)</b> chitters
+[19:30:37]EMOTE: *no key*/(monkey (420)) : <b>The monkey (420)</b> waves her tail.
+[19:30:39]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> shakes its head.
+[19:30:40]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shakes its head
+[19:30:41]EMOTE: *no key*/(Laurencia Lloyd) : <b>Laurencia Lloyd</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:30:44]SAY: Nobody's Perfect/ : I knew it, I should&#39;ve been a plastic surgeon.
+[19:30:44]SAY: Emiliano Stough/ : Oh jerk, that cluwne was one hell of an whoreish toes.
+[19:30:45]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Fake Nuclear Explosion)
+[19:30:45]EMOTE: *no key*/(giant spider (307)) : <b>The giant spider (307)</b> chitters
+[19:30:50]EMOTE: *no key*/(Colten Moore) : <b>Colten Moore</b> collapses!
+[19:30:51]SAY: Poly/ : Traitorous until proven pretty!
+[19:30:51]EMOTE: *no key*/(monkey (719)) : <b>The monkey (719)</b> jumps!
+[19:30:51]SAY: Eleanor Spock/ : Breaking news from Station Announcements!
+[19:30:51]SAY: Lydia Logue/ : Breaking news from Station Announcements!
+[19:30:53]SAY: Evangeline Bratton/ : Hey person, why dont you go shit damn jerk arse wank , you gaylord!
+[19:30:53]SAY: Nolan King/ : Breaking news from Station Announcements!
+[19:30:54]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> stops moving...
+[19:30:55]EMOTE: *no key*/(monkey (226)) : <b>The monkey (226)</b> jumps!
+[19:30:56]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[19:30:57]SAY: Poly/ : Traitorous until proven pretty!
+[19:31:00]SAY: Arabella Snyder/ : Oh jerk, that cluwne was one hell of an whoreish toes.
+[19:31:01]SAY: Leslie Catleay/ : AUUUUUU
+[19:31:08]SAY: Jaxon Skywalker/ : I wonder if there is anything to modify and pat somewhere else..
+[19:31:11]SAY: Eleanor Spock/ : Well damn, this is a bad situation.
+[19:31:11]SAY: Latanya Scott/ : THIS&#39;S WHERE TH&#39; SEEDS LIVE! GIT YOU SOME!
+[19:31:12]EMOTE: *no key*/(Water Flan) : <b>Water Flan</b> stops moving...
+[19:31:14]SAY: Mekhi Moore/ : Woof!
+[19:31:14]SAY: Corrine Pennington/ : Woof!
+[19:31:17]SAY: Eleanor Spock/ : Hands down the best seed selection on the station!
+[19:31:19]SAY: Reagan Mcloskey/ : Woof!
+[19:31:23]SAY: Saul Schofield/ : Well ass, this is a pretty situation.
+[19:31:25]SAY: Sybil Cook/ : Hey you, why dont you go ass wank ass bitch damn , you comdom!
+[19:31:25]ADMIN: Guest-3622605515/(Leo Johnson) played sound sound/ambience/shipambience.ogg
+[19:31:26]SAY: Lanny Hastings/ : Also certain mushroom varieties available, more for experts! Get certified today!
+[19:31:27]SAY: Kyler Zalack/ : Breaking news from Station Announcements!
+[19:31:29]ADMIN: Guest-3622605515/(Leo Johnson) played sound brotherman asperger.ogg
+[19:31:31]SAY: Archie Rose/ : Oh jerk, that whorelord was one hell of an childish arms.
+[19:31:32]SAY: Brenden Conrad/ : Oh jerk, that whorelord was one hell of an childish arms.
+[19:31:32]SAY: Judah Sheets/ : Hey person, why dont you go damn shit damn wank bitch , you monkey!
+[19:31:33]EMOTE: *no key*/(Emma Bould) : <b>Emma Bould</b> collapses!
+[19:31:33]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[19:31:33]EMOTE: *no key*/(monkey (226)) : <b>The monkey (226)</b> scratches.
+[19:31:36]ADMIN: Guest-3622605515/(Leo Johnson) played a local sound brotherman asperger.ogg
+[19:31:38]EMOTE: *no key*/(eyeball) : <b>The eyeball</b> glares at the space carp.
+[19:31:38]EMOTE: *no key*/(eyeball) : <b>The eyeball</b> glares at the space carp.
+[19:31:39]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:39]EMOTE: *no key*/(eyeball) : <b>The eyeball</b> glares at the space carp.
+[19:31:39]EMOTE: *no key*/(eyeball) : <b>The eyeball</b> glares at the space carp.
+[19:31:39]EMOTE: *no key*/(eyeball) : <b>The eyeball</b> glares at Mega Space Carp.
+[19:31:39]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:39]EMOTE: *no key*/(eyeball) : <b>The eyeball</b> glares at the space carp.
+[19:31:39]EMOTE: *no key*/(eyeball) : <b>The eyeball</b> glares at the space carp.
+[19:31:39]EMOTE: *no key*/(eyeball) : <b>The eyeball</b> glares at the space carp.
+[19:31:39]EMOTE: *no key*/(eyeball) : <b>The eyeball</b> glares at the space carp.
+[19:31:39]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:39]EMOTE: *no key*/(eyeball) : <b>The eyeball</b> glares at the space carp.
+[19:31:39]EMOTE: *no key*/(giant spider (307)) : <b>The giant spider (307)</b> chitters
+[19:31:39]SAY: mouse/ : SQUEEK!
+[19:31:41]SAY: Crystal Lombardi/ : Well damn, this is a bad situation.
+[19:31:41]SAY: Priscilla Basmanoff/ : Hey you, why dont you go damn ass jerk wank bitch , you milkdrinker!
+[19:31:41]EMOTE: *no key*/(space carp) : <b>The space carp</b> gnashes at the eyeball.
+[19:31:41]EMOTE: *no key*/(space carp) : <b>The space carp</b> gnashes at the eyeball.
+[19:31:41]EMOTE: *no key*/(space carp) : <b>The space carp</b> gnashes at the eyeball.
+[19:31:41]EMOTE: *no key*/(space carp) : <b>The space carp</b> gnashes at the mouse.
+[19:31:41]EMOTE: *no key*/(space carp) : <b>The space carp</b> gnashes at the eyeball.
+[19:31:41]EMOTE: *no key*/(space carp) : <b>The space carp</b> gnashes at the eyeball.
+[19:31:41]EMOTE: *no key*/(space carp) : <b>The space carp</b> gnashes at the eyeball.
+[19:31:41]EMOTE: *no key*/(space carp) : <b>The space carp</b> gnashes at the eyeball.
+[19:31:41]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:41]EMOTE: *no key*/(eyeball) : <b>The eyeball</b> glares at the space carp.
+[19:31:41]EMOTE: *no key*/(Topaz Pearsall) : <b>Topaz Pearsall</b> gasps!
+[19:31:43]EMOTE: *no key*/(eyeball) : <b>The eyeball</b> glares at the space carp.
+[19:31:43]EMOTE: *no key*/(eyeball) : <b>The eyeball</b> glares at the space carp.
+[19:31:43]EMOTE: *no key*/(eyeball) : <b>The eyeball</b> glares at the space carp.
+[19:31:43]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:44]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:44]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:44]EMOTE: *no key*/(Mega Space Carp) : <b>Mega Space Carp</b> gnashes at the eyeball.
+[19:31:44]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:44]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:44]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:44]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:44]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:44]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:46]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:46]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:46]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:46]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:46]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:46]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:46]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:46]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:46]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:46]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:48]ADMIN: Guest-3622605515/(Leo Johnson) has triggered an event. (Fake Nuclear Explosion)
+[19:31:48]SAY: Mekhi Teagarden/ : Oh jerk, that whorelord was one hell of an childish arms.
+[19:31:49]SAY: Adeline Biery/ : H *ank&amp;**&lt;l*%g*it/
+[19:31:49]EMOTE: *no key*/(eyeball) : <b>The eyeball</b> glares at Mega Space Carp.
+[19:31:49]EMOTE: *no key*/(Mega Space Carp) : <b>Mega Space Carp</b> stops moving...
+[19:31:49]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:49]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:49]EMOTE: *no key*/(Mega Space Carp) : <b>Mega Space Carp</b> stops moving...
+[19:31:49]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:50]SAY: Bryson Rathens/ : Oh wank, leg it!
+[19:31:51]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:31:51]EMOTE: *no key*/(giant spider (307)) : <b>The giant spider (307)</b> chitters
+[19:31:51]EMOTE: *no key*/(giant spider (208)) : <b>The giant spider (208)</b> chitters
+[19:31:51]EMOTE: *no key*/(Topaz Pearsall) : <b>Topaz Pearsall</b> gasps!
+[19:31:52]EMOTE: *no key*/(monkey (420)) : <b>The monkey (420)</b> waves her tail.
+[19:31:52]SAY: Evangeline Bratton/ : Hey person, why dont you go damn shit damn wank bitch , you monkey!
+[19:31:53]SAY: Vanessa Rogers/ : Honk until proven bad!
+[19:31:56]EMOTE: *no key*/(Arielle Saylor) : <b>Arielle Saylor</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:32:00]SAY: Deangelo Pycroft/ : Hey you, why dont you go damn ass jerk wank bitch , you milkdrinker!
+[19:32:03]SAY: Emilia Thomson/ : Guilty until proven okay!
+[19:32:05]SAY: Lilah Harding/ : I wonder if there is anything to modify and pat somewhere else..
+[19:32:06]SAY: Madison Stange/ : Oh jerk, that cluwne was one hell of an whoreish toes.
+[19:32:06]SAY: Darell Roby/ : Oh jerk, that whorelord was one hell of an childish arms.
+[19:32:07]SAY: Angela Heckendora/ : Hey you, why dont you go ass wank ass bitch damn , you comdom!
+[19:32:07]SAY: Titus Jenkins/ : Traitorous until proven pretty!
+[19:32:10]SAY: Charlton Gettemy/ : Honk until proven bad!
+[19:32:11]SAY: Saul Schofield/ : Breaking news from Station Announcements!
+[19:32:12]SAY: Ciara Lombardi/ : THIS&#39;S WHERE TH&#39; SEEDS LIVE! GIT YOU SOME!
+[19:32:12]SAY: Jaydon Perkins/ : Guilty until proven okay!
+[19:32:12]SAY: Easton Rhinehart/ : Oh jerk, that whorelord was one hell of an childish arms.
+[19:32:12]SAY: Martin Muller/ : Well damn, this is a bad situation.
+[19:32:14]SAY: Valentina Williams/ : Hands down the best seed selection on the station!
+[19:32:15]SAY: Dean Lucy/ : Hands down the best seed selection on the station!
+[19:32:15]SAY: Amy Hardie/ : Traitorous until proven pretty!
+[19:32:19]SAY: Jaslene Stainforth/ : I wonder if there is anything to modify and pat somewhere else..
+[19:32:21]SAY: Claudia Howe/ : Guilty until proven okay!
+[19:32:22]SAY: Logan Staymates/ : Well damn, this is a bad situation.
+[19:32:29]SAY: Davion Stroh/ : Also certain mushroom varieties available, more for experts! Get certified today!
+[19:32:32]SAY: Leslie Catleay/ : Hands down the best seed selection on the station!
+[19:32:33]EMOTE: *no key*/(Byrne Joyce) : <b>Byrne Joyce</b> collapses!
+[19:32:33]EMOTE: *no key*/(Abby Moberly) : <b>Abby Moberly</b> collapses!
+[19:32:34]EMOTE: *no key*/(Luanne Bynum) : <b>Luanne Bynum</b> collapses!
+[19:32:34]EMOTE: *no key*/(Bianca Harshman) : <b>Bianca Harshman</b> collapses!
+[19:32:34]EMOTE: *no key*/(Topaz Pearsall) : <b>Topaz Pearsall</b> collapses!
+[19:32:36]ADMIN: Guest-3622605515/(Leo Johnson) admin ghosted.
+[19:32:36]ACCESS: Mob Login: Guest-3622605515/(Leo Johnson) was assigned to a /mob/dead/observer
+[19:32:38]EMOTE: *no key*/(monkey (290)) : <b>The monkey (290)</b> scratches.
+[19:32:39]SAY: Valentina Williams/ : Hey you, why dont you go damn ass jerk wank bitch , you milkdrinker!
+[19:32:40]EMOTE: *no key*/(giant ice spider (307)) : <b>The giant ice spider (307)</b> chitters
+[19:32:40]EMOTE: *no key*/(monkey (495)) : <b>The monkey (495)</b> rolls.
+[19:32:42]EMOTE: *no key*/(Mega Space Carp) : <b>Mega Space Carp</b> stops moving...
+[19:32:42]SAY: mouse/ : Squeek?
+[19:32:42]SAY: Jacob Robertson/ : Oh wank, leg it!
+[19:32:44]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like flies.
+[19:32:45]SAY: Poly/ : Traitorous until proven pretty!
+[19:32:46]EMOTE: *no key*/(eyeball) : <b>The eyeball</b> glares at the space carp.
+[19:32:47]EMOTE: *no key*/(grey baby slime (838)) : <b>The grey baby slime (838)</b> lights up for a bit, then stops.
+[19:32:49]EMOTE: *no key*/(Sabrina Cherry) : <b>Sabrina Cherry</b> drools.
+[19:32:49]ACCESS: Mob Login: Guest-3622605515/(Leo Johnson) was assigned to a /mob/living/carbon/human
+[19:32:50]SAY: Mekhi Rogers/ : Well ass, this is a pretty situation.
+[19:32:51]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[19:32:54]SAY: Crystal Eliza/ : Hands down the best seed selection on the station!
+[19:32:56]EMOTE: *no key*/(giant spider (208)) : <b>The giant spider (208)</b> chitters
+[19:32:56]EMOTE: *no key*/(Jordan Cowart) : <b>Jordan Cowart</b> collapses!
+[19:32:56]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> yaps.
+[19:32:57]SAY: Charles Garneys/ : Hey person, why dont you go damn shit damn wank bitch , you monkey!
+[19:32:58]SAY: Lilliana Shick/ : Guilty until proven okay!
+[19:32:58]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> stops moving...
+[19:32:58]EMOTE: *no key*/(giant ice spider (307)) : <b>The giant ice spider (307)</b> chitters
+[19:32:58]EMOTE: *no key*/(Manuel Lineman) : <b>Manuel Lineman</b> collapses!
+[19:33:00]EMOTE: *no key*/(Lesly Focell) : <b>Lesly Focell</b> collapses!
+[19:33:01]EMOTE: *no key*/(Isiah Lee) : <b>Isiah Lee</b> collapses!
+[19:33:03]EMOTE: *no key*/(Byrne Joyce) : <b>Byrne Joyce</b> collapses!
+[19:33:06]SAY: Shaun Garland/ : Hey person, why dont you go damn shit damn wank bitch , you monkey!
+[19:33:07]SAY: Martin Owens/ : Hey person, why dont you go damn shit damn wank bitch , you monkey!
+[19:33:07]SAY: mouse/ : Squeek!
+[19:33:09]SAY: Tate Ahmed/ : Breaking news from Station Announcements!
+[19:33:09]SAY: Brick Nicholas/ : Oh jerk, that cluwne was one hell of an whoreish toes.
+[19:33:10]SAY: Larry Tennant/ : Hey you, why dont you go damn ass jerk wank bitch , you milkdrinker!
+[19:33:11]EMOTE: *no key*/(monkey (108)) : <b>The monkey (108)</b> jumps!
+[19:33:13]SAY: Rose Sheets/ : H *ank&amp;**&lt;l*%g*it/
+[19:33:14]SAY: mouse/ : SQUEEK!
+[19:33:16]SAY: mouse/ : Squeek?
+[19:33:18]EMOTE: *no key*/(giant ice spider (501)) : <b>The giant ice spider (501)</b> chitters
+[19:33:19]EMOTE: Guest-3622605515/(Leo Johnson) : <b>Leo Johnson</b> gasps!
+[19:33:20]SAY: mouse/ : SQUEEK!
+[19:33:23]EMOTE: *no key*/(Grandpa Hawkins) : <b>Grandpa Hawkins</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:33:26]EMOTE: *no key*/(monkey (226)) : <b>The monkey (226)</b> waves her tail.
+[19:33:27]SAY: Adeline Biery/ : Hey you, why dont you go ass wank ass bitch damn , you comdom!
+[19:33:28]EMOTE: Guest-3622605515/(Leo Johnson) : <b>Leo Johnson</b> gasps!
+[19:33:28]SAY: Jayce White/ : AUUUUUU
+[19:33:28]SAY: Ismael Bickerson/ : Hey you, why dont you go damn ass jerk wank bitch , you milkdrinker!
+[19:33:29]SAY: Thomas Vanleer/ : Hey person, why dont you go damn shit damn wank bitch , you monkey!
+[19:33:30]EMOTE: *no key*/(monkey (287)) : <b>The monkey (287)</b> scratches.
+[19:33:30]SAY: Shantae Smith/ : I want to touch that gaylord when I find them.
+[19:33:31]SAY: Alison Heckendora/ : I wonder if there is anything to modify and pat somewhere else..
+[19:33:31]SAY: Lilah Harding/ : I want to touch that gaylord when I find them.
+[19:33:31]SAY: Reagan Mosser/ : Oh wank, leg it!
+[19:33:31]SAY: Lenny Leichter/ : Honk until proven bad!
+[19:33:33]SAY: Brodie Petrov/ : AUUUUUU
+[19:33:34]EMOTE: *no key*/(Declan Moore) : <b>Declan Moore</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:33:34]EMOTE: Guest-3622605515/(Leo Johnson) : <b>Leo Johnson</b> gasps!
+[19:33:34]EMOTE: *no key*/(monkey (287)) : <b>The monkey (287)</b> jumps!
+[19:33:36]EMOTE: *no key*/(eyeball) : <b>The eyeball</b> glares at the mouse.
+[19:33:38]EMOTE: Guest-3622605515/(Leo Johnson) : <b>Leo Johnson</b> gasps!
+[19:33:38]ADMIN: Guest-3622605515 used Spawn Space Ninja.
+[19:33:39]SAY: Lydia Ahmed/ : Woof!
+[19:33:40]ACCESS: Mob Login: Guest-3622605515/(Hunter Blood) was assigned to a /mob/living/carbon/human
+[19:33:40]GAME: Guest-3622605515/(Hunter Blood) was spawned as a ninja by an event.
+[19:33:40]EMOTE: *no key*/(giant spider (288)) : <b>The giant spider (288)</b> chitters
+[19:33:48]SAY: Nelle Chapman/ : Hey you, why dont you go damn ass jerk wank bitch , you milkdrinker!
+[19:33:49]EMOTE: *no key*/(Leo Johnson) : <b>Leo Johnson</b> gasps!
+[19:33:51]EMOTE: *no key*/(eyeball) : <b>The eyeball</b> glares at Unknown.
+[19:33:51]EMOTE: *no key*/(Luanne Bynum) : <b>Luanne Bynum</b> collapses!
+[19:33:52]SAY: Angela Griffiths/ : I want to touch that gaylord when I find them.
+[19:33:52]SAY: Wynter Eliza/ : Guilty until proven okay!
+[19:33:53]SAY: mouse/ : Squeek?
+[19:33:55]EMOTE: *no key*/(Corey Kirkson) : <b>Corey Kirkson</b> collapses!
+[19:33:57]EMOTE: *no key*/(giant spider (288)) : <b>The giant spider (288)</b> chitters
+[19:33:58]EMOTE: *no key*/(monkey (420)) : <b>The monkey (420)</b> scratches.
+[19:34:01]SAY: Ian/ : Woof!
+[19:34:02]SAY: Rose Sheets/ : Hey person, why dont you go damn shit damn wank bitch , you monkey!
+[19:34:02]SAY: Noel Bratton/ : Hey person, why dont you go damn shit damn wank bitch , you monkey!
+[19:34:03]EMOTE: *no key*/(Leo Johnson) : <b>Leo Johnson</b> gasps!
+[19:34:05]SAY: Byrne Joyce/ : Honk until proven bad!
+[19:34:05]EMOTE: *no key*/(corgi) : <b>The corgi</b> stops moving...
+[19:34:06]EMOTE: *no key*/(Clown) : <b>Clown</b> squeaks
+[19:34:06]SAY: Elijah Hanford/ : Hands down the best seed selection on the station!
+[19:34:07]SAY: Bronte Pinney/ : Engage direct marketing!
+[19:34:09]SAY: Kyra Roby/ : Well ass, this is a pretty situation.
+[19:34:09]SAY: mouse/ : Squeek?
+[19:34:10]EMOTE: *no key*/(Leo Johnson) : <b>Leo Johnson</b> gasps!
+[19:34:10]SAY: Jordan Cowart/ : Oh wank, leg it!
+[19:34:11]SAY: Titus Jenkins/ : THIS&#39;S WHERE TH&#39; SEEDS LIVE! GIT YOU SOME!
+[19:34:11]ADMIN: Guest-3622605515/(Hunter Blood) jumped to *no key*/(Nobody's Perfect)
+[19:34:12]EMOTE: *no key*/(mouse) : <b>The mouse</b> shakes.
+[19:34:12]SAY: Nobody's Perfect/ : Wait Unknown! I want to help!
+[19:34:15]SAY: Ian/ : AUUUUUU
+[19:34:21]EMOTE: *no key*/(monkey (290)) : <b>The monkey (290)</b> rolls.
+[19:34:22]ADMIN: Guest-3622605515/(Hunter Blood) jumped to *no key*/(Emely Keener)
+[19:34:25]SAY: Clown/ : Welcome to clown planet!
+[19:34:26]SAY: Shantae Smith/ : THIS&#39;S WHERE TH&#39; SEEDS LIVE! GIT YOU SOME!
+[19:34:28]SAY: Lanny Hastings/ : Oh jerk, that whorelord was one hell of an childish arms.
+[19:34:28]EMOTE: *no key*/(giant spider (208)) : <b>The giant spider (208)</b> chitters
+[19:34:28]EMOTE: *no key*/(giant spider (288)) : <b>The giant spider (288)</b> chitters
+[19:34:28]SAY: corgi puppy/ : AUUUUUU
+[19:34:29]EMOTE: *no key*/(monkey (218)) : <b>The monkey (218)</b> scratches.
+[19:34:29]SAY: Nicolas Thomson/ : Well ass, this is a pretty situation.
+[19:34:30]SAY: Ivan Baker/ : Hey person, why dont you go shit damn jerk arse wank , you gaylord!
+[19:34:30]EMOTE: *no key*/(giant spider (307)) : <b>The giant spider (307)</b> chitters
+[19:34:31]EMOTE: *no key*/(monkey (420)) : <b>The monkey (420)</b> rolls.
+[19:34:34]EMOTE: *no key*/(giant ice spider (307)) : <b>The giant ice spider (307)</b> chitters
+[19:34:35]EMOTE: *no key*/(Leo Johnson) : <b>Leo Johnson</b> gasps!
+[19:34:36]SAY: Brittany Gronko/ : Oh jerk, that cluwne was one hell of an whoreish toes.
+[19:34:37]EMOTE: *no key*/(giant spider (288)) : <b>The giant spider (288)</b> chitters
+[19:34:37]SAY: Cecilia Foster/ : Guilty until proven okay!
+[19:34:40]ADMIN: Guest-3622605515/(Hunter Blood) punished *no key*/(Kayleigh Stough) with Brain damage.
+[19:34:41]EMOTE: *no key*/(Isiah Lee) : <b>Isiah Lee</b> collapses!
+[19:34:43]EMOTE: *no key*/(giant spider (288)) : <b>The giant spider (288)</b> chitters
+[19:34:45]SAY: Nickolas Mortland/ : Guilty until proven okay!
+[19:34:45]EMOTE: *no key*/(giant ice spider (307)) : <b>The giant ice spider (307)</b> chitters
+[19:34:45]EMOTE: *no key*/(Zack Fryer) : <b>Zack Fryer</b> collapses!
+[19:34:46]EMOTE: *no key*/(Ian) : <b>Ian</b> chases its tail!
+[19:34:47]EMOTE: *no key*/(giant spider (208)) : <b>The giant spider (208)</b> chitters
+[19:34:50]EMOTE: *no key*/(John Kifer) : <b>John Kifer</b> collapses!
+[19:34:50]EMOTE: *no key*/(Bianca Harshman) : <b>Bianca Harshman</b> collapses!
+[19:34:50]EMOTE: *no key*/(Runtime) : <b>Runtime</b> shivers
+[19:34:54]SAY: Autumn Kanaga/ : Traitorous until proven pretty!
+[19:34:56]ADMIN: Guest-3622605515/(Hunter Blood) has triggered an event. (Meteor Wave: Catastrophic)
+[19:34:56]ADMIN: Guest-3622605515/(Hunter Blood) has triggered an event. (Meteor Wave: Catastrophic)
+[19:34:57]ADMIN: Guest-3622605515/(Hunter Blood) has triggered an event. (Meteor Wave: Catastrophic)
+[19:34:57]ADMIN: Guest-3622605515/(Hunter Blood) has triggered an event. (Meteor Wave: Catastrophic)
+[19:34:57]ADMIN: Guest-3622605515/(Hunter Blood) has triggered an event. (Meteor Wave: Catastrophic)
+[19:34:57]ADMIN: Guest-3622605515/(Hunter Blood) has triggered an event. (Meteor Wave: Catastrophic)
+[19:34:57]SAY: Selena Houser/ : Oh wank, leg it!
+[19:34:57]ADMIN: Guest-3622605515/(Hunter Blood) has triggered an event. (Meteor Wave: Catastrophic)
+[19:34:58]ADMIN: Guest-3622605515/(Hunter Blood) has triggered an event. (Meteor Wave: Catastrophic)
+[19:34:58]ADMIN: Guest-3622605515/(Hunter Blood) has triggered an event. (Meteor Wave: Catastrophic)
+[19:34:58]ADMIN: Guest-3622605515/(Hunter Blood) has triggered an event. (Meteor Wave: Catastrophic)
+[19:34:58]ADMIN: Guest-3622605515/(Hunter Blood) has triggered an event. (Meteor Wave: Catastrophic)
+[19:35:00]SAY: Titus Jenkins/ : Traitorous until proven pretty!
+[19:35:02]EMOTE: *no key*/(mouse) : <b>The mouse</b> squeeks.
+[19:35:02]EMOTE: *no key*/(Runtime) : <b>Runtime</b> crouches on its hind legs.
+[19:35:04]SAY: Martin Owens/ : Hands down the best seed selection on the station!
+[19:35:04]EMOTE: *no key*/(Runtime) : <b>Runtime</b> gets up and meows.
+[19:35:06]SAY: Nyla Lester/ : Hey you, why dont you go ass wank ass bitch damn , you comdom!
+[19:35:07]SAY: Eveleen Wallick/ : Well damn, this is a bad situation.
+[19:35:08]SAY: Derrick Nickolson/ : AUUUUUU
+[19:35:08]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> stops moving...
+[19:35:09]SAY: Porter Bunten/ : Hey person, why dont you go shit damn jerk arse wank , you gaylord!
+[19:35:10]ADMIN: Guest-3622605515/(Hunter Blood) punished *no key*/(Laurencia Hoenshell) with Brain damage.
+[19:35:13]EMOTE: *no key*/(giant ice spider (501)) : <b>The giant ice spider (501)</b> chitters
+[19:35:14]EMOTE: *no key*/(Caleigh Stroh) : <b>Caleigh Stroh</b> collapses!
+[19:35:14]EMOTE: *no key*/(Topaz Pearsall) : <b>Topaz Pearsall</b> collapses!
+[19:35:16]SAY: AutoDrobe/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[19:35:16]SAY: NanoMed Plus/ : You should buy products to feed your lifestyle obession!
+[19:35:16]SAY: NanoMed/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[19:35:16]EMOTE: *no key*/(crate) : <b>The ShadyCigs Deluxe</b> growls at Ian.
+[19:35:16]EMOTE: *no key*/(crate) : <b>The Getmore Chocolate Corp</b> growls at Steph Pinney.
+[19:35:16]EMOTE: *no key*/(crate) : <b>The Getmore Chocolate Corp</b> growls at Nickolas Mortland.
+[19:35:16]SAY: Engi-Vend/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[19:35:16]EMOTE: *no key*/(crate) : <b>The Pwr Game Vendor</b> growls at Pete.
+[19:35:16]EMOTE: *no key*/(crate) : <b>The Solar's Best Hot Drinks</b> growls at Adrianna Brooks.
+[19:35:16]EMOTE: *no key*/(crate) : <b>The Solar's Best Hot Drinks</b> growls at Lia Lord.
+[19:35:16]EMOTE: *no key*/(monkey (108)) : <b>The monkey (108)</b> screeches.
+[19:35:16]ADMIN: Guest-3622605515/(Hunter Blood) punished *no key*/(Laurencia Hoenshell) with Lightning bolt.
+[19:35:17]SAY: Sloan Wells/ : Hands down the best seed selection on the station!
+[19:35:19]EMOTE: *no key*/(Sabrina Cherry) : <b>Sabrina Cherry</b> drools.
+[19:35:20]SAY: Lia Lord/ : THIS&#39;S WHERE TH&#39; SEEDS LIVE! GIT YOU SOME!
+[19:35:20]EMOTE: *no key*/(crate) : <b>The YouTool</b> growls at the mouse.
+[19:35:20]SAY: NanoMed/ : Consume!
+[19:35:20]SAY: ShadyCigs Deluxe/ : Consume!
+[19:35:21]SAY: Vanessa Rogers/ : Oh jerk, that whorelord was one hell of an childish arms.
+[19:35:22]ADMIN: Guest-3622605515/(Hunter Blood) deleted Laurencia Hoenshell at (108,157,1)
+[19:35:24]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> stops moving...
+[19:35:25]GAME: Radiation pulse with size (2, 5) and severity 50 in area Waste Disposal 
+[19:35:25]GAME: Radiation pulse with size (2, 5) and severity 50 in area Science Maintenance 
+[19:35:25]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:35:26]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:35:27]GAME: Radiation pulse with size (2, 5) and severity 50 in area Incinerator 
+[19:35:27]GAME: SMES deleted at (Engineering SMES)
+[19:35:27]GAME: Radiation pulse with size (2, 5) and severity 50 in area Labor Camp Shuttle 
+[19:35:27]GAME: SMES deleted at (Engineering SMES)
+[19:35:29]EMOTE: *no key*/(giant ice spider (501)) : <b>The giant ice spider (501)</b> chitters
+[19:35:29]GAME: Radiation pulse with size (2, 5) and severity 50 in area Bar Maintenance 
+[19:35:29]ADMIN: Guest-3622605515/(Hunter Blood) admin ghosted.
+[19:35:29]ACCESS: Mob Login: Guest-3622605515/(Hunter Blood) was assigned to a /mob/dead/observer
+[19:35:30]SAY: Sabrina Cherry/ : IN-NS-ST-TL-LL-L T-T-T-TEG-G-G-G!!
+[19:35:32]EMOTE: *no key*/(crate) : <b>The Solar's Best Hot Drinks</b> growls at the void puppy.
+[19:35:33]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> stops moving...
+[19:35:34]GAME: Radiation pulse with size (2, 5) and severity 50 in area Engineering Maintenance 
+[19:35:35]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:35:35]GAME: SMES deleted at (Aft Port Solar Maintenance)
+[19:35:35]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:35:35]GAME: Radiation pulse with size (2, 5) and severity 50 in area Toxins Test Area 
+[19:35:35]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:35:36]ACCESS: Mob Login: Guest-3622605515/(Hunter Blood) was assigned to a /mob/living/carbon/human
+[19:35:36]GAME: SMES deleted at (Engineering SMES)
+[19:35:36]GAME: Explosion with size (2, 4, 6, 0) in area Engineering SMES (87,75,1)
+[19:35:36]GAME: SMES deleted at (Engineering SMES)
+[19:35:37]GAME: Explosion with size (2, 4, 6, 0) in area Engineering SMES (93,75,1)
+[19:35:37]EMOTE: *no key*/(crate) : <b>The NanoMed</b> growls at the giant spider (307).
+[19:35:37]GAME: Radiation pulse with size (2, 5) and severity 50 in area Arrival Shuttle Hallway 
+[19:35:37]GAME: Explosion with size (2, 4, 6, 0) in area Engineering (96,75,1)
+[19:35:38]GAME: Explosion with size (0, 1, 5, 5) in area Engineering Maintenance (95,77,1)
+[19:35:38]GAME: Explosion with size (2, 4, 6, 0) in area Engineering (101,75,1)
+[19:35:39]GAME: Emitter deleted at (101,76,1)
+[19:35:39]GAME: Emitter deleted at (102,76,1)
+[19:35:39]GAME: Emitter deleted at (102,77,1)
+[19:35:42]GAME: Explosion with size (2, 4, 6, 0) in area Atmospherics (125,75,1)
+[19:35:42]GAME: Explosion with size (2, 4, 6, 0) in area Atmospherics (129,75,1)
+[19:35:43]GAME: SMES deleted at (Fore Port Solar Maintenance)
+[19:35:43]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:35:44]GAME: Explosion with size (0, 1, 5, 5) in area Science Maintenance (180,80,1)
+[19:35:46]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:35:46]GAME: Emitter deleted at (110,57,1)
+[19:35:46]GAME: Emitter deleted at (116,57,1)
+[19:35:46]GAME: Explosion with size (0, 1, 5, 5) in area Medbay Maintenance (158,78,1)
+[19:35:46]GAME: Radiation pulse with size (2, 5) and severity 50 in area Chapel 
+[19:35:46]GAME: Radiation pulse with size (2, 5) and severity 50 in area Aft Starboard Solar Array 
+[19:35:49]EMOTE: *no key*/(Floorbot) : <b>The Floorbot</b> stops moving...
+[19:35:50]EMOTE: *no key*/(Poly) : <b>Poly</b> looks in the Space Cigarettes packet's direction and takes flight.
+[19:35:50]EMOTE: *no key*/(Ian) : <b>Ian</b> barks!
+[19:35:51]ADMIN: Guest-3622605515/(Hunter Blood) deleted the reinforced window at (111,157,1)
+[19:35:51]EMOTE: *no key*/(Leland Shaw) : <b>Leland Shaw</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:35:51]EMOTE: *no key*/(Yahir Stewart) : <b>Yahir Stewart</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:35:51]GAME: Radiation pulse with size (2, 5) and severity 50 in area AI Chamber 
+[19:35:51]EMOTE: *no key*/(Cortical Borer 7252) : <b>The cortical borer</b> stops moving...
+[19:35:52]EMOTE: *no key*/(Ian) : <b>Ian</b> stops moving...
+[19:35:52]SAY: ShadyCigs Deluxe/ : Consume!
+[19:35:52]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:35:53]GAME: Radiation pulse with size (2, 5) and severity 50 in area Auxillary Base 
+[19:35:53]SAY: ShadyCigs Deluxe/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[19:35:53]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> stops moving...
+[19:35:53]SAY: Space Cola Vendor/ : Consume!
+[19:35:53]GAME: SMES deleted at (Aft Starboard Solar Maintenance)
+[19:35:53]EMOTE: *no key*/(crate) : <b>The Pwr Game Vendor</b> growls at Pete.
+[19:35:54]GAME: SMES deleted at (Electrical Maintenance)
+[19:35:54]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:35:54]GAME: Explosion with size (0, 1, 5, 5) in area Science Maintenance (192,79,1)
+[19:35:54]EMOTE: *no key*/(crate) : <b>The Getmore Chocolate Corp</b> growls at Levi Nicholas.
+[19:35:54]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:35:56]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:35:56]GAME: Explosion with size (0, 1, 5, 5) in area Engineering (100,69,1)
+[19:35:56]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> woofs!
+[19:35:56]GAME: Explosion with size (0, 1, 5, 5) in area Bar Maintenance (181,149,1)
+[19:35:57]GAME: Radiation pulse with size (2, 5) and severity 50 in area Bar Maintenance 
+[19:35:57]EMOTE: *no key*/(Kennard Bunten) : <b>Kennard Bunten</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:35:58]ADMIN: Guest-3622605515/(Hunter Blood) deleted the grille at (111,157,1)
+[19:35:59]GAME: Radiation pulse with size (2, 5) and severity 50 in area Testing Lab 
+[19:35:59]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:35:59]GAME: Explosion with size (0, 1, 5, 5) in area Testing Lab (185,91,1)
+[19:35:59]GAME: Explosion with size (0, 1, 5, 5) in area Testing Lab (185,92,1)
+[19:36:00]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:00]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:02]EMOTE: *no key*/(Mitchell Brinigh) : <b>Mitchell Brinigh</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:36:02]EMOTE: *no key*/(Ebba White) : <b>Ebba White</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:36:02]EMOTE: *no key*/(Marissa Lacon) : <b>Marissa Lacon</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:36:02]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:02]EMOTE: *no key*/(Fiona Nicholas) : <b>Fiona Nicholas</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:36:02]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> stops moving...
+[19:36:03]GAME: Radiation pulse with size (2, 5) and severity 50 in area Atmospherics 
+[19:36:03]EMOTE: *no key*/(Steph Muller) : <b>Steph Muller</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:36:04]EMOTE: *no key*/(Ivan Baker) : <b>Ivan Baker</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:36:05]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:06]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:07]GAME: Radiation pulse with size (4, 10) and severity 500 in area Supermatter Engine 
+[19:36:07]GAME: Radiation pulse with size (4, 10) and severity 500 in area Supermatter Engine 
+[19:36:08]EMOTE: *no key*/(space carp) : <b>The space carp</b> stops moving...
+[19:36:08]SAY: Solar's Best Hot Drinks/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[19:36:08]EMOTE: *no key*/(crate) : <b>The NanoMed Plus</b> growls at the cockroach.
+[19:36:09]EMOTE: *no key*/(crate) : <b>The Space Cola Vendor</b> growls at the monkey (108).
+[19:36:09]GAME: Explosion with size (2, 4, 6, 0) in area Space (114,235,1)
+[19:36:09]GAME: Explosion with size (2, 4, 6, 0) in area Space (114,235,1)
+[19:36:09]EMOTE: *no key*/(Bryant Straub) : <b>Bryant Straub</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:36:09]GAME: Radiation pulse with size (2, 5) and severity 50 in area Fore Primary Hallway 
+[19:36:09]EMOTE: *no key*/(Cortical Borer 3017) : <b>The cortical borer</b> stops moving...
+[19:36:10]EMOTE: *no key*/(Autumn Sommer) : <b>Autumn Sommer</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:36:10]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:10]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:11]EMOTE: *no key*/(Kylie Briner) : <b>Kylie Briner</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:36:11]EMOTE: *no key*/(Lauryn Mcclymonds) : <b>Lauryn Mcclymonds</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:36:14]GAME: Radiation pulse with size (2, 5) and severity 50 in area Science Maintenance 
+[19:36:14]GAME: Radiation pulse with size (2, 5) and severity 50 in area Engineering 
+[19:36:15]EMOTE: *no key*/(Luvenia Earl) : <b>Luvenia Earl</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:36:15]GAME: Explosion with size (2, 4, 6, 0) in area Security Office (127,174,1)
+[19:36:16]EMOTE: *no key*/(crate) : <b>The ShadyCigs Deluxe</b> growls at Eleanor Spock.
+[19:36:17]EMOTE: *no key*/(crate) : <b>The NanoMed</b> growls at the cockroach.
+[19:36:17]GAME: Radiation pulse with size (2, 5) and severity 50 in area Labor Shuttle Dock 
+[19:36:17]GAME: Explosion with size (2, 4, 6, 0) in area Dormitory Maintenance (127,160,1)
+[19:36:18]EMOTE: *no key*/(crate) : <b>The Vendomat</b> growls at the corgi puppy.
+[19:36:18]EMOTE: *no key*/(eyeball) : <b>The eyeball</b> glares at Kobe Christman.
+[19:36:18]GAME: Explosion with size (0, 1, 5, 5) in area Dormitory Maintenance (129,161,1)
+[19:36:18]GAME: Explosion with size (2, 4, 6, 0) in area Dormitories (127,157,1)
+[19:36:19]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:20]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:20]EMOTE: *no key*/(Mekhi Rogers) : <b>Mekhi Rogers</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:36:20]GAME: Explosion with size (0, 1, 5, 5) in area Arrivals North Maintenance (67,155,1)
+[19:36:21]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:21]GAME: Explosion with size (2, 4, 6, 0) in area Central Primary Hallway (127,137,1)
+[19:36:21]GAME: Explosion with size (0, 1, 5, 5) in area Arrivals North Maintenance (70,157,1)
+[19:36:21]GAME: Radiation pulse with size (2, 5) and severity 50 in area Arrival Shuttle Hallway 
+[19:36:21]GAME: Explosion with size (0, 1, 5, 5) in area Engineering Maintenance (80,84,1)
+[19:36:22]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:22]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:22]EMOTE: *no key*/(Keagan Kemerer) : <b>Keagan Kemerer</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:36:23]EMOTE: *no key*/(Dalton Day) : <b>Dalton Day</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:36:23]GAME: The nuclear authentication disk has been destroyed in (126,127,1). Moving it to (92,105,1).
+[19:36:24]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:24]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:25]GAME: SMES deleted at (Fore Starboard Solar Maintenance)
+[19:36:25]EMOTE: *no key*/(Kyler Zalack) : <b>Kyler Zalack</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:36:26]GAME: Radiation pulse with size (2, 5) and severity 50 in area Testing Lab 
+[19:36:26]GAME: Radiation pulse with size (2, 5) and severity 50 in area Locker Room Maintenance 
+[19:36:26]GAME: Radiation pulse with size (2, 5) and severity 50 in area Science Maintenance 
+[19:36:26]EMOTE: *no key*/(crate) : <b>The NanoMed Plus</b> growls at C.L.E.A.N..
+[19:36:28]GAME: Radiation pulse with size (2, 5) and severity 50 in area Experimentation Lab 
+[19:36:28]EMOTE: *no key*/(C.L.E.A.N.) : <b>C.L.E.A.N.</b> stops moving...
+[19:36:28]GAME: Radiation pulse with size (2, 5) and severity 50 in area Medbay Maintenance 
+[19:36:29]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:30]EMOTE: *no key*/(crate) : <b>The ShadyCigs Deluxe</b> growls at Caeser II.
+[19:36:30]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:31]GAME: Explosion with size (2, 4, 6, 0) in area Space (79,210,1)
+[19:36:32]EMOTE: *no key*/(Kobe Christman) : <b>Kobe Christman</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:36:32]EMOTE: *no key*/(crate) : <b>The Shambler's Vendor</b> growls at Nickolas Mortland.
+[19:36:33]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:34]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:34]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> stops moving...
+[19:36:34]GAME: Explosion with size (2, 4, 6, 0) in area Prison Wing (109,178,1)
+[19:36:35]SAY: Shambler's Vendor/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[19:36:35]EMOTE: *no key*/(Sasha Ann) : <b>Sasha Ann</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:36:35]EMOTE: *no key*/(Crystal Thomlinson) : <b>Crystal Thomlinson</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:36:36]GAME: Explosion with size (2, 4, 6, 0) in area Brig (114,168,1)
+[19:36:36]GAME: Explosion with size (2, 4, 6, 0) in area Brig (114,168,1)
+[19:36:36]EMOTE: *no key*/(Astor Rogers) : <b>Astor Rogers</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:36:36]EMOTE: *no key*/(voidy) : <b>The void puppy</b> stops moving...
+[19:36:36]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> stops moving...
+[19:36:36]GAME: Explosion with size (2, 4, 6, 0) in area Fore Primary Hallway (119,162,1)
+[19:36:36]GAME: SMES deleted at (AI Chamber)
+[19:36:36]GAME: Radiation pulse with size (2, 5) and severity 50 in area AI Chamber 
+[19:36:37]EMOTE: *no key*/(Karina Boyer) : <b>Karina Boyer</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:36:37]GAME: Explosion with size (2, 4, 6, 0) in area Dormitory Maintenance (122,159,1)
+[19:36:37]EMOTE: *no key*/(giant spider (208)) : <b>The giant spider (208)</b> stops moving...
+[19:36:38]GAME: Explosion with size (2, 4, 6, 0) in area Dormitories (129,152,1)
+[19:36:38]GAME: Explosion with size (2, 4, 6, 0) in area Dormitory Toilets (130,151,1)
+[19:36:38]SAY: Chad Wentzel/ : AUUUUUU
+[19:36:39]GAME: Radiation pulse with size (2, 5) and severity 50 in area Arrival Shuttle Hallway 
+[19:36:39]EMOTE: *no key*/(Johnathan Bould) : <b>Johnathan Bould</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:36:39]EMOTE: *no key*/(Makenzie Clewett) : <b>Makenzie Clewett</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:36:40]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:40]GAME: Radiation pulse with size (2, 5) and severity 50 in area Research Director's Office 
+[19:36:41]EMOTE: *no key*/(Gael Kelly) : <b>Gael Kelly</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:36:43]EMOTE: *no key*/(Darell Demuth) : <b>Darell Demuth</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:36:43]GAME: Explosion with size (0, 1, 5, 5) in area Medbay Maintenance (148,92,1)
+[19:36:43]EMOTE: *no key*/(Brooklyn Treeby) : <b>Brooklyn Treeby</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:36:44]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:44]GAME: Explosion with size (0, 1, 5, 5) in area Bar Maintenance (165,154,1)
+[19:36:44]ACCESS: Mob Login: Guest-3622605515/(Hunter Blood) was assigned to a /mob/dead/observer
+[19:36:44]EMOTE: *no key*/(Hunter Blood) : <b>Unknown</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:36:44]GAME: Explosion with size (0, 0, 2, 2) in area Labor Camp Shuttle (86,167,1)
+[19:36:46]EMOTE: *no key*/(Randa Summy) : <b>Randa Summy</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:36:47]EMOTE: *no key*/(Kathleen Hunt) : <b>Kathleen Hunt</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:36:47]GAME: Radiation pulse with size (2, 5) and severity 50 in area Locker Room 
+[19:36:48]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:48]GAME: Radiation pulse with size (2, 5) and severity 50 in area Chapel 
+[19:36:49]EMOTE: *no key*/(Tel Brandenburg) : <b>Tel Brandenburg</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:36:49]GAME: Explosion with size (0, 1, 5, 5) in area Locker Room (69,138,1)
+[19:36:49]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:49]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:50]EMOTE: *no key*/(Kaleigh Stephenson) : <b>Kaleigh Stephenson</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:36:50]GAME: Radiation pulse with size (2, 5) and severity 50 in area AI Chamber 
+[19:36:51]EMOTE: *no key*/(Cortical Borer 5405) : <b>The cortical borer</b> stops moving...
+[19:36:51]GAME: Radiation pulse with size (2, 5) and severity 50 in area Prison Wing 
+[19:36:51]GAME: Radiation pulse with size (2, 5) and severity 50 in area Electrical Maintenance 
+[19:36:51]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> stops moving...
+[19:36:51]GAME: Radiation pulse with size (2, 5) and severity 50 in area Bar Maintenance 
+[19:36:52]GAME: Explosion with size (0, 1, 5, 5) in area Bar Maintenance (154,148,1)
+[19:36:53]GAME: Radiation pulse with size (2, 5) and severity 50 in area Science Maintenance 
+[19:36:53]GAME: Radiation pulse with size (2, 5) and severity 50 in area Experimentation Lab 
+[19:36:54]GAME: Explosion with size (2, 4, 6, 0) in area Space (157,186,1)
+[19:36:54]GAME: Explosion with size (2, 4, 6, 0) in area Fore Starboard Solar Array (158,180,1)
+[19:36:54]GAME: Explosion with size (2, 4, 6, 0) in area Fore Starboard Solar Array (158,180,1)
+[19:36:55]SAY: Getmore Chocolate Corp/ : Engage direct marketing!
+[19:36:55]SAY: Kayleigh Stough/ : CAPTAINS A COMDOM!!
+[19:36:55]GAME: Radiation pulse with size (2, 5) and severity 50 in area Telecoms Control Room 
+[19:36:56]GAME: Radiation pulse with size (2, 5) and severity 50 in area Supermatter Engine 
+[19:36:57]EMOTE: *no key*/(Skyler Rockwell) : <b>Skyler Rockwell</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:36:57]GAME: Explosion with size (0, 1, 5, 5) in area Bar Maintenance (159,156,1)
+[19:36:58]GAME: Radiation pulse with size (2, 5) and severity 50 in area Bar Maintenance 
+[19:36:58]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:36:59]GAME: Radiation pulse with size (2, 5) and severity 50 in area Brig Control 
+[19:37:01]GAME: Radiation pulse with size (2, 5) and severity 50 in area Arrival Shuttle Hallway 
+[19:37:04]GAME: Explosion with size (0, 1, 5, 5) in area Locker Room Maintenance (87,134,1)
+[19:37:05]EMOTE: *no key*/(Kane Kelly) : <b>Kane Kelly</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:37:05]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:37:05]EMOTE: *no key*/(Rexana Pinney) : <b>Rexana Pinney</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:37:05]GAME: Radiation pulse with size (2, 5) and severity 50 in area Electrical Maintenance 
+[19:37:05]GAME: Explosion with size (0, 1, 5, 5) in area Engineering Maintenance (79,94,1)
+[19:37:06]GAME: Explosion with size (0, 1, 5, 5) in area Medbay Maintenance (164,111,1)
+[19:37:07]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:37:09]GAME: Emitter deleted at (102,78,1)
+[19:37:10]GAME: Radiation pulse with size (2, 5) and severity 50 in area Central Primary Hallway 
+[19:37:10]EMOTE: *no key*/(crate) : <b>The Getmore Chocolate Corp</b> growls at Levi Nicholas.
+[19:37:10]GAME: Radiation pulse with size (2, 5) and severity 50 in area Engineering Maintenance 
+[19:37:11]GAME: SMES deleted at (Incinerator)
+[19:37:11]EMOTE: *no key*/(Tate Ahmed) : <b>Tate Ahmed</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:37:11]EMOTE: *no key*/(crate) : <b>The Solar's Best Hot Drinks</b> growls at Ashlynn Taylor.
+[19:37:12]GAME: Explosion with size (2, 4, 6, 0) in area EVA Maintenance (91,154,1)
+[19:37:12]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:37:13]GAME: Explosion with size (2, 4, 6, 0) in area EVA Maintenance (107,154,1)
+[19:37:14]GAME: Explosion with size (2, 4, 6, 0) in area Chapel (184,144,1)
+[19:37:14]GAME: Explosion with size (2, 4, 6, 0) in area Chapel (184,145,1)
+[19:37:15]GAME: Radiation pulse with size (2, 5) and severity 50 in area Dormitory Maintenance 
+[19:37:16]EMOTE: *no key*/(Harper Maclagan) : <b>Harper Maclagan</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:37:16]EMOTE: *no key*/(Adrianna Brooks) : <b>Adrianna Brooks</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:37:16]GAME: Explosion with size (2, 4, 6, 0) in area Fitness Room (133,154,1)
+[19:37:17]EMOTE: *no key*/(Adam Ewing) : <b>Adam Ewing</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:37:17]EMOTE: *no key*/(Easton Rhinehart) : <b>Easton Rhinehart</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:37:17]EMOTE: *no key*/(Desiree Harshman) : <b>Desiree Harshman</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:37:18]EMOTE: *no key*/(Rocco Gregory) : <b>Rocco Gregory</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:37:18]EMOTE: *no key*/(Larry Johnson) : <b>Larry Johnson</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:37:18]EMOTE: *no key*/(Addyson Jesse) : <b>Addyson Jesse</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:37:18]EMOTE: *no key*/(Theodore Straub) : <b>Theodore Straub</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:37:18]GAME: Explosion with size (0, 1, 5, 5) in area Robotics Lab (170,118,1)
+[19:37:18]EMOTE: *no key*/(Crush King) : <b>Crush King</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:37:19]ADMIN: Guest-3622605515/(Hunter Blood) has possessed the wizard of yendor showcase (/obj/structure/showcase) at (29, 87, 2)
+[19:37:20]EMOTE: *no key*/(Derek Petrov) : <b>Derek Petrov</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:37:20]GAME: Radiation pulse with size (2, 5) and severity 50 in area Experimentation Lab 
+[19:37:21]GAME: *no key*/(Amy Hardie) bumped into *no key*/(Claudia Howe) and set them on fire
+[19:37:21]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:37:22]GAME: Explosion with size (0, 1, 5, 5) in area Mining Dock (83,104,1)
+[19:37:22]EMOTE: *no key*/(Emanuel Price) : <b>Emanuel Price</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:37:24]GAME: *no key*/(Amy Hardie) bumped into *no key*/(Caroline Bennett) and set them on fire
+[19:37:24]GAME: Radiation pulse with size (2, 5) and severity 50 in area Brig 
+[19:37:24]EMOTE: *no key*/(Kyra Ratcliff) : <b>Kyra Ratcliff</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:37:25]GAME: Radiation pulse with size (2, 5) and severity 50 in area Bar Maintenance 
+[19:37:25]GAME: Explosion with size (0, 1, 5, 5) in area Auxiliary Tool Storage (94,135,1)
+[19:37:25]GAME: Radiation pulse with size (2, 5) and severity 50 in area Quartermaster's Office 
+[19:37:26]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+[19:37:26]GAME: Radiation pulse with size (2, 5) and severity 50 in area Garden 
+[19:37:28]ADMIN: Guest-3622605515/(wizard of yendor showcase) has possessed the wizard of yendor showcase (/obj/structure/showcase) at (27, 87, 2)
+[19:37:29]EMOTE: *no key*/(Shaun Garland) : <b>Shaun Garland</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:37:29]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[19:37:29]GAME: Radiation pulse with size (2, 5) and severity 50 in area Quartermaster's Office 
+[19:37:32]ADMIN: Guest-3622605515/(wizard of yendor showcase) deleted Cockpit at (27,86,2)
+[19:37:32]EMOTE: *no key*/(Pete) : <b>Pete</b> stops moving...
+[19:37:32]GAME: Radiation pulse with size (2, 5) and severity 50 in area Kitchen 
+[19:37:33]SAY: Space Cola Vendor/ : Engage direct marketing!
+[19:37:33]SAY: Solar's Best Hot Drinks/ : Engage direct marketing!
+[19:37:34]EMOTE: *no key*/(crate) : <b>The ShadyCigs Deluxe</b> growls at the giant spider (288).
+[19:37:34]EMOTE: *no key*/(Sean Saylor) : <b>Sean Saylor</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:37:34]EMOTE: *no key*/(Nan Kemerer) : <b>Nan Kemerer</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:37:35]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> stops moving...
+[19:37:36]GAME: Explosion with size (0, 1, 5, 5) in area Locker Room (76,138,1)
+[19:37:36]GAME: Explosion with size (0, 1, 5, 5) in area Locker Room (77,137,1)
+[19:37:36]EMOTE: *no key*/(corgi) : <b>The corgi puppy</b> stops moving...
+[19:37:37]ADMIN: Guest-3622605515/(wizard of yendor showcase) deleted Break Room at (27,80,2)
+[19:37:38]SAY: Solar's Best Hot Drinks/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[19:37:39]EMOTE: *no key*/(Marlyn Seelig) : <b>Marlyn Seelig</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:37:39]EMOTE: *no key*/(giant spider (307)) : <b>The giant spider (307)</b> chitters
+[19:37:39]EMOTE: *no key*/(Cooper Jones) : <b>Cooper Jones</b> seizes up and falls limp, his eyes dead and lifeless...
+[19:37:41]SAY: Shambler's Vendor/ : Try our aggressive new marketing strategies!
+[19:37:42]SAY: Getmore Chocolate Corp/ : Consume!
+[19:37:43]GAME: *no key*/(Darius Foster) bumped into *no key*/(Claudia Howe) and set them on fire
+[19:37:45]SAY: Solar's Best Hot Drinks/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[19:37:45]SAY: NanoMed/ : Consume!
+[19:37:45]EMOTE: *no key*/(Lucia Ashbaugh) : <b>Lucia Ashbaugh</b> seizes up and falls limp, her eyes dead and lifeless...
+[19:37:47]ADMIN: Guest-3622605515/(wizard of yendor showcase) deleted the ritual knife at (27,77,2)
+[19:37:48]EMOTE: *no key*/(crate) : <b>The Solar's Best Hot Drinks</b> growls at Nicole Kuznetsov.
+[19:37:48]SAY: NanoMed Plus/ : Consume!
+[19:37:51]EMOTE: *no key*/(crate) : <b>The Vendomat</b> growls at the mouse.
+[19:37:51]ADMIN: Guest-3622605515/(wizard of yendor showcase) deleted the altar at (27,77,2)
+[19:37:51]EMOTE: *no key*/(giant spider (288)) : <b>The giant spider (288)</b> stops moving...
+[19:37:52]SAY: Medibot/ : There&#39;s always a catch, and I&#39;m the best there is.
+[19:37:55]EMOTE: *no key*/(grey baby slime (838)) : <b>The grey baby slime (838)</b> lights up for a bit, then stops.
+[19:37:59]EMOTE: *no key*/(Leo Johnson) : <b>Leo Johnson</b> gasps!
